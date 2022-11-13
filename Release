@@ -1,0 +1,25 @@
+Architectures: iphoneos-arm
+Codename: ios
+Components: main
+Date: Sun, 13 Nov 2022 22:40:37 +0000
+Description: personal tweak repository
+Label: jjolano
+Origin: jjolano
+Suite: stable
+Version: 2.0
+MD5Sum:
+ bf2005d4d0b29e25e02ecbdb28c6f39b             1092 Packages
+ 57c78fcc60e0a7c7680d54301b5fc406              656 Packages.xz
+ 2c0c037047afc278c01cca4ac1b218c8              194 Release
+SHA1:
+ 4c14bb3caa219ebabaca0c7d1f5c0dab46254551             1092 Packages
+ 2aa1642ce8819e80017060633b6a186957fe182d              656 Packages.xz
+ 48b3564edee0267c5ea85835313a4b1602c30b56              194 Release
+SHA256:
+ cbc5f5c075e0d403cfd080550a1b083eaef5b528850536f4ec3c3644255370b4             1092 Packages
+ 8cbf7ce12770e182adf2b0c0d47e29e657b9e1891d00a12f8da97cfe33fdbd49              656 Packages.xz
+ 0ef12ccbcd5a6e27c9e97c5fa57b2882188a2b11825c598ecbee0d47204591a1              194 Release
+SHA512:
+ 1a5d730bf0701d6a73b36f6ad08960d0ba9772e8a7849a1df7e9f12f7c08d887c18dd51d7ec9a555a1db7e907265d223d783d79e92c454becf996ea63b7d7daf             1092 Packages
+ 063f3dce770a98b45cecb4c95f3448a0bdedf9e5233ef2b8d95cbe4ddd2cbe298a92a55a023ea04fa3d2f63677dab3dd87a0561412533f55265681c0a21d545e              656 Packages.xz
+ e8d1914b5105e131e7c838c06e5d73e29ece21b0f967dc3db581dd450d9fd2c204baf1970c9d82b82fec28a13b51f995903d29ad289735f8461b8d4d01cc4ee4              194 Release
