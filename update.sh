@@ -11,3 +11,6 @@ apt-ftparchive\
  -o APT::FTPArchive::Release::Components="main"\
  -o APT::FTPArchive::Release::Description="personal tweak repository"\
  release . > Release
+git add .
+git commit -m "update repo"
+git push
