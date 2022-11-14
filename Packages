@@ -15,17 +15,17 @@ Author: jjolano
 Name: Shadow
 
 Package: me.jjolano.shadow
-Version: 3.0-0.rc6
+Version: 3.0-1
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 756
 Depends: firmware (>= 7.0), mobilesubstrate, dpkg, com.opa334.altlist, ws.hbang.common
 Recommends: com.rpetrich.rocketbootstrap
-Filename: ./me.jjolano.shadow_3.0-0.rc6_iphoneos-arm.deb
-Size: 110104
-MD5sum: 0e703a8ac7c08e71ce77fbce62756a8d
-SHA1: cecb7bbaea8188f58edc922dbc21d0f7dcea1889
-SHA256: eebe8853aa9bd1ebcdc8cd9db3f87a15c9bbcb34a7e5f1675efe8c27b633ddb3
+Filename: ./me.jjolano.shadow_3.0-1_iphoneos-arm.deb
+Size: 109396
+MD5sum: 5862a53b3bf72bce595c923b64a14481
+SHA1: a79075cd9e70034aae6d680e4983616be3a42761
+SHA256: a57c0ac6c85d2817cfa057ba639a9448b6260ef39e3485ef44cc35fb8fa9b82b
 Section: System
 Description: A modern jailbreak detection bypass for jailbroken iOS.
 Author: jjolano
