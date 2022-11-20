@@ -1,25 +1,25 @@
 Architectures: iphoneos-arm
 Codename: ios
 Components: main
-Date: Thu, 17 Nov 2022 05:48:42 +0000
+Date: Sun, 20 Nov 2022 17:31:43 +0000
 Description: personal tweak repository
 Label: jjolano
 Origin: jjolano
 Suite: stable
 Version: 2.0
 MD5Sum:
- 263fca5f3a09df18299468447a3727c2             1084 Packages
- c391b8e48da9e3c73fa13f6876673328              648 Packages.xz
- b83a2522e84817b12010a4c5cdd174fe              194 Release
+ 77e7367ef4a43acb78ca17eef23a22d5             1666 Packages
+ 90ba951ca4cc3e58ea1e8a39edfb4ad4              752 Packages.xz
+ 3491517bdaddaea9db383882f2d3dc5a              194 Release
 SHA1:
- 9831a8aae28bff11175af6c1a489e26494e7070f             1084 Packages
- ef7b00cb6e9e7d9ef149f7d4e544218f51089c9a              648 Packages.xz
- 88867c502818caee0234841da09717fc129000aa              194 Release
+ 5c8e9a4cffb2c367f6db7c13dc192067e931e368             1666 Packages
+ 7fc1e3e74be38415e9a82b8ceabbea77f82700a3              752 Packages.xz
+ 20b27794cb5a7bb7d2c29f82ff0ba1a81acfdc40              194 Release
 SHA256:
- 86f01dda73a899375bdb330832a3a687c81d8b6b50a06fc25f00eb316f8176fc             1084 Packages
- 366b87adedf256a2e4dc00d393adb00c23c9b6d4cb76caffc23d413e0888ace8              648 Packages.xz
- 5f3222b3bb9a743e94fa82d5440db6921244e8cc85c1640c3cebc3665e4f972c              194 Release
+ 2e834105f48c2257914cbf9ae130297a46da2f044fb83ab5423df859e080aed7             1666 Packages
+ c73d384b1c51b9f56c3ce6da87bf088462eaaf5f3d0fe3d316bb4be0b8f6d63c              752 Packages.xz
+ 8c988bb6f5b4b7c11491c811cdcc07ceceeb2a133d2134ea62bbb702723a0df8              194 Release
 SHA512:
- 46d92e69e51d3e514cacb264bf9742c5b977899220a0b4e66f011d4aac730e809ac1e485f032c4eae8e0ab4152039d41f50175a93d58999b579bf4b957d4aaee             1084 Packages
- 0421b5f005b4d5357a75dd93d624480e27eb45a7458cde2bf11c17132bde83d4e4bff9afdade2ea8f2f22b2a73a06eedd80452a4ea229bccc4e1f4d331618455              648 Packages.xz
- 282ab389e21d00117af6b1a35546a29835c601499e047fffcf102860945e797055877441b33c228f5873a416e88c0c0faf6b588af76fb9eee4c346f59b003b6a              194 Release
+ efe99a9d03a3640beaf8d2920ed56a5d05178066a0e6b7d41133b1febeca8a1584e2f8fe86561433c84ca36ee4f6b3e7b1a47ca44909bb7f00e77595b6bd5218             1666 Packages
+ 87d7a4ff80c99668e85da40ac4d98156bb9cf8d1ed96a96bfd62429243c6690cedfb12730ef56316d917b490f2371c32b372f9f4d414e5da4b0e2f19b3027d6a              752 Packages.xz
+ 83b2d1612e49a1827b1731089d2ef3dacacabf176f4f628ca648e68340c4e3081aa02e9e65c0bde6392f0d48237a025bc3031d36fbbd3084ed5371bcaa22f2ff              194 Release
