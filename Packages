@@ -95,3 +95,19 @@ Description: A modern jailbreak detection bypass for jailbroken iOS.
 Author: jjolano
 Name: Shadow
 
+Package: me.jjolano.shadow
+Version: 3.3.5
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 952
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, dpkg, com.opa334.altlist, com.opa334.libsandy, firmware (>= 11.0) | ws.hbang.common
+Filename: ./me.jjolano.shadow_3.3.5_iphoneos-arm.deb
+Size: 145098
+MD5sum: 9015f7113b78acd8f0eaeee3e8bf7eef
+SHA1: f086efd4150bb6b718f6de9c57f7ff4ce1689f77
+SHA256: c0718800298cefc0f9d38a1e770f44c729044aa7e5fe50198b83afd239819b55
+Section: System
+Description: A modern jailbreak detection bypass for jailbroken iOS.
+Author: jjolano
+Name: Shadow
+
