@@ -1,13 +1,13 @@
 Package: me.jjolano.fmwk.hookkit
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 180
-Filename: ./me.jjolano.fmwk.hookkit_0.0.2_iphoneos-arm.deb
-Size: 19318
-MD5sum: 41bf737e0312d4e7806549ed31333eb3
-SHA1: 9d13f7ecf212e03fadc3bbaec344ab0986208737
-SHA256: d760aae78760a1dd5040abcde69bec88c2b015c4b69e9e3efb7568229dd78d39
+Filename: ./me.jjolano.fmwk.hookkit_0.0.3_iphoneos-arm.deb
+Size: 19234
+MD5sum: 00deeec4883a70fb3ab4f7a446b82420
+SHA1: 535098bac7f142ef791ee607d0e2d5767518adfd
+SHA256: 54974ba35efd36c1ba5d7db72eb0992c2e337644f44c3dc7582115ef522070f4
 Section: System
 Description: An iOS tweak developer framework to unify code substitution APIs in runtime.
 Tag: role::developer
