@@ -15,6 +15,22 @@ Author: jjolano
 Name: HookKit Framework
 
 Package: me.jjolano.fmwk.hookkit
+Version: 0.0.11
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 324
+Filename: ./me.jjolano.fmwk.hookkit_0.0.11_iphoneos-arm.deb
+Size: 47740
+MD5sum: 8cc559653c23ddecc1975a0ce2e9be53
+SHA1: f69c78cb0a5e00fffe7dd20798352a471b64e99c
+SHA256: faa26f0ee867cb722680abb4474d3a4edd91f0d4546146a5b68c06f9430151e0
+Section: System
+Description: An iOS tweak developer framework to unify code substitution APIs in runtime.
+Tag: role::developer
+Author: jjolano
+Name: HookKit Framework
+
+Package: me.jjolano.fmwk.hookkit
 Version: 0.0.7
 Architecture: iphoneos-arm
 Maintainer: jjolano
