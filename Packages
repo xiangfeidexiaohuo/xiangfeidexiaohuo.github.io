@@ -1,14 +1,14 @@
 Package: me.jjolano.fmwk.hookkit
-Version: 0.1.3
+Version: 0.1.4
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 340
 Depends: firmware (>= 5.0)
-Filename: ./me.jjolano.fmwk.hookkit_0.1.3_iphoneos-arm.deb
-Size: 52336
-MD5sum: 346bbc278f9bc39b0ac9091b2acf5453
-SHA1: 346fcbaff7473d9f8e0afa206cdc289745edd753
-SHA256: ba29a018ae673c30c21bc47e12efa70b399d3fc3dd491623601c0219f61aac87
+Filename: ./me.jjolano.fmwk.hookkit_0.1.4_iphoneos-arm.deb
+Size: 52238
+MD5sum: 2f25d3ed00d655986adf030c957057d9
+SHA1: 5a3074ee881f79c2ba20ce53f3dc942256757c78
+SHA256: 7469deae79b6a9290aaa4cc57cedf0cce8baa12ca89b5910869199406893783b
 Section: System
 Description: An iOS tweak developer framework to unify code substitution APIs in runtime. Developer package - source is available on my GitHub.
 Tag: role::developer
@@ -48,7 +48,7 @@ Author: jjolano
 Name: Shadow
 
 Package: me.jjolano.shadow
-Version: 3.5.4-1
+Version: 3.5.4-2
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 1244
@@ -57,11 +57,11 @@ Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow.beta
 Replaces: me.jjolano.shadow.beta
 Provides: me.jjolano.shadow.beta
-Filename: ./me.jjolano.shadow_3.5.4-1_iphoneos-arm.deb
-Size: 171238
-MD5sum: e93e80bf0e61a7849c64c8c3cbb2d974
-SHA1: dd4803aca6f46c8506de0a98d14f06c6c8ecbad9
-SHA256: e0d6cd82b523e9fa0980687b6eea4443abad7968783259bc0077792922008350
+Filename: ./me.jjolano.shadow_3.5.4-2_iphoneos-arm.deb
+Size: 171234
+MD5sum: 5187e0d7375632517ab9218afd85c44b
+SHA1: 1f1569998d29e770e26d1dc679f080033242f093
+SHA256: 90e3c72061b1f22d2709a72cd596889d89d322044ebe3043383b131d1b185653
 Section: System
 Description: A modern jailbreak detection bypass for jailbroken iOS.
 Author: jjolano
