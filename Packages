@@ -1,64 +1,14 @@
 Package: me.jjolano.fmwk.hookkit
-Version: 0.0.11
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 324
-Filename: ./me.jjolano.fmwk.hookkit_0.0.11_iphoneos-arm.deb
-Size: 47766
-MD5sum: bf440efe351b47d9ebc554c2f9fa30e3
-SHA1: 7fa9be4384e11371b9c0b7399e9ebb1100ca1782
-SHA256: 1f158992e07e00d825d277c48d5261bde8dfa0c28f43d8cfdb7d04de75011e8a
-Section: System
-Description: An iOS tweak developer framework to unify code substitution APIs in runtime.
-Tag: role::developer
-Author: jjolano
-Name: HookKit Framework
-
-Package: me.jjolano.fmwk.hookkit
-Version: 0.0.12
+Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 340
 Depends: firmware (>= 5.0)
-Filename: ./me.jjolano.fmwk.hookkit_0.0.12_iphoneos-arm.deb
-Size: 53612
-MD5sum: 8fc38854287838da35e773e0a96a4540
-SHA1: 2c3d676815bcc83d6f564831ea465b70a722212e
-SHA256: 949944bb02ee50f2359be01e4b14973b6aeb0c9db04d21f5e17bde525ac9de27
-Section: System
-Description: An iOS tweak developer framework to unify code substitution APIs in runtime. Developer package - source is available on my GitHub.
-Tag: role::developer
-Author: jjolano
-Name: HookKit Framework
-
-Package: me.jjolano.fmwk.hookkit
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 340
-Depends: firmware (>= 5.0)
-Filename: ./me.jjolano.fmwk.hookkit_0.1_iphoneos-arm.deb
-Size: 53686
-MD5sum: 5489c3ea8eb084d13e3bf47bab2cccc9
-SHA1: 3c69683fa2d789da9cda57da00a4cbbecbbc1619
-SHA256: a9cffbd759b78e5409a508d01e49aa647c70c176d60da3ac0c06fa25ae3180e0
-Section: System
-Description: An iOS tweak developer framework to unify code substitution APIs in runtime. Developer package - source is available on my GitHub.
-Tag: role::developer
-Author: jjolano
-Name: HookKit Framework
-
-Package: me.jjolano.fmwk.hookkit
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 340
-Depends: firmware (>= 5.0)
-Filename: ./me.jjolano.fmwk.hookkit_0.1.1_iphoneos-arm.deb
-Size: 52098
-MD5sum: d20d5aceaf8d8be8cfd10dedb77f7ad4
-SHA1: e4f1e5507c9d2f5d13b415dc8c0e36ddb62de1c7
-SHA256: f4b2d7472c6a2ea028744287e4963f4cab8b5260d38c95fd5acd308373294650
+Filename: ./me.jjolano.fmwk.hookkit_0.1.2_iphoneos-arm.deb
+Size: 52048
+MD5sum: 6d5fe90855ade852955f1a2016e30592
+SHA1: 7b0ee06b17b8d9beec48a10c4ba2cceb45fbd4fc
+SHA256: ad9c94b1422e7ece12aaf564cd71fe914b71e7063370d4d9b7c35805acad58d5
 Section: System
 Description: An iOS tweak developer framework to unify code substitution APIs in runtime. Developer package - source is available on my GitHub.
 Tag: role::developer
@@ -92,26 +42,6 @@ Size: 166596
 MD5sum: 42a47a2b90a27f37a88f1bee2e77b80e
 SHA1: 72b82413f0e7bf33a81481d9e61626e045c394c3
 SHA256: cc9bea35900d6a31427b3dc8ca18e8f1b30edc7ed508bc97b01e76fb20fbc48a
-Section: System
-Description: A modern jailbreak detection bypass for jailbroken iOS.
-Author: jjolano
-Name: Shadow
-
-Package: me.jjolano.shadow
-Version: 3.5.2
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 1208
-Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.0.5)
-Suggests: com.ps.injectionfoundation
-Conflicts: me.jjolano.shadow.beta
-Replaces: me.jjolano.shadow.beta
-Provides: me.jjolano.shadow.beta
-Filename: ./me.jjolano.shadow_3.5.2_iphoneos-arm.deb
-Size: 167672
-MD5sum: e525d2b92cdc44894e49a886f0c1853c
-SHA1: 5c7d1fdb9e120b3d53d051a388b096a52f68d142
-SHA256: 90a5e4140a5611ef33469078f6f1db39600ce5c8bc282eb07390289c9d66d724
 Section: System
 Description: A modern jailbreak detection bypass for jailbroken iOS.
 Author: jjolano
