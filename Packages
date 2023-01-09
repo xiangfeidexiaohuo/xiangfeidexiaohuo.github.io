@@ -1,31 +1,14 @@
 Package: me.jjolano.fmwk.hookkit
-Version: 0.1.5
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 340
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./me.jjolano.fmwk.hookkit_0.1.5_iphoneos-arm.deb
-Size: 52374
-MD5sum: 44ef60e520a3f0f590599f9cbdf6ab72
-SHA1: 35712e1607c0ee58f2f2970126a9f1a9e46b8c9f
-SHA256: bc31c7be3060e635b53212fef295b7e270f89d1cdb7292a89f5bb5b4f3f10a39
-Section: System
-Description: An iOS tweak developer framework to unify code substitution APIs in runtime. Developer package - source is available on my GitHub.
-Tag: role::developer
-Author: jjolano
-Name: HookKit Framework
-
-Package: me.jjolano.fmwk.hookkit
-Version: 0.1.6
+Version: 0.1.7
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 372
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./me.jjolano.fmwk.hookkit_0.1.6_iphoneos-arm.deb
-Size: 53964
-MD5sum: a6036ad536491490242a2b948a4e05a8
-SHA1: 15e0548565d2bb481c9c8a764e6cd7feeaa28c49
-SHA256: d8ef3b1d7433ee4262d9c017e24078d4b8d0ae402679b05bdc1b070151b45c51
+Filename: ./me.jjolano.fmwk.hookkit_0.1.7_iphoneos-arm.deb
+Size: 53828
+MD5sum: 1c4864cbf8512ed15f3ebbf0ef354649
+SHA1: 3cd62cc9e6bcea387ca4d8d66b18ac6ade52ef57
+SHA256: e726555c23ca67ca8ae1d22326015dbf9756e8e0b1a2417cbbe1a2570f1caf42
 Section: System
 Description: An iOS tweak developer framework to unify code substitution APIs in runtime. Developer package - source is available on my GitHub.
 Tag: role::developer
@@ -99,6 +82,26 @@ Size: 170902
 MD5sum: 32ac00bc9ede3c9f0c9c2689ba422b55
 SHA1: 53a7acac31370a275c47fb95a935bdde358792e0
 SHA256: 58fc9b578a8801503bf34b7a9c287df0b51f6ce1d12dc4c789be0e8fffb4f470
+Section: System
+Description: A modern jailbreak detection bypass for jailbroken iOS.
+Author: jjolano
+Name: Shadow
+
+Package: me.jjolano.shadow
+Version: 3.5.6
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 1244
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta
+Replaces: me.jjolano.shadow.beta
+Provides: me.jjolano.shadow.beta
+Filename: ./me.jjolano.shadow_3.5.6_iphoneos-arm.deb
+Size: 171254
+MD5sum: b102dd9cc5f4ef18a1c36b661800b417
+SHA1: 39699adb8b268ec7feec172b1abfa177bf25d7c3
+SHA256: 186cb1a1bd379a1218924dc92a4a0b10a6a5d383bf277a3ebe406938e19f0da5
 Section: System
 Description: A modern jailbreak detection bypass for jailbroken iOS.
 Author: jjolano
