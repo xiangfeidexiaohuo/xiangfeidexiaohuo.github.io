@@ -33,22 +33,6 @@ Author: jjolano
 Name: HookKit Framework
 
 Package: me.jjolano.shadow
-Version: 2.0.22
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 928
-Depends: mobilesubstrate, ws.hbang.common, applist, preferenceloader
-Filename: ./me.jjolano.shadow_2.0.22_iphoneos-arm.deb
-Size: 112404
-MD5sum: 44332ec5a26ff68310ce2b9803b1acc5
-SHA1: 2a0f2ea18807bce372241a7bdc5e2fabcae8f3c0
-SHA256: 7be2509aeb8269467b586a96fd9f9c722a984cfa1e65752cfd401bb801722029
-Section: Tweaks
-Description: A lightweight general jailbreak detection bypass.
-Author: jjolano
-Name: Shadow
-
-Package: me.jjolano.shadow
 Version: 3.4.1
 Architecture: iphoneos-arm
 Maintainer: jjolano
@@ -123,6 +107,26 @@ Section: System
 Description: A modern jailbreak detection bypass for jailbroken iOS.
 Author: jjolano
 Name: Shadow (beta)
+
+Package: me.jjolano.shadow.legacy
+Version: 2.0.23
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 928
+Depends: firmware (>= 8.0), firmware (<< 15.0), mobilesubstrate, ws.hbang.common, applist
+Recommends: preferenceloader
+Conflicts: me.jjolano.shadow
+Replaces: me.jjolano.shadow
+Provides: me.jjolano.shadow
+Filename: ./me.jjolano.shadow.legacy_2.0.23_iphoneos-arm.deb
+Size: 112312
+MD5sum: dda219a61465ab759c8cc605d936beb4
+SHA1: b900fcb95a9209877ccea0b8ad136ebe4a69a27a
+SHA256: e66e581165902ffb37d36399db59057b8afa678c5482337ef10d48b6c0fc494e
+Section: System
+Description: Legacy version of Shadow v2 for fallback/historical purposes. Compatible with iOS 8 - 14. No support will be given for this package.
+Author: jjolano
+Name: Shadow (legacy)
 
 Package: me.jjolano.sileorespring
 Version: 0-1
