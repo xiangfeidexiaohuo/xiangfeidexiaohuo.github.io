@@ -89,7 +89,7 @@ Author: jjolano
 Name: Shadow
 
 Package: me.jjolano.shadow
-Version: 3.6.5
+Version: 3.6.6
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 1364
@@ -99,18 +99,18 @@ Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow.beta
 Replaces: me.jjolano.shadow.beta
 Provides: me.jjolano.shadow.beta
-Filename: ./me.jjolano.shadow_3.6.5_iphoneos-arm.deb
-Size: 148810
-MD5sum: bd9d6dfa9c36b3045eb2b7f4bf1faab9
-SHA1: 72bff891ba1dc75d0af55f71993d1ef3d59c6016
-SHA256: 55a780ae3878114f0d777e3d9d4d0a9f6dc8db7dd8415aca72ba1c2120a58d2b
+Filename: ./me.jjolano.shadow_3.6.6_iphoneos-arm.deb
+Size: 148760
+MD5sum: f2ac1f05d82dbe3c058362a593bf0361
+SHA1: 2ad80add0a66fd8259b4a81b634cb8cce53f3d80
+SHA256: 1215fe8e862285c61ef001eb5e5e903ca26ba67f12de4c5d26083fe442de6a24
 Section: System
 Description: A modern jailbreak detection bypass for jailbroken iOS.
 Author: jjolano
 Name: Shadow
 
 Package: me.jjolano.shadow.beta
-Version: 3.6.5-8+debug
+Version: 3.6.6-3+debug
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 1984
@@ -120,15 +120,15 @@ Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow
 Replaces: me.jjolano.shadow
 Provides: me.jjolano.shadow
-Filename: ./me.jjolano.shadow.beta_3.6.5-8+debug_iphoneos-arm.deb
-Size: 1902502
-MD5sum: 0d99568e5ec588de654dfbb4a318af01
-SHA1: d3084c8b2a0ee03ab003da25f136ed021e28b194
-SHA256: 3f5ca0db2d018a0dd39cf910feaa2ed20487c8ca14b4718b9b9a5b4280f1b7c2
+Filename: ./me.jjolano.shadow.beta_3.6.6-3+debug_iphoneos-arm.deb
+Size: 1903484
+MD5sum: af233c469a1fe3a3ad5205c9b78d8ece
+SHA1: d2b49e1cd0fde5450ab68b9c664f820d563946a6
+SHA256: 0c8b178284a356d63e5242e12b358a37b8951d1ed3bb365628ac0dcbe37d9c4a
 Section: System
-Description: A modern jailbreak detection bypass for jailbroken iOS. This possibly unstable version has debug logging enabled, and will be updated more frequently.
+Description: A modern jailbreak detection bypass for jailbroken iOS.
 Author: jjolano
-Name: Shadow (beta)
+Name: Shadow
 
 Package: me.jjolano.shadow.legacy
 Version: 2.0.23
