@@ -32,6 +32,40 @@ Tag: role::developer
 Author: jjolano
 Name: HookKit Framework
 
+Package: me.jjolano.fmwk.hookkit
+Version: 0.2.5
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Installed-Size: 400
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./me.jjolano.fmwk.hookkit_0.2.5_iphoneos-arm64.deb
+Size: 53308
+MD5sum: dd49e882c2ee7b74e34e85cc3ceb98de
+SHA1: 05824274c52cb7bb8df91ca559dfe8696264d70d
+SHA256: 2d33a84c0a1774a6e4adcdd955a632a70b930193f448cf118c4126ca7d91a776
+Section: Development
+Description: An iOS tweak developer framework to unify code substitution APIs in runtime. This is a developer package.
+Tag: role::developer
+Author: jjolano
+Name: HookKit Framework
+
+Package: me.jjolano.fmwk.hookkit
+Version: 0.2.5
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 392
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./me.jjolano.fmwk.hookkit_0.2.5_iphoneos-arm.deb
+Size: 53308
+MD5sum: cd7007d63971bf07560d7246b7a1b5d5
+SHA1: 63b1cf1eb8419aa15132c2e5d6ff73e7879b52c6
+SHA256: 9d68119e424155787ebc04f2e01d60d11cc7f51be34435f61684d1ebcdbd6b9b
+Section: Development
+Description: An iOS tweak developer framework to unify code substitution APIs in runtime. This is a developer package.
+Tag: role::developer
+Author: jjolano
+Name: HookKit Framework
+
 Package: me.jjolano.shadow
 Version: 3.4.1
 Architecture: iphoneos-arm
