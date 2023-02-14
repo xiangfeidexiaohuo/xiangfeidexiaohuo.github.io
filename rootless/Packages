@@ -57,3 +57,24 @@ Description: A modern jailbreak detection bypass for jailbroken iOS. Beta versio
 Author: jjolano
 Name: Shadow (beta)
 
+Package: me.jjolano.shadow.beta
+Version: 3.6.7-1+debug
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Installed-Size: 1992
+Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
+Recommends: preferenceloader
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow
+Replaces: me.jjolano.shadow
+Provides: me.jjolano.shadow
+Filename: ./me.jjolano.shadow.beta_3.6.7-1+debug_iphoneos-arm64.deb
+Size: 1904032
+MD5sum: 98cab9c42144d7d3c31de651af7d43c4
+SHA1: f8287161072facabf188eed03453c5db966b3a23
+SHA256: 53ac71068e08d075455e2e5ea9b8620e7fe7cae71031c75a6c98be4324b3762d
+Section: System
+Description: A modern jailbreak detection bypass for jailbroken iOS. Beta version - frequent updates, less stable.
+Author: jjolano
+Name: Shadow (beta)
+
