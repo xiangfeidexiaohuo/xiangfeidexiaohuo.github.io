@@ -113,6 +113,27 @@ Description: A modern jailbreak detection bypass for jailbroken iOS.
 Author: jjolano
 Name: Shadow
 
+Package: me.jjolano.shadow
+Version: 3.6.8
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 1400
+Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
+Recommends: preferenceloader
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta
+Replaces: me.jjolano.shadow.beta
+Provides: me.jjolano.shadow.beta
+Filename: root/me.jjolano.shadow_3.6.8_iphoneos-arm.deb
+Size: 153554
+MD5sum: af2db3fc1dace4a7eb5ccb88791c07f1
+SHA1: e85feb5c3a1819321eecb9b044bd2b12da974a83
+SHA256: 19f34d3f8497ca5cb9745045233ac3fac67f5959e29dd9a24af6a2488dbdc8ef
+Section: System
+Description: A modern jailbreak detection bypass for jailbroken iOS.
+Author: jjolano
+Name: Shadow
+
 Package: me.jjolano.shadow.beta
 Version: 3.6.6-4+debug
 Architecture: iphoneos-arm
@@ -255,6 +276,27 @@ Size: 1959842
 MD5sum: 5863c12631f619198da769adb4789399
 SHA1: 143c1db84bac34fc6ea70129f24ade4214d1caed
 SHA256: 461d070cb3b72435b9b7dfc1aaafdac4b5dee8b6c1634b1c18d73a2242870c2d
+Section: System
+Description: A modern jailbreak detection bypass for jailbroken iOS. Beta version - frequent updates, less stable.
+Author: jjolano
+Name: Shadow (beta)
+
+Package: me.jjolano.shadow.beta
+Version: 3.6.8-6+debug
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 2064
+Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
+Recommends: preferenceloader
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow
+Replaces: me.jjolano.shadow
+Provides: me.jjolano.shadow
+Filename: root/me.jjolano.shadow.beta_3.6.8-6+debug_iphoneos-arm.deb
+Size: 1979294
+MD5sum: aa81924db663a4c7f90a47c62882f11c
+SHA1: cbe48079b7d0a40a6e60086c2386a231f6cf6bba
+SHA256: 6bf322cea1d8ac801445f3c3a67b68385a0f46feaf472c68f29192a11f52d7ef
 Section: System
 Description: A modern jailbreak detection bypass for jailbroken iOS. Beta version - frequent updates, less stable.
 Author: jjolano
