@@ -15,6 +15,22 @@ Tag: role::developer
 Author: jjolano
 Name: HookKit Framework
 
+Package: me.jjolano.fmwk.modulous
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 216
+Filename: root/me.jjolano.fmwk.modulous_1.0.0_iphoneos-arm.deb
+Size: 9764
+MD5sum: edada821edc353947aad36e9f30b36f5
+SHA1: 9cd30236626f969402e61ce9d147f924ac0d01dc
+SHA256: cbaebcd13ea752cdf10151243d971bf8a96b2d3bfb332b14966abb5de9a130a0
+Section: Development
+Description: An iOS developer framework for modular software.
+Tag: role::developer
+Author: jjolano
+Name: Modulous Framework
+
 Package: me.jjolano.shadow
 Version: 3.4.1
 Architecture: iphoneos-arm
