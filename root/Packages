@@ -32,96 +32,94 @@ Author: jjolano
 Name: Modulous Framework
 
 Package: me.jjolano.hkmodule.dobby
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 200
-Depends: me.jjolano.fmwk.hookkit (>= 1.0.0), me.jjolano.fmwk.hookkit (<< 2.0.0)
-Filename: root/me.jjolano.hkmodule.dobby_1.0.1_iphoneos-arm.deb
-Size: 29552
-MD5sum: 0114e20e0833cdcae88e75877f89b160
-SHA1: 19d02b6cd443370cde557e3a5c7d7600e8957217
-SHA256: e709cf13b1b294b0de3ea6baf0cfe540a93bb5ce4b305f64fb73866e8817d24a
+Filename: root/me.jjolano.hkmodule.dobby_1.0.2_iphoneos-arm.deb
+Size: 29524
+MD5sum: 4002fe32bb052624d4321df072a98aa0
+SHA1: 62486124af51494dfab78835f2e2e5e8c85194dc
+SHA256: de756ef9fffce83ebc7f5c7be451d42b7df99471c7fa9553b42d72c7e00764d6
 Section: HookKit (Modules)
 Description: This module provides Dobby library support for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (Dobby)
 
 Package: me.jjolano.hkmodule.ellekit
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 124
-Depends: me.jjolano.fmwk.hookkit (>= 1.0.0), me.jjolano.fmwk.hookkit (<< 2.0.0), ellekit
-Filename: root/me.jjolano.hkmodule.ellekit_1.0.1_iphoneos-arm.deb
-Size: 5308
-MD5sum: 2bd956d7fd784e5b72f2a2bde5c52c05
-SHA1: 54200bfa843e8d432afb02f33fd7f66b8acdaa0f
-SHA256: 909f234d09682b4a1e6a1cc905a82e48db52426c61007fc9034fd3ca7f61d196
+Depends: ellekit
+Filename: root/me.jjolano.hkmodule.ellekit_1.0.2_iphoneos-arm.deb
+Size: 5286
+MD5sum: 0440aa684c369b2f45ef188635046361
+SHA1: 7bd6bcfb9c30e09c2534860c8af9fe216414a5ee
+SHA256: 9b05e9e63dda7838335c9b5429e330d7982eb7c95d1acae905526fe5a35ac6eb
 Section: HookKit (Modules)
 Description: This module provides the ElleKit API for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (ElleKit)
 
 Package: me.jjolano.hkmodule.fishhook
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 224
-Depends: me.jjolano.fmwk.hookkit (>= 1.0.0), me.jjolano.fmwk.hookkit (<< 2.0.0)
-Filename: root/me.jjolano.hkmodule.fishhook_1.0.1_iphoneos-arm.deb
-Size: 9838
-MD5sum: 21b9b0f4f8d226e01cc48aa73b35e463
-SHA1: b9795b2bfcbfc532a07ea467807c68966fc996a4
-SHA256: 91d538e6ae83af31f5858fb8e6bb06c58c4b871da401e673fa0e17029b6109af
+Filename: root/me.jjolano.hkmodule.fishhook_1.0.2_iphoneos-arm.deb
+Size: 9800
+MD5sum: 711c816777d314fd270c8a33c2d27b43
+SHA1: fea8fe264b79e65763885cef82883f729472e56b
+SHA256: bd6fee6412a9b4b4506a3cc5077a2c68beda6b378ded7a5b06ee0f66a05365d3
 Section: HookKit (Modules)
 Description: This module provides fishhook library support for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (fishhook)
 
 Package: me.jjolano.hkmodule.libhooker
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 124
-Depends: me.jjolano.fmwk.hookkit (>= 1.0.0), me.jjolano.fmwk.hookkit (<< 2.0.0), org.coolstar.libhooker
-Filename: root/me.jjolano.hkmodule.libhooker_1.0.1_iphoneos-arm.deb
-Size: 5338
-MD5sum: 83370902305de83a65dc06d41e76caa4
-SHA1: 7001a558cc35dc67e1d9d01ed523467b9f37cb9c
-SHA256: 34e4743839d0886c7b4efef6c70b23bcbe14a5eec070648c3552d2bad83b32ce
+Depends: org.coolstar.libhooker
+Filename: root/me.jjolano.hkmodule.libhooker_1.0.2_iphoneos-arm.deb
+Size: 5310
+MD5sum: 0ef6d863fec4118c66962c07cf446c18
+SHA1: d80167cff2c5e42a3aa3f3d4c68110395a7eee17
+SHA256: 41d8eded508ff61036f95cbc9c5ce973d33f7a9d9f29f91fd005b6cfb7cb64f5
 Section: HookKit (Modules)
 Description: This module provides the libhooker API for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (libhooker)
 
 Package: me.jjolano.hkmodule.substitute
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: jjolano
-Installed-Size: 220
-Depends: me.jjolano.fmwk.hookkit (>= 1.0.0), me.jjolano.fmwk.hookkit (<< 2.0.0), com.ex.substitute
-Filename: root/me.jjolano.hkmodule.substitute_1.0.1_iphoneos-arm.deb
-Size: 7288
-MD5sum: f8e131bd4ff4ff7855dd363c9475eed4
-SHA1: fc0d95131bcd1a97292a9fb18c21578ceab1dfe2
-SHA256: c6eda9384f9068e482a5e39dc1adb70ad0ad10a8395d67060ced16a8bd587aaa
+Installed-Size: 124
+Depends: com.ex.substitute
+Filename: root/me.jjolano.hkmodule.substitute_1.0.2_iphoneos-arm.deb
+Size: 5072
+MD5sum: 409cb6369c032a72d812b5f61b8e060a
+SHA1: ead9d7dfce2d1b5212853a2b45fe9e2346edabd4
+SHA256: fff2d9ad3dca2e55379faa7549c893911226b4e2a30476f9ca1098945940c790
 Section: HookKit (Modules)
 Description: This module provides the Substitute API for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (Substitute)
 
 Package: me.jjolano.hkmodule.substrate
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 220
-Depends: me.jjolano.fmwk.hookkit (>= 1.0.0), me.jjolano.fmwk.hookkit (<< 2.0.0), mobilesubstrate
-Filename: root/me.jjolano.hkmodule.substrate_1.0.1_iphoneos-arm.deb
-Size: 5780
-MD5sum: da697b35ce82957e163d16a829aae1c1
-SHA1: bf891cbd7c615a71204d704773e075c48584477e
-SHA256: ad14866f564668b1a7047488ff2c9300912a3c0855961ef17d82ecb53b5b16d3
+Depends: mobilesubstrate
+Filename: root/me.jjolano.hkmodule.substrate_1.0.2_iphoneos-arm.deb
+Size: 5792
+MD5sum: 0f1d3a1dee23d19781af70df2494bd06
+SHA1: 2bbd1d73cfbe1c9523f29a7a5e9a90595def9ce4
+SHA256: d68653915a3b119e2c8378a3e003d8fbe97a989481bc4ba29f52f3b1543bd3ad
 Section: HookKit (Modules)
 Description: This module provides the Cydia Substrate API for HookKit Framework.
 Author: jjolano
