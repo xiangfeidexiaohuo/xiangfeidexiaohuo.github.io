@@ -16,17 +16,17 @@ Author: jjolano
 Name: HookKit Framework
 
 Package: me.jjolano.fmwk.hookkit
-Version: 1.0.4
+Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: jjolano
-Installed-Size: 252
+Installed-Size: 284
 Depends: firmware (>= 5.0.0), me.jjolano.fmwk.modulous (>= 1.0.0), me.jjolano.fmwk.modulous (<< 2.0.0)
-Recommends: me.jjolano.hkmodule.ellekit | me.jjolano.hkmodule.substitute | me.jjolano.hkmodule.libhooker, me.jjolano.hkmodule.substrate
-Filename: root/me.jjolano.fmwk.hookkit_1.0.4_iphoneos-arm.deb
-Size: 25316
-MD5sum: 2de1dfa0984619c2cd3642e92117b5d6
-SHA1: 90f814698cf6b9b9112409025520bb10b2ead0b0
-SHA256: 99fe4ef4bd25686c556cf810fc19b7151e9405d1df7436a47067a24011752187
+Recommends: me.jjolano.hkmodule.substrate
+Filename: root/me.jjolano.fmwk.hookkit_1.0.5_iphoneos-arm.deb
+Size: 25766
+MD5sum: f048fed2f2ea75d7ae625626adabe790
+SHA1: bbb93e2caf7de6293f6ff0509ebd1c416b6d07fe
+SHA256: 86adc755d72b62fd40a5af0ae6bef32188f87c94b518b293c2901d2053b58001
 Section: Development
 Description: An iOS developer framework for unified hooking methods.
 Tag: role::developer
