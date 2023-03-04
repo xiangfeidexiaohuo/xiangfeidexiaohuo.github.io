@@ -221,21 +221,21 @@ Author: jjolano
 Name: Shadow
 
 Package: me.jjolano.shadow
-Version: 3.6.9
+Version: 3.6.9-1
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 1400
-Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5), me.jjolano.fmwk.hookkit (<< 2.0.0), me.jjolano.hkmodule.fishhook | me.jjolano.fmwk.hookkit (<< 1.0.0)
-Recommends: preferenceloader
+Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5), me.jjolano.fmwk.hookkit (<< 2.0.0), me.jjolano.hkmodule.substrate | me.jjolano.fmwk.hookkit (<< 1.0.0)
+Recommends: preferenceloader, me.jjolano.hkmodule.fishhook | me.jjolano.fmwk.hookkit (<< 1.0.0)
 Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow.beta
 Replaces: me.jjolano.shadow.beta
 Provides: me.jjolano.shadow.beta
-Filename: root/me.jjolano.shadow_3.6.9_iphoneos-arm.deb
-Size: 153456
-MD5sum: 0163d1f70b39b481b1fa20a0fbe24ac8
-SHA1: 043769228f9f1710e1fa4ab46d964c63b8846529
-SHA256: e014f3f8e60e27773aecd3c68c3c6e6016e1256315ce37a9d462c45c83244a57
+Filename: root/me.jjolano.shadow_3.6.9-1_iphoneos-arm.deb
+Size: 153576
+MD5sum: 9ac257cf38ccdb4e2b01f64357a1fdc6
+SHA1: 6bb6011ba0e333464254cfa7c71df66fdabf5c9c
+SHA256: bcf779d5994dc9586ca513d00b6647203ad9fc8872b7b3be28b21bd4c65ea17a
 Section: System
 Description: A modern jailbreak detection bypass for jailbroken iOS.
 Author: jjolano
@@ -263,21 +263,21 @@ Author: jjolano
 Name: Shadow (beta)
 
 Package: me.jjolano.shadow.beta
-Version: 3.6.9-3+debug
+Version: 3.6.9-4+debug
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 2064
-Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5), me.jjolano.fmwk.hookkit (<< 2.0.0), me.jjolano.hkmodule.fishhook | me.jjolano.fmwk.hookkit (<< 1.0.0)
-Recommends: preferenceloader
+Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5), me.jjolano.fmwk.hookkit (<< 2.0.0), me.jjolano.hkmodule.substrate | me.jjolano.fmwk.hookkit (<< 1.0.0)
+Recommends: preferenceloader, me.jjolano.hkmodule.fishhook | me.jjolano.fmwk.hookkit (<< 1.0.0)
 Suggests: com.ps.injectionfoundation
 Conflicts: me.jjolano.shadow
 Replaces: me.jjolano.shadow
 Provides: me.jjolano.shadow
-Filename: root/me.jjolano.shadow.beta_3.6.9-3+debug_iphoneos-arm.deb
-Size: 245386
-MD5sum: 042c489f0eec54597f37335f377e2aa1
-SHA1: 21c0ca2bab7e3dccbfdf2224deae6b46dc1e7a39
-SHA256: 4e84b9237e06762ccd433723d42fa6b47aa2a8ee9be9a72765020eb18ff263a9
+Filename: root/me.jjolano.shadow.beta_3.6.9-4+debug_iphoneos-arm.deb
+Size: 245398
+MD5sum: 23317f46957408b644ad602676271288
+SHA1: d651053bf4626971281ac821d7309a3352c0d930
+SHA256: e7461d8c7b1a4d05977b6de1aa55ca6d1915afb8a12011cf818015fa22b0c773
 Section: System
 Description: A modern jailbreak detection bypass for jailbroken iOS. Beta version - frequent updates, less stable.
 Author: jjolano
