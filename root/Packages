@@ -16,89 +16,21 @@ Author: jjolano
 Name: HookKit Framework
 
 Package: me.jjolano.fmwk.hookkit
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 284
-Depends: firmware (>= 5.0.0), me.jjolano.fmwk.modulous (>= 1.0.0), me.jjolano.fmwk.modulous (<< 2.0.0)
-Recommends: me.jjolano.hkmodule.substrate
-Filename: root/me.jjolano.fmwk.hookkit_1.0.5_iphoneos-arm.deb
-Size: 25766
-MD5sum: f048fed2f2ea75d7ae625626adabe790
-SHA1: bbb93e2caf7de6293f6ff0509ebd1c416b6d07fe
-SHA256: 86adc755d72b62fd40a5af0ae6bef32188f87c94b518b293c2901d2053b58001
-Section: Development
-Description: An iOS developer framework for unified hooking methods.
-Tag: role::developer
-Author: jjolano
-Name: HookKit Framework
-
-Package: me.jjolano.fmwk.hookkit
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 284
-Depends: firmware (>= 5.0.0), me.jjolano.fmwk.modulous (>= 1.0.0), me.jjolano.fmwk.modulous (<< 2.0.0)
-Filename: root/me.jjolano.fmwk.hookkit_1.0.6_iphoneos-arm.deb
-Size: 25864
-MD5sum: 17e12ca9d38568ca2918badfc6b62142
-SHA1: d6754571e04d3d5bce58fc2e2d5ec43c5bc4c832
-SHA256: f83ffb62b3a685bfe33801189ecb69c4645313927aa67bee1670846cbd8dcddc
-Section: Development
-Description: An iOS developer framework for unified hooking methods.
-Tag: role::developer
-Author: jjolano
-Name: HookKit Framework
-
-Package: me.jjolano.fmwk.hookkit
-Version: 1.0.7
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 284
-Depends: firmware (>= 5.0.0), me.jjolano.fmwk.modulous (>= 1.0.0), me.jjolano.fmwk.modulous (<< 2.0.0)
-Filename: root/me.jjolano.fmwk.hookkit_1.0.7_iphoneos-arm.deb
-Size: 25880
-MD5sum: a02d6d267c7aab048297faa650f61f31
-SHA1: fa1c42c6fadda5148e714c43ad753b83825cc6c6
-SHA256: 027d31eaf28eceef16f914b33caf165bf7d6f8d413875bf93f20659dadfedca0
-Section: Development
-Description: An iOS developer framework for unified hooking methods.
-Tag: role::developer
-Author: jjolano
-Name: HookKit Framework
-
-Package: me.jjolano.fmwk.hookkit
-Version: 1.0.8
+Version: 1.0.9
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 252
 Depends: firmware (>= 5.0.0), me.jjolano.fmwk.modulous (>= 1.0.0), me.jjolano.fmwk.modulous (<< 2.0.0)
-Filename: root/me.jjolano.fmwk.hookkit_1.0.8_iphoneos-arm.deb
-Size: 24588
-MD5sum: ab4fb29e6519365b0d10b7f498587cff
-SHA1: d3979172dfcbaf57ec1ef2a97892d48b8b41afbb
-SHA256: db185aff0696faeb42a25a2478560289236655e6c6b068defb670265f45b8663
+Filename: root/me.jjolano.fmwk.hookkit_1.0.9_iphoneos-arm.deb
+Size: 24462
+MD5sum: c25294410578baeff1cbbf4ad1af7ce2
+SHA1: daf5ca7964062de814cd96970b4f1295aa1513dc
+SHA256: 45f3123a2c828ed453ee612e9e54d2737c49e3c1ef57ce6f042a95125e04a8f2
 Section: Development
 Description: An iOS developer framework for unified hooking methods.
 Tag: role::developer
 Author: jjolano
 Name: HookKit Framework
-
-Package: me.jjolano.fmwk.modulous
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 216
-Filename: root/me.jjolano.fmwk.modulous_1.0.2_iphoneos-arm.deb
-Size: 10068
-MD5sum: 4a88b0489f5f28d89a9e04fea7e93563
-SHA1: 344e876a21a555f9ea9d5ffe61d0f1bf51fd222a
-SHA256: b136974a0bff29c435a41a4addf858c92aa698ff4b05a68eb9bc4df2c06daeef
-Section: Development
-Description: An iOS developer framework for modular software.
-Tag: role::developer
-Author: jjolano
-Name: Modulous Framework
 
 Package: me.jjolano.fmwk.modulous
 Version: 1.0.3
@@ -116,20 +48,21 @@ Tag: role::developer
 Author: jjolano
 Name: Modulous Framework
 
-Package: me.jjolano.hkmodule.dobby
-Version: 1.0.2
+Package: me.jjolano.fmwk.modulous
+Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: jjolano
-Installed-Size: 200
-Filename: root/me.jjolano.hkmodule.dobby_1.0.2_iphoneos-arm.deb
-Size: 29492
-MD5sum: b031399f255bc68e7b1735a568b95d4d
-SHA1: e91e6d1d4cafcb900f811aab20c0803229d67845
-SHA256: ba2eff8457e9179c18d9005038560db690245735707c400b17c6574066a5f4c8
-Section: HookKit (Modules)
-Description: This module provides Dobby library support for HookKit Framework.
+Installed-Size: 216
+Filename: root/me.jjolano.fmwk.modulous_1.0.4_iphoneos-arm.deb
+Size: 10096
+MD5sum: 4822898da896cc8063659cb126787ebd
+SHA1: c3b5d3d392f7322a79ab4df7a0dc9f22b58c18c3
+SHA256: 0e0277bad0929ca22f0a97a44d3be89eca2d6df6e514e85ed1d739b783687997
+Section: Development
+Description: An iOS developer framework for modular software.
+Tag: role::developer
 Author: jjolano
-Name: HookKit Module (Dobby)
+Name: Modulous Framework
 
 Package: me.jjolano.hkmodule.dobby
 Version: 1.0.3
@@ -145,23 +78,6 @@ Section: HookKit (Modules)
 Description: This module provides Dobby library support for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (Dobby)
-
-Package: me.jjolano.hkmodule.ellekit
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 124
-Depends: ellekit
-Provides: me.jjolano.hkmodule.substrate
-Filename: root/me.jjolano.hkmodule.ellekit_1.0.3_iphoneos-arm.deb
-Size: 5296
-MD5sum: b538889a1a60091c504f03c8d3014f58
-SHA1: 0fe51138dbf5dc66f43289ebb7ada8ab1feb3707
-SHA256: f0f9fa9c33481ea473b5a795bea376fb986c313cff64ad57af6a9b513551643a
-Section: HookKit (Modules)
-Description: This module provides the ElleKit API for HookKit Framework.
-Author: jjolano
-Name: HookKit Module (ElleKit)
 
 Package: me.jjolano.hkmodule.ellekit
 Version: 1.0.4
@@ -181,36 +97,6 @@ Author: jjolano
 Name: HookKit Module (ElleKit)
 
 Package: me.jjolano.hkmodule.fishhook
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 224
-Filename: root/me.jjolano.hkmodule.fishhook_1.0.2_iphoneos-arm.deb
-Size: 9800
-MD5sum: 711c816777d314fd270c8a33c2d27b43
-SHA1: fea8fe264b79e65763885cef82883f729472e56b
-SHA256: bd6fee6412a9b4b4506a3cc5077a2c68beda6b378ded7a5b06ee0f66a05365d3
-Section: HookKit (Modules)
-Description: This module provides fishhook library support for HookKit Framework.
-Author: jjolano
-Name: HookKit Module (fishhook)
-
-Package: me.jjolano.hkmodule.fishhook
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 224
-Filename: root/me.jjolano.hkmodule.fishhook_1.0.3_iphoneos-arm.deb
-Size: 10238
-MD5sum: 376708ae6fc986e1396a050ee3f36843
-SHA1: 988ea1aa3527156ee63710dcc9d6ec2fef1cb46a
-SHA256: dc796084a38750dd79517c87fa85c4b7b3ec71198bec16ee1d31a01690a6bffe
-Section: HookKit (Modules)
-Description: This module provides fishhook library support for HookKit Framework.
-Author: jjolano
-Name: HookKit Module (fishhook)
-
-Package: me.jjolano.hkmodule.fishhook
 Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: jjolano
@@ -224,23 +110,6 @@ Section: HookKit (Modules)
 Description: This module provides fishhook library support for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (fishhook)
-
-Package: me.jjolano.hkmodule.libhooker
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 124
-Depends: org.coolstar.libhooker (>= 1.0.0)
-Provides: me.jjolano.hkmodule.substrate
-Filename: root/me.jjolano.hkmodule.libhooker_1.0.3_iphoneos-arm.deb
-Size: 5334
-MD5sum: a07912b4741192cae31ba977a2ab3d08
-SHA1: 404ed8332bde78ae69365cbb147344781df72c39
-SHA256: 6775db9083f245659fce72208736a9fb1dcd04d1c92d4c92fa69b4e140ad2094
-Section: HookKit (Modules)
-Description: This module provides the libhooker API for HookKit Framework.
-Author: jjolano
-Name: HookKit Module (libhooker)
 
 Package: me.jjolano.hkmodule.libhooker
 Version: 1.0.4
@@ -260,71 +129,21 @@ Author: jjolano
 Name: HookKit Module (libhooker)
 
 Package: me.jjolano.hkmodule.substitute
-Version: 1.0.4
+Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 124
 Depends: com.ex.substitute
 Provides: me.jjolano.hkmodule.substrate
-Filename: root/me.jjolano.hkmodule.substitute_1.0.4_iphoneos-arm.deb
-Size: 5074
-MD5sum: 73f47b5596dbf32225b7852061bc7b9c
-SHA1: b59db7beb10499399688922874f1dd3d819246a8
-SHA256: f23d20bf43b89727ea2ff8b99a221090a4e7318b76466f8e166f8d43e0222f04
+Filename: root/me.jjolano.hkmodule.substitute_1.0.7_iphoneos-arm.deb
+Size: 5122
+MD5sum: 5b866b59fc9a78b38388d3bf8546af6d
+SHA1: d39802271cf641f725fca2c08e5b0c1b46400387
+SHA256: 3a09bad73216eb13b01fabf8d7723c81397755bc5d97cf6cf368d7648dbac6fb
 Section: HookKit (Modules)
 Description: This module provides the Substitute API for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (Substitute)
-
-Package: me.jjolano.hkmodule.substitute
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 124
-Depends: com.ex.substitute
-Provides: me.jjolano.hkmodule.substrate
-Filename: root/me.jjolano.hkmodule.substitute_1.0.5_iphoneos-arm.deb
-Size: 5098
-MD5sum: f24a53f5e44eb58a17149761ef308a07
-SHA1: e85a4138cec5bc9077bbfbd8981bdb622cd654a6
-SHA256: 63362c343c945c10c9bffb44f91aa1da14f044224f45a3d03f6493e1a3d6864c
-Section: HookKit (Modules)
-Description: This module provides the Substitute API for HookKit Framework.
-Author: jjolano
-Name: HookKit Module (Substitute)
-
-Package: me.jjolano.hkmodule.substitute
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 124
-Depends: com.ex.substitute
-Provides: me.jjolano.hkmodule.substrate
-Filename: root/me.jjolano.hkmodule.substitute_1.0.6_iphoneos-arm.deb
-Size: 5098
-MD5sum: 846f31a86baef9ded738276e3d864820
-SHA1: 9aa9864e70757dfc475adc65c5e88c53a4ae807d
-SHA256: fbd9a461fe5640105bcf7927b5a66c9d364356bee61984a3451455b5f4b00ce6
-Section: HookKit (Modules)
-Description: This module provides the Substitute API for HookKit Framework.
-Author: jjolano
-Name: HookKit Module (Substitute)
-
-Package: me.jjolano.hkmodule.substrate
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 220
-Depends: mobilesubstrate
-Filename: root/me.jjolano.hkmodule.substrate_1.0.3_iphoneos-arm.deb
-Size: 5754
-MD5sum: 3aa1832535cc1bbf3b3b82e04e3b31cb
-SHA1: 6e5011be657ccf33a68f565945bfb2c730a5dfab
-SHA256: 8a8458095f8cfaede9023f1705f522fc6cc7b9d9cb0f40c184814852b2593fbe
-Section: HookKit (Modules)
-Description: This module provides the Cydia Substrate API for HookKit Framework.
-Author: jjolano
-Name: HookKit Module (Cydia Substrate)
 
 Package: me.jjolano.hkmodule.substrate
 Version: 1.0.4
@@ -439,158 +258,6 @@ Section: System
 Description: A modern jailbreak detection bypass for jailbroken iOS.
 Author: jjolano
 Name: Shadow
-
-Package: me.jjolano.shadow.beta
-Version: 3.6.8-6+debug
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 2064
-Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5)
-Recommends: preferenceloader
-Suggests: com.ps.injectionfoundation
-Conflicts: me.jjolano.shadow
-Replaces: me.jjolano.shadow
-Provides: me.jjolano.shadow
-Filename: root/me.jjolano.shadow.beta_3.6.8-6+debug_iphoneos-arm.deb
-Size: 1979294
-MD5sum: aa81924db663a4c7f90a47c62882f11c
-SHA1: cbe48079b7d0a40a6e60086c2386a231f6cf6bba
-SHA256: 6bf322cea1d8ac801445f3c3a67b68385a0f46feaf472c68f29192a11f52d7ef
-Section: System
-Description: A modern jailbreak detection bypass for jailbroken iOS. Beta version - frequent updates, less stable.
-Author: jjolano
-Name: Shadow (beta)
-
-Package: me.jjolano.shadow.beta
-Version: 3.6.9-5+debug
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 2064
-Depends: firmware (>= 8.0), mobilesubstrate, dpkg, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 0.1.5), me.jjolano.fmwk.hookkit (<< 2.0.0), me.jjolano.hkmodule.substrate
-Recommends: preferenceloader, me.jjolano.hkmodule.fishhook
-Suggests: com.ps.injectionfoundation
-Conflicts: me.jjolano.shadow
-Replaces: me.jjolano.shadow
-Provides: me.jjolano.shadow
-Filename: root/me.jjolano.shadow.beta_3.6.9-5+debug_iphoneos-arm.deb
-Size: 245350
-MD5sum: 90d840ca5940f09d96d6f3abc1b3b4af
-SHA1: 551d6325e92ac317c3aed10ca45c8ce1c813bae0
-SHA256: 1947099273f07b3f2a188e8a6cf2c70011470d6e9a11f13f256acef366857132
-Section: System
-Description: A modern jailbreak detection bypass for jailbroken iOS. Beta version - frequent updates, less stable.
-Author: jjolano
-Name: Shadow (beta)
-
-Package: me.jjolano.shadow.beta
-Version: 3.7.0-3+debug
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 2112
-Pre-Depends: dpkg
-Depends: firmware (>= 8.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 1.0.0), me.jjolano.fmwk.hookkit (<< 2.0.0), me.jjolano.hkmodule.substrate, me.jjolano.fmwk.modulous (>= 1.0.0), me.jjolano.fmwk.modulous (<< 2.0.0)
-Recommends: preferenceloader, me.jjolano.hkmodule.fishhook
-Suggests: com.ps.injectionfoundation
-Conflicts: me.jjolano.shadow
-Replaces: me.jjolano.shadow
-Provides: me.jjolano.shadow
-Filename: root/me.jjolano.shadow.beta_3.7.0-3+debug_iphoneos-arm.deb
-Size: 258884
-MD5sum: 412d534df0bb3df13562cbb55141a20e
-SHA1: d4e1a277e0059842560ef78e21cfab9583d5fdf9
-SHA256: d233b87711b2fc9480d5bcc23c183889cecb0fdfe4bd293bee9cdea99c2e8d42
-Section: System
-Description: A modern jailbreak detection bypass for jailbroken iOS. Beta version - frequent updates, less stable.
-Author: jjolano
-Name: Shadow (beta)
-
-Package: me.jjolano.shadow.beta
-Version: 3.7.0-4+debug
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 2112
-Pre-Depends: dpkg
-Depends: firmware (>= 8.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 1.0.0), me.jjolano.fmwk.hookkit (<< 2.0.0), me.jjolano.hkmodule.substrate, me.jjolano.fmwk.modulous (>= 1.0.0), me.jjolano.fmwk.modulous (<< 2.0.0)
-Recommends: preferenceloader, me.jjolano.hkmodule.fishhook
-Suggests: com.ps.injectionfoundation
-Conflicts: me.jjolano.shadow
-Replaces: me.jjolano.shadow
-Provides: me.jjolano.shadow
-Filename: root/me.jjolano.shadow.beta_3.7.0-4+debug_iphoneos-arm.deb
-Size: 258060
-MD5sum: 5a659a89d68f56cabc153abffb59317c
-SHA1: fc083d21a732a8b8aa54ab73ff053dbfe6ec14ea
-SHA256: 732ef0cee236bf82efafa26d2d6b00091cb4329d61f02ebbd9081e9254f06d56
-Section: System
-Description: A modern jailbreak detection bypass - development version.
-Author: jjolano
-Name: Shadow (dev)
-
-Package: me.jjolano.shadow.beta
-Version: 3.7.0-5+debug
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 2112
-Pre-Depends: dpkg
-Depends: firmware (>= 8.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 1.0.0), me.jjolano.fmwk.hookkit (<< 2.0.0), me.jjolano.hkmodule.substrate, me.jjolano.fmwk.modulous (>= 1.0.0), me.jjolano.fmwk.modulous (<< 2.0.0)
-Recommends: preferenceloader, me.jjolano.hkmodule.fishhook
-Suggests: com.ps.injectionfoundation
-Conflicts: me.jjolano.shadow
-Replaces: me.jjolano.shadow
-Provides: me.jjolano.shadow
-Filename: root/me.jjolano.shadow.beta_3.7.0-5+debug_iphoneos-arm.deb
-Size: 258084
-MD5sum: e9da3414657463df52bbe57c01259f68
-SHA1: dcfce6c9cadc90e8fe61d94d2bfe81dc07135a10
-SHA256: a4079f3596c887aa8d44aa9f7b573574bd99e5aeb2b22330e9361d65562d902b
-Section: System
-Description: A modern jailbreak detection bypass - development version.
-Author: jjolano
-Name: Shadow (dev)
-
-Package: me.jjolano.shadow.beta
-Version: 3.7.0-6+debug
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 2112
-Pre-Depends: dpkg
-Depends: firmware (>= 8.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 1.0.0), me.jjolano.fmwk.hookkit (<< 2.0.0), me.jjolano.hkmodule.substrate, me.jjolano.fmwk.modulous (>= 1.0.0), me.jjolano.fmwk.modulous (<< 2.0.0)
-Recommends: preferenceloader, me.jjolano.hkmodule.fishhook
-Suggests: com.ps.injectionfoundation
-Conflicts: me.jjolano.shadow
-Replaces: me.jjolano.shadow
-Provides: me.jjolano.shadow
-Filename: root/me.jjolano.shadow.beta_3.7.0-6+debug_iphoneos-arm.deb
-Size: 257858
-MD5sum: 34677e56621c25177f3939bd30e09847
-SHA1: 6038ea3b4aea0b6b2a0ae220d0c5556a45ad6eb7
-SHA256: 78c9124a2486d0bbd7d56393257a72e41bd9b452f1be4b18f12b2819eb17f4dd
-Section: System
-Description: A modern jailbreak detection bypass - development version.
-Author: jjolano
-Name: Shadow (dev)
-
-Package: me.jjolano.shadow.beta
-Version: 3.7.0-8+debug
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 2112
-Pre-Depends: dpkg
-Depends: firmware (>= 8.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit (>= 1.0.0), me.jjolano.fmwk.hookkit (<< 2.0.0), me.jjolano.hkmodule.substrate, me.jjolano.fmwk.modulous (>= 1.0.0), me.jjolano.fmwk.modulous (<< 2.0.0)
-Recommends: preferenceloader, me.jjolano.hkmodule.fishhook
-Suggests: com.ps.injectionfoundation
-Conflicts: me.jjolano.shadow
-Replaces: me.jjolano.shadow
-Provides: me.jjolano.shadow
-Filename: root/me.jjolano.shadow.beta_3.7.0-8+debug_iphoneos-arm.deb
-Size: 258530
-MD5sum: 327109debd490aa471adc183feaaa516
-SHA1: 479be9e30e5ac86bc7c50c1c827e3b9002ed53ba
-SHA256: 3e6c5dd50fc7b1313180c3046a927efd348460460e1f38c593607bbfd8d6d35d
-Section: System
-Description: A modern jailbreak detection bypass - development version.
-Author: jjolano
-Name: Shadow (dev)
 
 Package: me.jjolano.shadow.beta
 Version: 3.7.0-9+debug
