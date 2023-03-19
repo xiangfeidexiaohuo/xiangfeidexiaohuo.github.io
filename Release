@@ -1,1 +1,41 @@
-root/Release
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: ios
+Components: main
+Date: Sun, 19 Mar 2023 17:39:51 +0000
+Description: personal tweak repository
+Label: jjolano
+Origin: jjolano
+Suite: stable
+Version: 2.1
+MD5Sum:
+ 8421eaf42b0960ad6a0e1a0d7f83eca7            11986 Packages
+ 59f69e275bc65c2c97dd002c560a3f8e             3275 Packages.bz2
+ 7ac4e08b888d65bba3f076af2d5dd232             3208 Packages.gz
+ 4e0d40dd965355c42662e8855d81f87e             2990 Packages.lzma
+ 938d772158f310a475b52240671bee4a             3036 Packages.xz
+ 88917f5b6048bd4b41758ae21d59d480             3181 Packages.zst
+ 0e9c4e94d3faa0a377cd09e110ce033a              209 Release
+SHA1:
+ 7a29037a18cc4781ef51090e80ffbf2ac75fa4b3            11986 Packages
+ 466851b9e1b4df34827d1c4f2f7b2d720ad9c095             3275 Packages.bz2
+ 1eb0f916d33005aa44d9857d9eabb1932a2edb73             3208 Packages.gz
+ 7185163a664a0e3c05135f538a05cb12d27741f2             2990 Packages.lzma
+ e9be9db674a7c5d6b22f5d3f4c93bedae35a734a             3036 Packages.xz
+ 71eac37041fb5c5d330df701aebe9c8701daf18b             3181 Packages.zst
+ 3da7474df721f4e43834e602879e03e703f08c07              209 Release
+SHA256:
+ b7711de2134cdd63ac349f70c01cf6c82edbfd32c8aa5feaec9dbb6821b43343            11986 Packages
+ 1b24f6b350b5196b13d2c375f9cd264d2b576cce6f64afaa39b856d4cd3ff62c             3275 Packages.bz2
+ 2df7d30f2b4ed6564619b5c8e7aa8516dd9c478b1b16c9d31d04850b5ea5daed             3208 Packages.gz
+ 7c4d5824884e95822bc792871a80384cf82b05550491aea16fdf9b7ca6489766             2990 Packages.lzma
+ 06196984701537efe19d8a9b2721c07d7cc1c45fba7be7ee369c8c82b1e87446             3036 Packages.xz
+ 486dd5fc46296332a015fe591f31f5f02629d30413f0a6615037876e549074c4             3181 Packages.zst
+ 443b09c40ac55d648577dbcb20f2de68696635ac47d2c759bab3a30838545385              209 Release
+SHA512:
+ eccb094d1eb588a22be80123654dc7a9dd77f7ca24ce3b4339935a47714bb36d00cfa40952755699f8f4b4d75285c85fdcbccedf21ca700469ebe2a5dcf7405e            11986 Packages
+ 380abfc158fc1d37715e8d81c7e45405b3b14a59df950400dba668f32770f0d5f7040a93c950af7c02bcd5343314c29ab91d8cf5aa64613672af0208bee50307             3275 Packages.bz2
+ ad3f30dc9b1267c623b9342dc47b6b16c783aaade20d671eda8253817650d2108a7fc7593b7ef3ac41ce977def7449b09a8e76cd38b1713bb704e69cd01e77b0             3208 Packages.gz
+ 2c66ae815f4415422fbb90ffe6712f0a3d2cc9d4b76079c05ba3c1da417a92b26aeaa4e762f44311c0d16072424dc87f9e432356ec00c00ea5c0bb6f7f0f0aa4             2990 Packages.lzma
+ 8f67034c07ead95d4968dfd320a017319871fa479ed5901362f9600e1880bf6864d87d2ef6732cf83bb89761bf139a6be8b8862f201c2ccc7e9c8ab2ec4b597f             3036 Packages.xz
+ 84271ded4b645c600e4beeb283962c586ff4e778537c5ddb93deda4fe22c18d381f096c45d5ea6080a1f9c98fb6543de2fea084612bcefc1239a7117e9687b6c             3181 Packages.zst
+ 5ea710fbdca0db23ee3a129ac4071212acd9c0b93e9a8244a17d4a99e5eb71ab08d2e5f8bc9e9b0c327ae781f2010819e874a45fce5d3d98e9c03f964a0c42ab              209 Release
