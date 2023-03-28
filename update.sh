@@ -1,4 +1,8 @@
 #!/bin/sh
+rm Packages
+rm Packages.*
+rm Release
+
 dpkg-scanpackages --multiversion root > Packages
 dpkg-scanpackages --multiversion rootless >> Packages
 
