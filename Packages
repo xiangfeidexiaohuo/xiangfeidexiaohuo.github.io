@@ -373,6 +373,28 @@ Description: A modern jailbreak detection bypass for jailbroken iOS.
 Author: jjolano
 Name: Shadow
 
+Package: me.jjolano.shadow
+Version: 3.7.1
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 1432
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate
+Recommends: preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta
+Replaces: me.jjolano.shadow.beta
+Provides: me.jjolano.shadow.beta
+Filename: root/me.jjolano.shadow_3.7.1_iphoneos-arm.deb
+Size: 164462
+MD5sum: 8751a160c23c76955cabeee2cbf439f0
+SHA1: 0235fba0d6cbc633d234e7b9025d96cdc231cbaa
+SHA256: 5f96e6fc1f251f1d320d27d4e6adb08e7c848afee9f469986afcab3634e7362e
+Section: System
+Description: A modern jailbreak detection bypass.
+Author: jjolano
+Name: Shadow
+
 Package: me.jjolano.shadow.beta
 Version: 3.7.0-9+debug
 Architecture: iphoneos-arm
@@ -559,4 +581,26 @@ Section: HookKit (Modules)
 Description: This module provides the Cydia Substrate API for HookKit Framework.
 Author: jjolano
 Name: HookKit Module (Cydia Substrate)
+
+Package: me.jjolano.shadow
+Version: 3.7.1
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Installed-Size: 1080
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate
+Recommends: preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta
+Replaces: me.jjolano.shadow.beta
+Provides: me.jjolano.shadow.beta
+Filename: rootless/me.jjolano.shadow_3.7.1_iphoneos-arm64.deb
+Size: 103512
+MD5sum: 28a5821f3ee7661227372a3632ae8b63
+SHA1: b4f8e7d5df6988118e53f3391786c80c28894e01
+SHA256: f3818116af8527fb94f2780b9a1ed147b2e5c06d57b3c695dcde6ecc4d89611e
+Section: System
+Description: A modern jailbreak detection bypass.
+Author: jjolano
+Name: Shadow
 
