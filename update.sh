@@ -6,7 +6,7 @@ cat Packages | xz > Packages.xz
 cat Packages | bzip2 > Packages.bz2
 cat Packages | gzip > Packages.gz
 cat Packages | lzma > Packages.lzma
-cat Packages | zstd > Packages.zst
+# cat Packages | zstd > Packages.zst
 
 apt-ftparchive\
  -o APT::FTPArchive::Release::Origin="jjolano"\
