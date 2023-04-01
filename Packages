@@ -33,33 +33,16 @@ Author: jjolano
 Name: HookKit Framework
 
 Package: me.jjolano.fmwk.hookkit
-Version: 1.0.13
+Version: 1.0.14
 Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 284
 Depends: firmware (>= 8.0), me.jjolano.fmwk.modulous, me.jjolano.fmwk.rootbridge
-Filename: root/me.jjolano.fmwk.hookkit_1.0.13_iphoneos-arm.deb
-Size: 24490
-MD5sum: 863599db18f772e8cee7575064c057f6
-SHA1: 4e478b9b2908a0a4bc4fc32fac5183112e5d5de7
-SHA256: 59139bf84a4cac84987dc204970baed61234db1c1b00ee2fd4c2c36aed6ff4f9
-Section: Development
-Description: An iOS developer framework for unified hooking methods.
-Tag: role::developer
-Author: jjolano
-Name: HookKit Framework
-
-Package: me.jjolano.fmwk.hookkit
-Version: 1.0.9
-Architecture: iphoneos-arm
-Maintainer: jjolano
-Installed-Size: 252
-Depends: firmware (>= 5.0.0), me.jjolano.fmwk.modulous (>= 1.0.0), me.jjolano.fmwk.modulous (<< 2.0.0)
-Filename: root/me.jjolano.fmwk.hookkit_1.0.9_iphoneos-arm.deb
-Size: 24462
-MD5sum: c25294410578baeff1cbbf4ad1af7ce2
-SHA1: daf5ca7964062de814cd96970b4f1295aa1513dc
-SHA256: 45f3123a2c828ed453ee612e9e54d2737c49e3c1ef57ce6f042a95125e04a8f2
+Filename: root/me.jjolano.fmwk.hookkit_1.0.14_iphoneos-arm.deb
+Size: 24442
+MD5sum: ada5c46355df8939b7c32bf9f60637ce
+SHA1: 17ea73e741d9239e2cae429bc37ceae90fc0674b
+SHA256: 3a0a7f72433b6525a24c133dd9243b8d0490c06dba51f1564d61be6af4a8f651
 Section: Development
 Description: An iOS developer framework for unified hooking methods.
 Tag: role::developer
@@ -521,16 +504,16 @@ Author: jjolano
 Name: HookKit Framework
 
 Package: me.jjolano.fmwk.hookkit
-Version: 1.0.13
+Version: 1.0.14
 Architecture: iphoneos-arm64
 Maintainer: jjolano
 Installed-Size: 172
 Depends: firmware (>= 8.0), me.jjolano.fmwk.modulous, me.jjolano.fmwk.rootbridge
-Filename: rootless/me.jjolano.fmwk.hookkit_1.0.13_iphoneos-arm64.deb
-Size: 13170
-MD5sum: 2534a2f4449ab940e5b2d9c91a8be942
-SHA1: f5828c09e4bdee9694a760945e661003e149f4dd
-SHA256: b037eceb480a2249aa7af1a312e66d520aec4e03c19dd8cc8e3efe8091e81467
+Filename: rootless/me.jjolano.fmwk.hookkit_1.0.14_iphoneos-arm64.deb
+Size: 12924
+MD5sum: 31a72c9cd181c909fd12d7c4290024e6
+SHA1: 861c4e30318611f3b02fdffdd3c08301fe102917
+SHA256: 5ec2159e9dee03f9894629cd8b83d15d4dba656806d39ba6be8b44490aed55fe
 Section: Development
 Description: An iOS developer framework for unified hooking methods.
 Tag: role::developer
