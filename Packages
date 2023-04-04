@@ -13,6 +13,24 @@ Description: Choicy 简体中文包(rootless)。
 Author: 妖刀
 Name: Choicy 简体中文包(rootless)
 
+Package: com.hk.icleanerpro.rl
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 15.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro
+Filename: rootless/iCleaner Pro(rootless).deb
+Size: 3420764
+MD5sum: 943d154c2cce4c7af21fa5c912433704
+SHA1: 0aff24187597883eb7d89418f901c7652871bd68
+SHA256: 326a3e34e9fec053c9af2663e9f6acde707130c5639d5bd5d063bc07eff7e154
+Section: 嗨-工具
+Homepage: http://ib-soft.net/icleaner
+Description: iCleaner Pro简单修改适配rootless。
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Name: iCleaner Pro(rootless)
+
 Package: com.hk.jjolano.shadow.cn.rl
 Version: 3.7.1
 Architecture: iphoneos-arm64
