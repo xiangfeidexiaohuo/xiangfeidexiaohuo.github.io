@@ -90,6 +90,21 @@ Description: 冷冷雨基于开源编译适配rootless，AppStore帐户页面中
 Author: subdiox
 Name: StoreSwitcher2(rootless)
 
+Package: com.skypain.minilsp
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Depends: mobilesubstrate
+Filename: rootless/MiniLsp(rootless).deb
+Size: 8350
+MD5sum: 5a2f0dc540ba25943b730fc79ac8f4aa
+SHA1: f3aa56e21c8a17f0b17c5dfcd69c40c54d6a4942
+SHA256: a4358a9d01cf541e30ddcd4b115aefbad65239b442920ad5f306f2e3cbecc07d
+Section: 嗨-工具
+Description: 迷你锁屏播放器，无设置。
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Name: MiniLsp(rootless)
+
 Package: org.coolstar.sileonightly
 Version: 2.4+20230402.1680449342.40fab61
 Architecture: iphoneos-arm64
