@@ -43,6 +43,22 @@ Description: Shadow 简体中文包(rootless)。
 Author: 妖刀
 Name: Shadow 简体中文包(rootless)
 
+Package: com.hk.rootless.cc
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang
+Depends: com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring
+Filename: rootless/CCLess++(rootless).deb
+Size: 78050
+MD5sum: 41d7445a5146a23b4df98ddccd475745
+SHA1: 66fdeed959a0481991e477e5d50e4e40af3f1628
+SHA256: c3a4943bf83896a5f3733121b156c7126e668a688e772a6386b772582022c281
+Section: 嗨-工具
+Description: skypain大佬制作的控制中心的定位、注销、设置模块。
+Author: Mr.Zhang
+Name: CCLess++(rootless)
+
 Package: com.hk.snowboard.cn.rl
 Version: 1.5.9~beta3
 Architecture: iphoneos-arm64
@@ -75,18 +91,16 @@ Author: subdiox
 Name: StoreSwitcher2(rootless)
 
 Package: org.coolstar.sileonightly
-Version: 2.4+20230402.1680381849.a5d39db
+Version: 2.4+20230402.1680449342.40fab61
 Architecture: iphoneos-arm64
-Maintainer: Amy While <me@anamy.gay>
-Filename: rootless/org.coolstar.sileonightly_2.4+20230402.1680381849.a5d39db_iphoneos-arm64.deb
-Size: 2718644
-MD5sum: 43470c951a727709750eed521d4fc090
-SHA1: f3bfcdc286f61b255d0a82a1680d93ac4ed33e1f
-SHA256: 792c735d2455958105202cd7877ce57901f804772d7c4d43a9a6354841020ad8
-Section: Packaging
-Description: A modern APT package manager frontend
+Maintainer: Huchundong <huchundong.com>
+Filename: rootless/Sileo(rootless).deb
+Size: 2370720
+MD5sum: 3fa0b466524e509f363a3ff22eaed4c6
+SHA1: 3cf52bdf18ff232874cff5c022225e2ad44ef99e
+SHA256: 40840d2e66209bcf432d51a2b8bcf5d64e14b89c7ba825eb08d28dc4d40b679a
+Section: 嗨-工具
+Description: Huchundong大佬完善中文，增加全部忽略更新的Sileo。
 Author: Amy While <me@anamy.gay>
-Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
-Name: Sileo (Nightly Channel)
-Sileodepiction: https://featuredpage.getsileo.app/depiction.json
+Name: Sileo(rootless)
 
