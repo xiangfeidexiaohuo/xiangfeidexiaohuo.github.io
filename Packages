@@ -43,6 +43,22 @@ Description: Snowboard 中文修正包(rootless)。
 Author: 妖刀
 Name: Snowboard 中文修正包(rootless)
 
+Package: com.hk.storeswitcher2.rl
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: subdiox
+Depends: firmware (>= 15), mobilesubstrate
+Conflicts: com.lenglengyu.storeswitcher2-rootless
+Filename: rootless/StoreSwitcher2(rootless).deb
+Size: 108452
+MD5sum: a5ef7f55dbb948029cf743d6607cf318
+SHA1: c2c186194ade6f9d7897ec4b3ab311d06671f7fa
+SHA256: 6cc642fc89622c3e3a9d48e5028f3fcd79a6ac82df44fbeb6be33aca4a63fa84
+Section: 嗨-工具
+Description: 冷冷雨基于开源编译适配rootless，AppStore帐户页面中快速切换账号。
+Author: subdiox
+Name: StoreSwitcher2(rootless)
+
 Package: org.coolstar.sileonightly
 Version: 2.4+20230402.1680381849.a5d39db
 Architecture: iphoneos-arm64
