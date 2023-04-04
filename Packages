@@ -1,14 +1,30 @@
+Package: com.hk.choicy.cn.rl
+Version: 1.4.6
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Choicy 简体中文包(rootless).deb
+Size: 4316
+MD5sum: 92a237223740c28120efc9d319bb2079
+SHA1: 097606c122ce31264afc8f696008698501481619
+SHA256: 641a8abc6fc4aab0f1155c8f7c85feb7e130f4cd0e6c650851f93f17456e082e
+Section: 嗨-汉化
+Description: Choicy 简体中文包(rootless)。
+Author: 妖刀
+Name: Choicy 简体中文包(rootless)
+
 Package: com.hk.jjolano.shadow.cn.rl
 Version: 3.7.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: rootless/Shadow 简体中文包(rootless)(1).deb
-Size: 3044
-MD5sum: d527aa50c8a0545c6ba1f8950f39b091
-SHA1: 1d1aef7c2fb4c54d188242bd7d70797b8d53e17c
-SHA256: 69034f7b911bda76c2a5c3f83d0dfd236ef30239650bf8e5e637251cbdc54bd1
+Filename: rootless/Shadow 简体中文包(rootless).deb
+Size: 3064
+MD5sum: 5713c9c7c89c996c9e95cb63bf88b697
+SHA1: 8351d140dec14aac8d0c482b1eabf3a537897dc8
+SHA256: 09c79d918ed435e6b1ea328bcab21b1e23dc2917061395a779f43ea38a7d0a36
 Section: 嗨-汉化
+Description: Shadow 简体中文包(rootless)。
 Author: 妖刀
 Name: Shadow 简体中文包(rootless)
 
@@ -17,12 +33,29 @@ Version: 1.5.9~beta3
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: rootless/Snowboard 中文修正包(rootless)(1).deb
-Size: 3660
-MD5sum: f245425a56341624c0cab1989336b795
-SHA1: dd539192b62c54da56a865e444492be0687b5048
-SHA256: dcc61734e01760678ba20d2548e9f89576d575ba9962d72fb8730d3ebca4ba49
+Filename: rootless/Snowboard 中文修正包(rootless).deb
+Size: 3668
+MD5sum: d760d4c3e6f012aa484404671f603073
+SHA1: 468338126a571a5f0228fc51738d1c560dcac5ae
+SHA256: 8a9e6805750c3ed2e5cf9b31b3cbe8a1ce805c5c0180a0ac370633de9e1ac2b5
 Section: 嗨-汉化
+Description: Snowboard 中文修正包(rootless)。
 Author: 妖刀
 Name: Snowboard 中文修正包(rootless)
+
+Package: org.coolstar.sileonightly
+Version: 2.4+20230402.1680381849.a5d39db
+Architecture: iphoneos-arm64
+Maintainer: Amy While <me@anamy.gay>
+Filename: rootless/org.coolstar.sileonightly_2.4+20230402.1680381849.a5d39db_iphoneos-arm64.deb
+Size: 2718644
+MD5sum: 43470c951a727709750eed521d4fc090
+SHA1: f3bfcdc286f61b255d0a82a1680d93ac4ed33e1f
+SHA256: 792c735d2455958105202cd7877ce57901f804772d7c4d43a9a6354841020ad8
+Section: Packaging
+Description: A modern APT package manager frontend
+Author: Amy While <me@anamy.gay>
+Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
+Name: Sileo (Nightly Channel)
+Sileodepiction: https://featuredpage.getsileo.app/depiction.json
 
