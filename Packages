@@ -13,23 +13,20 @@ Description: Choicy 简体中文包(rootless)。
 Author: 妖刀
 Name: Choicy 简体中文包(rootless)
 
-Package: com.hk.icleanerpro.rl
-Version: 7.10.0
+Package: com.hk.cylinder.cn.rl
+Version: 1.1.1
 Architecture: iphoneos-arm64
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Depends: firmware (>= 15.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro
-Filename: rootless/iCleaner Pro(rootless).deb
-Size: 3420764
-MD5sum: 943d154c2cce4c7af21fa5c912433704
-SHA1: 0aff24187597883eb7d89418f901c7652871bd68
-SHA256: 326a3e34e9fec053c9af2663e9f6acde707130c5639d5bd5d063bc07eff7e154
-Section: 嗨-工具
-Homepage: http://ib-soft.net/icleaner
-Description: iCleaner Pro简单修改适配rootless。
-Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Name: iCleaner Pro(rootless)
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/CylinderReborn 中文修复包.deb
+Size: 2296
+MD5sum: 1ed6ca956d1a7130e92b1db7ba94a34d
+SHA1: 596ff9a06c9d6502074ebad990d4716ea8687a14
+SHA256: 4b4de7fc6c1689263de0a946fe289fe021867b3a7282ffcd19694342be5a6181
+Section: 嗨-汉化
+Description: CylinderReborn 中文修复包(rootless)。
+Author: 妖刀
+Name: CylinderReborn 中文修复包(rootless)
 
 Package: com.hk.jjolano.shadow.cn.rl
 Version: 3.7.1
