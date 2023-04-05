@@ -59,6 +59,22 @@ Description: skypain大佬制作的控制中心的定位、注销、设置模块
 Author: Mr.Zhang
 Name: CCLess++(rootless)
 
+Package: com.hk.rootless.cc
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang
+Depends: com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless
+Filename: rootless/CCLess++(rootless)_1.1.deb
+Size: 135752
+MD5sum: a1065d18c37fd8533a61c8bf5a341a12
+SHA1: 623940918eb3bc39e327b40d2d34063f3ce8c43e
+SHA256: b5d5136e8767dfed08997bc7ccb49e481b92f3e9acbd3bfdfb6966675a816208
+Section: 嗨-工具
+Description: skypain大佬制作的控制中心的定位、注销、设置模块。Netskao的一键清角标，SOPPPra的实时CPU使用率。
+Author: Mr.Zhang
+Name: CCLess++(rootless)
+
 Package: com.hk.snowboard.cn.rl
 Version: 1.5.9~beta3
 Architecture: iphoneos-arm64
