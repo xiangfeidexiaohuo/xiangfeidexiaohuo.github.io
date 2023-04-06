@@ -28,6 +28,21 @@ Description: CylinderReborn 中文修复包(rootless)。
 Author: 妖刀
 Name: CylinderReborn 中文修复包(rootless)
 
+Package: com.hk.ezswipe.cn.rl
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/EZSwipe 简体中文包(rootless).deb
+Size: 1484
+MD5sum: 4b1e97a4814f3740dabb71a22528754c
+SHA1: 710e8070f158c46bf508c48b145696077b5cf0a6
+SHA256: 6d93e3936a3c574f6208c4fb4b9c690d1ed036d91a73f94a83ec9abd7043292b
+Section: 嗨-汉化
+Description: EZSwipe 简体中文包(rootless)。
+Author: 妖刀
+Name: EZSwipe 简体中文包(rootless)
+
 Package: com.hk.jjolano.shadow.cn.rl
 Version: 3.7.1
 Architecture: iphoneos-arm64
