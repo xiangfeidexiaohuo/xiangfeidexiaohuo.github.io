@@ -58,6 +58,21 @@ Description: Shadow 简体中文包(rootless)。
 Author: 妖刀
 Name: Shadow 简体中文包(rootless)
 
+Package: com.hk.quickactions.cn.rl
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/QuickActions 简体中文包(rootless).deb
+Size: 1312
+MD5sum: b1cd0ffc7604a7b29ac5bd0d3e610710
+SHA1: d2dd031af2b3a08a203b0b862febeb29509413c2
+SHA256: 2d8693c7d50284bc07daf66a8a92455f8a1e72ccfebdcf3475ba21db951cf4e2
+Section: 嗨-汉化
+Description: QuickActions 简体中文包(rootless)。
+Author: 妖刀
+Name: QuickActions 简体中文包(rootless)
+
 Package: com.hk.rootless.cc
 Version: 1.0
 Architecture: iphoneos-arm64
