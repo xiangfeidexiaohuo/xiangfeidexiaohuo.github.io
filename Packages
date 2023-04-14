@@ -105,22 +105,6 @@ Description: 集合的控制中心模块：定位、注销、设置、VPN等模�
 Author: 妖刀
 Name: CCLess++(rootless)
 
-Package: com.hk.rootless.icleanerpro
-Version: 7.10.0
-Architecture: iphoneos-arm64
-Maintainer: Ivano Bilenchi & 妖刀
-Depends: firmware (>= 15.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro
-Filename: rootless/iCleaner Pro(野生rootless).deb
-Size: 2451012
-MD5sum: cab4f27017804aee434f8bbaf5fb0e1b
-SHA1: 53aa7e3d49ec7ffa9ec0f22a71703332073cdaac
-SHA256: b71d9d885557e3e1a46b7af7f636997087d38a3512d78c14de35075031c8d6f4
-Section: 嗨-工具
-Description: iCleaner Pro的rootless野生适配版，毕竟官方没支持，某些功能失效或者闪退。
-Author: Ivano Bilenchi <support@ib-soft.net>
-Name: iCleaner Pro(野生rootless)
-
 Package: com.hk.rootless.minilsp
 Version: 1.1.0-1
 Architecture: iphoneos-arm64
