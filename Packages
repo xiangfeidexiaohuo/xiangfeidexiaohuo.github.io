@@ -138,6 +138,53 @@ Description: 集合的控制中心模块：定位、注销、设置、VPN模块�
 Author: 妖刀
 Name: CCLess++(rootless)
 
+Package: com.hk.rootless.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Ivano Bilenchi & 妖刀
+Depends: firmware (>= 15.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro
+Filename: rootless/iCleaner Pro(野生rootless).deb
+Size: 2451012
+MD5sum: cab4f27017804aee434f8bbaf5fb0e1b
+SHA1: 53aa7e3d49ec7ffa9ec0f22a71703332073cdaac
+SHA256: b71d9d885557e3e1a46b7af7f636997087d38a3512d78c14de35075031c8d6f4
+Section: 嗨-工具
+Description: iCleaner Pro的rootless野生适配版，毕竟官方没支持，某些功能失效或者闪退。
+Author: Ivano Bilenchi <support@ib-soft.net>
+Name: iCleaner Pro(野生rootless)
+
+Package: com.hk.rootless.minilsp
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Depends: mobilesubstrate
+Conflicts: com.skypain.minilsp
+Filename: rootless/MiniLsp(rootless).deb
+Size: 5568
+MD5sum: 970c7ccb615e10e9a2bd1cc7be5670c3
+SHA1: f74bd36738616f40ae70537d0b456d40cafc7a6b
+SHA256: 5179a745d27ffe6f0cf276d8ae5eca71eb5c54de31a478dc25948e6e1a263b40
+Section: 嗨-工具
+Description: 迷你锁屏播放器，无设置。
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Name: MiniLsp(rootless)
+
+Package: com.hk.settingsrevamp.cn.rl
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/SettingsRevamp 简体中文包(rootless).deb
+Size: 4128
+MD5sum: c9858bb9a7c71299d88efb4351e9c2e5
+SHA1: 98d03f09fc0a5d9107cd898eadf2741c892adea9
+SHA256: d13766d0665dfdb61bcea516e14f815b3dc47c2de314b54dda6f8716531fe2d0
+Section: 嗨-汉化
+Description: SettingsRevamp 简体中文包(rootless)。
+Author: 妖刀
+Name: SettingsRevamp 简体中文包(rootless)
+
 Package: com.hk.snowboard.cn.rl
 Version: 1.5.9~beta3
 Architecture: iphoneos-arm64
@@ -185,21 +232,6 @@ Description: Acreson适配支持iOS15的Axon，锁屏通知聚合插件，已添
 Author: Nepeta & Baw Appie & Acreson
 Name: Axon(rootless)
 Sponsor: Acreson <342080124@qq.com>
-
-Package: com.skypain.minilsp
-Version: 1.0.0-2
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Depends: mobilesubstrate
-Filename: rootless/MiniLsp(rootless).deb
-Size: 8350
-MD5sum: 5a2f0dc540ba25943b730fc79ac8f4aa
-SHA1: f3aa56e21c8a17f0b17c5dfcd69c40c54d6a4942
-SHA256: a4358a9d01cf541e30ddcd4b115aefbad65239b442920ad5f306f2e3cbecc07d
-Section: 嗨-工具
-Description: 迷你锁屏播放器，无设置。
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Name: MiniLsp(rootless)
 
 Package: org.coolstar.sileonightly
 Version: 2.4+20230402.1680449342.40fab61
