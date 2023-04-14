@@ -74,54 +74,6 @@ Author: 妖刀
 Name: QuickActions 简体中文包(rootless)
 
 Package: com.hk.rootless.cc
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang
-Depends: com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring
-Filename: rootless/CCLess++(rootless).deb
-Size: 78050
-MD5sum: 41d7445a5146a23b4df98ddccd475745
-SHA1: 66fdeed959a0481991e477e5d50e4e40af3f1628
-SHA256: c3a4943bf83896a5f3733121b156c7126e668a688e772a6386b772582022c281
-Section: 嗨-工具
-Description: skypain大佬制作的控制中心的定位、注销、设置模块。
-Author: Mr.Zhang
-Name: CCLess++(rootless)
-
-Package: com.hk.rootless.cc
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless
-Filename: rootless/CCLess++(rootless)_1.1.deb
-Size: 135750
-MD5sum: e02849f8dafde39b73d9334408e137b1
-SHA1: 973d6759fa663054d184a057ced9a7fd6a245306
-SHA256: 9ee7d7c68e4f8ea390f57fbf75f35de4efa10465023df4b2e5f1f86bb0b84b8c
-Section: 嗨-工具
-Description: skypain大佬制作的控制中心的定位、注销、设置模块。Netskao的一键清角标，SOPPPra的实时CPU使用率。
-Author: 妖刀
-Name: CCLess++(rootless)
-
-Package: com.hk.rootless.cc
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless
-Filename: rootless/CCLess++(rootless)_1.2.deb
-Size: 158752
-MD5sum: 75282033cc062ec392cd6711f51e4c67
-SHA1: ae2bf72c41aef5d8642058da55798e348e521eff
-SHA256: 7214876b12abff9872444505e9ec85e532cb2b455109f21f029dba47a7ccd1ec
-Section: 嗨-工具
-Description: skypain大佬制作的控制中心的定位、注销、设置模块。Netskao的一键清角标、微信扫码、支付宝扫码模块。SOPPPra的实时CPU使用率模块。mtac的系统运行时间模块。
-Author: 妖刀
-Name: CCLess++(rootless)
-
-Package: com.hk.rootless.cc
 Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
@@ -134,38 +86,6 @@ SHA1: 065b07f6b5b7420b474a576bbd31daf82241a6cf
 SHA256: 3f77a6343ead895b48710d6947aae74ec37ec4fddd7ddd4be7e16b1d576f3141
 Section: 嗨-工具
 Description: skypain大佬制作的控制中心的定位、注销、设置、VPN模块。Netskao的一键清角标、微信扫码、支付宝扫码模块。SOPPPra的实时CPU使用率模块。mtac的系统运行时间模块。
-Author: 妖刀
-Name: CCLess++(rootless)
-
-Package: com.hk.rootless.cc
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless
-Filename: rootless/CCLess++(rootless)_1.5.deb
-Size: 333756
-MD5sum: 9e60d1cac984db839bebd05adafc9071
-SHA1: 1216d7e8b2e04ad4225490c57bed2986e994d135
-SHA256: bfb76694b20102a42debf4dfed62136956cd2a4677dbe8e7cfb72ec6520310d6
-Section: 嗨-工具
-Description: 集合的控制中心模块：定位、注销、设置、VPN模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度模块来自Netskao。实时CPU使用率模块来自SOPPPra。系统运行时间模块来自MTAC。感谢Skypain、Netskao、SOPPPra、MTAC等各位大佬！！！
-Author: 妖刀
-Name: CCLess++(rootless)
-
-Package: com.hk.rootless.cc
-Version: 1.6
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, jp.akusio.backgrounderaction15
-Filename: rootless/CCLess++(rootless)_1.6.deb
-Size: 342996
-MD5sum: fc536820895b438c041f11a1de0f150e
-SHA1: 10897a09ce6ceb96de6021f909a9928935d4f0b2
-SHA256: dbca046a0ff23438608578f7a023aa867aa3326ed90ffe0ccae0fc579a5ba86a
-Section: 嗨-工具
-Description: 集合的控制中心模块：定位、注销、设置、VPN模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度模块来自Netskao。实时CPU使用率模块来自SOPPPra。真后台模式来自Akusio。系统运行时间模块来自MTAC。感谢Skypain、Netskao、SOPPPra、MTAC、Akusio等各位大佬！！！
 Author: 妖刀
 Name: CCLess++(rootless)
 
@@ -279,18 +199,4 @@ Description: Acreson适配支持iOS15的Axon，锁屏通知聚合插件，已添
 Author: Nepeta & Baw Appie & Acreson
 Name: Axon(rootless)
 Sponsor: Acreson <342080124@qq.com>
-
-Package: org.coolstar.sileonightly
-Version: 2.4+20230402.1680449342.40fab61
-Architecture: iphoneos-arm64
-Maintainer: Huchundong <huchundong.com>
-Filename: rootless/Sileo(rootless).deb
-Size: 2370720
-MD5sum: 3fa0b466524e509f363a3ff22eaed4c6
-SHA1: 3cf52bdf18ff232874cff5c022225e2ad44ef99e
-SHA256: 40840d2e66209bcf432d51a2b8bcf5d64e14b89c7ba825eb08d28dc4d40b679a
-Section: 嗨-工具
-Description: Huchundong大佬完善中文，增加全部忽略更新的Sileo。
-Author: Amy While <me@anamy.gay>
-Name: Sileo(rootless)
 
