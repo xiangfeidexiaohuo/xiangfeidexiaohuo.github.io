@@ -122,6 +122,22 @@ Description: skypain大佬制作的控制中心的定位、注销、设置、VPN
 Author: 妖刀
 Name: CCLess++(rootless)
 
+Package: com.hk.rootless.cc
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless
+Filename: rootless/CCLess++(rootless)_1.5.deb
+Size: 219256
+MD5sum: 8eb5b05c500d7db9c5e415019c580f91
+SHA1: 14f2155869f0b4c9fd2fc4f8d080875b6706a4f4
+SHA256: f11ca1c617f14780c0f0e4ee7d20cd295fe14a94bef8eb77b17f407ccebb6824
+Section: 嗨-工具
+Description: 集合的控制中心模块：定位、注销、设置、VPN模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换模块来自Netskao。实时CPU使用率模块来自SOPPPra。系统运行时间模块来自MTAC。感谢Skypain、Netskao、SOPPPra、MTAC等各位大佬！！！
+Author: 妖刀
+Name: CCLess++(rootless)
+
 Package: com.hk.snowboard.cn.rl
 Version: 1.5.9~beta3
 Architecture: iphoneos-arm64
