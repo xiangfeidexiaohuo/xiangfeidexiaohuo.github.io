@@ -153,6 +153,22 @@ Description: 集合的控制中心模块：定位、注销、设置、VPN模块�
 Author: 妖刀
 Name: CCLess++(rootless)
 
+Package: com.hk.rootless.cc
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, jp.akusio.backgrounderaction15
+Filename: rootless/CCLess++(rootless)_1.6.deb
+Size: 342996
+MD5sum: fc536820895b438c041f11a1de0f150e
+SHA1: 10897a09ce6ceb96de6021f909a9928935d4f0b2
+SHA256: dbca046a0ff23438608578f7a023aa867aa3326ed90ffe0ccae0fc579a5ba86a
+Section: 嗨-工具
+Description: 集合的控制中心模块：定位、注销、设置、VPN模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度模块来自Netskao。实时CPU使用率模块来自SOPPPra。真后台模式来自Akusio。系统运行时间模块来自MTAC。感谢Skypain、Netskao、SOPPPra、MTAC、Akusio等各位大佬！！！
+Author: 妖刀
+Name: CCLess++(rootless)
+
 Package: com.hk.rootless.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64
