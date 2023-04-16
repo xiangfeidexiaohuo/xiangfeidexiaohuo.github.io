@@ -21,12 +21,11 @@ Maintainer: aReo
 Depends: firmware (>=15.0), mobilesubstrate
 Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15
 Filename: rootless/AppTools15(rootless).deb
-Size: 159956
-MD5sum: e3c30ef4bd647014103ccae23b350900
-SHA1: 877e429c7f2e17721c23e19692093c47f03d9df2
-SHA256: 3b21dfe3e8d1e7008c13e9f2443a82d9c2abb4ac6696e8152b72243c96e5e357
+Size: 159932
+MD5sum: 4bff566e48d1ee4d891e9ca7d0c9c26c
+SHA1: b71aea26678f20837042251a180cccf4ab8267f1
+SHA256: c1cf849d46af526da09311e94404967fce09850c3efc8213ca754224798bae26
 Section: 嗨-付费
-Homepage: https://shuga.co/
 Description: AppTools for iOS15 Rootless，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，25元自行购买。和AppProtect一起打包购买，40元。
 Author: aReo
 Name: AppTools15(rootless)
