@@ -60,6 +60,21 @@ Description: CylinderReborn 中文修复包(rootless)。
 Author: 妖刀
 Name: CylinderReborn 中文修复包(rootless)
 
+Package: com.hk.edge2.cn.rl
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Edge2 简体中文包(rootless).deb
+Size: 1876
+MD5sum: 32b10eb9d3dbd537d5a1e15b5a1bb3ed
+SHA1: 76073b60ba25a3e08ec7fd64c8bcdab1b9ce94c5
+SHA256: 3245d5aecf72751d1deac75be194e7aae7b82477fb62151435866fd474f71ee3
+Section: 嗨-汉化
+Description: Edge2 简体中文包(rootless)。一款跑马灯效果的插件，插件源：https://repo.itznebbs.com/。
+Author: 妖刀
+Name: Edge2 简体中文包(rootless)
+
 Package: com.hk.ezswipe.cn.rl
 Version: 1.1.1
 Architecture: iphoneos-arm64
