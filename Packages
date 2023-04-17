@@ -152,6 +152,22 @@ Description: 迷你锁屏播放器，无设置。
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Name: MiniLsp(rootless)
 
+Package: com.hk.rootless.minilsp
+Version: 1.1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Depends: mobilesubstrate
+Conflicts: com.skypain.minilsp
+Filename: rootless/MiniLsp(rootless)_1.1.1-1.deb
+Size: 5572
+MD5sum: c4b8321514f2032e405f3adeb9da8198
+SHA1: 43bc67a1359c2f2bd0a612b54cbbc826092d629d
+SHA256: 5ae8fd8e260ac25f9de144a1c3796d3c1d87602a49f425b3d86c2e2556e79e90
+Section: 嗨-工具
+Description: 迷你锁屏播放器，无设置。
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Name: MiniLsp(rootless)
+
 Package: com.hk.settingsrevamp.cn.rl
 Version: 2.0
 Architecture: iphoneos-arm64
