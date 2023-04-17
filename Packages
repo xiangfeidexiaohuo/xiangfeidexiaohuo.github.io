@@ -30,6 +30,36 @@ Description: AppTools for iOS15 Rootless，强大的App类辅助插件，可以�
 Author: aReo
 Name: AppTools15(rootless)
 
+Package: com.hk.audiorecorderxs.cn.rl
+Version: 5.0
+Architecture: iphoneos-arm64
+Maintainer: Sandy0 & 妖刀
+Depends: mobilesubstrate
+Filename: rootless/AudioRecorder XS 简体中文包(rootless).deb
+Size: 6132
+MD5sum: 253f184b82e17e060caed15ea25659be
+SHA1: 1cba785fb39d9a28d90648c6ffdd609c340b6255
+SHA256: 5d7bbd11e032fe55443d407b1c2c085fd18b3b7a4a1a8b8ff56703b8f1d7e459
+Section: 嗨-汉化
+Description: AudioRecorder XS 简体中文包(rootless)。某些地方无法直接翻译，所以某些位置还是英文，后续想办法~
+Author: Sandy0 & 妖刀
+Name: AudioRecorder XS 简体中文包(rootless)
+
+Package: com.hk.bioprotect.cn.rl
+Version: 4.6
+Architecture: iphoneos-arm64
+Maintainer: Sandy0 & Ball
+Depends: mobilesubstrate
+Filename: rootless/BioProtect 简体中文包(rootless).deb
+Size: 5652
+MD5sum: 4f9d447292c10c7200ac5f7d81978f0f
+SHA1: 531808fddd04d7ed36f5e9a04dd0b27a6864f771
+SHA256: 167a3360d1401e02e8a6198e70040041a89ade55e672fe770908f63407c12d45
+Section: 嗨-汉化
+Description: BioProtect 简体中文包(rootless)。某些地方无法直接翻译，所以某些位置还是英文，后续想办法~
+Author: Sandy0 & Ball
+Name: BioProtect 简体中文包(rootless)
+
 Package: com.hk.choicy.cn.rl
 Version: 1.4.6
 Architecture: iphoneos-arm64
@@ -59,6 +89,21 @@ Section: 嗨-汉化
 Description: CylinderReborn 中文修复包(rootless)。
 Author: 妖刀
 Name: CylinderReborn 中文修复包(rootless)
+
+Package: com.hk.dynamicpeninsula.cn.rl
+Version: 0.6
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/DynamicPeninsula 简体中文包(rootless).deb
+Size: 1796
+MD5sum: 4b36177ac9712bd92c2a4910c6595537
+SHA1: 6db24f84caf94038cb237806379b536cf697ba77
+SHA256: 64c79e1a0fa93476c3ba6a27857bb44bf50dd8cb9dcee3dc442209dc9f1c3c6f
+Section: 嗨-汉化
+Description: DynamicPeninsula 简体中文包(rootless)。
+Author: 妖刀
+Name: DynamicPeninsula 简体中文包(rootless)
 
 Package: com.hk.edge2.cn.rl
 Version: 1.0
