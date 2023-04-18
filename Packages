@@ -45,6 +45,21 @@ Description: AudioRecorder XS 简体中文包(rootless)。某些地方无法直�
 Author: Sandy0 & 妖刀
 Name: AudioRecorder XS 简体中文包(rootless)
 
+Package: com.hk.audiorecorderxs.cn.rl
+Version: 5.0-1
+Architecture: iphoneos-arm64
+Maintainer: Sandy0 & 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/AudioRecorder XS 简体中文包(rootless)_5.0-1.deb
+Size: 11636
+MD5sum: 1adea36c115e69b95f8f0297471c5694
+SHA1: 870ffbf81de4033fc8ac114d41c45b891cd98492
+SHA256: 658bad34ef345166ea5d1e6e80e99cccb17de4b9742080f63bb975340080ddd5
+Section: 嗨-汉化
+Description: AudioRecorder XS 简体中文包(rootless)。
+Author: Sandy0 & 妖刀
+Name: AudioRecorder XS 简体中文包(rootless)
+
 Package: com.hk.bioprotect.cn.rl
 Version: 4.6
 Architecture: iphoneos-arm64
@@ -57,6 +72,21 @@ SHA1: 531808fddd04d7ed36f5e9a04dd0b27a6864f771
 SHA256: 167a3360d1401e02e8a6198e70040041a89ade55e672fe770908f63407c12d45
 Section: 嗨-汉化
 Description: BioProtect 简体中文包(rootless)。某些地方无法直接翻译，所以某些位置还是英文，后续想办法~
+Author: Sandy0 & Ball
+Name: BioProtect 简体中文包(rootless)
+
+Package: com.hk.bioprotect.cn.rl
+Version: 4.6-30
+Architecture: iphoneos-arm64
+Maintainer: Sandy0 & Ball
+Depends: mobilesubstrate, oldabi
+Filename: rootless/BioProtect 简体中文包(rootless)_4.6-30.deb
+Size: 13468
+MD5sum: ceec366b138d0b6f046b8df7fe983efa
+SHA1: 4b95ea4d2b00c52f6ac8971b00129ac4bb38d3df
+SHA256: 0ee192bf9e3b26faa9927ef521b9d6acdf7e1110e79e8934b57d9f1fd3921296
+Section: 嗨-汉化
+Description: BioProtect 简体中文包(rootless)。
 Author: Sandy0 & Ball
 Name: BioProtect 简体中文包(rootless)
 
@@ -149,6 +179,21 @@ Section: 嗨-汉化
 Description: Shadow 简体中文包(rootless)。
 Author: 妖刀
 Name: Shadow 简体中文包(rootless)
+
+Package: com.hk.nfcwriterxs.cn.rl
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Ball
+Depends: mobilesubstrate, oldabi
+Filename: rootless/NFCWriter XS 简体中文包(rootless).deb
+Size: 10272
+MD5sum: f3a83b6028744a59cf9e34a8854081ea
+SHA1: d5b9deaa48973596671d98343b422edf8559eb3d
+SHA256: fcee88ec0b68969984d591d003922b8ca7253eddfc2ed6d816a342c2632a4203
+Section: 嗨-汉化
+Description: NFCWriter XS 简体中文包(rootless)。
+Author: Ball
+Name: NFCWriter XS 简体中文包(rootless)
 
 Package: com.hk.quickactions.cn.rl
 Version: 1.0.0
