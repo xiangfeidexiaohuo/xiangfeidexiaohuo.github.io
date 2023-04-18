@@ -181,6 +181,38 @@ Description: skypain大佬制作的控制中心的定位、注销、设置、VPN
 Author: 妖刀
 Name: CCLess++(rootless)
 
+Package: com.hk.rootless.colorbadges
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: David Goldman
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, oldabi
+Filename: rootless/ColorBadges(rootless).deb
+Size: 61060
+MD5sum: 263cf50ca6b6a296e9934a6416eaa2b6
+SHA1: 4ec31e7d5f6c03b550bf6c41d5e1f2dbef40cb4b
+SHA256: fc6520975c339548e33ce1ef81f9aa8d0a9367706c76c63bd4beb07525263b0a
+Section: 嗨-系统
+Description: ColorBadges彩色角标，刀刀转换支持Fugu15，已带汉化包。安装前确保使用的Fugu15和ElleKit是最新版。提示：毕竟不是插件作者更新支持rootless，可能会出现闪退、卡注销、卡用户空间重启等bug，若出现风险，自行承担！
+Author: David Goldman
+Name: ColorBadges(rootless)
+Sponsor: Hi客源
+
+Package: com.hk.rootless.janwechat
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: Jan
+Depends: mobilesubstrate, oldabi
+Filename: rootless/Jan-WeChat(rootless).deb
+Size: 599308
+MD5sum: 81d80a2404b5bbfebaa517d45be3165e
+SHA1: 9889517b45b575fc8d9dcc412d7b4b3e13d2fbcf
+SHA256: 746265cbdc759b882f161bc457a19029f6e1d671e6992c308fde9384850473ec
+Section: 嗨-工具
+Description: Jan WeChat微信助手rootless版，插件还是老版本，作者都不见了，没更新的，可能某些功能失效，只是转换支持Fugu15而已。安装前确保使用的Fugu15和ElleKit是最新版。提示：毕竟不是插件作者更新支持rootless，可能会出现闪退、卡注销、卡用户空间重启等bug，若出现风险，自行承担！
+Author: Jan
+Name: Jan-WeChat(rootless)
+Sponsor: Jan
+
 Package: com.hk.rootless.minilsp
 Version: 1.1.0-1
 Architecture: iphoneos-arm64
@@ -273,6 +305,52 @@ Section: 嗨-工具
 Description: 冷冷雨基于开源编译适配rootless，AppStore帐户页面中快速切换账号。
 Author: subdiox
 Name: StoreSwitcher2(rootless)
+
+Package: com.hk.trollnonce.cn.rl
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/TrollNonce 简体中文包(rootless).deb
+Size: 4336
+MD5sum: 80600ad7023feb8e18839c4dd283042e
+SHA1: 45c1a4224754b4f29aad206c7982815877315559
+SHA256: b3bd010ee4467e3a910fc4b06ebb13f9614bf4333519b4f3496cd4e3cc68d983
+Section: 嗨-汉化
+Description: TrollNonce 简体中文包(rootless)。
+Author: 妖刀
+Name: TrollNonce 简体中文包(rootless)
+
+Package: com.hk.trollstore.cn.rl
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 136
+Depends: mobilesubstrate, oldabi
+Filename: rootless/TrollStore 简体中文包(rootless).deb
+Size: 10412
+MD5sum: 2b9a834c27e3eb923b8bf12b12c16b5e
+SHA1: 541f6bef6a04fc63bab5bf97e7226e3534a008fb
+SHA256: 2b90d792d753dec6542aa40731453404b5d06747361fa7097065d578ce6e5485
+Section: 嗨-汉化
+Description: TrollStore 简体中文包(rootless)。
+Author: 妖刀
+Name: TrollStore 简体中文包(rootless)
+
+Package: com.hk.zstsu.cn.rl
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Zstsu 简体中文包(rootless).deb
+Size: 3596
+MD5sum: e6abde44b31c336e5cab7c18d392a628
+SHA1: 031f556192bf4d982ad61308c97a2f3caa8bb03d
+SHA256: 780dd432ca16f5e0e59a18fd5c11b3983942d684e857348692e1e226105ec3f0
+Section: 嗨-汉化
+Description: Zstsu 简体中文包(rootless)。
+Author: Mo
+Name: Zstsu 简体中文包(rootless)
 
 Package: com.rootless.hk.axon
 Version: 2.0
