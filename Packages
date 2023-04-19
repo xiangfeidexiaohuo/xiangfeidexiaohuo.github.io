@@ -382,6 +382,21 @@ Description: TrollStore 简体中文包(rootless)。
 Author: 妖刀
 Name: TrollStore 简体中文包(rootless)
 
+Package: com.hk.youtubereborn.cn.rl
+Version: 4.0.9
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/YouTube Reborn 简体中文包(rootless).deb
+Size: 10728
+MD5sum: 423738d09b71b780a12b9c31e382a82d
+SHA1: c0c35c069258e69e0170aeda68847198b1022d3e
+SHA256: 3c45ccf38a23b76bce768d79a10eb15e957cbe1b161ce6af9fca5aec463152f7
+Section: 嗨-汉化
+Description: YouTube Reborn 简体中文包(rootless)。
+Author: 妖刀
+Name: YouTube Reborn 简体中文包(rootless)
+
 Package: com.hk.zstsu.cn.rl
 Version: 1.0
 Architecture: iphoneos-arm64
