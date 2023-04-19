@@ -14,6 +14,22 @@ Description: 一款强大的App隐私保护插件，系付费插件，25元自�
 Author: aReo
 Name: AppProtect(rootless)
 
+Package: com.hk.appprotectrootless
+Version: 1.7.9
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless
+Filename: rootless/AppProtect(rootless)_1.7.9.deb
+Size: 166360
+MD5sum: 4872eaea089406789c3e84f059c17882
+SHA1: 14fb43feb9e51da63957166e4444cbbea1d81beb
+SHA256: 46c4d02701d9e7d17f9fec66e710151ce47cbd40fe0d8834efa1e2ab8c1ba15a
+Section: 嗨-付费
+Description: 一款强大的App隐私保护插件，系付费插件，25元自行购买。和AppTools一起打包购买，40元。
+Author: aReo
+Name: AppProtect(rootless)
+
 Package: com.hk.apptools15rootless
 Version: 1.1.6
 Architecture: iphoneos-arm64
@@ -396,6 +412,21 @@ Section: 嗨-汉化
 Description: YouTube Reborn 简体中文包(rootless)。
 Author: 妖刀
 Name: YouTube Reborn 简体中文包(rootless)
+
+Package: com.hk.yth.cn.rl
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/YTHoldForSpeed 简体中文包(rootless).deb
+Size: 1804
+MD5sum: 6b73225ace3db41740a78e020866bed0
+SHA1: 8fd1479ffb18ee24a40367cc6302440eb3ba42ff
+SHA256: df16a16d685a43fc0ca08fca9a8b8ce6a98fc78f8291dbad9285341a5b2014b1
+Section: 嗨-汉化
+Description: YTHoldForSpeed 简体中文包(rootless)。
+Author: 妖刀
+Name: YTHoldForSpeed 简体中文包(rootless)
 
 Package: com.hk.zstsu.cn.rl
 Version: 1.0
