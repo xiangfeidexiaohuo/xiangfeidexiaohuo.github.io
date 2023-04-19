@@ -226,6 +226,22 @@ Description: QuickActions 简体中文包(rootless)。
 Author: 妖刀
 Name: QuickActions 简体中文包(rootless)
 
+Package: com.hk.rootless.barmoji
+Version: 2023.3
+Architecture: iphoneos-arm64
+Maintainer: CP Digital Darkroom
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, oldabi
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: rootless/Barmoji(rootless).deb
+Size: 44080
+MD5sum: 21ae7d3dfad892ab26a9b695b6c25446
+SHA1: bdb1c9071eb6d6e574f2140d8c60a4b8f176ab3b
+SHA256: adc5d6c5fc5b91767b08171b8b2463032ef34df1044c6665de14ea9cbea01595
+Section: 嗨-工具
+Description: 基于82的20323.3版Barmoji，Netskao修复支持Fugu15。
+Author: CP Digital Darkroom
+Name: Barmoji(rootless)
+
 Package: com.hk.rootless.cc
 Version: 1.3
 Architecture: iphoneos-arm64
