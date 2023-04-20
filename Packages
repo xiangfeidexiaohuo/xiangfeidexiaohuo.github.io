@@ -414,6 +414,21 @@ Description: TrollStore 简体中文包(rootless)。
 Author: 妖刀
 Name: TrollStore 简体中文包(rootless)
 
+Package: com.hk.velvet2.cn.rl
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/Velvet 2 简体中文包(rootless).deb
+Size: 5556
+MD5sum: 1d37740d3e7e20ae2c614a0064b6da71
+SHA1: d03dbc46854c8ca3cb91bdefc087d174107a636d
+SHA256: 51bb6a86d003f574a9c34a92afba7413b35b0a359df59dd73c7c01cfecdbd634
+Section: 嗨-汉化
+Description: Velvet 2 简体中文包(rootless)。
+Author: 妖刀
+Name: Velvet 2 简体中文包(rootless)
+
 Package: com.hk.youtubereborn.cn.rl
 Version: 4.0.9
 Architecture: iphoneos-arm64

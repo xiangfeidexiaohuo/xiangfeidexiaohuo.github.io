@@ -1,0 +1,41 @@
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: ios
+Components: main
+Date: Thu, 20 Apr 2023 03:31:29 +0000
+Description: DaoDao's tweak repository
+Label: DaoDao's Repo
+Origin: DaoDao's Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 881cb178fad691c1249e7e88ea952c91            18147 Packages
+ cd71169ca84e687fd2586c41a5022056             5609 Packages.bz2
+ ffba5f26e2de20492a33a13fa829f124             6043 Packages.gz
+ 816e55bc30bccb5d5192266faa971f2e             5287 Packages.lzma
+ c2dad8a1e03ab1ad70a0a00637c44a33             5332 Packages.xz
+ face892dd4794695ba2fda641c58606d             6016 Packages.zst
+ 4a1dbf02cec72d9fa1e83c78b9154fe9              221 Release
+SHA1:
+ 574d0ed55a1850c311a4f335dc12ecaf378e33ab            18147 Packages
+ 3b4b780e267e207dfade81d7fe97aff84a1897fb             5609 Packages.bz2
+ 82905f4f8fd060cf64bba0aa551831fb0caf5dc3             6043 Packages.gz
+ d781bb2b0b5d22e35696aeed15ec1ab6a2ef9631             5287 Packages.lzma
+ 66a36de291bb52b27da37788793eb1428bf9db60             5332 Packages.xz
+ 79d376853bfd2116b6cf3a4b8560e8003c1f3d79             6016 Packages.zst
+ 2a58faed5c217981b23d6e39301e062f965e002e              221 Release
+SHA256:
+ 8b3de4dcc2ab77b8a50135edb51db8384a4835092b96d001917fd6ac3f8e7726            18147 Packages
+ e9f56aab5019b80fc156033ee16facbfd49f91845a24b791c5f1dfa61c4c60a7             5609 Packages.bz2
+ 255279f4cde5b38a4651de58f8461c4572c903068a24b78ab194894a746873ec             6043 Packages.gz
+ f0255e88bde55aa44ac272f1a7d8f4cb2370de840f6ed6c9c9eb46e672bde522             5287 Packages.lzma
+ 75761c36c93b73ab03d46ae0fc619988975a5ba25a146207bc73153d4e061dfa             5332 Packages.xz
+ 18781acb5a56291f269f4a643419914f38b9df149ba0c1a3dbba5462815c81d7             6016 Packages.zst
+ 5306afa1be678e249b19bfcf544d4a3de4212d450c763491e0a55dd1c8a28d2b              221 Release
+SHA512:
+ 8c1ec7f391d885c899d53dd503a4275cbbba01012fc2ea477271eacfdc7c72553effa5186cd799e3b554b99b551a226dec6ca07222c202ac9cc33c70cc3a0f3f            18147 Packages
+ d069aa5e44c2b830741e06210a4baf6afefad4ae0bb393b27d4f99a3843a452bda62479025e65cc64ea0df00eed9f0c087b1d9192cc92d7cc62e73a9061ffdbd             5609 Packages.bz2
+ 53108f8a8e1b46fa558e83fb17199a5bcfd78bacfc752b2153af110121f77e28c45684b3d1b6bb5ace1646c99596de250a3a28147aa041793aed2be14c956e24             6043 Packages.gz
+ 912d5406173b02fe4858a39ba8cdb397257ee35d728ff1b446a82f77fa93fd519cc7e4e4fda99f0af39849ec1f512137e51e36311496be922718305599fe933d             5287 Packages.lzma
+ 21038a746876db233e5a2d7cd2468927a28b2928e679eadc4ffbd774af246cb6ff537e64c52179f91add01dba624d0b6a7a907e0d7703c9db7f60f2782acc4fc             5332 Packages.xz
+ d3582caf77edc8bdb6987734c67a595438064d2d41993c81a5f25481659e15d088acf4aa3edf46061c9cb8991395248ed59118dab7b9c35d348ff6b8cdc0b6ff             6016 Packages.zst
+ d453b9833eb570e9e2c5c4d5980363b90a5cbda4fa76a37726ee5365cff7dcf814933cb822c6a9ccedf102210ab404cc921860c31836303bacce2c3cfbb3fe31              221 Release
