@@ -181,6 +181,21 @@ Description: EZSwipe 简体中文包(rootless)。
 Author: 妖刀
 Name: EZSwipe 简体中文包(rootless)
 
+Package: com.hk.folderx.cn.rl
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/FolderX 简体中文包(rootless).deb
+Size: 1764
+MD5sum: 39f366aef5a0940842c4602e583e1e03
+SHA1: d89d23428b9b57ff0950a5ed9a95cc2273f247e4
+SHA256: 20641a9610cc45f0d64318308f9e6d003965ccf170c83a74110e330486d263e8
+Section: 嗨-汉化
+Description: FolderX 简体中文包(rootless)。
+Author: 妖刀
+Name: FolderX 简体中文包(rootless)
+
 Package: com.hk.jjolano.shadow.cn.rl
 Version: 3.7.1
 Architecture: iphoneos-arm64
@@ -255,6 +270,22 @@ SHA1: 065b07f6b5b7420b474a576bbd31daf82241a6cf
 SHA256: 3f77a6343ead895b48710d6947aae74ec37ec4fddd7ddd4be7e16b1d576f3141
 Section: 嗨-工具
 Description: skypain大佬制作的控制中心的定位、注销、设置、VPN模块。Netskao的一键清角标、微信扫码、支付宝扫码模块。SOPPPra的实时CPU使用率模块。mtac的系统运行时间模块。
+Author: 妖刀
+Name: CCLess++(rootless)
+
+Package: com.hk.rootless.cc
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless
+Filename: rootless/CCLess++(rootless)_1.7.1.deb
+Size: 362496
+MD5sum: d452ae65606cee251075801e6c8d80c9
+SHA1: bb475ec16d2626bcce3d541d3c96a43770097e7b
+SHA256: 7937b784b4fa08ab630f958c0268a6ba78b97fcb0cb5402b2a11505f01b0311c
+Section: 嗨-工具
+Description: 集合的控制中心模块：定位、注销、设置、VPN等模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX等模块来自Netskao。实时CPU使用率模块来自SOPPPra。系统运行时间模块来自MTAC。感谢Skypain、Netskao、SOPPPra、MTAC等各位大佬！！！
 Author: 妖刀
 Name: CCLess++(rootless)
 
