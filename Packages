@@ -1,20 +1,4 @@
 Package: com.hk.appprotectrootless
-Version: 1.7.8
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless
-Filename: rootless/AppProtect(rootless).deb
-Size: 165576
-MD5sum: d226cc8210b58274f932af5b3c65d92e
-SHA1: 8ef43b371ecbe13b33a594f57df73d555ea742e7
-SHA256: c39a2b7c58a69638e75eae308e12bc66fa6d0b7b6edf35d677564a4bcd8e62c7
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，25元自行购买。和AppTools一起打包购买，40元。
-Author: aReo
-Name: AppProtect(rootless)
-
-Package: com.hk.appprotectrootless
 Version: 1.7.9
 Architecture: iphoneos-arm64
 Maintainer: aReo
@@ -353,20 +337,23 @@ Description: 迷你锁屏播放器，无设置。
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Name: MiniLsp(rootless)
 
-Package: com.hk.settingsrevamp.cn.rl
-Version: 2.0
+Package: com.hk.rootless.youtubereborn
+Version: 4.0.9-rootless-1+debug
 Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: rootless/SettingsRevamp 简体中文包(rootless).deb
-Size: 4128
-MD5sum: c9858bb9a7c71299d88efb4351e9c2e5
-SHA1: 98d03f09fc0a5d9107cd898eadf2741c892adea9
-SHA256: d13766d0665dfdb61bcea516e14f815b3dc47c2de314b54dda6f8716531fe2d0
-Section: 嗨-汉化
-Description: SettingsRevamp 简体中文包(rootless)。
-Author: 妖刀
-Name: SettingsRevamp 简体中文包(rootless)
+Maintainer: Lillie
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, h.ryan.youtubereborn
+Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
+Filename: rootless/YouTube Reborn(rootless).deb
+Size: 8919256
+MD5sum: 73c634ab2e0bec078d292e6632a11717
+SHA1: b6767cd07850a4d8c516b8d99544c77407ad659a
+SHA256: c458d4a003a22d8cf3563b19f37c76e12eec74919d4c0cc3d28cb20e897c741c
+Section: 嗨-工具
+Description: YouTube自定义插件，可去广告、下载、画中画、改布局等，汉化包源内安装。
+Author: Lillie
+Name: YouTube Reborn(rootless)
 
 Package: com.hk.settingsrevamp.cn.rl
 Version: 2.0.2
