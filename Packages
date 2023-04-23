@@ -180,21 +180,6 @@ Description: EZSwipe 简体中文包(rootless)。
 Author: 妖刀
 Name: EZSwipe 简体中文包(rootless)
 
-Package: com.hk.folderx.cn.rl
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: rootless/FolderX 简体中文包(rootless).deb
-Size: 1764
-MD5sum: 39f366aef5a0940842c4602e583e1e03
-SHA1: d89d23428b9b57ff0950a5ed9a95cc2273f247e4
-SHA256: 20641a9610cc45f0d64318308f9e6d003965ccf170c83a74110e330486d263e8
-Section: 嗨-汉化
-Description: FolderX 简体中文包(rootless)。
-Author: 妖刀
-Name: FolderX 简体中文包(rootless)
-
 Package: com.hk.jjolano.shadow.cn.rl
 Version: 3.7.1
 Architecture: iphoneos-arm64
