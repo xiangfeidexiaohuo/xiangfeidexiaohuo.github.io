@@ -105,6 +105,21 @@ Description: Choicy 简体中文包(rootless)。
 Author: 妖刀
 Name: Choicy 简体中文包(rootless)
 
+Package: com.hk.copylog.cn.rl
+Version: 1.5.6
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/CopyLog 简体中文包(rootless).deb
+Size: 5896
+MD5sum: fc8f695f8822b8b8e4bef53bc59b4c4f
+SHA1: 0d272ebb42a6fa99301df43209a8eb5858633473
+SHA256: b091e2e967ba1f6c79cc953e86f3b27741904125cbdc64203a49a2446a1c7a5f
+Section: 嗨-汉化
+Description: CopyLog 简体中文包(rootless)。
+Author: Hi客源
+Name: CopyLog 简体中文包(rootless)
+
 Package: com.hk.cylinder.cn.rl
 Version: 1.1.1
 Architecture: iphoneos-arm64
