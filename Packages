@@ -476,20 +476,20 @@ Description: YTHoldForSpeed 简体中文包(rootless)。
 Author: 妖刀
 Name: YTHoldForSpeed 简体中文包(rootless)
 
-Package: com.hk.zstsu.cn.rl
-Version: 1.0
+Package: com.hk.zetsu.cn.rl
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: rootless/Zstsu 简体中文包(rootless).deb
-Size: 3596
-MD5sum: e6abde44b31c336e5cab7c18d392a628
-SHA1: 031f556192bf4d982ad61308c97a2f3caa8bb03d
-SHA256: 780dd432ca16f5e0e59a18fd5c11b3983942d684e857348692e1e226105ec3f0
+Depends: mobilesubstrate, oldabi
+Filename: rootless/Zetsu 简体中文包(rootless).deb
+Size: 6468
+MD5sum: b0cfa543fdde881b00644f3e8d407085
+SHA1: 2bdf9a03c12fc8a6b65ab303afa3916c5142f14d
+SHA256: 3ac79bfc605b2e2351eaced8827fdf8cbcfed46eefe989028248c3426201f6f1
 Section: 嗨-汉化
-Description: Zstsu 简体中文包(rootless)。
+Description: Zetsu 简体中文包(rootless)。
 Author: Mo
-Name: Zstsu 简体中文包(rootless)
+Name: Zetsu 简体中文包(rootless)
 
 Package: com.rootless.hk.axon
 Version: 2.0
