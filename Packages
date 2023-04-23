@@ -431,22 +431,6 @@ Description: TrollNonce 简体中文包(rootless)。
 Author: 妖刀
 Name: TrollNonce 简体中文包(rootless)
 
-Package: com.hk.trollstore.cn.rl
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 136
-Depends: mobilesubstrate, oldabi
-Filename: rootless/TrollStore 简体中文包(rootless).deb
-Size: 10412
-MD5sum: 2b9a834c27e3eb923b8bf12b12c16b5e
-SHA1: 541f6bef6a04fc63bab5bf97e7226e3534a008fb
-SHA256: 2b90d792d753dec6542aa40731453404b5d06747361fa7097065d578ce6e5485
-Section: 嗨-汉化
-Description: TrollStore 简体中文包(rootless)。
-Author: 妖刀
-Name: TrollStore 简体中文包(rootless)
-
 Package: com.hk.velvet2.cn.rl
 Version: 2.0.2
 Architecture: iphoneos-arm64
