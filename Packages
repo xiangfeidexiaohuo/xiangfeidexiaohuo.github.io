@@ -385,6 +385,21 @@ Description: SettingsRevamp 简体中文包(rootless)。
 Author: 妖刀
 Name: SettingsRevamp 简体中文包(rootless)
 
+Package: com.hk.snapper2.cn.rl
+Version: 2.6.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Snapoer2 中文增补包(rootless).deb
+Size: 7368
+MD5sum: c85edce182f43b3e09c2b14a0dc306a8
+SHA1: 458f7381e26f77a8128512e280b07feb47cb9eff
+SHA256: d072bd45166bb9b1f58d5527a48273fc9e8c6b41bea46228c2018eadaf61fac5
+Section: 嗨-汉化
+Description: Snapper2 中文增补包(rootless)。
+Author: 妖刀
+Name: Snapoer2 中文增补包(rootless)
+
 Package: com.hk.snowboard.cn.rl
 Version: 1.5.9~beta3
 Architecture: iphoneos-arm64
