@@ -370,6 +370,21 @@ Description: SettingsRevamp 简体中文包(rootless)。
 Author: 妖刀
 Name: SettingsRevamp 简体中文包(rootless)
 
+Package: com.hk.settingsrevamp.cn.rl
+Version: 2.0.4
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/SettingsRevamp 简体中文包(rootless)_2.0.4.deb
+Size: 4080
+MD5sum: ab9cda269e58cb10567aa5573ebce6ab
+SHA1: daf7fd11f631fc710494fb640f2e813483a9d09a
+SHA256: ac8f5cf7c0f46c2d722cf87675c89a8d024e6c659739e2e5e1ca0f2d92741892
+Section: 嗨-汉化
+Description: SettingsRevamp 简体中文包(rootless)。
+Author: 妖刀
+Name: SettingsRevamp 简体中文包(rootless)
+
 Package: com.hk.snowboard.cn.rl
 Version: 1.5.9~beta3
 Architecture: iphoneos-arm64
