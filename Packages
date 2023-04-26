@@ -120,6 +120,21 @@ Description: CopyLog 简体中文包(rootless)。
 Author: Hi客源
 Name: CopyLog 简体中文包(rootless)
 
+Package: com.hk.copylog.cn.rl
+Version: 1.5.6-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/CopyLog 简体中文包(rootless)_1.5.6-1.deb
+Size: 6400
+MD5sum: 4670aeff11a61d82e9903b30cd80938a
+SHA1: 0c2b764b105d3413ba014a636a6de31f01d6cfc7
+SHA256: 473cb5a1d64b7cdec564a24c0c4aca7a0107911ce8f3ecc745d7333daa02c9c5
+Section: 嗨-汉化
+Description: CopyLog 简体中文包(rootless)。
+Author: Hi客源
+Name: CopyLog 简体中文包(rootless)
+
 Package: com.hk.cylinder.cn.rl
 Version: 1.1.1
 Architecture: iphoneos-arm64
@@ -236,6 +251,22 @@ Size: 44080
 MD5sum: 21ae7d3dfad892ab26a9b695b6c25446
 SHA1: bdb1c9071eb6d6e574f2140d8c60a4b8f176ab3b
 SHA256: adc5d6c5fc5b91767b08171b8b2463032ef34df1044c6665de14ea9cbea01595
+Section: 嗨-工具
+Description: 基于82的20323.3版Barmoji，Netskao修复支持Fugu15。
+Author: CP Digital Darkroom
+Name: Barmoji(rootless)
+
+Package: com.hk.rootless.barmoji
+Version: 2023.3.3
+Architecture: iphoneos-arm64
+Maintainer: CP Digital Darkroom
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji
+Filename: rootless/Barmoji(rootless)_2023.3.3.deb
+Size: 44080
+MD5sum: debffca34bb185cd422341c3910a1a50
+SHA1: 9a3333afcb4a8e2431c994e42ad5d71a8cc9edfb
+SHA256: 12e89f002a0b68f1f61ac1f4c3baa8245946a5ba0cd1fbb4aa42b92fe6bcc0eb
 Section: 嗨-工具
 Description: 基于82的20323.3版Barmoji，Netskao修复支持Fugu15。
 Author: CP Digital Darkroom
@@ -461,6 +492,21 @@ Description: Velvet 2 简体中文包(rootless)。
 Author: 妖刀
 Name: Velvet 2 简体中文包(rootless)
 
+Package: com.hk.velvet2.cn.rl
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/Velvet 2 简体中文包(rootless)_2.0.3.deb
+Size: 6120
+MD5sum: 2088b09b0d4e5b97ca22a76ccaf8aa1d
+SHA1: f6cf879c4c84c338257fc4126af7b1b544c49fa3
+SHA256: 51b025f22539d72234ebfc5f6c05d3f5e474df89bcb8029062be61910153d048
+Section: 嗨-汉化
+Description: Velvet 2 简体中文包(rootless)。
+Author: 妖刀
+Name: Velvet 2 简体中文包(rootless)
+
 Package: com.hk.youtubereborn.cn.rl
 Version: 4.0.9
 Architecture: iphoneos-arm64
@@ -501,6 +547,21 @@ Size: 6468
 MD5sum: b0cfa543fdde881b00644f3e8d407085
 SHA1: 2bdf9a03c12fc8a6b65ab303afa3916c5142f14d
 SHA256: 3ac79bfc605b2e2351eaced8827fdf8cbcfed46eefe989028248c3426201f6f1
+Section: 嗨-汉化
+Description: Zetsu 简体中文包(rootless)。
+Author: Mo
+Name: Zetsu 简体中文包(rootless)
+
+Package: com.hk.zetsu.cn.rl
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/Zetsu 简体中文包(rootless)_1.1-1.deb
+Size: 6720
+MD5sum: 68f48c46bfb0e042e83f7fec1fc07e48
+SHA1: 9b877aca5aec1c7d499d91bed24ee721b81bab3c
+SHA256: e573e383091b551deb96904407f75a016ad71d7ce924f1b7137ffe1c42ff41a7
 Section: 嗨-汉化
 Description: Zetsu 简体中文包(rootless)。
 Author: Mo
