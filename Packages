@@ -60,6 +60,21 @@ Description: AudioRecorder XS 简体中文包(rootless)。
 Author: Sandy0 & 妖刀
 Name: AudioRecorder XS 简体中文包(rootless)
 
+Package: com.hk.audiorecorderxs.cn.rl
+Version: 5.0-2
+Architecture: iphoneos-arm64
+Maintainer: Sandy0 & 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/AudioRecorder XS 简体中文包(rootless)_5.0-2.deb
+Size: 12212
+MD5sum: 45544583446526f1a022ea3e97845d74
+SHA1: 3895f7936f06f0ae100a62ab706429adcd6b9452
+SHA256: 642051b82bf3b765667632825030a33b6acc5b81bed51f82f3439791e34605b7
+Section: 嗨-汉化
+Description: AudioRecorder XS 简体中文包(rootless)。
+Author: Sandy0 & 妖刀
+Name: AudioRecorder XS 简体中文包(rootless)
+
 Package: com.hk.bioprotect.cn.rl
 Version: 4.6
 Architecture: iphoneos-arm64
@@ -387,30 +402,15 @@ Author: Lillie
 Name: YouTube Reborn(rootless)
 
 Package: com.hk.settingsrevamp.cn.rl
-Version: 2.0.2
+Version: 2.0.5
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: rootless/SettingsRevamp 简体中文包(rootless)_2.0.2.deb
-Size: 4056
-MD5sum: 4f959adc781c90884177fbff7a49dd23
-SHA1: 13313079958c0160c26779352ce95cb644186a58
-SHA256: a7baa8d32e6861022f7158a7511a6510e8a71700fb2cc7a915f5a44dd0ae06a8
-Section: 嗨-汉化
-Description: SettingsRevamp 简体中文包(rootless)。
-Author: 妖刀
-Name: SettingsRevamp 简体中文包(rootless)
-
-Package: com.hk.settingsrevamp.cn.rl
-Version: 2.0.4
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: rootless/SettingsRevamp 简体中文包(rootless)_2.0.4.deb
-Size: 4080
-MD5sum: ab9cda269e58cb10567aa5573ebce6ab
-SHA1: daf7fd11f631fc710494fb640f2e813483a9d09a
-SHA256: ac8f5cf7c0f46c2d722cf87675c89a8d024e6c659739e2e5e1ca0f2d92741892
+Filename: rootless/SettingsRevamp 简体中文包(rootless).deb
+Size: 4084
+MD5sum: f4b4666f1c76bcc12490c61457fe1643
+SHA1: 00a2856352df110a2d69e345da055a6e09e88c8f
+SHA256: 6de08e1ba13057231d8e5650add03d46b6d81154e8a754e4b5aaf901d26ba06e
 Section: 嗨-汉化
 Description: SettingsRevamp 简体中文包(rootless)。
 Author: 妖刀
@@ -462,6 +462,21 @@ Description: 冷冷雨基于开源编译适配rootless，AppStore帐户页面中
 Author: subdiox
 Name: StoreSwitcher2(rootless)
 
+Package: com.hk.translomatic.cn.rl
+Version: 2.17.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Translomatic 中文修复包(rootless).deb
+Size: 4900
+MD5sum: d255c9df7b48aa9a9f713c16d5bf0275
+SHA1: 84107d4aa2f3729aec08d0be39e83e3ee291bb4a
+SHA256: 63a22e76fb5b7ed8b462726729d4bf3362030356a18598de802d91cd92476ee5
+Section: 嗨-汉化
+Description: Translomatic 中文修复包(rootless)。
+Author: 妖刀
+Name: Translomatic 中文修复包(rootless)
+
 Package: com.hk.trollnonce.cn.rl
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -472,6 +487,22 @@ Size: 4336
 MD5sum: 80600ad7023feb8e18839c4dd283042e
 SHA1: 45c1a4224754b4f29aad206c7982815877315559
 SHA256: b3bd010ee4467e3a910fc4b06ebb13f9614bf4333519b4f3496cd4e3cc68d983
+Section: 嗨-汉化
+Description: TrollNonce 简体中文包(rootless)。
+Author: 妖刀
+Name: TrollNonce 简体中文包(rootless)
+
+Package: com.hk.trollnonce.cn.rl
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate, oldabi
+Filename: rootless/TrollNonce 简体中文包(rootless)_1.0-1.deb
+Size: 4832
+MD5sum: fc0e49fd82a115135e88264a66a4ad11
+SHA1: b286a2c49dcc0b2b5de47fd134beaf51ff2273b1
+SHA256: 805c3d5ef618421eb5e71f2ab85964dd695607b38cb2af15b30c5ec0fa9c0bc0
 Section: 嗨-汉化
 Description: TrollNonce 简体中文包(rootless)。
 Author: 妖刀
