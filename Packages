@@ -77,14 +77,14 @@ Name: AudioRecorder XS 简体中文包(rootless)
 
 Package: com.hk.betteralarm.cn.rl
 Version: 1.4.1
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/BetterAlarm 简体中文包(rootless).deb
-Size: 2988
-MD5sum: dc77d7a407c92349baf0c80cfd019d12
-SHA1: 82a5cb26994f436adef0c4ea1147e33fc8c9e228
-SHA256: 5be02c4e3cc896b03b2da5de6fa52e89b462eeeb787d7c50dae42e07f55aebe0
+Size: 2992
+MD5sum: bb1e7ac98e3e66911ff7c45beb25a5e8
+SHA1: c65d977dab696f91a3e49b0eff8773f72adfb923
+SHA256: 2fbacf7484d86e4c02beb4d1c1d0c17d584e1a763f74553fae7bafd37054dfc5
 Section: 嗨-汉化
 Description: BetterAlarm 简体中文包(rootless)。
 Author: 妖刀
