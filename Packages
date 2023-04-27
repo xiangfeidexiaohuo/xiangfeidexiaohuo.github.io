@@ -319,6 +319,22 @@ Description: 集合的控制中心模块：定位、注销、设置、VPN等模�
 Author: 妖刀
 Name: CCLess++(rootless)
 
+Package: com.hk.rootless.cc
+Version: 1.7.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless
+Filename: rootless/CCLess++(rootless)_1.7.2.deb
+Size: 362132
+MD5sum: 17f680d2a501f9d5780090a69107cf28
+SHA1: 3f2d42541ba39e4a011f8f8942f8eec8fcff9520
+SHA256: 802ac8ae6d52238043a4ca90f788eca5cf905c54ca3e1e5decbd35ee8c1f37bf
+Section: 嗨-工具
+Description: 集合的控制中心模块：定位、注销、设置、VPN等模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX等模块来自Netskao。实时CPU使用率模块来自SOPPPra。系统运行时间模块来自MTAC。感谢Skypain、Netskao、SOPPPra、MTAC等各位大佬！！！
+Author: 妖刀
+Name: CCLess++(rootless)
+
 Package: com.hk.rootless.colorbadges
 Version: 1.5.0
 Architecture: iphoneos-arm64
@@ -593,6 +609,21 @@ Size: 6720
 MD5sum: 68f48c46bfb0e042e83f7fec1fc07e48
 SHA1: 9b877aca5aec1c7d499d91bed24ee721b81bab3c
 SHA256: e573e383091b551deb96904407f75a016ad71d7ce924f1b7137ffe1c42ff41a7
+Section: 嗨-汉化
+Description: Zetsu 简体中文包(rootless)。
+Author: Mo
+Name: Zetsu 简体中文包(rootless)
+
+Package: com.hk.zetsu.cn.rl
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/Zetsu 简体中文包(rootless)_1.1-2.deb
+Size: 6712
+MD5sum: 8980839c8c784a9b14f9a882f8b1501b
+SHA1: c1952e16c0d2051b4f57e404ddb6dfce54cc53a3
+SHA256: 59d04010c97cb38e6f13cf184cfbe52c173ad7a4762d9318b89f37fc8580eb49
 Section: 嗨-汉化
 Description: Zetsu 简体中文包(rootless)。
 Author: Mo
