@@ -692,3 +692,20 @@ Author: Nepeta & Baw Appie & Acreson
 Name: Axon(rootless)
 Sponsor: Acreson <342080124@qq.com>
 
+Package: com.rootless.hk.axon
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, acreson.rootless.cj.axon, acreson.rootless.cj.axon.cn
+Filename: rootless/Axon(rootless)_2.1.deb
+Size: 145588
+MD5sum: a0a8030c758218cbc9edd69a10fd835e
+SHA1: 8011216f0da56c17c7a556d6bfe21716944bdb93
+SHA256: ae35b1451f2bb8a85b90eb6033f7b06b9b465c9c8ac46940e7250c27a41a7a07
+Section: 嗨-工具
+Description: Acreson适配支持iOS15的Axon，锁屏通知聚合插件，已添加中文汉化包。
+Author: Nepeta & Baw Appie & Acreson
+Name: Axon(rootless)
+Sponsor: Acreson <342080124@qq.com>
+
