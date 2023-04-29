@@ -302,6 +302,22 @@ Description: 基于82的20323.3版Barmoji，Netskao修复支持Fugu15。
 Author: CP Digital Darkroom
 Name: Barmoji(rootless)
 
+Package: com.hk.rootless.bfdecrypt
+Version: 1.3.5
+Architecture: iphoneos-arm64
+Maintainer: level3tjg
+Depends: mobilesubstrate, com.opa334.altlist, firmware (>=15.0)
+Conflicts: com.level3tjg.bfdecrypt
+Filename: rootless/bfdecrypt脱壳工具(rootless).deb
+Size: 69736
+MD5sum: 5e1d407e13f81c43dfa6772ccb20c497
+SHA1: fa07e9bc885539b62da2bbbe8dcd5ab22aa8c168
+SHA256: c117b0d5141b3c66e984ef5821544a9e24fe318240692ae9975dae7717093114
+Section: 嗨-工具
+Description: bfdecrypt脱壳工具 for Fugu15(多巴胺)，设置——bfdecrypt——选择要脱壳的App，然后打开该App，会有弹窗提示——选择"Yes/No"(随意选)，等待一会，脱壳完成，该App的数据目录——Documents下——"decrypted-app.ipa"文件。记得脱壳完成后，去设置里取消勾选App。
+Author: BishopFox
+Name: bfdecrypt脱壳工具(rootless)
+
 Package: com.hk.rootless.cc
 Version: 1.3
 Architecture: iphoneos-arm64
