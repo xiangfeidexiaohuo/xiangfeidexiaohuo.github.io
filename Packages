@@ -255,6 +255,36 @@ Description: Shadow 简体中文包(rootless)。
 Author: 妖刀
 Name: Shadow 简体中文包(rootless)
 
+Package: com.hk.kayoko.cn.rl
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/Kayoko 简体中文包(rootless).deb
+Size: 5668
+MD5sum: ce7d8922b76c61e911858289bec4f376
+SHA1: 9cc8dce7347b12a52bb8bd8627473d28754f25e7
+SHA256: eb886e7202e54edf141620c280ef39aa342c898b9e094ecf3db53958bc316584
+Section: 嗨-汉化
+Description: Kayoko 简体中文包(rootless)。
+Author: 妖刀
+Name: Kayoko 简体中文包(rootless)
+
+Package: com.hk.liddell.cn.rl
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Liddell 简体中文包(rootless).deb
+Size: 2736
+MD5sum: 37a634506cd4936be0096b242fc6d363
+SHA1: d386b1e8b9dd1c0c4db252385c192ccc2e010486
+SHA256: 9369c1361775cf169aedb931782890904eaf9850865c14cf8877bb9f906ecb85
+Section: 嗨-汉化
+Description: Liddell 简体中文包(rootless)。
+Author: 妖刀
+Name: Liddell 简体中文包(rootless)
+
 Package: com.hk.nfcwriterxs.cn.rl
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -397,6 +427,22 @@ Author: David Goldman
 Name: ColorBadges(rootless)
 Sponsor: Hi客源
 
+Package: com.hk.rootless.crane
+Version: 1.3.9
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane, com.hk.crane.cn.rl
+Filename: rootless/Crane(rootless).deb
+Size: 568836
+MD5sum: 1694ec4d8e73a0687dad166c181cc53a
+SHA1: 5cc671f3b3153878280e88d4e888c3b5ef76904b
+SHA256: 00fd9a2e9e7d6b9e7ef7c4fd10db84a6ad0030d575ae26b32f8f9e0033f0291e
+Section: 嗨-系统
+Description: 为应用程序提供多个容器，账号多开神器。已修正(增补)中文。
+Author: opa334
+Name: Crane(rootless)
+
 Package: com.hk.rootless.janwechat
 Version: 1.1.5
 Architecture: iphoneos-arm64
@@ -412,6 +458,22 @@ Description: Jan WeChat微信助手rootless版，插件还是老版本，作者�
 Author: Jan
 Name: Jan-WeChat(rootless)
 Sponsor: Jan
+
+Package: com.hk.rootless.liddell
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: Traurige <hello@traurige.dev>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, dev.traurige.libkitten (>= 1.3.3), com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: rootless/Liddell小横幅(rootless).deb
+Size: 91992
+MD5sum: c571f067835f6b8d5ba0ebc54277f463
+SHA1: 0a7891bf5223bec0a2d94b5c7c3cc14d2018e378
+SHA256: 592a732dd0a6128ba44dcc7f63cc71234e0b78dced3c4ab2d32b205f6e171f38
+Section: 嗨-工具
+Description: 小横幅通知，可自定义颜色等，汉化包源内安装。
+Author: Traurige <hello@traurige.dev>
+Name: Liddell小横幅(rootless)
 
 Package: com.hk.rootless.minilsp
 Version: 1.1.0-1
@@ -708,4 +770,21 @@ Description: Acreson适配支持iOS15的Axon，锁屏通知聚合插件，已添
 Author: Nepeta & Baw Appie & Acreson
 Name: Axon(rootless)
 Sponsor: Acreson <342080124@qq.com>
+
+Package: dev.traurige.libkitten
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Traurige <hello@traurige.dev>
+Depends: firmware (>= 12.0)
+Conflicts: love.litten.libkitten
+Provides: love.litten.libkitten (=1.3.3)
+Filename: rootless/libKitten(rootless).deb
+Size: 7800
+MD5sum: 7e5760d2632f61216cfa3c12443a2d2f
+SHA1: da3dd354e66914953360b42725d81b91ffada2d7
+SHA256: 1c45fe02d2ff399c4284a51764ac3de476d9affc27aa953a90f51363a99f77a5
+Section: 嗨-系统
+Description: 图片和颜色计算控件，Liddell小横幅插件的依赖。
+Author: Traurige <hello@traurige.dev>
+Name: libKitten(rootless)
 
