@@ -363,6 +363,22 @@ Description: bfdecrypt脱壳工具 for Fugu15(多巴胺)，设置——bfdecrypt
 Author: BishopFox
 Name: bfdecrypt脱壳工具(rootless)
 
+Package: com.hk.rootless.bfdecrypt
+Version: 1.3.6
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Depends: mobilesubstrate, com.opa334.altlist, firmware (>=15.0)
+Conflicts: com.level3tjg.bfdecrypt, alias20.bfdecryptor
+Filename: rootless/bfdecryptor脱壳工具(rootless).deb
+Size: 68040
+MD5sum: 94938c44b9d9c5dea4ada3de96fa63bf
+SHA1: 514917a5843910d1f84816fdd5c23442db4e5e58
+SHA256: 3dd70ec8405e0f88428ee47007b5ae1164c5a7400a72f24aaef8371c0335195e
+Section: 嗨-工具
+Description: bfdecryptor脱壳工具 for Fugu15(多巴胺)，设置——bfdecryptor——选择要脱壳的App，然后打开该App，会有弹窗提示——选择"Yes/No"(随意选)，等待一会，脱壳完成，该App的数据目录——Documents下——"decrypted-app.ipa"文件。记得脱壳完成后，去设置里取消勾选App。砸壳出来不是全权限的，小组件可能会gg。
+Author: BishopFox
+Name: bfdecryptor脱壳工具(rootless)
+
 Package: com.hk.rootless.cc
 Version: 1.3
 Architecture: iphoneos-arm64
