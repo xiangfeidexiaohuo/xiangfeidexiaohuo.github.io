@@ -195,6 +195,21 @@ Description: CylinderReborn 中文修复包(rootless)。
 Author: 妖刀
 Name: CylinderReborn 中文修复包(rootless)
 
+Package: com.hk.daodao.rootless.noseparators
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/NoLine(rootless).deb
+Size: 3320
+MD5sum: 58fad7636b8cd11304b4978ded3da717
+SHA1: bf8155ad8df3686089ed577cb47b93a31f4e42f2
+SHA256: ce05dff7bba786b76d46cb4e48a733d9eeacdd747ffee27b35a7ab7566cb9ea4
+Section: 嗨-系统
+Description: 去除系统分割线(包括弹窗/UI/长按菜单等)。
+Author: 妖刀
+Name: NoLine(rootless)
+
 Package: com.hk.dynamicpeninsula.cn.rl
 Version: 0.6
 Architecture: iphoneos-arm64
