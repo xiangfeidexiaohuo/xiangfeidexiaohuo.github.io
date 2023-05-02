@@ -1,3 +1,20 @@
+Package: com.alias20.hk.axon
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, acreson.rootless.cj.axon, acreson.rootless.cj.axon.cn, com.rootless.hk.axon, me.nepeta.axon
+Filename: rootless/Axon(rootless)_1.4.deb
+Size: 140528
+MD5sum: baea8a3c74625f5312285b897a067cc9
+SHA1: d2c1b58c4693d328855be59b6a683456396d18d4
+SHA256: 07c9de9a8dba8bad02b7fc208e14df99d69d80dff3fd5859bade6631d68b54ff
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，XsF1re适配iOS15(rootless/Ellekit)，源内安装中文汉化包。
+Author: Nepeta & Baw Appie & XsF1re
+Name: Axon(rootless)
+Sponsor: Acreson <342080124@qq.com>
+
 Package: com.hk.appprotectrootless
 Version: 1.7.9
 Architecture: iphoneos-arm64
@@ -74,6 +91,21 @@ Section: 嗨-汉化
 Description: AudioRecorder XS 简体中文包(rootless)。
 Author: Sandy0 & 妖刀
 Name: AudioRecorder XS 简体中文包(rootless)
+
+Package: com.hk.axon.cn.rl
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/Axon 通用中文包(rootless).deb
+Size: 7424
+MD5sum: 759244b7be3c92fb39f7ecf004bb1b9e
+SHA1: dda186d4ae53adcb9e58a7b24f6af063802a3610
+SHA256: a3912efdf2bb1cea56fbd094953ff2e6a83a08580208e89b5ad27631089d69fe
+Section: 嗨-汉化
+Description: Axon 通用中文包(rootless)。
+Author: 妖刀
+Name: Axon 通用中文包(rootless)
 
 Package: com.hk.betteralarm.cn.rl
 Version: 1.4.1
@@ -768,40 +800,6 @@ Section: 嗨-汉化
 Description: Zetsu 简体中文包(rootless)。
 Author: Mo
 Name: Zetsu 简体中文包(rootless)
-
-Package: com.rootless.hk.axon
-Version: 2.0
-Architecture: iphoneos-arm64
-Maintainer: Baw Appie
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, acreson.rootless.cj.axon, acreson.rootless.cj.axon.cn
-Filename: rootless/Axon(rootless).deb
-Size: 145260
-MD5sum: 34fd0a6ccb0f9009af5e703860788c20
-SHA1: d8e35a2fcb0c6b743b25050bd31dedac34f08c55
-SHA256: cdc9cfad82680dfe6cc45a53968203fe73d7c12c1f6876e9365665f6ef0630d6
-Section: 嗨-工具
-Description: Acreson适配支持iOS15的Axon，锁屏通知聚合插件，已添加中文汉化包。
-Author: Nepeta & Baw Appie & Acreson
-Name: Axon(rootless)
-Sponsor: Acreson <342080124@qq.com>
-
-Package: com.rootless.hk.axon
-Version: 2.1
-Architecture: iphoneos-arm64
-Maintainer: Baw Appie
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, acreson.rootless.cj.axon, acreson.rootless.cj.axon.cn
-Filename: rootless/Axon(rootless)_2.1.deb
-Size: 145588
-MD5sum: a0a8030c758218cbc9edd69a10fd835e
-SHA1: 8011216f0da56c17c7a556d6bfe21716944bdb93
-SHA256: ae35b1451f2bb8a85b90eb6033f7b06b9b465c9c8ac46940e7250c27a41a7a07
-Section: 嗨-工具
-Description: Acreson适配支持iOS15的Axon，锁屏通知聚合插件，已添加中文汉化包。
-Author: Nepeta & Baw Appie & Acreson
-Name: Axon(rootless)
-Sponsor: Acreson <342080124@qq.com>
 
 Package: dev.traurige.libkitten
 Version: 1.4.1
