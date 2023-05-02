@@ -587,6 +587,22 @@ Description: 迷你锁屏播放器，无设置。
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Name: MiniLsp(rootless)
 
+Package: com.hk.rootless.wceablefriendsstar
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: mobilesubstrate, firmware (>= 13.0)
+Conflicts: netskao.wceablefriendsstar
+Filename: rootless/微信FriendsStar.deb
+Size: 58380
+MD5sum: 0eab510affbda40e4f1084c0bff9ee3c
+SHA1: 4b888c7231ec46fb7aa7549923fa9abc0440be37
+SHA256: 91d13ee9ddd52d828a55ec8ddad4984cd08d53b6a07fc276d4f242cc1abf34ff
+Section: 嗨-工具
+Description: 直接启用微信朋友圈置顶功能，无设置，仅支持8.0.36及以上。
+Author: Netskao
+Name: 微信FriendsStar
+
 Package: com.hk.rootless.youtubereborn
 Version: 4.0.9-rootless-1+debug
 Architecture: iphoneos-arm64
