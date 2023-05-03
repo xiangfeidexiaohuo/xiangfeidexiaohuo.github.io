@@ -80,60 +80,30 @@ Author: aReo
 Name: AppTools15(rootless)
 
 Package: com.hk.audiorecorderxs.cn.rl
-Version: 5.0
+Version: 5.0-3
 Architecture: iphoneos-arm64
 Maintainer: Sandy0 & 妖刀
 Depends: mobilesubstrate
 Filename: rootless/AudioRecorder XS 简体中文包(rootless).deb
-Size: 6132
-MD5sum: 253f184b82e17e060caed15ea25659be
-SHA1: 1cba785fb39d9a28d90648c6ffdd609c340b6255
-SHA256: 5d7bbd11e032fe55443d407b1c2c085fd18b3b7a4a1a8b8ff56703b8f1d7e459
-Section: 嗨-汉化
-Description: AudioRecorder XS 简体中文包(rootless)。某些地方无法直接翻译，所以某些位置还是英文，后续想办法~
-Author: Sandy0 & 妖刀
-Name: AudioRecorder XS 简体中文包(rootless)
-
-Package: com.hk.audiorecorderxs.cn.rl
-Version: 5.0-1
-Architecture: iphoneos-arm64
-Maintainer: Sandy0 & 妖刀
-Depends: mobilesubstrate, oldabi
-Filename: rootless/AudioRecorder XS 简体中文包(rootless)_5.0-1.deb
-Size: 11636
-MD5sum: 1adea36c115e69b95f8f0297471c5694
-SHA1: 870ffbf81de4033fc8ac114d41c45b891cd98492
-SHA256: 658bad34ef345166ea5d1e6e80e99cccb17de4b9742080f63bb975340080ddd5
-Section: 嗨-汉化
-Description: AudioRecorder XS 简体中文包(rootless)。
-Author: Sandy0 & 妖刀
-Name: AudioRecorder XS 简体中文包(rootless)
-
-Package: com.hk.audiorecorderxs.cn.rl
-Version: 5.0-2
-Architecture: iphoneos-arm64
-Maintainer: Sandy0 & 妖刀
-Depends: mobilesubstrate, oldabi
-Filename: rootless/AudioRecorder XS 简体中文包(rootless)_5.0-2.deb
-Size: 12212
-MD5sum: 45544583446526f1a022ea3e97845d74
-SHA1: 3895f7936f06f0ae100a62ab706429adcd6b9452
-SHA256: 642051b82bf3b765667632825030a33b6acc5b81bed51f82f3439791e34605b7
+Size: 12144
+MD5sum: 74ff3979d1a1df608ad52752da330a8f
+SHA1: 33564ef98c48b4181c2f504c331629d252081abf
+SHA256: a48dbe95cdb16e35c761a59adee003ef4e75b24de26d72407e25501a18137da2
 Section: 嗨-汉化
 Description: AudioRecorder XS 简体中文包(rootless)。
 Author: Sandy0 & 妖刀
 Name: AudioRecorder XS 简体中文包(rootless)
 
 Package: com.hk.axon.cn.rl
-Version: 2.0
+Version: 2.0-2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Depends: mobilesubstrate, oldabi
+Depends: mobilesubstrate
 Filename: rootless/Axon 通用中文包(rootless).deb
-Size: 7424
-MD5sum: 759244b7be3c92fb39f7ecf004bb1b9e
-SHA1: dda186d4ae53adcb9e58a7b24f6af063802a3610
-SHA256: a3912efdf2bb1cea56fbd094953ff2e6a83a08580208e89b5ad27631089d69fe
+Size: 7476
+MD5sum: 1760122ff43da403c06ff86e98cc7673
+SHA1: 157273d5e914ed1032cef4599618cfa37b0fbf12
+SHA256: 8aa35e11da77c4ed39ea87f93935a629b6f119ab263c5a825e1e2c748f7b9435
 Section: 嗨-汉化
 Description: Axon 通用中文包(rootless)。
 Author: 妖刀
@@ -200,30 +170,15 @@ Author: 妖刀
 Name: Choicy 简体中文包(rootless)
 
 Package: com.hk.copylog.cn.rl
-Version: 1.5.6
+Version: 1.5.6-2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Depends: mobilesubstrate, oldabi
+Depends: mobilesubstrate
 Filename: rootless/CopyLog 简体中文包(rootless).deb
-Size: 5896
-MD5sum: fc8f695f8822b8b8e4bef53bc59b4c4f
-SHA1: 0d272ebb42a6fa99301df43209a8eb5858633473
-SHA256: b091e2e967ba1f6c79cc953e86f3b27741904125cbdc64203a49a2446a1c7a5f
-Section: 嗨-汉化
-Description: CopyLog 简体中文包(rootless)。
-Author: Hi客源
-Name: CopyLog 简体中文包(rootless)
-
-Package: com.hk.copylog.cn.rl
-Version: 1.5.6-1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate, oldabi
-Filename: rootless/CopyLog 简体中文包(rootless)_1.5.6-1.deb
-Size: 6400
-MD5sum: 4670aeff11a61d82e9903b30cd80938a
-SHA1: 0c2b764b105d3413ba014a636a6de31f01d6cfc7
-SHA256: 473cb5a1d64b7cdec564a24c0c4aca7a0107911ce8f3ecc745d7333daa02c9c5
+Size: 6488
+MD5sum: 3c11acbfc42d207e7ba9ba45b533c91c
+SHA1: 1a6d9281254e149d68b2035933087057252bc0ba
+SHA256: a6df5181c8a086ed6c55803a68b125ec58f21668f05f7294117c2648303c65fc
 Section: 嗨-汉化
 Description: CopyLog 简体中文包(rootless)。
 Author: Hi客源
@@ -258,22 +213,6 @@ Section: 嗨-汉化
 Description: CylinderReborn 中文修复包(rootless)。
 Author: 妖刀
 Name: CylinderReborn 中文修复包(rootless)
-
-Package: com.hk.daodao.rootless.noseparators
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate, oldabi
-Filename: rootless/NoLine(rootless).deb
-Size: 3696
-MD5sum: 1f2f087041b7d2a94ced3e0b74194b1b
-SHA1: 4703c392ad44b5795f1486d869a84174fa7bb4b8
-SHA256: de8915da750b24b8907f019467b4580f8596912e2f0571a26cfe3e5339c7cd11
-Section: 嗨-系统
-Description: 去除系统分割线(包括弹窗/UI/长按菜单等)。
-Author: 妖刀
-Name: NoLine(rootless)
 
 Package: com.hk.daodao.rootless.noseparators
 Version: 1.0-2
@@ -352,15 +291,15 @@ Author: 妖刀
 Name: Shadow 简体中文包(rootless)
 
 Package: com.hk.kayoko.cn.rl
-Version: 1.2
+Version: 1.2-1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Depends: mobilesubstrate, oldabi
+Depends: mobilesubstrate
 Filename: rootless/Kayoko 简体中文包(rootless).deb
-Size: 5668
-MD5sum: ce7d8922b76c61e911858289bec4f376
-SHA1: 9cc8dce7347b12a52bb8bd8627473d28754f25e7
-SHA256: eb886e7202e54edf141620c280ef39aa342c898b9e094ecf3db53958bc316584
+Size: 5736
+MD5sum: e211bcfa34eb9f8ece27b4bb36e0fc4b
+SHA1: 7d190caaf7affe19a1d763a301f1a86ab8109836
+SHA256: b5694f79567856ea703115546c7f73c30e09e48c46c436b2631e66f6bb91e3e1
 Section: 嗨-汉化
 Description: Kayoko 简体中文包(rootless)。
 Author: 妖刀
@@ -444,22 +383,6 @@ Author: CP Digital Darkroom
 Name: Barmoji(rootless)
 
 Package: com.hk.rootless.bfdecrypt
-Version: 1.3.5
-Architecture: iphoneos-arm64
-Maintainer: level3tjg
-Depends: mobilesubstrate, com.opa334.altlist, firmware (>=15.0)
-Conflicts: com.level3tjg.bfdecrypt
-Filename: rootless/bfdecrypt脱壳工具(rootless).deb
-Size: 69736
-MD5sum: 5e1d407e13f81c43dfa6772ccb20c497
-SHA1: fa07e9bc885539b62da2bbbe8dcd5ab22aa8c168
-SHA256: c117b0d5141b3c66e984ef5821544a9e24fe318240692ae9975dae7717093114
-Section: 嗨-工具
-Description: bfdecrypt脱壳工具 for Fugu15(多巴胺)，设置——bfdecrypt——选择要脱壳的App，然后打开该App，会有弹窗提示——选择"Yes/No"(随意选)，等待一会，脱壳完成，该App的数据目录——Documents下——"decrypted-app.ipa"文件。记得脱壳完成后，去设置里取消勾选App。
-Author: BishopFox
-Name: bfdecrypt脱壳工具(rootless)
-
-Package: com.hk.rootless.bfdecrypt
 Version: 1.3.6
 Architecture: iphoneos-arm64
 Maintainer: alias20
@@ -491,6 +414,22 @@ Description: 程序角标边框自定义。基于PoomSmart的开源，Skypain大
 Author: PoomSmart
 Name: BlurryBadges(rootless)
 
+Package: com.hk.rootless.blurrybadges
+Version: 1.4.3-2
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.blurrybadges, com.spicat.blurrybadges, com.ps.blurrybadges
+Filename: rootless/BlurryBadges(rootless)(1).deb
+Size: 48492
+MD5sum: 563319b25dd983c7653a01d34fae124f
+SHA1: b606a53e94e644a64aa39a2c83985062a945c396
+SHA256: 79aa68c43e54c3fe206bb5de5bc918bc764d9921a501c2e2085eca9155ccee56
+Section: 嗨-工具
+Description: 程序角标边框自定义。基于PoomSmart的开源，Skypain大佬优化和汉化插件。
+Author: PoomSmart
+Name: BlurryBadges(rootless)
+
 Package: com.hk.rootless.cc
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -504,22 +443,6 @@ SHA1: 065b07f6b5b7420b474a576bbd31daf82241a6cf
 SHA256: 3f77a6343ead895b48710d6947aae74ec37ec4fddd7ddd4be7e16b1d576f3141
 Section: 嗨-工具
 Description: skypain大佬制作的控制中心的定位、注销、设置、VPN模块。Netskao的一键清角标、微信扫码、支付宝扫码模块。SOPPPra的实时CPU使用率模块。mtac的系统运行时间模块。
-Author: 妖刀
-Name: CCLess++(rootless)
-
-Package: com.hk.rootless.cc
-Version: 1.7.1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless
-Filename: rootless/CCLess++(rootless)_1.7.1.deb
-Size: 362496
-MD5sum: d452ae65606cee251075801e6c8d80c9
-SHA1: bb475ec16d2626bcce3d541d3c96a43770097e7b
-SHA256: 7937b784b4fa08ab630f958c0268a6ba78b97fcb0cb5402b2a11505f01b0311c
-Section: 嗨-工具
-Description: 集合的控制中心模块：定位、注销、设置、VPN等模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX等模块来自Netskao。实时CPU使用率模块来自SOPPPra。系统运行时间模块来自MTAC。感谢Skypain、Netskao、SOPPPra、MTAC等各位大佬！！！
 Author: 妖刀
 Name: CCLess++(rootless)
 
@@ -602,22 +525,6 @@ Section: 嗨-工具
 Description: 小横幅通知，可自定义颜色等，汉化包源内安装。
 Author: Traurige <hello@traurige.dev>
 Name: Liddell小横幅(rootless)
-
-Package: com.hk.rootless.minilsp
-Version: 1.1.0-1
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Depends: mobilesubstrate
-Conflicts: com.skypain.minilsp
-Filename: rootless/MiniLsp(rootless).deb
-Size: 5568
-MD5sum: 970c7ccb615e10e9a2bd1cc7be5670c3
-SHA1: f74bd36738616f40ae70537d0b456d40cafc7a6b
-SHA256: 5179a745d27ffe6f0cf276d8ae5eca71eb5c54de31a478dc25948e6e1a263b40
-Section: 嗨-工具
-Description: 迷你锁屏播放器，无设置。
-Author: Mr.Zhang <mr_zhang_00@163.com>
-Name: MiniLsp(rootless)
 
 Package: com.hk.rootless.minilsp
 Version: 1.1.1-4
@@ -746,76 +653,30 @@ Author: 妖刀
 Name: Translomatic 中文修复包(rootless)
 
 Package: com.hk.trollnonce.cn.rl
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Depends: mobilesubstrate, oldabi
+Depends: mobilesubstrate
 Filename: rootless/TrollNonce 简体中文包(rootless).deb
-Size: 4336
-MD5sum: 80600ad7023feb8e18839c4dd283042e
-SHA1: 45c1a4224754b4f29aad206c7982815877315559
-SHA256: b3bd010ee4467e3a910fc4b06ebb13f9614bf4333519b4f3496cd4e3cc68d983
-Section: 嗨-汉化
-Description: TrollNonce 简体中文包(rootless)。
-Author: 妖刀
-Name: TrollNonce 简体中文包(rootless)
-
-Package: com.hk.trollnonce.cn.rl
-Version: 1.0-1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate, oldabi
-Filename: rootless/TrollNonce 简体中文包(rootless)_1.0-1.deb
-Size: 4832
-MD5sum: fc0e49fd82a115135e88264a66a4ad11
-SHA1: b286a2c49dcc0b2b5de47fd134beaf51ff2273b1
-SHA256: 805c3d5ef618421eb5e71f2ab85964dd695607b38cb2af15b30c5ec0fa9c0bc0
+Size: 4956
+MD5sum: bace48463db085a7951602ff16796720
+SHA1: 73f46d33c88ba7b83ec66d75d94daaf009b93895
+SHA256: ab3d8e9b142f8944b0109632c774f97881937cc56d4b8fb4e8dd4e6be9284d92
 Section: 嗨-汉化
 Description: TrollNonce 简体中文包(rootless)。
 Author: 妖刀
 Name: TrollNonce 简体中文包(rootless)
 
 Package: com.hk.velvet2.cn.rl
-Version: 2.0.2
+Version: 2.1-1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Depends: mobilesubstrate, oldabi
+Depends: mobilesubstrate
 Filename: rootless/Velvet 2 简体中文包(rootless).deb
-Size: 5556
-MD5sum: 1d37740d3e7e20ae2c614a0064b6da71
-SHA1: d03dbc46854c8ca3cb91bdefc087d174107a636d
-SHA256: 51bb6a86d003f574a9c34a92afba7413b35b0a359df59dd73c7c01cfecdbd634
-Section: 嗨-汉化
-Description: Velvet 2 简体中文包(rootless)。
-Author: 妖刀
-Name: Velvet 2 简体中文包(rootless)
-
-Package: com.hk.velvet2.cn.rl
-Version: 2.0.3
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate, oldabi
-Filename: rootless/Velvet 2 简体中文包(rootless)_2.0.3.deb
-Size: 6120
-MD5sum: 2088b09b0d4e5b97ca22a76ccaf8aa1d
-SHA1: f6cf879c4c84c338257fc4126af7b1b544c49fa3
-SHA256: 51b025f22539d72234ebfc5f6c05d3f5e474df89bcb8029062be61910153d048
-Section: 嗨-汉化
-Description: Velvet 2 简体中文包(rootless)。
-Author: 妖刀
-Name: Velvet 2 简体中文包(rootless)
-
-Package: com.hk.velvet2.cn.rl
-Version: 2.1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate, oldabi
-Filename: rootless/Velvet 2 简体中文包(rootless)_2.1.deb
-Size: 6336
-MD5sum: 749592f3542f9e2d71416178e4405c74
-SHA1: c2f8e62d0d33e2b7795b46d565ffc68764f57f94
-SHA256: 52f87c1d2c7419f3092fe741750104490b0a3ae629a9860ad9a15b7a9440104b
+Size: 6416
+MD5sum: 4b3f4cb3671cfd71523fb8209d04a862
+SHA1: 984b9b988ce6b38a8391950ca70f162c945c1bd7
+SHA256: ad2727ec22d4fdd2eceef0558673fc78bae928e05f7e6b6593f9a28e87f8e547
 Section: 嗨-汉化
 Description: Velvet 2 简体中文包(rootless)。
 Author: 妖刀
@@ -852,45 +713,15 @@ Author: 妖刀
 Name: YTHoldForSpeed 简体中文包(rootless)
 
 Package: com.hk.zetsu.cn.rl
-Version: 1.1
+Version: 1.1-3
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Depends: mobilesubstrate, oldabi
+Depends: mobilesubstrate
 Filename: rootless/Zetsu 简体中文包(rootless).deb
-Size: 6468
-MD5sum: b0cfa543fdde881b00644f3e8d407085
-SHA1: 2bdf9a03c12fc8a6b65ab303afa3916c5142f14d
-SHA256: 3ac79bfc605b2e2351eaced8827fdf8cbcfed46eefe989028248c3426201f6f1
-Section: 嗨-汉化
-Description: Zetsu 简体中文包(rootless)。
-Author: Mo
-Name: Zetsu 简体中文包(rootless)
-
-Package: com.hk.zetsu.cn.rl
-Version: 1.1-1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate, oldabi
-Filename: rootless/Zetsu 简体中文包(rootless)_1.1-1.deb
-Size: 6720
-MD5sum: 68f48c46bfb0e042e83f7fec1fc07e48
-SHA1: 9b877aca5aec1c7d499d91bed24ee721b81bab3c
-SHA256: e573e383091b551deb96904407f75a016ad71d7ce924f1b7137ffe1c42ff41a7
-Section: 嗨-汉化
-Description: Zetsu 简体中文包(rootless)。
-Author: Mo
-Name: Zetsu 简体中文包(rootless)
-
-Package: com.hk.zetsu.cn.rl
-Version: 1.1-2
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate, oldabi
-Filename: rootless/Zetsu 简体中文包(rootless)_1.1-2.deb
-Size: 6712
-MD5sum: 8980839c8c784a9b14f9a882f8b1501b
-SHA1: c1952e16c0d2051b4f57e404ddb6dfce54cc53a3
-SHA256: 59d04010c97cb38e6f13cf184cfbe52c173ad7a4762d9318b89f37fc8580eb49
+Size: 6796
+MD5sum: 0725b9aad52faf63131689794a56f41f
+SHA1: 16b33440c4e43229d0b3b80676137ca469dcc9de
+SHA256: 93b3330ce2ba14fe33b1605e7043b850eb86b32d970e28835cbaaa6f41a122a2
 Section: 嗨-汉化
 Description: Zetsu 简体中文包(rootless)。
 Author: Mo
