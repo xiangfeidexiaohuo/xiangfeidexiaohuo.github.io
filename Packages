@@ -651,6 +651,22 @@ Description: TrollNonce 简体中文包(rootless)。
 Author: 妖刀
 Name: TrollNonce 简体中文包(rootless)
 
+Package: com.hk.trollstore.cn.rl
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/TrollStore 简体中文包(rootless).deb
+Size: 10806
+MD5sum: a54dcc981997b0da1d57f313b59ee7d8
+SHA1: c80046f96df871073f78f641708c278095891002
+SHA256: b47eea2aae9994e6c43053e6e793beeff39280a5c5c02ea2af420fb686d2ac93
+Section: 嗨-汉化
+Description: TrollStore 简体中文包(rootless)。
+Author: 妖刀
+Name: TrollStore 简体中文包(rootless)
+
 Package: com.hk.velvet2.cn.rl
 Version: 2.1-1
 Architecture: iphoneos-arm64
@@ -667,15 +683,15 @@ Author: 妖刀
 Name: Velvet 2 简体中文包(rootless)
 
 Package: com.hk.youtubereborn.cn.rl
-Version: 4.0.9
+Version: 4.0.9-1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Depends: mobilesubstrate, oldabi
+Depends: mobilesubstrate
 Filename: rootless/YouTube Reborn 简体中文包(rootless).deb
-Size: 10728
-MD5sum: 423738d09b71b780a12b9c31e382a82d
-SHA1: c0c35c069258e69e0170aeda68847198b1022d3e
-SHA256: 3c45ccf38a23b76bce768d79a10eb15e957cbe1b161ce6af9fca5aec463152f7
+Size: 11364
+MD5sum: 71c9df3f2ce9e4df6e248baf079067a9
+SHA1: 63017f2ef857dd5d5077f48f1fb0212e6eff771b
+SHA256: fe73e2eef5562d2920c9efd548d3b9c48e14376a51ff6a9c20a1d649b22bb2e2
 Section: 嗨-汉化
 Description: YouTube Reborn 简体中文包(rootless)。
 Author: 妖刀
