@@ -475,6 +475,22 @@ Description: bfdecryptor脱壳工具 for Fugu15(多巴胺)，设置——bfdecry
 Author: BishopFox
 Name: bfdecryptor脱壳工具(rootless)
 
+Package: com.hk.rootless.blurrybadges
+Version: 1.4.3-1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.blurrybadges, com.spicat.blurrybadges, com.ps.blurrybadges
+Filename: rootless/BlurryBadges(rootless).deb
+Size: 48492
+MD5sum: 79a7b7fdf27c55ea3f55c545e7a98e5c
+SHA1: e4d91894e333e390041d7d8203b2ab6f6b44e5db
+SHA256: d16b398e9d4a1bde7250910998e222d5de1be7bcd329135178afdfb909698803
+Section: 嗨-工具
+Description: 程序角标边框自定义。基于PoomSmart的开源，Skypain大佬修复和汉化插件。
+Author: PoomSmart
+Name: BlurryBadges(rootless)
+
 Package: com.hk.rootless.cc
 Version: 1.3
 Architecture: iphoneos-arm64
