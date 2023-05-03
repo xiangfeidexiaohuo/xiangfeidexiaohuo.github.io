@@ -32,6 +32,21 @@ Author: Nepeta & Baw Appie & XsF1re
 Name: Axon(rootless)
 Sponsor: Acreson <342080124@qq.com>
 
+Package: com.hk.afont.cn.rl
+Version: 1.9.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/A-Font 简体中文包(rootless).deb
+Size: 2568
+MD5sum: f6aec4cbce0f5d8bf6c92548bd0b53dd
+SHA1: 89411bc2ae4f18595f04aaf1a44004152fe87a5b
+SHA256: 3d6253148643ebcac83f190021c84c19f297c982c8cbbb24f81626cfafc3ef3c
+Section: 嗨-汉化
+Description: A-Font 简体中文包(rootless)。
+Author: 妖刀
+Name: A-Font 简体中文包(rootless)
+
 Package: com.hk.appprotectrootless
 Version: 1.7.9
 Architecture: iphoneos-arm64
