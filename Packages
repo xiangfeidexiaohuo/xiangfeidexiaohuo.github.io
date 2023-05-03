@@ -47,6 +47,22 @@ Description: A-Font 简体中文包(rootless)。
 Author: 妖刀
 Name: A-Font 简体中文包(rootless)
 
+Package: com.hk.alarmtime.cn.rl
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/AlarmTime 简体中文包(rootless).deb
+Size: 3676
+MD5sum: 343893f9e17c2d23982dbda30395535b
+SHA1: 77196bdc185f61a1403be938665cb53b6995df13
+SHA256: b17340690c9a1341f13e99f425ee55e904fa02c27965ce84cb38c7ef15955a5f
+Section: 嗨-汉化
+Description: AlarmTime 简体中文包(rootless)。
+Author: 妖刀
+Name: AlarmTime 简体中文包(rootless)
+
 Package: com.hk.appprotectrootless
 Version: 1.7.9
 Architecture: iphoneos-arm64
@@ -667,16 +683,31 @@ Description: TrollStore 简体中文包(rootless)。
 Author: 妖刀
 Name: TrollStore 简体中文包(rootless)
 
+Package: com.hk.uyou.cn.rl
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/uYou 简体中文包(rootless).deb
+Size: 12008
+MD5sum: 1b9d706fb04fcbc8ee97c5c19f318807
+SHA1: 674350c9f147ee819f6a43d08b5d39601c8cf56f
+SHA256: 1a591383fe80671da4027be7df6de00f1874376cb2043cb45b0ab81d714fa6d7
+Section: 嗨-汉化
+Description: uYou 简体中文包(rootless)。
+Author: 妖刀
+Name: uYou 简体中文包(rootless)
+
 Package: com.hk.velvet2.cn.rl
-Version: 2.1-1
+Version: 2.1.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Velvet 2 简体中文包(rootless).deb
-Size: 6416
-MD5sum: 4b3f4cb3671cfd71523fb8209d04a862
-SHA1: 984b9b988ce6b38a8391950ca70f162c945c1bd7
-SHA256: ad2727ec22d4fdd2eceef0558673fc78bae928e05f7e6b6593f9a28e87f8e547
+Size: 6984
+MD5sum: 506cd26c6e157d224bbd10e613140c81
+SHA1: f91f4a319bbaca81ce21eb1e5d89df09537466b4
+SHA256: cb0482a35a6da987a0efcbbe4ac654a30a4513ab6a45eb7907143091ddb41a75
 Section: 嗨-汉化
 Description: Velvet 2 简体中文包(rootless)。
 Author: 妖刀
