@@ -790,6 +790,21 @@ Description: Velvet 2 简体中文包(rootless)。
 Author: 妖刀
 Name: Velvet 2 简体中文包(rootless)
 
+Package: com.hk.velvet2.cn.rl
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate, oldabi
+Filename: rootless/Velvet 2 简体中文包(rootless)_2.1.deb
+Size: 6336
+MD5sum: 749592f3542f9e2d71416178e4405c74
+SHA1: c2f8e62d0d33e2b7795b46d565ffc68764f57f94
+SHA256: 52f87c1d2c7419f3092fe741750104490b0a3ae629a9860ad9a15b7a9440104b
+Section: 嗨-汉化
+Description: Velvet 2 简体中文包(rootless)。
+Author: 妖刀
+Name: Velvet 2 简体中文包(rootless)
+
 Package: com.hk.youtubereborn.cn.rl
 Version: 4.0.9
 Architecture: iphoneos-arm64
