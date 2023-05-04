@@ -557,6 +557,21 @@ Description: 迷你锁屏播放器，无设置。
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Name: MiniLsp(rootless)
 
+Package: com.hk.rootless.velvet2
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: NoisyFlake <support@noisyflake.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2
+Filename: rootless/Velvet 2(rootless).deb
+Size: 96332
+MD5sum: c097eee9699a693cfdbf19fa77ee82dd
+SHA1: e52f5943f48c3e67147820b0bdf905e1abf01782
+SHA256: 0eba51ed7d347db138067d0cac9a929b0645e987c07c466ae5449f4ff58f7469
+Section: 嗨-工具
+Description: 完全可自由定制的通知横幅，源内安装汉化包。
+Name: Velvet 2(rootless)
+
 Package: com.hk.rootless.wceablefriendsstar
 Version: 1.1-2
 Architecture: iphoneos-arm64
