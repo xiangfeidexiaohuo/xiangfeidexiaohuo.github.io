@@ -714,15 +714,15 @@ Author: 妖刀
 Name: TrollStore 简体中文包(rootless)
 
 Package: com.hk.uyou.cn.rl
-Version: 3.0
+Version: 3.0-1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/uYou 简体中文包(rootless).deb
-Size: 12008
-MD5sum: 1b9d706fb04fcbc8ee97c5c19f318807
-SHA1: 674350c9f147ee819f6a43d08b5d39601c8cf56f
-SHA256: 1a591383fe80671da4027be7df6de00f1874376cb2043cb45b0ab81d714fa6d7
+Size: 12632
+MD5sum: 8f0c70e1ed23d5b42a55387066d38d06
+SHA1: 99d975a5abb3c1083217b14a76cd9d9175f6a7f4
+SHA256: 064b0e331ce4180566e2f95420bce0152258e2091fba04a73a2bfe12559a7d22
 Section: 嗨-汉化
 Description: uYou 简体中文包(rootless)。
 Author: 妖刀
