@@ -261,6 +261,21 @@ Description: 去除系统分割线(包括弹窗/UI/长按菜单等)。
 Author: 妖刀
 Name: NoLine(rootless)
 
+Package: com.hk.dleasy.cn.rl
+Version: 2.13.5
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/DLEasy 简体中文包(rootless).deb
+Size: 3832
+MD5sum: f75a0d14298a6392cdc9c3756d6975ef
+SHA1: 516a18dda4edf3236a340d1647f4bfb09c1f5cb4
+SHA256: c365e75b9adce614d9a1c6572b608cedfddc153de52781f36aa76ccb07477451
+Section: 嗨-汉化
+Description: DLEasy 简体中文包(rootless)。
+Author: 妖刀
+Name: DLEasy 简体中文包(rootless)
+
 Package: com.hk.dynamicpeninsula.cn.rl
 Version: 0.6
 Architecture: iphoneos-arm64
@@ -620,6 +635,21 @@ Section: 嗨-汉化
 Description: SettingsRevamp 简体中文包(rootless)。
 Author: 妖刀
 Name: SettingsRevamp 简体中文包(rootless)
+
+Package: com.hk.shuffle.cn.rl
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Shuffle 简体中文包(rootless).deb
+Size: 11056
+MD5sum: de7ac53666120955729cecaa222a8c09
+SHA1: 50649dde17f9f186ae46c8e1ee50373a879c307e
+SHA256: d7bd38f1a1c2d74fadd4e43d5e50417c1fcbff07ff3ec9a0c1aedb1dc05d9ed4
+Section: 嗨-汉化
+Description: Shuffle 简体中文包(rootless)。
+Author: 妖刀
+Name: Shuffle 简体中文包(rootless)
 
 Package: com.hk.snapper2.cn.rl
 Version: 2.6.0
