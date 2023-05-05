@@ -1,3 +1,18 @@
+Package: com.hk.yaodao.dleasy.cn
+Version: 2.13.5
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: root/DLEasy 简体中文包.deb
+Size: 3780
+MD5sum: 2d569bd40ddee9e37d7f3757bbf0b878
+SHA1: 39e4a80f021ec702479d7039e82e87d549915c3a
+SHA256: 420c5ef8cac99924bddb78f72b475711d5b549f1643627e90c993321dabddeae
+Section: 嗨-汉化
+Description: DLEasy 简体中文包。
+Author: 妖刀
+Name: DLEasy 简体中文包
+
 Package: com.alias20.hk.axon
 Version: 1.4
 Architecture: iphoneos-arm64
