@@ -47,6 +47,22 @@ Author: Nepeta & Baw Appie & XsF1re
 Name: Axon(rootless)
 Sponsor: Acreson <342080124@qq.com>
 
+Package: com.daodao.nocshare
+Version: 1.1.2-1
+Architecture: iphoneos-arm64
+Maintainer: Devvix
+Depends: mobilesubstrate
+Conflicts: com.devvix.nocshare
+Filename: rootless/NoCShare(rootless).deb
+Size: 5428
+MD5sum: f0952a898cfa20fce21298fba790cf0d
+SHA1: f78c23035ea92d6b1a8c457863888dac248b9d06
+SHA256: eaf0bb5132b9f7c3f4d81cac8256a8f976bf92209f6d1f43a2ca3443c543c455
+Section: 嗨-工具
+Description: 移除分享菜单中烦人的投送和联系人，Skypain基于i_82修复支持iOS15的源码，编译支持rootless。
+Author: Devvix
+Name: NoCShare(rootless)
+
 Package: com.hk.afont.cn.rl
 Version: 1.9.3
 Architecture: iphoneos-arm64
