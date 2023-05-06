@@ -367,6 +367,21 @@ Description: EZSwipe 简体中文包(rootless)。
 Author: 妖刀
 Name: EZSwipe 简体中文包(rootless)
 
+Package: com.hk.floatingdock16.cn.rl
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/FloatingDockXVI 简体中文包(rootless).deb
+Size: 1240
+MD5sum: 6fa5b14cef3ea5907b63f27cddd0004c
+SHA1: a028bad9a9b4874689128eb344095e20461eee28
+SHA256: 115646552b2583693c1bd7ff9ab3a6b25d68ee805de1b032f85e1d220e04dc65
+Section: 嗨-汉化
+Description: FloatingDockXVI 简体中文包(rootless)。
+Author: 妖刀
+Name: FloatingDockXVI 简体中文包(rootless)
+
 Package: com.hk.jjolano.shadow.cn.rl
 Version: 3.7.1
 Architecture: iphoneos-arm64
@@ -696,6 +711,21 @@ Section: 嗨-汉化
 Description: Shuffle 简体中文包(rootless)。
 Author: 妖刀
 Name: Shuffle 简体中文包(rootless)
+
+Package: com.hk.sixteenmusic.cn.rl
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/SixteenMusic 简体中文包(rootless).deb
+Size: 1600
+MD5sum: aff6ae60f362f4abf7cfc64c8a8f0513
+SHA1: 154a33d3c249b3df0da6cfb1c66f3cc9221cd43f
+SHA256: 52ad7b6be01a84d6a575a92caf74bbfd4c4c5c34dbc57ef0d62b5d9836397fc5
+Section: 嗨-汉化
+Description: SixteenMusic 简体中文包(rootless)。
+Author: 妖刀
+Name: SixteenMusic 简体中文包(rootless)
 
 Package: com.hk.snapper2.cn.rl
 Version: 2.6.0
