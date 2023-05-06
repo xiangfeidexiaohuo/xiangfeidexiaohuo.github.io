@@ -201,6 +201,21 @@ Description: BioProtect 简体中文包(rootless)。
 Author: Sandy0 & Ball
 Name: BioProtect 简体中文包(rootless)
 
+Package: com.hk.blurryalerts.cn.rl
+Version: 1.2.2
+Architecture: iphoneos-arm64
+Maintainer: Ball
+Depends: mobilesubstrate
+Filename: rootless/BlurryAlerts 简体中文包(rootless).deb
+Size: 1620
+MD5sum: 098373b5046fd07774cfa7c5fb22a0e6
+SHA1: 10f12798af3fa27a603f6395f1993c0a1e36cf1d
+SHA256: 71cc27709014e038427df5023c8f52b4b5125e5473896b03a21aeee6c37a7ca1
+Section: 嗨-汉化
+Description: BlurryAlerts 简体中文包(rootless)。
+Author: Ball
+Name: BlurryAlerts 简体中文包(rootless)
+
 Package: com.hk.choicy.cn.rl
 Version: 1.4.6
 Architecture: iphoneos-arm64
