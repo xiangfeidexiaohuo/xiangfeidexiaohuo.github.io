@@ -648,6 +648,21 @@ Section: 嗨-工具
 Description: 完全可自由定制的通知横幅，源内安装汉化包。
 Name: Velvet 2(rootless)
 
+Package: com.hk.rootless.velvet2
+Version: 2.1.2
+Architecture: iphoneos-arm64
+Maintainer: NoisyFlake <support@noisyflake.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2
+Filename: rootless/Velvet 2(rootless)_2.1.2.deb
+Size: 96096
+MD5sum: f9815c89ba8e0872b4981ed58875a248
+SHA1: 0f65af4deb11c9784f463a384607fc9294dc9abd
+SHA256: d640a4f31217daf2f62917c461efda6a9d74b8edcd817b9a77f941598c2731fd
+Section: 嗨-工具
+Description: 完全可自由定制的通知横幅，源内安装汉化包。
+Name: Velvet 2(rootless)
+
 Package: com.hk.rootless.wceablefriendsstar
 Version: 1.1-2
 Architecture: iphoneos-arm64
