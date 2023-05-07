@@ -63,6 +63,22 @@ Description: 移除分享菜单中烦人的投送和联系人，Skypain基于i_8
 Author: Devvix
 Name: NoCShare(rootless)
 
+Package: com.daodao.pulloverpro
+Version: 2.1.2-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
+Filename: rootless/PullOver Pro(rootless).deb
+Size: 763412
+MD5sum: cf6b215296786f6db76bde6f4333baea
+SHA1: 5f33d2c014cb18afac3a3a1dfbb39d7f15f41f90
+SHA256: a4fb770cb993ed7e52d6e39920749c2af086316b2bfce408259f3742549aed1e
+Section: 嗨-系统
+Description: 更好的窗口多任务分屏。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
+Author: c1d3r
+Name: PullOver Pro(rootless)
+
 Package: com.hk.afont.cn.rl
 Version: 1.9.3
 Architecture: iphoneos-arm64
