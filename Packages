@@ -79,6 +79,22 @@ Description: 更好的窗口多任务分屏。由Netskao适配支持iOS15/修复
 Author: c1d3r
 Name: PullOver Pro(rootless)
 
+Package: com.daodao.snapper2
+Version: 2.6.1
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware (>= 12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2, com.jontelang.snapper2.packix
+Filename: rootless/Snapper 2(rootless).deb
+Size: 408484
+MD5sum: 79a672ee2139efa83dff5833a8b1718b
+SHA1: 921c1018715344b4d57b9d8c8f31261583fb99a6
+SHA256: e4483d6184c18f3dd25a0d5246f34a84ea647ebfc793b2a342a0db9eec7e191d
+Section: 嗨-工具
+Description: 便捷截屏。源内可安装中文修复包。
+Author: Jonathan Winger-lang
+Name: Snapper 2(rootless)
+
 Package: com.hk.afont.cn.rl
 Version: 1.9.3
 Architecture: iphoneos-arm64
