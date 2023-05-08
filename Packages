@@ -585,6 +585,22 @@ Description: 集合的控制中心模块：定位、注销、设置、VPN等模�
 Author: 妖刀
 Name: CCLess++(rootless)
 
+Package: com.hk.rootless.cc
+Version: 1.7.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc
+Filename: rootless/CCLess++(rootless)_1.7.3.deb
+Size: 372892
+MD5sum: 11dcc01a2bc5cf89f1b03a405e7a5b10
+SHA1: e44161d3f5006123d9b388b4fd6ccca1244caedd
+SHA256: 15d75354d3d52f3c8b0df7e961a67a4dfa5edf5bc40104743d619595a4954e7a
+Section: 嗨-工具
+Description: 集合的控制中心模块：定位、注销、设置、VPN等模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX等模块来自Netskao。实时CPU使用率模块来自SOPPPra。系统运行时间模块来自MTAC。Snapper2切换开关来自P2KDev。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev等各位大佬！！！
+Author: 妖刀
+Name: CCLess++(rootless)
+
 Package: com.hk.rootless.colorbadges
 Version: 1.5.0
 Architecture: iphoneos-arm64
