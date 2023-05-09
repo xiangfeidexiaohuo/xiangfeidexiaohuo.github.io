@@ -853,16 +853,16 @@ Description: 冷冷雨基于开源编译适配rootless，AppStore帐户页面中
 Author: subdiox
 Name: StoreSwitcher2(rootless)
 
-Package: com.hk.translomatic.cn.rl
-Version: 2.17.2
+Package: com.hk.translomatic.x.rl
+Version: 2.17.3
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Translomatic 中文修复包(rootless).deb
-Size: 4900
-MD5sum: d255c9df7b48aa9a9f713c16d5bf0275
-SHA1: 84107d4aa2f3729aec08d0be39e83e3ee291bb4a
-SHA256: 63a22e76fb5b7ed8b462726729d4bf3362030356a18598de802d91cd92476ee5
+Size: 4888
+MD5sum: 540eeac61d4fb54b46094925ac87d1b8
+SHA1: 40fe30afccaaca1d8eccf85bbad47245194e0c4c
+SHA256: 49bb1d956b0f52b9a9696b7b621a166037f6a4f74480cd6e109e2d2f77d41d7e
 Section: 嗨-汉化
 Description: Translomatic 中文修复包(rootless)。
 Author: 妖刀
