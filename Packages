@@ -808,19 +808,19 @@ Author: 妖刀
 Name: SixteenMusic 简体中文包(rootless)
 
 Package: com.hk.snapper2.cn.rl
-Version: 2.6.0
+Version: 2.6.0-1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: rootless/Snapoer2 中文增补包(rootless).deb
-Size: 7368
-MD5sum: c85edce182f43b3e09c2b14a0dc306a8
-SHA1: 458f7381e26f77a8128512e280b07feb47cb9eff
-SHA256: d072bd45166bb9b1f58d5527a48273fc9e8c6b41bea46228c2018eadaf61fac5
+Filename: rootless/Snapper2 中文增补包(rootless).deb
+Size: 7352
+MD5sum: 80cb675568cfc150c8929b942168f3a0
+SHA1: dbd25eaf8b0a6c5f8d8adfdd095b0c4c1d42d834
+SHA256: c148bff361111d760e09737ff6b6ee7b4e01ebc68cb54d560906368a4aed8925
 Section: 嗨-汉化
 Description: Snapper2 中文增补包(rootless)。
 Author: 妖刀
-Name: Snapoer2 中文增补包(rootless)
+Name: Snapper2 中文增补包(rootless)
 
 Package: com.hk.snowboard.cn.rl
 Version: 1.5.9~beta3
