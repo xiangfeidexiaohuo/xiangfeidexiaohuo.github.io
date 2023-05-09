@@ -296,6 +296,21 @@ Description: Choicy 简体中文包(rootless)。
 Author: 妖刀
 Name: Choicy 简体中文包(rootless)
 
+Package: com.hk.coolcc.cn.rl
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/CoolCC Reborn 简体中文包(rootless).deb
+Size: 1796
+MD5sum: 901ee4613f317e6601390dcc64bd2337
+SHA1: 01fcd9751f3cd41396ef4b8fdde05b656445baf9
+SHA256: d57a9a8a994626ac4bf5d754ae23cf3ee06f95a563adedd4690f645ed90fa5a6
+Section: 嗨-汉化
+Description: CoolCC Reborn 简体中文包(rootless)。
+Author: 妖刀
+Name: CoolCC Reborn 简体中文包(rootless)
+
 Package: com.hk.copylog.cn.rl
 Version: 1.5.6-2
 Architecture: iphoneos-arm64
