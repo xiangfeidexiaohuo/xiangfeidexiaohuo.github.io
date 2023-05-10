@@ -14,29 +14,12 @@ Author: 妖刀
 Name: DLEasy 简体中文包
 
 Package: com.alias20.hk.axon
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: Baw Appie
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, acreson.rootless.cj.axon, acreson.rootless.cj.axon.cn, com.rootless.hk.axon, me.nepeta.axon
-Filename: rootless/Axon(rootless)_1.4.deb
-Size: 140528
-MD5sum: baea8a3c74625f5312285b897a067cc9
-SHA1: d2c1b58c4693d328855be59b6a683456396d18d4
-SHA256: 07c9de9a8dba8bad02b7fc208e14df99d69d80dff3fd5859bade6631d68b54ff
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，XsF1re适配iOS15(rootless/Ellekit)，源内安装中文汉化包。
-Author: Nepeta & Baw Appie & XsF1re
-Name: Axon(rootless)
-Sponsor: Acreson <342080124@qq.com>
-
-Package: com.alias20.hk.axon
 Version: 1.4-1
 Architecture: iphoneos-arm64
 Maintainer: Baw Appie
 Depends: mobilesubstrate, firmware (>= 15.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, acreson.rootless.cj.axon, acreson.rootless.cj.axon.cn, com.rootless.hk.axon, me.nepeta.axon
-Filename: rootless/Axon(rootless)_1.4-1.deb
+Filename: rootless/Axon(rootless).deb
 Size: 140936
 MD5sum: 8c91ae0cf5b0af7909398f6096b9edb6
 SHA1: 82243d66a79cfd969d04dd36b5d58a1d98e7a122
@@ -81,44 +64,12 @@ Author: Devvix
 Name: NoCShare(rootless)
 
 Package: com.daodao.pulloverpro
-Version: 2.1.2-3
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
-Filename: rootless/PullOver Pro(rootless).deb
-Size: 763412
-MD5sum: cf6b215296786f6db76bde6f4333baea
-SHA1: 5f33d2c014cb18afac3a3a1dfbb39d7f15f41f90
-SHA256: a4fb770cb993ed7e52d6e39920749c2af086316b2bfce408259f3742549aed1e
-Section: 嗨-系统
-Description: 更好的窗口多任务分屏。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
-Author: c1d3r
-Name: PullOver Pro(rootless)
-
-Package: com.daodao.pulloverpro
-Version: 2.1.2-5
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
-Filename: rootless/PullOver Pro(rootless)_2.1.2-5.deb
-Size: 820220
-MD5sum: 1623c00e5b6046ec272dc480c86df8c6
-SHA1: be191f2002b93469f1e6faeeb9f295cf4d83e0c7
-SHA256: 6911e24aad42d0a9fa61b32763fc2d7e42979b51a5dfff65a3b8ec02c058a2a9
-Section: 嗨-系统
-Description: 更好的窗口多任务分屏。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
-Author: c1d3r
-Name: PullOver Pro(rootless)
-
-Package: com.daodao.pulloverpro
 Version: 2.1.2-7
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
-Filename: rootless/PullOver Pro(rootless)_2.1.2-7.deb
+Filename: rootless/PullOver Pro(rootless).deb
 Size: 825540
 MD5sum: dd385ae690ec60fbc76bdcce15b41c2f
 SHA1: 6776a1de9dc0ccb66ffdcf8ca45d86df0bcf3693
@@ -373,27 +324,11 @@ Author: 妖刀
 Name: CylinderReborn 中文修复包(rootless)
 
 Package: com.hk.daodao.rootless.noseparators
-Version: 1.0-2
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: rootless/NoLine(rootless)_1.0-2.deb
-Size: 3690
-MD5sum: 51872c9b0f6999ff75a495863af64eb5
-SHA1: 32c77ecaeb2d13d8c983b9a02d4b4565696a188c
-SHA256: 701d82b70eeac588bf525e825ff36c88bce2659d8a3b723ebd757ebfbe51e363
-Section: 嗨-系统
-Description: 去除系统分割线(包括弹窗/UI/长按菜单等)。
-Author: 妖刀
-Name: NoLine(rootless)
-
-Package: com.hk.daodao.rootless.noseparators
 Version: 1.0-3
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: rootless/NoLine(rootless)_1.0-3.deb
+Filename: rootless/NoLine(rootless).deb
 Size: 3808
 MD5sum: d2824913e61cde526fae34d1624eaea8
 SHA1: c85f97f8bcd2aacb6049519bf6d190d6126526c3
@@ -554,28 +489,12 @@ Author: 妖刀
 Name: QuickActions 简体中文包(rootless)
 
 Package: com.hk.rootless.barmoji
-Version: 2023.3
-Architecture: iphoneos-arm64
-Maintainer: CP Digital Darkroom
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, oldabi
-Conflicts: com.cpdigitaldarkroom.barmoji
-Filename: rootless/Barmoji(rootless).deb
-Size: 44080
-MD5sum: 21ae7d3dfad892ab26a9b695b6c25446
-SHA1: bdb1c9071eb6d6e574f2140d8c60a4b8f176ab3b
-SHA256: adc5d6c5fc5b91767b08171b8b2463032ef34df1044c6665de14ea9cbea01595
-Section: 嗨-工具
-Description: 基于82的20323.3版Barmoji，Netskao修复支持Fugu15。
-Author: CP Digital Darkroom
-Name: Barmoji(rootless)
-
-Package: com.hk.rootless.barmoji
 Version: 2023.3.3
 Architecture: iphoneos-arm64
 Maintainer: CP Digital Darkroom
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.cpdigitaldarkroom.barmoji
-Filename: rootless/Barmoji(rootless)_2023.3.3.deb
+Filename: rootless/Barmoji(rootless).deb
 Size: 44080
 MD5sum: debffca34bb185cd422341c3910a1a50
 SHA1: 9a3333afcb4a8e2431c994e42ad5d71a8cc9edfb
@@ -682,6 +601,22 @@ Name: ColorBadges(rootless)
 Sponsor: Hi客源
 
 Package: com.hk.rootless.crane
+Version: 1.3.10
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
+Filename: rootless/Crane(rootless)_1.3.10.deb
+Size: 561948
+MD5sum: 505b65b3d3ebdbd9d1d48f3bdf12d9b6
+SHA1: d2023caaa6e536672fc9fcb356663e6573e9b7bc
+SHA256: cbaa56b8edb0a309fb0d9c69b2fe836b320fa6231555902061b699c61afc4285
+Section: 嗨-系统
+Description: 为应用程序提供多个容器，账号多开神器。
+Author: opa334
+Name: Crane(rootless)
+
+Package: com.hk.rootless.crane
 Version: 1.3.9
 Architecture: iphoneos-arm64
 Maintainer: opa334
@@ -735,7 +670,7 @@ Architecture: iphoneos-arm64
 Maintainer: Mr.Zhang <mr_zhang_00@163.com>
 Depends: mobilesubstrate
 Conflicts: com.skypain.minilsp
-Filename: rootless/MiniLsp(rootless)_1.1.1-4.deb
+Filename: rootless/MiniLsp(rootless).deb
 Size: 5596
 MD5sum: 6e888492e655a0e696f7dfa9bc7814d5
 SHA1: 7dc60cbd143eb4ef148bf96b7b75a65fe1fc5e5c
@@ -746,27 +681,12 @@ Author: Mr.Zhang <mr_zhang_00@163.com>
 Name: MiniLsp(rootless)
 
 Package: com.hk.rootless.velvet2
-Version: 2.1.1
-Architecture: iphoneos-arm64
-Maintainer: NoisyFlake <support@noisyflake.com>
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2
-Filename: rootless/Velvet 2(rootless).deb
-Size: 96332
-MD5sum: c097eee9699a693cfdbf19fa77ee82dd
-SHA1: e52f5943f48c3e67147820b0bdf905e1abf01782
-SHA256: 0eba51ed7d347db138067d0cac9a929b0645e987c07c466ae5449f4ff58f7469
-Section: 嗨-工具
-Description: 完全可自由定制的通知横幅，源内安装汉化包。
-Name: Velvet 2(rootless)
-
-Package: com.hk.rootless.velvet2
 Version: 2.1.2
 Architecture: iphoneos-arm64
 Maintainer: NoisyFlake <support@noisyflake.com>
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2
-Filename: rootless/Velvet 2(rootless)_2.1.2.deb
+Filename: rootless/Velvet 2(rootless).deb
 Size: 96096
 MD5sum: f9815c89ba8e0872b4981ed58875a248
 SHA1: 0f65af4deb11c9784f463a384607fc9294dc9abd
