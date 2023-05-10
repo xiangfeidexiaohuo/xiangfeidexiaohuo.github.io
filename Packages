@@ -569,34 +569,18 @@ Author: 妖刀
 Name: CCLess++(rootless)
 
 Package: com.hk.rootless.cc
-Version: 1.7.2
+Version: 1.8
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Depends: com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless
-Filename: rootless/CCLess++(rootless)_1.7.2.deb
-Size: 362132
-MD5sum: 17f680d2a501f9d5780090a69107cf28
-SHA1: 3f2d42541ba39e4a011f8f8942f8eec8fcff9520
-SHA256: 802ac8ae6d52238043a4ca90f788eca5cf905c54ca3e1e5decbd35ee8c1f37bf
+Depends: mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot
+Filename: rootless/CCLess++(rootless)_1.8.deb
+Size: 377980
+MD5sum: 53cb99f93e17b417ab65334fdac57342
+SHA1: 8080f1c9d0e61a2594bc91f2436c28ed15cf1745
+SHA256: 9e8c7b4df4f0c70db63510ba209668f2952c4010f8dceb4dece3d0464be3b138
 Section: 嗨-工具
-Description: 集合的控制中心模块：定位、注销、设置、VPN等模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX等模块来自Netskao。实时CPU使用率模块来自SOPPPra。系统运行时间模块来自MTAC。感谢Skypain、Netskao、SOPPPra、MTAC等各位大佬！！！
-Author: 妖刀
-Name: CCLess++(rootless)
-
-Package: com.hk.rootless.cc
-Version: 1.7.3
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc
-Filename: rootless/CCLess++(rootless)_1.7.3.deb
-Size: 372892
-MD5sum: 11dcc01a2bc5cf89f1b03a405e7a5b10
-SHA1: e44161d3f5006123d9b388b4fd6ccca1244caedd
-SHA256: 15d75354d3d52f3c8b0df7e961a67a4dfa5edf5bc40104743d619595a4954e7a
-Section: 嗨-工具
-Description: 集合的控制中心模块：定位、注销、设置、VPN等模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX等模块来自Netskao。实时CPU使用率模块来自SOPPPra。系统运行时间模块来自MTAC。Snapper2切换开关来自P2KDev。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev等各位大佬！！！
+Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏等模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX等模块来自Netskao。实时CPU使用率模块来自SOPPPra。系统运行时间模块来自MTAC。Snapper2切换开关来自P2KDev。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev等各位大佬！！！
 Author: 妖刀
 Name: CCLess++(rootless)
 
