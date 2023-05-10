@@ -132,7 +132,7 @@ Architecture: iphoneos-arm64
 Maintainer: aReo
 Depends: mobilesubstrate,preferenceloader
 Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless
-Filename: rootless/AppProtect(rootless)_1.7.9.deb
+Filename: rootless/AppProtect(rootless).deb
 Size: 166360
 MD5sum: 4872eaea089406789c3e84f059c17882
 SHA1: 14fb43feb9e51da63957166e4444cbbea1d81beb
