@@ -13,6 +13,26 @@ Description: DLEasy 简体中文包。
 Author: 妖刀
 Name: DLEasy 简体中文包
 
+Package: com.82skao.afc2d-arm64
+Version: 1.1.7-1
+Architecture: iphoneos-arm64
+Maintainer: Cannathea <csupport@cannathea.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0), ldid | firmware (>= 15.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2, com.cannathea.afc2d-arm64
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: rootless/AFC2(rootless).deb
+Size: 11480
+MD5sum: e61314723dce589b501cc932ac70c068
+SHA1: 115686c43077378d14a270c92afd3142d9194158
+SHA256: 7a00ce5a4c7aedee6739a836fa9e45954ad33a3dcc8cb53b6a6ac7daab14ed81
+Section: 嗨-系统
+Description: 允许设备通过USB访问完整的文件系统，对iOS 11及更高版本的设备特别有用。神秘大佬修复支持rootless。
+Tag: purpose::daemon, role::enduser
+Author: saurik, Cannathea <csupport@cannathea.com>
+Name: AFC2(rootless)
+
 Package: com.alias20.hk.axon
 Version: 1.4-1
 Architecture: iphoneos-arm64
@@ -42,6 +62,23 @@ Size: 42996
 MD5sum: bf63fe82099c5d0d334e203cbec0bc12
 SHA1: 6c1559623c1e5fcd9fb29053e59a1b5614727729
 SHA256: a647321360af033ffb8b989ac58356febaa02c0db81030b0da5e8ea604029703
+Section: 嗨-工具
+Description: 更好的WiFi配置，简体中文版。
+Author: julioverne
+Name: GoodWiFi中文版(rootless)
+
+Package: com.daodao.goodwifi
+Version: 0.0~beta6.5-daodao
+Architecture: iphoneos-arm64
+Maintainer: julioverne
+Installed-Size: 480
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.goodwifi
+Filename: rootless/GoodWiFi中文版(rootless)_beta6.5-daodao.deb
+Size: 55808
+MD5sum: 760956ed78a23e9969818492dc48cfd5
+SHA1: 93336d5342605a13d7eb9f80549e71a3b2351372
+SHA256: 94963e34229ff31e9e0eba4e330c38667c03f852de4beea05250f6ef0e12cbef
 Section: 嗨-工具
 Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
