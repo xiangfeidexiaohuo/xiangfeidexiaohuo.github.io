@@ -79,6 +79,22 @@ Description: 更好的窗口多任务分屏。由Netskao适配支持iOS15/修复
 Author: c1d3r
 Name: PullOver Pro(rootless)
 
+Package: com.daodao.pulloverpro
+Version: 2.1.2-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
+Filename: rootless/PullOver Pro(rootless)_2.1.2-8.deb
+Size: 791416
+MD5sum: 4def1a77b60a840ab3b41f07ff27f69e
+SHA1: 524346b731779c476f8c6e18120c8efe3f9b8f56
+SHA256: 2bacce5b74f9f0f098783de4cc6556f71786d429a43c64943f2e561c2c24ec5d
+Section: 嗨-系统
+Description: 更好的窗口多任务分屏。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
+Author: c1d3r
+Name: PullOver Pro(rootless)
+
 Package: com.daodao.snapper2
 Version: 2.6.1
 Architecture: iphoneos-arm64
