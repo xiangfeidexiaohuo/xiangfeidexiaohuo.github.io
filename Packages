@@ -101,28 +101,12 @@ Author: Devvix
 Name: NoCShare(rootless)
 
 Package: com.daodao.pulloverpro
-Version: 2.1.2-8
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
-Filename: rootless/PullOver Pro(rootless)_2.1.2-8.deb
-Size: 791416
-MD5sum: 4def1a77b60a840ab3b41f07ff27f69e
-SHA1: 524346b731779c476f8c6e18120c8efe3f9b8f56
-SHA256: 2bacce5b74f9f0f098783de4cc6556f71786d429a43c64943f2e561c2c24ec5d
-Section: 嗨-系统
-Description: 更好的窗口多任务分屏。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
-Author: c1d3r
-Name: PullOver Pro(rootless)
-
-Package: com.daodao.pulloverpro
 Version: 2.1.2-9
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
-Filename: rootless/PullOver Pro(rootless)_2.1.2-9.deb
+Filename: rootless/PullOver Pro(rootless).deb
 Size: 748896
 MD5sum: 62bc91595c03b8807346db59aacd4107
 SHA1: 8fd95f466e41a56d5019f09b9a233128275b624b
@@ -273,30 +257,15 @@ Author: 妖刀
 Name: BetterAlarm 简体中文包(rootless)
 
 Package: com.hk.bioprotect.cn.rl
-Version: 4.6
+Version: 4.6-31
 Architecture: iphoneos-arm64
 Maintainer: Sandy0 & Ball
 Depends: mobilesubstrate
 Filename: rootless/BioProtect 简体中文包(rootless).deb
-Size: 5652
-MD5sum: 4f9d447292c10c7200ac5f7d81978f0f
-SHA1: 531808fddd04d7ed36f5e9a04dd0b27a6864f771
-SHA256: 167a3360d1401e02e8a6198e70040041a89ade55e672fe770908f63407c12d45
-Section: 嗨-汉化
-Description: BioProtect 简体中文包(rootless)。某些地方无法直接翻译，所以某些位置还是英文，后续想办法~
-Author: Sandy0 & Ball
-Name: BioProtect 简体中文包(rootless)
-
-Package: com.hk.bioprotect.cn.rl
-Version: 4.6-30
-Architecture: iphoneos-arm64
-Maintainer: Sandy0 & Ball
-Depends: mobilesubstrate, oldabi
-Filename: rootless/BioProtect 简体中文包(rootless)_4.6-30.deb
-Size: 13468
-MD5sum: ceec366b138d0b6f046b8df7fe983efa
-SHA1: 4b95ea4d2b00c52f6ac8971b00129ac4bb38d3df
-SHA256: 0ee192bf9e3b26faa9927ef521b9d6acdf7e1110e79e8934b57d9f1fd3921296
+Size: 12948
+MD5sum: 9439799e755b399b04bd2078826087c8
+SHA1: f402282622c6dd147801b9833aecfd03fb2409be
+SHA256: 46fb5b19e257a7b812f52981cae4976b443e3a57825c3fea1c1c1c4ed073f41a
 Section: 嗨-汉化
 Description: BioProtect 简体中文包(rootless)。
 Author: Sandy0 & Ball
@@ -528,15 +497,16 @@ Author: 妖刀
 Name: Liddell 简体中文包(rootless)
 
 Package: com.hk.nfcwriterxs.cn.rl
-Version: 1.1
+Version: 4.0-1
 Architecture: iphoneos-arm64
-Maintainer: Ball
-Depends: mobilesubstrate, oldabi
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
 Filename: rootless/NFCWriter XS 简体中文包(rootless).deb
-Size: 10272
-MD5sum: f3a83b6028744a59cf9e34a8854081ea
-SHA1: d5b9deaa48973596671d98343b422edf8559eb3d
-SHA256: fcee88ec0b68969984d591d003922b8ca7253eddfc2ed6d816a342c2632a4203
+Size: 10510
+MD5sum: a2a0690814ddaf98b2048999e6f8ff5c
+SHA1: f99d3a7d430a40f6088c29c3b0c6f6aad66098bd
+SHA256: 8d6ce5052a3612330494733844f7605b1de7c8f5a1a861f50fc77d06b9e7c2f5
 Section: 嗨-汉化
 Description: NFCWriter XS 简体中文包(rootless)。
 Author: Ball
@@ -618,22 +588,6 @@ SHA1: 065b07f6b5b7420b474a576bbd31daf82241a6cf
 SHA256: 3f77a6343ead895b48710d6947aae74ec37ec4fddd7ddd4be7e16b1d576f3141
 Section: 嗨-工具
 Description: skypain大佬制作的控制中心的定位、注销、设置、VPN模块。Netskao的一键清角标、微信扫码、支付宝扫码模块。SOPPPra的实时CPU使用率模块。mtac的系统运行时间模块。
-Author: 妖刀
-Name: CCLess++(rootless)
-
-Package: com.hk.rootless.cc
-Version: 1.8
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate, com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot
-Filename: rootless/CCLess++(rootless)_1.8.deb
-Size: 377980
-MD5sum: 53cb99f93e17b417ab65334fdac57342
-SHA1: 8080f1c9d0e61a2594bc91f2436c28ed15cf1745
-SHA256: 9e8c7b4df4f0c70db63510ba209668f2952c4010f8dceb4dece3d0464be3b138
-Section: 嗨-工具
-Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏等模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX等模块来自Netskao。实时CPU使用率模块来自SOPPPra。系统运行时间模块来自MTAC。Snapper2切换开关来自P2KDev。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev等各位大佬！！！
 Author: 妖刀
 Name: CCLess++(rootless)
 
