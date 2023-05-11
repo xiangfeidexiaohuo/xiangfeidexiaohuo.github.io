@@ -116,6 +116,22 @@ Description: 更好的窗口多任务分屏，屏幕侧边呼出。由Netskao适
 Author: c1d3r
 Name: PullOver Pro(rootless)
 
+Package: com.daodao.pulloverpro
+Version: 2.1.3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
+Filename: rootless/PullOver Pro(rootless)-Netskao.deb
+Size: 818056
+MD5sum: f6f9341aef7a4e9194cd129876ca5d87
+SHA1: e51e37e30dc30ab6f0cf03e359fce7a3eb9c10d3
+SHA256: 9a9f18da5df031d282d9529b95a8e7cdad64504173dd0aee5e1d50fe8d3bb88c
+Section: 嗨-系统
+Description: 更好的窗口多任务分屏，屏幕侧边呼出。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
+Author: c1d3r
+Name: PullOver Pro(rootless)-Netskao
+
 Package: com.daodao.snapper2
 Version: 2.6.1
 Architecture: iphoneos-arm64
@@ -813,15 +829,15 @@ Author: 妖刀
 Name: Snapper2 中文增补包(rootless)
 
 Package: com.hk.snowboard.cn.rl
-Version: 1.5.9~beta3
+Version: 1.5.13
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Snowboard 中文修正包(rootless).deb
-Size: 3668
-MD5sum: d760d4c3e6f012aa484404671f603073
-SHA1: 468338126a571a5f0228fc51738d1c560dcac5ae
-SHA256: 8a9e6805750c3ed2e5cf9b31b3cbe8a1ce805c5c0180a0ac370633de9e1ac2b5
+Size: 3672
+MD5sum: e94869cc2a186a2f32a6722d8320935c
+SHA1: ef5175ecf47a83bf4ce3f8029d9d79c869babd6c
+SHA256: 75003638c456c166c9389b383b75df9a139a7a164cf321b6c28a482875b32680
 Section: 嗨-汉化
 Description: Snowboard 中文修正包(rootless)。
 Author: 妖刀
