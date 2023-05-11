@@ -101,22 +101,6 @@ Author: Devvix
 Name: NoCShare(rootless)
 
 Package: com.daodao.pulloverpro
-Version: 2.1.2-7
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
-Filename: rootless/PullOver Pro(rootless).deb
-Size: 825540
-MD5sum: dd385ae690ec60fbc76bdcce15b41c2f
-SHA1: 6776a1de9dc0ccb66ffdcf8ca45d86df0bcf3693
-SHA256: 282c80b62d9de283c38505805b8566457cba6f5a65868adc6572b0172ae94a6e
-Section: 嗨-系统
-Description: 更好的窗口多任务分屏。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
-Author: c1d3r
-Name: PullOver Pro(rootless)
-
-Package: com.daodao.pulloverpro
 Version: 2.1.2-8
 Architecture: iphoneos-arm64
 Maintainer: Nets
@@ -129,6 +113,22 @@ SHA1: 524346b731779c476f8c6e18120c8efe3f9b8f56
 SHA256: 2bacce5b74f9f0f098783de4cc6556f71786d429a43c64943f2e561c2c24ec5d
 Section: 嗨-系统
 Description: 更好的窗口多任务分屏。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
+Author: c1d3r
+Name: PullOver Pro(rootless)
+
+Package: com.daodao.pulloverpro
+Version: 2.1.2-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
+Filename: rootless/PullOver Pro(rootless)_2.1.2-9.deb
+Size: 748896
+MD5sum: 62bc91595c03b8807346db59aacd4107
+SHA1: 8fd95f466e41a56d5019f09b9a233128275b624b
+SHA256: 7fd5a65d7ea599fce13b4c63e77a61e15eaf4410f13eb7c505ca13897fc1435a
+Section: 嗨-系统
+Description: 更好的窗口多任务分屏，屏幕侧边呼出。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
 Author: c1d3r
 Name: PullOver Pro(rootless)
 
@@ -147,6 +147,22 @@ Section: 嗨-工具
 Description: 便捷截屏。源内可安装中文修复包。
 Author: Jonathan Winger-lang
 Name: Snapper 2(rootless)
+
+Package: com.daodao.sugarcane
+Version: 1.2.4.2
+Architecture: iphoneos-arm64
+Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
+Depends: mobilesubstrate,firmware (>= 13.0)
+Conflicts: com.ioscreatix.sugarcane
+Filename: rootless/SugarCane 15(rootless).deb
+Size: 7928
+MD5sum: d544a59bd2a99c758b1a5575c69fe058
+SHA1: 36ead3f7a44db76e821d2fc451056cb37e9bcbb5
+SHA256: 1d7de01adf785d3336d434ff762430d83febf87225f2b18dbb367b9194d91b32
+Section: 嗨-工具
+Description: 控制中心音量/亮度条添加数字百分比。Skypain基于P2KDev大佬开源，调小百分比字体大小为12号。
+Author: iOS Creatix, kasiimh1, p2kdev
+Name: SugarCane 15(rootless)
 
 Package: com.hk.afont.cn.rl
 Version: 1.9.3
