@@ -178,22 +178,6 @@ Description: 控制中心音量/亮度条添加数字百分比。Skypain基于P2
 Author: iOS Creatix, kasiimh1, p2kdev
 Name: SugarCane 15(rootless)
 
-Package: com.daodao.ultrasound
-Version: 1.2.12
-Architecture: iphoneos-arm64
-Maintainer: Ayden Panhuyzen
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, com.ball.ultrasound.cn.rl
-Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13, applebetas.ios.tweak.willow
-Filename: rootless/Ultrasound(rootless).deb
-Size: 150152
-MD5sum: 4ab65fb66ffcfed6cd9b50d46c899cb1
-SHA1: eb906dfa9c60078034abf7fe1995a13bdb935c9b
-SHA256: 6b503c5c922bb3582b4ac5e15621f50a6ca67196f50a1e7d04b91172d8b025e1
-Section: 嗨-工具
-Description: 一个全新的、OLED显示的音量HUD。Skypain大佬基于开源编译支持rootless，并优化。汉化包刀刀源内安装。
-Author: Ayden Panhuyzen
-Name: Ultrasound(rootless)
-
 Package: com.hk.afont.cn.rl
 Version: 1.9.3
 Architecture: iphoneos-arm64
