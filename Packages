@@ -256,6 +256,21 @@ Description: AudioRecorder XS 简体中文包(rootless)。
 Author: Sandy0 & 妖刀
 Name: AudioRecorder XS 简体中文包(rootless)
 
+Package: com.hk.autounlockx.cn.rl
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Sandy0
+Depends: mobilesubstrate
+Filename: rootless/AutoUnlockX 简体中文包(rootless).deb
+Size: 1520
+MD5sum: ad3e420ab174c7aa5ff3dd81981acf97
+SHA1: b8ec4b694df3a132073112df2d273f6b38bcd2cf
+SHA256: fd9312d2cac3b9eafcfe4a6d9492405c5de8655a5eaba0fdfb15a62ad4541c17
+Section: 嗨-汉化
+Description: AutoUnlockX 简体中文包(rootless)。
+Author: Sandy0
+Name: AutoUnlockX 简体中文包(rootless)
+
 Package: com.hk.axon.cn.rl
 Version: 2.0-2
 Architecture: iphoneos-arm64
