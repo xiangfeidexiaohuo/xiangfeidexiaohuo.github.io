@@ -701,16 +701,16 @@ Name: Jan-WeChat(rootless)
 Sponsor: Jan
 
 Package: com.hk.rootless.liddell
-Version: 1.4.2
+Version: 1.4.3
 Architecture: iphoneos-arm64
 Maintainer: Traurige <hello@traurige.dev>
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, dev.traurige.libkitten (>= 1.3.3), com.mrgcgamer.libgcuniversal
 Conflicts: love.litten.liddell, dev.traurige.liddell
 Filename: rootless/Liddell小横幅(rootless).deb
-Size: 91992
-MD5sum: c571f067835f6b8d5ba0ebc54277f463
-SHA1: 0a7891bf5223bec0a2d94b5c7c3cc14d2018e378
-SHA256: 592a732dd0a6128ba44dcc7f63cc71234e0b78dced3c4ab2d32b205f6e171f38
+Size: 92372
+MD5sum: c253ba7b1eba23d2260ed2fa954cfb1b
+SHA1: af1fb4e8f0c6f6ad08ad7899f58f7fb192f3e693
+SHA256: f7c39aea2483e9cebea0681c6f6a63a834df8f89366432ff3a3b859c9c7f6813
 Section: 嗨-工具
 Description: 小横幅通知，可自定义颜色等，汉化包源内安装。
 Author: Traurige <hello@traurige.dev>
