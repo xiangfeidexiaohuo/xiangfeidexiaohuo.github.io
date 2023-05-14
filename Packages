@@ -115,16 +115,16 @@ Author: Devvix
 Name: NoCShare(rootless)
 
 Package: com.daodao.pulloverpro
-Version: 2.1.3-3
+Version: 2.1.3-4
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
 Filename: rootless/PullOver Pro(rootless)-Netskao.deb
-Size: 869428
-MD5sum: ddf892addcc5641b226934104cac6e4b
-SHA1: 2fc348eb97a4f7b4f2e29e323ba7e1c573f437c9
-SHA256: 1064b54161aacfa575b9344b5809a4480e57393c0bd90c758aae1cec8238e7eb
+Size: 872824
+MD5sum: c311d53b281cb733fcbcd73863f30658
+SHA1: be12bb2902b5de60f4358e168fe329e7592ee76c
+SHA256: 6f427b7bce501d5e8cd7dcd2970e27bee557fc1da18e2ebcb0d59a58a7b8aaa0
 Section: 嗨-系统
 Description: 更好的窗口多任务分屏，屏幕侧边呼出。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
 Author: c1d3r
@@ -658,29 +658,13 @@ Architecture: iphoneos-arm64
 Maintainer: opa334
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
-Filename: rootless/Crane(rootless)_1.3.10.deb
+Filename: rootless/Crane(rootless).deb
 Size: 561948
 MD5sum: 505b65b3d3ebdbd9d1d48f3bdf12d9b6
 SHA1: d2023caaa6e536672fc9fcb356663e6573e9b7bc
 SHA256: cbaa56b8edb0a309fb0d9c69b2fe836b320fa6231555902061b699c61afc4285
 Section: 嗨-系统
 Description: 为应用程序提供多个容器，账号多开神器。
-Author: opa334
-Name: Crane(rootless)
-
-Package: com.hk.rootless.crane
-Version: 1.3.9
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane, com.hk.crane.cn.rl
-Filename: rootless/Crane(rootless).deb
-Size: 568836
-MD5sum: 1694ec4d8e73a0687dad166c181cc53a
-SHA1: 5cc671f3b3153878280e88d4e888c3b5ef76904b
-SHA256: 00fd9a2e9e7d6b9e7ef7c4fd10db84a6ad0030d575ae26b32f8f9e0033f0291e
-Section: 嗨-系统
-Description: 为应用程序提供多个容器，账号多开神器。已修正(增补)中文。
 Author: opa334
 Name: Crane(rootless)
 
