@@ -421,6 +421,22 @@ Description: 去除弹窗/UI/长按菜单等地方的分割线。
 Author: 妖刀
 Name: NoLine(rootless)
 
+Package: com.hk.daodao.rootless.noseparators
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/NoLine(rootless)_1.2-1.deb
+Size: 3848
+MD5sum: a963085415b72b4c16c962ca497154a6
+SHA1: b401ec32b12a0b27aad13d8dd83ee66b2fd0a756
+SHA256: 5081953a1808e302a3088148f80f65be71159af7ab896b5d03a604bfe4d5f507
+Section: 嗨-系统
+Description: 去除弹窗/UI/长按菜单等地方的分割线。新增隐藏部分App列表分割线。
+Author: 妖刀
+Name: NoLine(rootless)
+
 Package: com.hk.dleasy.cn.rl
 Version: 2.13.5
 Architecture: iphoneos-arm64
