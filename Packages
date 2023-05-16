@@ -98,6 +98,22 @@ Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版(rootless)
 
+Package: com.daodao.kayoko
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: dev.traurige.kayoko, com.daodao.82.kayoko
+Filename: rootless/Kayoko(rootless).deb
+Size: 101128
+MD5sum: ee8ad3901de3aad3ab481669d6295271
+SHA1: 46f07c89d34c089980091827797304a7e66ae58a
+SHA256: 3cd05ca3c120a5fffba6b815830c4bacb5887efac14fe4d1aabea78e645ff534
+Section: 嗨-系统
+Description: 剪切板插件，直接替代听写键，可直接翻译剪切板里的英文等。刀刀基于Traurige最新源码编译，不需要cephei依赖，中文包在源内安装。
+Author: Traurige <hello@traurige.dev>
+Name: Kayoko(rootless)
+
 Package: com.daodao.nocshare
 Version: 1.1.2-1
 Architecture: iphoneos-arm64
