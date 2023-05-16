@@ -193,6 +193,21 @@ Description: AlarmTime 简体中文包(rootless)。
 Author: 妖刀
 Name: AlarmTime 简体中文包(rootless)
 
+Package: com.hk.ampere.cn.rl
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Ampere 简体中文包(rootless).deb
+Size: 5728
+MD5sum: 0899480a1e31a64c310c3a52fe86ce78
+SHA1: ca1c5a0f734728157556badc335eafd3386d1da0
+SHA256: 985cae3aecd6aee90de1a2faec48c691992d8b4f8443955994974e1676c89730
+Section: 嗨-汉化
+Description: Ampere 简体中文包(rootless)。
+Author: 妖刀
+Name: Ampere 简体中文包(rootless)
+
 Package: com.hk.appprotectrootless
 Version: 1.7.9
 Architecture: iphoneos-arm64
@@ -543,15 +558,15 @@ Author: 妖刀
 Name: Kayoko 简体中文包(rootless)
 
 Package: com.hk.kbapp.cn.rl
-Version: 1.4
+Version: 1.5
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/KBApp 简体中文包(rootless).deb
-Size: 5644
-MD5sum: 2137f2d6184a2df3eb23e457f6f0197c
-SHA1: 788f929af40c2868ffb002d26f824ea79f6aff22
-SHA256: 439ce4ea662a71cf8ca75c92c198c504680f1561c18f7127679ba10174b29253
+Size: 6052
+MD5sum: df2a0960e49fc7578b46e9cccc969cbf
+SHA1: 6244f2aa8225912522cb083972bf8d377f405637
+SHA256: bb4dc22a8e1575351379d706874dc9a34d37596bec3d79a1e2cedeae3c7defeb
 Section: 嗨-汉化
 Description: KBApp 简体中文包(rootless)。
 Author: 妖刀
