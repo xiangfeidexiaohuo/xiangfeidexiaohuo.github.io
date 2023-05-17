@@ -80,6 +80,22 @@ Description: Ultrasound 简体中文包(rootless)。
 Author: Ball <ball@hackcn.net>
 Name: Ultrasound 简体中文包(rootless)
 
+Package: com.daodao.82.kayoko
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, com.daodao.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl
+Filename: rootless/Kayoko魔改版(rootless).deb
+Size: 114380
+MD5sum: 016bab58c14b537ae5970a229bcdc7a5
+SHA1: 230f380d765c6a31b9cd7ff46bbe23e87b76dce8
+SHA256: 2a4974de5d35569b0fcba67a5ad8afdf2eea0a03e74148f9e717c53e3fc23f1a
+Section: 嗨-系统
+Description: 剪切板插件，直接替代听写键，可直接翻译剪切板里的英文等。Skypain大佬同步Traurige最新源码，合并i_82大佬的特性(可修改高度，音效、振动等)和修复，编译适配rootless，已包含中文包。
+Author: Traurige <hello@traurige.dev>
+Name: Kayoko魔改版(rootless)
+
 Package: com.daodao.goodwifi
 Version: 0.0~beta6-daodao
 Architecture: iphoneos-arm64
