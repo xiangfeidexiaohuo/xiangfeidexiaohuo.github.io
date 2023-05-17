@@ -747,19 +747,19 @@ Author: opa334
 Name: Crane(rootless)
 
 Package: com.hk.rootless.janwechat
-Version: 1.1.5
+Version: 1.1.5-1
 Architecture: iphoneos-arm64
 Maintainer: Jan
-Depends: mobilesubstrate, oldabi
-Filename: rootless/Jan-WeChat(rootless).deb
-Size: 599308
-MD5sum: 81d80a2404b5bbfebaa517d45be3165e
-SHA1: 9889517b45b575fc8d9dcc412d7b4b3e13d2fbcf
-SHA256: 746265cbdc759b882f161bc457a19029f6e1d671e6992c308fde9384850473ec
+Depends: mobilesubstrate
+Filename: rootless/WeChat(rootless).deb
+Size: 599252
+MD5sum: 758abe2e5b71163092f15682e307443d
+SHA1: 7f9537b94c7343664ea84e0cc4f51ed198da4c6c
+SHA256: 51cfe285188fb2e64818e2db33553d675a76c17fc4773f15cfcada96701169ba
 Section: 嗨-工具
-Description: Jan WeChat微信助手rootless版，插件还是老版本，作者都不见了，没更新的，可能某些功能失效，只是转换支持Fugu15而已。安装前确保使用的Fugu15和ElleKit是最新版。提示：毕竟不是插件作者更新支持rootless，可能会出现闪退、卡注销、卡用户空间重启等bug，若出现风险，自行承担！
+Description: Jan WeChat微信助手rootless版，插件还是老版本，可能某些功能失效，只是转换支持Fugu15/多巴胺越狱而已。提示：毕竟不是插件作者更新支持rootless，可能会出现bug/风险，若出现风险，自行承担！
 Author: Jan
-Name: Jan-WeChat(rootless)
+Name: WeChat(rootless)
 Sponsor: Jan
 
 Package: com.hk.rootless.liddell
