@@ -51,20 +51,20 @@ Name: Axon(rootless)
 Sponsor: Acreson <342080124@qq.com>
 
 Package: com.alucard.wifiqr.cn
-Version: 1.0-1
+Version: 1.1-1
 Architecture: iphoneos-arm64
 Maintainer: Alucard
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: rootless/WiFiQR简体中文包(rootless).deb
-Size: 3774
-MD5sum: 32bbaed504e6f20440cd764cb4623718
-SHA1: d1338a49fbc626d4b8cf6f2299ae3a590e96ee56
-SHA256: 23827b7e298e62734fb0c1605aedeecf97981d5ec17cbacb9ec31704308d5a61
+Filename: rootless/WiFiQR & HotspotQR 简体中文包(rootless).deb
+Size: 3972
+MD5sum: e61e89f706f3621f2a901550c80f3cff
+SHA1: 4b06a40851125c308f85ddff0ca61de4cf12cdfd
+SHA256: 7e111699e5efe542a98df9c1aec4d83ea579e8c116bd891ca56a5c8cfff64511
 Section: 嗨-汉化
-Description: WiFiQR简体中文包(rootless)。
+Description: WiFiQR和HotspotQR 共用简体中文包(rootless)。
 Author: Alucard
-Name: WiFiQR简体中文包(rootless)
+Name: WiFiQR & HotspotQR 简体中文包(rootless)
 
 Package: com.ball.ultrasound.cn.rl
 Version: 1.2.12
