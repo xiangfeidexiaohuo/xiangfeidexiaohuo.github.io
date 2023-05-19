@@ -163,16 +163,16 @@ Author: Devvix
 Name: NoCShare(rootless)
 
 Package: com.daodao.pulloverpro
-Version: 2.1.3-4
+Version: 2.1.3-5
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
 Filename: rootless/PullOver Pro(rootless)-Netskao.deb
-Size: 872824
-MD5sum: c311d53b281cb733fcbcd73863f30658
-SHA1: be12bb2902b5de60f4358e168fe329e7592ee76c
-SHA256: 6f427b7bce501d5e8cd7dcd2970e27bee557fc1da18e2ebcb0d59a58a7b8aaa0
+Size: 874920
+MD5sum: 39c3d01af8e3394fca4526ced4106b85
+SHA1: a39ad7f133cc2a4615a90c86a575c278c2f4607d
+SHA256: ebec963b4d6f5116961ba66c944275d3644deb386cf48a8122f02ef33dab6c10
 Section: 嗨-系统
 Description: 更好的窗口多任务分屏，屏幕侧边呼出。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
 Author: c1d3r
