@@ -454,6 +454,21 @@ Description: Crane 中文修复包(rootless)。
 Author: 妖刀
 Name: Crane 中文修复包(rootless)
 
+Package: com.hk.ct5.cn.rl
+Version: 5.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/CrackTool5 中文修复包(rootless).deb
+Size: 2384
+MD5sum: cdd9bcdde0e660d82b34c10bcdc9561a
+SHA1: f87be0ae3f4770a820f018218183fb1e6375e2d4
+SHA256: 95c624acc659d1cde78e9478c42cc7306fd030daeb98bca0320df41352477aca
+Section: 嗨-汉化
+Description: CrackTool5 中文修复包(rootless)，如果插件更新了，需要再次安装本中文包。
+Author: 妖刀
+Name: CrackTool5 中文修复包(rootless)
+
 Package: com.hk.cylinder.cn.rl
 Version: 1.1.1
 Architecture: iphoneos-arm64
@@ -949,6 +964,21 @@ Section: 嗨-汉化
 Description: Snowboard 中文修正包(rootless)。
 Author: 妖刀
 Name: Snowboard 中文修正包(rootless)
+
+Package: com.hk.speedy.cn.rl
+Version: 0.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Speedy 简体中文包(rootless).deb
+Size: 2888
+MD5sum: 9dd26d4cab2f50fb59726c9406988e22
+SHA1: 3c6cbdc9006359b2bc94a1ffac85f46da716ff17
+SHA256: a17ac5d270ceba1dd71702ea8c9320bc49a350a35029a0a2e11ef55e5fc7a017
+Section: 嗨-汉化
+Description: Speedy 简体中文包(rootless)。
+Author: 妖刀
+Name: Speedy 简体中文包(rootless)
 
 Package: com.hk.storeswitcher2.rl
 Version: 1.0.2
