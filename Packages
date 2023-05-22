@@ -394,6 +394,21 @@ Description: BlurryAlerts 简体中文包(rootless)。
 Author: Ball
 Name: BlurryAlerts 简体中文包(rootless)
 
+Package: com.hk.ccmusicartwork.cn.rl
+Version: 2.4.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/CCMusicArtwork 简体中文包(rootless).deb
+Size: 1532
+MD5sum: 750deda31bc9b34b97cc38dd5108a431
+SHA1: 07ce78780532756f86ca0bab043b3e54c23b1455
+SHA256: 0bb50ca55f2f351bea6f80c56bb28a49d5f9d9bbe012233e8434ba2692f2779f
+Section: 嗨-汉化
+Description: CCMusicArtwork 简体中文包(rootless)。
+Author: 妖刀
+Name: CCMusicArtwork 简体中文包(rootless)
+
 Package: com.hk.choicy.cn.rl
 Version: 1.4.6
 Architecture: iphoneos-arm64
@@ -651,15 +666,15 @@ Author: 妖刀
 Name: Liddell 简体中文包(rootless)
 
 Package: com.hk.milkway4.cn.rl
-Version: 0.1.0
+Version: 0.1.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/MilkyWay4 简体中文包(rootless).deb
-Size: 4248
-MD5sum: e4cff4420697d987dd66a75e68ed2083
-SHA1: b2e8e43f4da5633f92397cbf408e14026eae7cdd
-SHA256: 2ac9ff1c0c65f8dab8a2e0bb04706e7ef5a51d4e7e0460e5e75a3eca6ab8c01c
+Size: 4316
+MD5sum: b0fcd3dcb5e684dce509bbbfa8f51db4
+SHA1: 0cadc215fa493651c2e98610421363f16e9cff1c
+SHA256: 0c3569cf1341f2582a9833566cfca71c5bb75a753b91ea09504db500f6c6be2a
 Section: 嗨-汉化
 Description: MilkyWay4 简体中文包(rootless)。
 Author: 妖刀
