@@ -560,6 +560,21 @@ Description: EZSwipe 简体中文包(rootless)。
 Author: 妖刀
 Name: EZSwipe 简体中文包(rootless)
 
+Package: com.hk.filza.cn.rl
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/Filza 中文增补包(rootless).deb
+Size: 10804
+MD5sum: 510afef15e9b3846f0603cbdf9805941
+SHA1: 694274e2a75efc247cd0776bc9bec4fb178ca890
+SHA256: 808107d7c007264225a24c9c4bb52fdb0ba4d4e7bb0837304c18f5fe64d50ceb
+Section: 嗨-汉化
+Description: Filza 中文增补包(rootless)。
+Author: Mo/妖刀
+Name: Filza 中文增补包(rootless)
+
 Package: com.hk.floatingdock16.cn.rl
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -919,6 +934,21 @@ Section: 嗨-汉化
 Description: Shuffle 简体中文包(rootless)。
 Author: 妖刀
 Name: Shuffle 简体中文包(rootless)
+
+Package: com.hk.sileo.cn.rl
+Version: 2.4.5
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/Sileo 中文增补包(rootless).deb
+Size: 7832
+MD5sum: 0bb8d823ed16e7547f21feed1e188799
+SHA1: a0ae4101c80eac771c5d5ac2656565ccac806f91
+SHA256: 2b91faf171c613a9cd49e3902fb8a229be3c6fae6df85ba35028481fbf74882d
+Section: 嗨-汉化
+Description: Sileo和Sileo-Nightly 中文增补包(rootless)。
+Author: 妖刀
+Name: Sileo 中文增补包(rootless)
 
 Package: com.hk.sixteenmusic.cn.rl
 Version: 1.6
