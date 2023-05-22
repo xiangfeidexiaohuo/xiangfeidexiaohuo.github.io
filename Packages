@@ -1132,6 +1132,38 @@ Description: Zetsu 简体中文包(rootless)。
 Author: 妖刀
 Name: Zetsu 简体中文包(rootless)
 
+Package: com.jrttnoads.rootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 佚名
+Depends: mobilesubstrate
+Filename: rootless/头条NoAds(rootless).deb
+Size: 70884
+MD5sum: 9517f050d3cd1da914aaaeed1c0d338b
+SHA1: c1e71b686b76b2b74d1ae4616e2954a2403dc989
+SHA256: 68e81d34f068e0d56b0e4cabd79a5885ce32e158e615d19a18d3c083e13f6f77
+Section: 嗨-工具
+Description: 某大佬古老的今日头条系列去广告插件，无设置。插件还是老版本，可能某些功能失效，只是转换支持Fugu15/多巴胺越狱而已。提示：毕竟不是插件作者更新支持rootless，可能会出现bug/风险，若出现风险，自行承担！
+Author: 佚名
+Name: 头条NoAds(rootless)
+Sponsor: 佚名
+
+Package: com.wx.pyqnoads.rl
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 佚名
+Depends: mobilesubstrate
+Filename: rootless/微信朋友圈NoAds(rootless).deb
+Size: 4516
+MD5sum: 7cff7cdfeeb2f958df095bc0e4902f04
+SHA1: d68623f5e687b09c3ffd65d3b8edc69d97f6834e
+SHA256: e974a574570604a22615d27bcc4aa23c1ef259a83e83ef4087292f6fba3bca59
+Section: 嗨-工具
+Description: 微信去朋友圈广告，无设置。群友分享不知道作者，使用自行承担风险。转换支持Fugu15/多巴胺越狱而已。提示：毕竟不是插件作者更新支持rootless，可能会出现bug/风险，若出现风险，自行承担！
+Author: 佚名
+Name: 微信朋友圈NoAds(rootless)
+Sponsor: 佚名
+
 Package: dev.traurige.libkitten
 Version: 1.4.1
 Architecture: iphoneos-arm64
