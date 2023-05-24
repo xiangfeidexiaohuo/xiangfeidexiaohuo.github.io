@@ -652,15 +652,15 @@ Author: 妖刀
 Name: Kayoko 简体中文包(rootless)
 
 Package: com.hk.kbapp.cn.rl
-Version: 1.5
+Version: 1.5-1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/KBApp 简体中文包(rootless).deb
-Size: 6052
-MD5sum: df2a0960e49fc7578b46e9cccc969cbf
-SHA1: 6244f2aa8225912522cb083972bf8d377f405637
-SHA256: bb4dc22a8e1575351379d706874dc9a34d37596bec3d79a1e2cedeae3c7defeb
+Size: 6084
+MD5sum: 47b507dc0132239cce3855c530354119
+SHA1: b7b722f65b339a765dcdab7eabbd5f0003ca6742
+SHA256: 8c2d7c913a99a674d8db1735bb209c61bd2af1aa8b3e30d23930ef62958487a2
 Section: 嗨-汉化
 Description: KBApp 简体中文包(rootless)。
 Author: 妖刀
