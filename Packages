@@ -130,6 +130,22 @@ Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版(rootless)
 
+Package: com.daodao.hammerit
+Version: 0.3.5
+Architecture: iphoneos-arm64
+Maintainer: lclrc
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.lclrc.hammerit
+Filename: rootless/HammerIt大爆炸(rootless).deb
+Size: 85468
+MD5sum: b9f1e264fbfed2910df45f1cfe660044
+SHA1: e481bc4444062dbd07915cff91bd640b428f16e1
+SHA256: a7273e0666dff4a55366d6fe98d870b5006576d43a6c84f0313c5be3ac9a8269
+Section: 嗨-工具
+Description: BigBang大爆炸，比较简约。
+Author: lclrc
+Name: HammerIt大爆炸(rootless)
+
 Package: com.daodao.kayoko
 Version: 1.3.1
 Architecture: iphoneos-arm64
@@ -163,16 +179,16 @@ Author: Devvix
 Name: NoCShare(rootless)
 
 Package: com.daodao.pulloverpro
-Version: 2.1.3-5
+Version: 2.1.4
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
-Filename: rootless/PullOver Pro(rootless)-Netskao.deb
-Size: 874920
-MD5sum: 39c3d01af8e3394fca4526ced4106b85
-SHA1: a39ad7f133cc2a4615a90c86a575c278c2f4607d
-SHA256: ebec963b4d6f5116961ba66c944275d3644deb386cf48a8122f02ef33dab6c10
+Filename: rootless/PullOver Pro(rootless).deb
+Size: 825884
+MD5sum: 6236b6f55ca71cd2b53714857452f4d7
+SHA1: 4a30c972ffb2fd58a7a0b8e9666318a75310bdbf
+SHA256: 612d4bef7b5f08df697d5b7db219140aa8d51e37b481b3b135f710dcdc23cf6e
 Section: 嗨-系统
 Description: 更好的窗口多任务分屏，屏幕侧边呼出。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
 Author: c1d3r
@@ -195,16 +211,16 @@ Author: 糖醋丶炒排骨
 Name: 微信公众号去广告(rootless)
 
 Package: com.daodao.snapper2
-Version: 2.6.1
+Version: 2.7.0
 Architecture: iphoneos-arm64
 Maintainer: Jonathan Winger-lang
 Depends: mobilesubstrate, firmware (>= 12.1)
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2, com.jontelang.snapper2.packix
 Filename: rootless/Snapper 2(rootless).deb
-Size: 408484
-MD5sum: 79a672ee2139efa83dff5833a8b1718b
-SHA1: 921c1018715344b4d57b9d8c8f31261583fb99a6
-SHA256: e4483d6184c18f3dd25a0d5246f34a84ea647ebfc793b2a342a0db9eec7e191d
+Size: 586808
+MD5sum: ec17d23d3c5031e9f52e8d19e1f9b331
+SHA1: de6d2254a4324f41dbea2ca30a008b793d22368b
+SHA256: 8e07598d5b454282a5c15c0598725cb6dfd27ddfa5a1d7b195e30bd2c05ea2ab
 Section: 嗨-工具
 Description: 便捷截屏。源内可安装中文修复包。
 Author: Jonathan Winger-lang
@@ -781,7 +797,7 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen
-Filename: rootless/CCLess++(rootless)_1.8.1.deb
+Filename: rootless/CCLess++(rootless).deb
 Size: 389448
 MD5sum: 1981a98c04d147f3017b754a4158495b
 SHA1: 58b4721d39afdfa13f0e1a9a1a4a09156c84bf30
@@ -981,15 +997,15 @@ Author: 妖刀
 Name: SixteenMusic 简体中文包(rootless)
 
 Package: com.hk.snapper2.cn.rl
-Version: 2.6.0-1
+Version: 2.7.0
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Snapper2 中文增补包(rootless).deb
-Size: 7352
-MD5sum: 80cb675568cfc150c8929b942168f3a0
-SHA1: dbd25eaf8b0a6c5f8d8adfdd095b0c4c1d42d834
-SHA256: c148bff361111d760e09737ff6b6ee7b4e01ebc68cb54d560906368a4aed8925
+Size: 7576
+MD5sum: 8a7db71534b494f907fe84996f76268d
+SHA1: 27e6fda8ffe791954abdc7f37839d0317fbb5056
+SHA256: 7f0cb3dc5d6ef74a0e6846ff3dae1870e9a276d432035da36c767d391b1c4810
 Section: 嗨-汉化
 Description: Snapper2 中文增补包(rootless)。
 Author: 妖刀
