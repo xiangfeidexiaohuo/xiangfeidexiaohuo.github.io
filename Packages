@@ -1118,6 +1118,21 @@ Description: UISpeed 简体中文包(rootless)。
 Author: 妖刀
 Name: UISpeed 简体中文包(rootless)
 
+Package: com.hk.underdock.cn
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/UnderDock 简体中文包(rootless).deb
+Size: 4948
+MD5sum: b66ff9ae35201cda7151a40975ba4347
+SHA1: a188dfcf34536cda099ba0a1de1b413ad22c38b0
+SHA256: 77b57a1c4157fe1f82091d823ed9498bd58966d0186d73cb4df0066ada07a47c
+Section: 嗨-汉化
+Description: UnderDock 简体中文包(rootless)。
+Author: 妖刀
+Name: UnderDock 简体中文包(rootless)
+
 Package: com.hk.uyou.cn.rl
 Version: 3.0-1
 Architecture: iphoneos-arm64
