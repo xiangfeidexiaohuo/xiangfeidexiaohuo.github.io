@@ -137,10 +137,10 @@ Maintainer: lclrc
 Depends: mobilesubstrate, firmware (>= 15.0)
 Conflicts: com.lclrc.hammerit
 Filename: rootless/HammerIt大爆炸(rootless).deb
-Size: 85468
-MD5sum: b9f1e264fbfed2910df45f1cfe660044
-SHA1: e481bc4444062dbd07915cff91bd640b428f16e1
-SHA256: a7273e0666dff4a55366d6fe98d870b5006576d43a6c84f0313c5be3ac9a8269
+Size: 85268
+MD5sum: 43d42ab8bb34b638536ea57b30c16bc0
+SHA1: aab6f1ed169b0a3b918a3e5c77341f81b26804e1
+SHA256: 2f9e6b0576822d4cbd81889b3e4ddca69bbf3d7f2f113babce75e285b6029ac4
 Section: 嗨-工具
 Description: BigBang大爆炸，比较简约。
 Author: lclrc
