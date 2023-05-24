@@ -130,22 +130,6 @@ Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版(rootless)
 
-Package: com.daodao.hammerit
-Version: 0.3.5
-Architecture: iphoneos-arm64
-Maintainer: lclrc
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.lclrc.hammerit
-Filename: rootless/HammerIt大爆炸(rootless).deb
-Size: 85268
-MD5sum: 43d42ab8bb34b638536ea57b30c16bc0
-SHA1: aab6f1ed169b0a3b918a3e5c77341f81b26804e1
-SHA256: 2f9e6b0576822d4cbd81889b3e4ddca69bbf3d7f2f113babce75e285b6029ac4
-Section: 嗨-工具
-Description: BigBang大爆炸，比较简约。
-Author: lclrc
-Name: HammerIt大爆炸(rootless)
-
 Package: com.daodao.kayoko
 Version: 1.3.1
 Architecture: iphoneos-arm64
