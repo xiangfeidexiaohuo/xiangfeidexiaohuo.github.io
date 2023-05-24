@@ -658,9 +658,9 @@ Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/KBApp 简体中文包(rootless).deb
 Size: 6084
-MD5sum: 47b507dc0132239cce3855c530354119
-SHA1: b7b722f65b339a765dcdab7eabbd5f0003ca6742
-SHA256: 8c2d7c913a99a674d8db1735bb209c61bd2af1aa8b3e30d23930ef62958487a2
+MD5sum: 3faa584930577d75cceb9ddb13c66c27
+SHA1: 2ed086a5c9d743b125b4359b30838d2d3b434acc
+SHA256: fbbd77efd75f47e740fa72e9503a360ac9ea378a997f972cb8dff5228f580bc7
 Section: 嗨-汉化
 Description: KBApp 简体中文包(rootless)。
 Author: 妖刀
