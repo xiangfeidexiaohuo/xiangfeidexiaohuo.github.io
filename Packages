@@ -226,6 +226,22 @@ Description: 控制中心音量/亮度条添加数字百分比。Skypain基于P2
 Author: iOS Creatix, kasiimh1, p2kdev
 Name: SugarCane 15(rootless)
 
+Package: com.daodao.wicellswitcher
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Conflicts: com.brunonfl.wicellswitcher
+Filename: rootless/WiCellSwitcher(rootless).deb
+Size: 23376
+MD5sum: e346220b751510c064c204c49f3517bc
+SHA1: f5f9788e3b2dcc4efa06ea9971919d9ac31263c1
+SHA256: 67a14b4c6c50ebb663158f5ac2550dcc6c9db6c7b443d0dddb9e7afd79c947e0
+Section: 嗨-工具
+Description: WiFi和蜂窝数据之间智能切换，控制中心连接WiFi关闭蜂窝，连接蜂窝关闭WiFi，或者断开连接时触发。Skypain基于i_82修复支持iOS15的源码，编译支持rootless。
+Author: Bruno Andrade <brubiluco@globo.com>
+Name: WiCellSwitcher(rootless)
+
 Package: com.hk.afont.cn.rl
 Version: 1.9.3
 Architecture: iphoneos-arm64
