@@ -712,6 +712,21 @@ Description: NFCWriter XS 简体中文包(rootless)。
 Author: Ball
 Name: NFCWriter XS 简体中文包(rootless)
 
+Package: com.hk.pancake.cn.rl
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Ball <ball@hackcn.net>
+Depends: mobilesubstrate
+Filename: rootless/PanCake 简体中文包(rootless).deb
+Size: 2904
+MD5sum: f39f5038fab631fd4204890b75fbd9a1
+SHA1: 77add17dcbf22d1d9600b66b4a36af4c664a96a0
+SHA256: 94a2135710b56889ac939e19ac238e408f605bdb20a44af37859b6af17303933
+Section: 嗨-汉化
+Description: PanCake 简体中文包(rootless)。
+Author: Ball <ball@hackcn.net>
+Name: PanCake 简体中文包(rootless)
+
 Package: com.hk.quickactions.cn.rl
 Version: 1.0.0
 Architecture: iphoneos-arm64
