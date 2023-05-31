@@ -666,6 +666,21 @@ Description: KBApp 简体中文包(rootless)。
 Author: 妖刀
 Name: KBApp 简体中文包(rootless)
 
+Package: com.hk.lastlook.cn.rl
+Version: 3.6.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/LastLook 简体中文包(rootless).deb
+Size: 8504
+MD5sum: 47fb9f94feb00f95d2ec67ddfc7f21bd
+SHA1: 6f07875897845a8c7888ba9a58fc1640ecdc42c1
+SHA256: 73f417f530170943cb6f5f9fce46c067f3daa081a94624038b2838b6abeb887b
+Section: 嗨-汉化
+Description: LastLook 简体中文包(rootless)。
+Author: 妖刀
+Name: LastLook 简体中文包(rootless)
+
 Package: com.hk.liddell.cn.rl
 Version: 1.4.2
 Architecture: iphoneos-arm64
