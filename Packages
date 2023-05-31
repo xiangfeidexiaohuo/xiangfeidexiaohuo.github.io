@@ -80,6 +80,22 @@ Description: Ultrasound 简体中文包(rootless)。
 Author: Ball <ball@hackcn.net>
 Name: Ultrasound 简体中文包(rootless)
 
+Package: com.dao.lynxtwo
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Conflicts: com.mtac.lynxtwo
+Filename: rootless/Lynx 2(rootless).deb
+Size: 449976
+MD5sum: 1aefa8d88d99501da36265aa3736b5a0
+SHA1: 953cc0dd0fbb8a1ee38796834b8f3aba51716af1
+SHA256: 359941e9f9f7b30d186e11993aa1028e4ac5db6f31f8776b0251ae3508e091c6
+Section: 嗨-工具
+Description: 适用于iOS 14+的终极军刀类多功能插件，汉化包在源内。
+Author: MTAC
+Name: Lynx 2(rootless)
+
 Package: com.daodao.82.kayoko
 Version: 1.3.1-1
 Architecture: iphoneos-arm64
@@ -696,6 +712,21 @@ Description: Liddell 简体中文包(rootless)。
 Author: 妖刀
 Name: Liddell 简体中文包(rootless)
 
+Package: com.hk.lynx2.cn.rl
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: M哥 & 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Lynx2简体中文包(rootless).deb
+Size: 21208
+MD5sum: 8bd1230c2e276af41eeea7f647c24281
+SHA1: 27281da5f1925d8c6880cf81078b0fefc8ffac53
+SHA256: 3ecc6e5a0b2d4132a655cb1fd9251f0ae48961a98896945a4731a7fd1ae7da90
+Section: 嗨-汉化
+Description: Lynx2 简体中文包(rootless)。
+Author: M哥
+Name: Lynx2 简体中文包(rootless)
+
 Package: com.hk.milkway4.cn.rl
 Version: 0.1.1
 Architecture: iphoneos-arm64
@@ -741,6 +772,22 @@ Section: 嗨-汉化
 Description: PanCake 简体中文包(rootless)。
 Author: Ball <ball@hackcn.net>
 Name: PanCake 简体中文包(rootless)
+
+Package: com.hk.pf2.cn.rl
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/PrimalFolder2 简体中文包(rootless).deb
+Size: 5478
+MD5sum: 9cae84d3df8f4134eeb597b10733c230
+SHA1: 3298782937b42a859809f571c28bad2d4d276fe7
+SHA256: 7d8a5b9fd7d4ea9ba99adce5c3428b0f200c094355700ae0c0b72a4ea8c55276
+Section: 嗨-汉化
+Description: PrimalFolder2 简体中文包(rootless)。
+Author: 妖刀
+Name: PrimalFolder2 简体中文包(rootless)
 
 Package: com.hk.quickactions.cn.rl
 Version: 1.0.0
