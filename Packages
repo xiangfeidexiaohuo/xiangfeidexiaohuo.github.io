@@ -194,6 +194,22 @@ Description: 更好的窗口多任务分屏，屏幕侧边呼出。由Netskao适
 Author: c1d3r
 Name: PullOver Pro(rootless)-Netskao
 
+Package: com.daodao.rootless.bhtwitter
+Version: 3.9.1
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common (>= 2.0)
+Conflicts: com.bandarhl.rootless.bhtwitter
+Filename: rootless/BHTwitter(rootless).deb
+Size: 806112
+MD5sum: 87f20fa5eeb95ede859c9b7e5aedaa67
+SHA1: fcd5ab490398fbcf0beff1d69ad6ff0a9f726482
+SHA256: c5c8b41df463d07ff3633ffee11c7db6fb8eb1278327c8eede9e468dc7414378
+Section: 嗨-工具
+Description: Twitter高级工具，可去广告，下载视频等。
+Author: Bandar Alruwaili
+Name: BHTwitter(rootless)
+
 Package: com.daodao.rootless.vfa
 Version: 1.0.2-2
 Architecture: iphoneos-arm64
