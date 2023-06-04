@@ -96,6 +96,23 @@ Description: 适用于iOS 14+的终极军刀类多功能插件，汉化包在源
 Author: MTAC
 Name: Lynx 2(rootless)
 
+Package: com.dao.onesettings
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle, xyz.cypwn.onesettings, com.nightwind.onesettings
+Replaces: com.twickd.nightwind.onesettings
+Filename: rootless/OneSettings(rootless).deb
+Size: 208952
+MD5sum: 433766fb2ca6c147e17e856575224f07
+SHA1: 0fc4ed1f4e6dcce5d8414ad952cc999b54b5b49f
+SHA256: 73f021239dbecbea4bdb65f0cf520bb51d5d90bbb17e6563401512c2b7d91327
+Section: 嗨-工具
+Description: 设置应用程序的增强插件，源内有汉化包。
+Author: Nightwind <nightwinddev@gmail.com>
+Name: OneSettings(rootless)
+
 Package: com.daodao.82.kayoko
 Version: 1.3.1-1
 Architecture: iphoneos-arm64
@@ -729,15 +746,15 @@ Author: 妖刀
 Name: Liddell 简体中文包(rootless)
 
 Package: com.hk.lynx2.cn.rl
-Version: 2.4
+Version: 2.4-1
 Architecture: iphoneos-arm64
 Maintainer: M哥 & 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Lynx2简体中文包(rootless).deb
-Size: 21208
-MD5sum: 8bd1230c2e276af41eeea7f647c24281
-SHA1: 27281da5f1925d8c6880cf81078b0fefc8ffac53
-SHA256: 3ecc6e5a0b2d4132a655cb1fd9251f0ae48961a98896945a4731a7fd1ae7da90
+Size: 21196
+MD5sum: 53635f2862d2d15d3490382e38e8b176
+SHA1: 8564865623283f7f722046b18f4d40f85f4527bd
+SHA256: e91c3aa91f13a5456b49d25c8a7c32a1e109fb9768b435bc8e5a7c518e9c9aa7
 Section: 嗨-汉化
 Description: Lynx2 简体中文包(rootless)。
 Author: M哥
@@ -773,6 +790,21 @@ Section: 嗨-汉化
 Description: NFCWriter XS 简体中文包(rootless)。
 Author: Ball
 Name: NFCWriter XS 简体中文包(rootless)
+
+Package: com.hk.onesettings.cn.rl
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/OneSettings 简体中文包(rootless).deb
+Size: 11668
+MD5sum: 04235afd3148e2009b4a8d050e05913d
+SHA1: 3bd316c89130fee124ac834ea98b64c122d2ebda
+SHA256: bceaf35a79b563eafaeb135d3ad6bbe68bb6912443f0a450781318301f8a8f86
+Section: 嗨-汉化
+Description: OneSettings 简体中文包(rootless)。
+Author: 妖刀
+Name: OneSettings 简体中文包(rootless)
 
 Package: com.hk.pancake.cn.rl
 Version: 2.2
