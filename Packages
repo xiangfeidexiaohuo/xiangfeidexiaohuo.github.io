@@ -80,6 +80,22 @@ Description: Ultrasound 简体中文包(rootless)。
 Author: Ball <ball@hackcn.net>
 Name: Ultrasound 简体中文包(rootless)
 
+Package: com.dao.infuseplus
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: rootless/Infuse Plus(rootless).deb
+Size: 106504
+MD5sum: a8577c88252fd6a3a69267f74a5dc20d
+SHA1: f3a0749a1cefc5fc1832da7c503a2f2ad43243cd
+SHA256: 42459f11e41022f6c1bffe4b84b7873dcc60de194234ce4637639394b6bdf5c7
+Section: 嗨-工具
+Description: Infuse的破解/增强插件，已内嵌汉化包。
+Author: dvntm
+Name: Infuse Plus(rootless)
+
 Package: com.dao.lynxtwo
 Version: 2.4
 Architecture: iphoneos-arm64
