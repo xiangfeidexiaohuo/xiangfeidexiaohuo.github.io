@@ -445,6 +445,21 @@ Description: BetterAlarm 简体中文包(rootless)。
 Author: 妖刀
 Name: BetterAlarm 简体中文包(rootless)
 
+Package: com.hk.bigsur.cn.rl
+Version: 1.4.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/BigSurCenter 简体中文包(rootless).deb
+Size: 7712
+MD5sum: fa7004c0e260064874a4d2baefa6081a
+SHA1: c00a076ecf634c074d3b5b65cd9c0eeddf78ea41
+SHA256: 5fcd1f05234fd81d40eb1daf96e2fda8409d61c76d1f84705c7c70758fff0f86
+Section: 嗨-汉化
+Description: BigSurCenter 简体中文包(rootless)。
+Author: 妖刀
+Name: BigSurCenter 简体中文包(rootless)
+
 Package: com.hk.bioprotect.cn.rl
 Version: 4.6-31
 Architecture: iphoneos-arm64
