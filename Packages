@@ -717,15 +717,15 @@ Author: 妖刀
 Name: Shadow 简体中文包(rootless)
 
 Package: com.hk.kayoko.cn.rl
-Version: 1.2-1
+Version: 1.4
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Kayoko 简体中文包(rootless).deb
-Size: 5736
-MD5sum: e211bcfa34eb9f8ece27b4bb36e0fc4b
-SHA1: 7d190caaf7affe19a1d763a301f1a86ab8109836
-SHA256: b5694f79567856ea703115546c7f73c30e09e48c46c436b2631e66f6bb91e3e1
+Size: 6140
+MD5sum: 8d57185f0a2e1f40a9976794865f0cbc
+SHA1: ffe8141357c4c7d25515a93409a550773daab145
+SHA256: 61691fea8083aead434ab16c692f86afd02db6d74b10f4ac926268973691dd7c
 Section: 嗨-汉化
 Description: Kayoko 简体中文包(rootless)。
 Author: 妖刀
