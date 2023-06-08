@@ -1380,21 +1380,6 @@ Author: 佚名
 Name: 头条NoAds(rootless)
 Sponsor: 佚名
 
-Package: com.nicho1asdev.bigsurcenter
-Version: 10.1.4.3
-Architecture: iphoneos-arm64
-Maintainer: nicho1asdev
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Filename: rootless/BigSurCenter(rootless).deb
-Size: 916212
-MD5sum: cb0d21ec561c80a69f4e8c5351486766
-SHA1: 3f51472d5f39430c55082fd7defc7ac4af4bb635
-SHA256: f8fcad2fd0f13f15ebaac05e23ca512edc5e987ddbaaecfd134a40086fe04f5e
-Section: 嗨-工具
-Description: 灵感来自MacOS BigSur的轻量级控制中心插件，跳过正版验证来自pxx917144686。汉化包在源内。不要纠结插件版本号，因为必须和正版一样包名，才能正常使用，所以把版本号前面加个10，防止提示正版升级。
-Author: nicho1asdev
-Name: BigSurCenter(rootless)
-
 Package: com.wx.pyqnoads.rl
 Version: 1.0
 Architecture: iphoneos-arm64
