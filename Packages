@@ -1123,15 +1123,15 @@ Author: 妖刀
 Name: Shuffle 简体中文包(rootless)
 
 Package: com.hk.sileo.cn.rl
-Version: 2.4.5
+Version: 2.5
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/Sileo 中文增补包(rootless).deb
-Size: 7780
-MD5sum: 11d8019c27fb8c1abef6a1150f7c1460
-SHA1: e32736a77f8d6316be973893e37dc3d75e15363f
-SHA256: d57e0885e04aaa2a5ef8fbdabec8c9deea8c072cd716dedf812fba973449b6ae
+Size: 8036
+MD5sum: 4942de6dd033f6ccccd2a085af6a6bf1
+SHA1: 06ff2926ea9c0d0979ba58990033aa54b9b47f59
+SHA256: 9d4adf40db616b5f9f6ef15d0f4e101b56279025cb9a33d0255141c088c02ae5
 Section: 嗨-汉化
 Description: Sileo和Sileo-Nightly 中文增补包(rootless)。
 Author: 妖刀
