@@ -130,16 +130,16 @@ Author: Nightwind <nightwinddev@gmail.com>
 Name: OneSettings(rootless)
 
 Package: com.daodao.82.kayoko
-Version: 1.4.0-1
+Version: 1.4.0-2
 Architecture: iphoneos-arm64
 Maintainer: Mr.Zhang <mr_zhang_00@163.com>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, com.daodao.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl
 Filename: rootless/Kayoko魔改版(rootless).deb
-Size: 120764
-MD5sum: 506563f5bc2d4b024266bbd23ff26e22
-SHA1: 3f55af07d919c6258a263877fdfb84d740a43be6
-SHA256: a215752943c01bc7968f7d324ac3836c7db9cbbd2175ab0e4071f9d83d4c978d
+Size: 120904
+MD5sum: bb82a1f4d76f7300d0454adcf402685c
+SHA1: afc1a66f188ea2a39579112897e78d71a173ef74
+SHA256: af0cd514c9c33bbed1fadb7bdef9a2ee79b246b6f79e2a6bb56e55dfa8e79ec3
 Section: 嗨-系统
 Description: 剪切板插件，直接替代听写键，可直接翻译剪切板里的英文等。Skypain大佬基于Traurige和Lessica的开源项目，编译适配rootless，Lessica大佬版本特性(可修改高度，音效、振动等)和一些优化修复等，已包含中文包。
 Author: Traurige <hello@traurige.dev>
