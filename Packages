@@ -385,6 +385,22 @@ Description: AppTools for iOS15 Rootless，强大的App类辅助插件，可以�
 Author: aReo
 Name: AppTools15(rootless)
 
+Package: com.hk.apptools15rootless
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15
+Filename: rootless/AppTools15(rootless)_1.2.0.deb
+Size: 194060
+MD5sum: 5b3c52b53d5bfbd7249456cee73a185d
+SHA1: 39c719bf07d8b20d287666d831490441a9543f06
+SHA256: 8c1c9246088b8c77e136fb737af96fa7c9b4e387b5250d00308ba24812e4bdbb
+Section: 嗨-付费
+Description: AppTools for iOS15 Rootless，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，25元自行购买。和AppProtect一起打包购买，40元。
+Author: aReo
+Name: AppTools15(rootless)
+
 Package: com.hk.audiorecorderxs.cn.rl
 Version: 5.0-3
 Architecture: iphoneos-arm64
