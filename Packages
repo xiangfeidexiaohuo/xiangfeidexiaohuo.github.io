@@ -392,10 +392,10 @@ Maintainer: aReo
 Depends: firmware (>=15.0), mobilesubstrate
 Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15
 Filename: rootless/AppTools15(rootless)_1.2.0.deb
-Size: 194060
-MD5sum: 5b3c52b53d5bfbd7249456cee73a185d
-SHA1: 39c719bf07d8b20d287666d831490441a9543f06
-SHA256: 8c1c9246088b8c77e136fb737af96fa7c9b4e387b5250d00308ba24812e4bdbb
+Size: 194036
+MD5sum: 9b58c3f644466b3cfdc9d64d7a107857
+SHA1: 96b94ad312ef85cd7f664c1040e97767f8ecc512
+SHA256: fd87322c3b6721dff1c1a03780ba6331354997b1c15c0851a9a98911556cd6e5
 Section: 嗨-付费
 Description: AppTools for iOS15 Rootless，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，25元自行购买。和AppProtect一起打包购买，40元。
 Author: aReo
