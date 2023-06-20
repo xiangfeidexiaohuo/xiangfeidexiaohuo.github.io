@@ -129,6 +129,22 @@ Description: 设置应用程序的增强插件，源内有汉化包。
 Author: Nightwind <nightwinddev@gmail.com>
 Name: OneSettings(rootless)
 
+Package: com.dao.ytlite
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite
+Filename: rootless/YTLite(rootless).deb
+Size: 14648
+MD5sum: c15f01348c68e63ce3a4888bba32b32e
+SHA1: b6e76f6d5be7693341f2bbb5263b6c2e648e4ecf
+SHA256: 16157690b324ddca46b608b18be6d4fbf0eeb7581abcd2fec785bd8fd782b9c1
+Section: 嗨-工具
+Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索等简单功能，已汉化。插件选项位于油管“设置—YTLite”。
+Author: dvntm
+Name: YTLite(rootless)
+
 Package: com.daodao.82.kayoko
 Version: 1.4.0-2
 Architecture: iphoneos-arm64
