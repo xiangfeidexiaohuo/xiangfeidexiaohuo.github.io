@@ -130,16 +130,16 @@ Author: Nightwind <nightwinddev@gmail.com>
 Name: OneSettings(rootless)
 
 Package: com.dao.ytlite
-Version: 2.0
+Version: 2.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 35260
-MD5sum: 0777f4c60336f4e9a97313d5b2923ad7
-SHA1: 3e0c36994d1a354ffd6723299bbdd6ac3d71f280
-SHA256: 223efbc6394432056d7ebd0f8514b1fc91cb4583a31064fcee67ed9d193359e4
+Size: 35880
+MD5sum: 256498b1f9d31f18e933027c1fbec6fd
+SHA1: e2dde82ce3f517a650182fca22c665a9abc5445a
+SHA256: 5369c7ff3ef5ff42011de4543a869dcd28ab72485804a1053bdb9c1c2bb0fefc
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
