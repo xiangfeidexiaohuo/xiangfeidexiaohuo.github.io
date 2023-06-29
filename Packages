@@ -112,6 +112,21 @@ Description: 适用于iOS 14+的终极军刀类多功能插件，汉化包在源
 Author: MTAC
 Name: Lynx 2(rootless)
 
+Package: com.dao.ocd
+Version: 0.4-beta-1-Lite
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3
+Conflicts: com.b4db1r3.ocd
+Filename: rootless/OCD(rootless).deb
+Size: 54500
+MD5sum: e52681056a9ce4c912af835abc31c956
+SHA1: bb6cc1ff3093d554bcc900e600772d633bc121e3
+SHA256: 962d2ce8d7054cb20c0fa032d64986a543d0ccec38c15be4a8b6f2a9037270aa
+Section: 嗨-工具
+Description: 根据App图标颜色来自适应改变App名称和角标的颜色。已汉化且补充插件缺失的设置图标。
+Author: b4db1r3
+Name: OCD(rootless)
+
 Package: com.dao.onesettings
 Version: 2.0.3
 Architecture: iphoneos-arm64
