@@ -81,18 +81,18 @@ Author: Ball <ball@hackcn.net>
 Name: Ultrasound 简体中文包(rootless)
 
 Package: com.dao.infuseplus
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootless/Infuse Plus(rootless).deb
-Size: 106504
-MD5sum: a8577c88252fd6a3a69267f74a5dc20d
-SHA1: f3a0749a1cefc5fc1832da7c503a2f2ad43243cd
-SHA256: 42459f11e41022f6c1bffe4b84b7873dcc60de194234ce4637639394b6bdf5c7
+Size: 106704
+MD5sum: de70901f7a61904fbf40bcc7b74ad19e
+SHA1: fb2670c60cd0ba556d2bb5f8540bdd46bce44842
+SHA256: da23a168b97e197e0b1065525d20d19000f5071c60b22060c419a3ebde4bae4c
 Section: 嗨-工具
-Description: Infuse的破解/增强插件，已内嵌汉化包。
+Description: Infuse的破解/增强插件，已补全开屏弹窗汉化。
 Author: dvntm
 Name: Infuse Plus(rootless)
 
@@ -145,16 +145,16 @@ Author: Nightwind <nightwinddev@gmail.com>
 Name: OneSettings(rootless)
 
 Package: com.dao.ytlite
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 35980
-MD5sum: da649d6f80d338a0e447026388f26741
-SHA1: d75ba53e54fc6ee117c1aaedddf6d144121c5c44
-SHA256: f5d71777a4738f49caa7d55e50a645e940cc2329def6f1503ca046961df58da5
+Size: 37428
+MD5sum: e12ba824e053b2eea2323ecbd1e06bd7
+SHA1: 3efb63c8b94317d69a720c5437bd437bab93b65b
+SHA256: d11bcb56ff0e60c0487744ab2161929eb67b619ab9b2636a2b49692e64d18338
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
