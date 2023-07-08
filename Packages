@@ -144,6 +144,22 @@ Description: 设置应用程序的增强插件，源内有汉化包。
 Author: Nightwind <nightwinddev@gmail.com>
 Name: OneSettings(rootless)
 
+Package: com.dao.primalfolder2
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.hk.pf2.cn.rl
+Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
+Filename: rootless/PrimalFolder2(rootless).deb
+Size: 48360
+MD5sum: 51b218c5bb23985d448c44a34c2d290c
+SHA1: 89cd5851c05c9bfb3cbc039949f82cf546e93dce
+SHA256: c90100bf191713713762a368d624dc00e224e6c6a7d0eb15901ea06ba691fb26
+Section: 嗨-工具
+Description: 将文件夹显示为图标等多功能文件夹，源内有中文包。
+Author: ichitaso
+Name: PrimalFolder2(rootless)
+
 Package: com.dao.ytlite
 Version: 2.2
 Architecture: iphoneos-arm64
