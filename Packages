@@ -160,6 +160,22 @@ Description: 将文件夹显示为图标等多功能文件夹，源内有中文�
 Author: ichitaso
 Name: PrimalFolder2(rootless)
 
+Package: com.dao.settingsrevamp
+Version: 2.0.9
+Architecture: iphoneos-arm64
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: rootless/SettingsRevamp(rootless).deb
+Size: 97536
+MD5sum: fab8a269820c571e72c87294da50f32f
+SHA1: ebed63849cfcda790bea4ed2d243658af44b3c92
+SHA256: b31c6eb9d0ee1e65570266b1f316ff3fa6cb3306353bd583fe769fd67743b05d
+Section: 嗨-工具
+Description: 设置自定义、归类插件，源内有汉化包。
+Author: SOPPPra
+Name: SettingsRevamp(rootless)
+
 Package: com.dao.ytlite
 Version: 2.2
 Architecture: iphoneos-arm64
