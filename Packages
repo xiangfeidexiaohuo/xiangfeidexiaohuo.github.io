@@ -80,6 +80,22 @@ Description: Ultrasound 简体中文包(rootless)。
 Author: Ball <ball@hackcn.net>
 Name: Ultrasound 简体中文包(rootless)
 
+Package: com.dao.bhtiktok
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common (>= 2.0)
+Conflicts: com.bandarhl.bhtiktok
+Filename: rootless/BHTikTok(rootless).deb
+Size: 85680
+MD5sum: b8e50bf24df527a6f5e29d357a958cb9
+SHA1: a66d31c4e4f961e1b9846cbadbf99d25f0f3de5a
+SHA256: 976fae4b02a89a1f5a96e8109f7a8fcb8370936504945a1ca4c69263a717823c
+Section: 嗨-工具
+Description: TikTok的多功能插件，可自动播放、去广告、下载、换区等，源内有汉化包。
+Author: Bandar Alruwaili
+Name: BHTikTok(rootless)
+
 Package: com.dao.infuseplus
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -555,6 +571,22 @@ Section: 嗨-汉化
 Description: BetterAlarm 简体中文包(rootless)。
 Author: 妖刀
 Name: BetterAlarm 简体中文包(rootless)
+
+Package: com.hk.bhtiktok.cn.rl
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/BHTikTok 简体中文包(rootless).deb
+Size: 6394
+MD5sum: 7eff97cb5cd98926df7dfdeca70b465e
+SHA1: 45fb814b716726aef0fd5dc8ba0eff26efedbbdd
+SHA256: 536818a4ce6cc878f8fed0bdf03ebafb249d3ffbf200dbf1effb48e27996b868
+Section: 嗨-汉化
+Description: BHTikTok 简体中文包(rootless)。
+Author: 妖刀
+Name: BHTikTok 简体中文包(rootless)
 
 Package: com.hk.bigsur.cn.rl
 Version: 1.4.2
