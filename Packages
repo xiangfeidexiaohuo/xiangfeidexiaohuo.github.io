@@ -183,10 +183,10 @@ Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 47496
-MD5sum: b1e6d8dade8abf8be0a52f4c901c9e98
-SHA1: 813fa0f5e3bc6a815a59b066cb67856e1e46056a
-SHA256: 321c035409405fe7e397ae19208b385675a2d0278cd6abbf5ab35e5144c10c40
+Size: 48012
+MD5sum: cd984c1ce0ee028d792268bdfca6b60c
+SHA1: 0c3cd576efe716b5d0a808118fc24c6629ea5c6f
+SHA256: 36ce857f1d56b65ef89a6dcde30787d1d8412d6ca97746c80362abbe078ed66c
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
