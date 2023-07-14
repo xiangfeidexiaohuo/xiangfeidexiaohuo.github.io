@@ -80,6 +80,22 @@ Description: Ultrasound 简体中文包(rootless)。
 Author: Ball <ball@hackcn.net>
 Name: Ultrasound 简体中文包(rootless)
 
+Package: com.dao.bhinsta
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhinsta
+Filename: rootless/BHInsta(rootless).deb
+Size: 69172
+MD5sum: fd6d67189ba8dabb9fba5d25acf7c90c
+SHA1: e7c604ae6ff962ee4b21eeeb48884acc97a46c5b
+SHA256: 76411649dab58ec23b545ef47558844d78612e86cf417ac26654d2d0fe29b155
+Section: 嗨-工具
+Description: Instagram多功能插件，可去广告、下载等，源内有汉化包。
+Author: Bandar Alruwaili
+Name: BHInsta(rootless)
+
 Package: com.dao.bhtiktok
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -556,17 +572,33 @@ Description: BetterAlarm 简体中文包(rootless)。
 Author: 妖刀
 Name: BetterAlarm 简体中文包(rootless)
 
-Package: com.hk.bhtiktok.cn.rl
+Package: com.hk.bhinsta.cn.rl
 Version: 0.0.1-1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
+Filename: rootless/BHInsta 简体中文包(rootless).deb
+Size: 5324
+MD5sum: fa1aa8bb39313a9a2287b5678c72abad
+SHA1: 5780273d3a97345e6c3a314a88d101eb9585c1c8
+SHA256: 4b430e4741b190f2deaf00f7f4c3f6498bb4a9fb60d7f10452787d9e373b7f4d
+Section: 嗨-汉化
+Description: BHInsta 简体中文包(rootless)。
+Author: 妖刀
+Name: BHInsta 简体中文包(rootless)
+
+Package: com.hk.bhtiktok.cn.rl
+Version: 0.0.1-2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
 Filename: rootless/BHTikTok 简体中文包(rootless).deb
-Size: 6394
-MD5sum: 7eff97cb5cd98926df7dfdeca70b465e
-SHA1: 45fb814b716726aef0fd5dc8ba0eff26efedbbdd
-SHA256: 536818a4ce6cc878f8fed0bdf03ebafb249d3ffbf200dbf1effb48e27996b868
+Size: 6396
+MD5sum: 1dda78aa6bd002694840376400b2afff
+SHA1: 141a14bdff8d123ae14e3efdd2bbd6bacc35060d
+SHA256: 5bd85b69c64032770605896160a24b9bb996294c136a2d13aad07740ed82a033
 Section: 嗨-汉化
 Description: BHTikTok 简体中文包(rootless)。
 Author: 妖刀
