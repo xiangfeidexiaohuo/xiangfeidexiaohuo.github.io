@@ -144,6 +144,22 @@ Description: 适用于iOS 14+的终极军刀类多功能插件，汉化包在源
 Author: MTAC
 Name: Lynx 2(rootless)
 
+Package: com.dao.lynxtwo
+Version: 2.4.1
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Conflicts: com.mtac.lynxtwo
+Filename: rootless/Lynx 2(rootless)_2.4.1.deb
+Size: 475252
+MD5sum: 52fbf1b48c15cec1b15be448200334f9
+SHA1: f56002aa16de259eeceedba8b8547e3a74ec15ae
+SHA256: 29824033371c8a39a4f4179c83dad2a17604b11f81af5ceddfd07bc46ea1e6ce
+Section: 嗨-工具
+Description: 适用于iOS 14+的终极军刀类多功能插件，汉化包在源内。
+Author: MTAC
+Name: Lynx 2(rootless)
+
 Package: com.dao.ocd
 Version: 0.4-beta-1-Lite
 Architecture: iphoneos-arm64
@@ -936,18 +952,18 @@ Author: 妖刀
 Name: Liddell 简体中文包(rootless)
 
 Package: com.hk.lynx2.cn.rl
-Version: 2.4-1
+Version: 2.4.1
 Architecture: iphoneos-arm64
 Maintainer: M哥 & 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Lynx2简体中文包(rootless).deb
-Size: 21196
-MD5sum: 53635f2862d2d15d3490382e38e8b176
-SHA1: 8564865623283f7f722046b18f4d40f85f4527bd
-SHA256: e91c3aa91f13a5456b49d25c8a7c32a1e109fb9768b435bc8e5a7c518e9c9aa7
+Size: 22192
+MD5sum: f3b487fbe0a288b4a0f97b0a93490739
+SHA1: 19869da129cca94386388e95a04e4a6c8ed020b1
+SHA256: 11abc1ca7c55512c69f61c1c36e392ba1399598c47f1a599342a13c1743ad8b0
 Section: 嗨-汉化
 Description: Lynx2 简体中文包(rootless)。
-Author: M哥
+Author: M哥 & 妖刀
 Name: Lynx2 简体中文包(rootless)
 
 Package: com.hk.milkway4.cn.rl
