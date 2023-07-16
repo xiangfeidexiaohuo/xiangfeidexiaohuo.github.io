@@ -844,6 +844,21 @@ Description: FloatingDockXVI 简体中文包(rootless)。
 Author: 妖刀
 Name: FloatingDockXVI 简体中文包(rootless)
 
+Package: com.hk.hsqa.cn.rl
+Version: 1.6.5
+Architecture: iphoneos-arm64
+Maintainer: Mo
+Depends: mobilesubstrate
+Filename: rootless/Home Screen Quick Actions 简体中文包(rootless).deb
+Size: 2528
+MD5sum: 0a6ffa80ac2e6090e12c29655ab52794
+SHA1: 92f0158a6898911c68867d77a58d90cabf3cf59e
+SHA256: b8e5020407d49b1026c4e04da8d43bc5566b34262aee6785309907f63598e2dd
+Section: 嗨-汉化
+Description: Home Screen Quick Actions 简体中文包(rootless)。
+Author: Mo
+Name: Home Screen Quick Actions 简体中文包(rootless)
+
 Package: com.hk.jjolano.shadow.cn.rl
 Version: 3.7.1
 Architecture: iphoneos-arm64
