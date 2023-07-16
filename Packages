@@ -1011,16 +1011,16 @@ Author: Ball <ball@hackcn.net>
 Name: PanCake 简体中文包(rootless)
 
 Package: com.hk.pf2.cn.rl
-Version: 0.1-1
+Version: 0.1-2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: rootless/PrimalFolder2 简体中文包(rootless).deb
-Size: 5478
-MD5sum: 9cae84d3df8f4134eeb597b10733c230
-SHA1: 3298782937b42a859809f571c28bad2d4d276fe7
-SHA256: 7d8a5b9fd7d4ea9ba99adce5c3428b0f200c094355700ae0c0b72a4ea8c55276
+Size: 5446
+MD5sum: d80f6f332275ff61440d8201caf3aa09
+SHA1: 0faf0ef12816fa7d35324be16bc4b312ff643423
+SHA256: 603d544b04e4dce27d4d6197eb06ed4fc500b1e1cc26e1841bdbec7f3ae818b6
 Section: 嗨-汉化
 Description: PrimalFolder2 简体中文包(rootless)。
 Author: 妖刀
@@ -1326,15 +1326,15 @@ Author: 妖刀
 Name: Snapper2 中文增补包(rootless)
 
 Package: com.hk.snapper3.cn.rl
-Version: 1.0.4
+Version: 1.0.4-1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Snapper3 简体中文包(rootless).deb
-Size: 8776
-MD5sum: 9e7cfd2a792588072d8eeb8055f6f353
-SHA1: aac059aeefde12c6950757351f70985ca0071df8
-SHA256: 9736d90d1056eda931fc9e4d3c5e7f555fa8431465a59436d94fa6cf3692a6c0
+Size: 8748
+MD5sum: 8a08e761a0c6be156d997c097e25c16e
+SHA1: fb3f0f728a9d03e2c27de077517bb5578139bc0d
+SHA256: 7ec006ba97a7256fce50675ecd3161acdf86c87dec38da4c94ed1cd0f1100260
 Section: 嗨-汉化
 Description: Snapper3 简体中文包(rootless)。
 Author: 妖刀
