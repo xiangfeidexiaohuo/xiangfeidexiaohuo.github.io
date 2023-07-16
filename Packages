@@ -129,28 +129,12 @@ Author: dvntm
 Name: Infuse Plus(rootless)
 
 Package: com.dao.lynxtwo
-Version: 2.4
-Architecture: iphoneos-arm64
-Maintainer: MTAC
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Conflicts: com.mtac.lynxtwo
-Filename: rootless/Lynx 2(rootless).deb
-Size: 449976
-MD5sum: 1aefa8d88d99501da36265aa3736b5a0
-SHA1: 953cc0dd0fbb8a1ee38796834b8f3aba51716af1
-SHA256: 359941e9f9f7b30d186e11993aa1028e4ac5db6f31f8776b0251ae3508e091c6
-Section: 嗨-工具
-Description: 适用于iOS 14+的终极军刀类多功能插件，汉化包在源内。
-Author: MTAC
-Name: Lynx 2(rootless)
-
-Package: com.dao.lynxtwo
 Version: 2.4.1
 Architecture: iphoneos-arm64
 Maintainer: MTAC
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Conflicts: com.mtac.lynxtwo
-Filename: rootless/Lynx 2(rootless)_2.4.1.deb
+Filename: rootless/Lynx 2(rootless).deb
 Size: 475252
 MD5sum: 52fbf1b48c15cec1b15be448200334f9
 SHA1: f56002aa16de259eeceedba8b8547e3a74ec15ae
@@ -225,36 +209,20 @@ Author: SOPPPra
 Name: SettingsRevamp(rootless)
 
 Package: com.dao.ytlite
-Version: 2.2.1
+Version: 2.3
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 48012
-MD5sum: cd984c1ce0ee028d792268bdfca6b60c
-SHA1: 0c3cd576efe716b5d0a808118fc24c6629ea5c6f
-SHA256: 36ce857f1d56b65ef89a6dcde30787d1d8412d6ca97746c80362abbe078ed66c
+Size: 50960
+MD5sum: 18052834bac05ed45791f8188f918b8a
+SHA1: bdb48cafe94a137b8e705772a24e112b26b87ba8
+SHA256: 1545d5e7ee674a7bb4751d9f0bf82d01d630f73c585c03c9262d65886fe8f38b
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
 Name: YTLite(rootless)
-
-Package: com.daodao.82.kayoko
-Version: 1.4.0-2
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, com.daodao.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl
-Filename: rootless/Kayoko魔改版(rootless).deb
-Size: 120904
-MD5sum: bb82a1f4d76f7300d0454adcf402685c
-SHA1: afc1a66f188ea2a39579112897e78d71a173ef74
-SHA256: af0cd514c9c33bbed1fadb7bdef9a2ee79b246b6f79e2a6bb56e55dfa8e79ec3
-Section: 嗨-系统
-Description: 剪切板插件，直接替代听写键，可直接翻译剪切板里的英文等。Skypain大佬基于Traurige和Lessica的开源项目，编译适配rootless，Lessica大佬版本特性(可修改高度，音效、振动等)和一些优化修复等，已包含中文包。
-Author: Traurige <hello@traurige.dev>
-Name: Kayoko魔改版(rootless)
 
 Package: com.daodao.82.kayoko
 Version: 1.4.1-1
@@ -262,7 +230,7 @@ Architecture: iphoneos-arm64
 Maintainer: Mr.Zhang <mr_zhang_00@163.com>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, com.daodao.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl
-Filename: rootless/Kayoko魔改版(rootless)_1.4.1-1.deb
+Filename: rootless/Kayoko魔改版(rootless).deb
 Size: 122428
 MD5sum: 1d2059fd53347d13b739e09daa4d19d5
 SHA1: 31ee67ece25bbe513a03509f2cf1dcf13ded73fb
@@ -518,7 +486,7 @@ Architecture: iphoneos-arm64
 Maintainer: aReo
 Depends: firmware (>=15.0), mobilesubstrate
 Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15
-Filename: rootless/AppTools15(rootless)_1.2.2.deb
+Filename: rootless/AppTools15(rootless).deb
 Size: 194448
 MD5sum: f93d0352dd57d9206c3f9d689e27396f
 SHA1: c0431b1fd1e1ebbcde9eb0b30df6b2b728e1afa4
@@ -1128,7 +1096,7 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen
-Filename: rootless/CCLess++(rootless)_1.8.2.deb
+Filename: rootless/CCLess++(rootless).deb
 Size: 399024
 MD5sum: dc14b7185b20d4083f7303e18b88bb9f
 SHA1: 304892c785f18eb9dd678e1b296705a674dbceb1
