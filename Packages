@@ -370,19 +370,19 @@ Author: Bandar Alruwaili
 Name: BHTwitter(rootless)
 
 Package: com.daodao.rootless.vfa
-Version: 1.0.2-2
+Version: 1.1
 Architecture: iphoneos-arm64
-Maintainer: 糖醋丶炒排骨
-Depends: mobilesubstrate
-Conflicts: com.paigu.vfa
+Maintainer: Mo <cydia778899@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate
 Filename: rootless/微信公众号去广告(rootless).deb
-Size: 3408
-MD5sum: c8c7bff0d0b4536bb3741fc79b7cb31c
-SHA1: 9da182f88015ea8be4db7afc6db92126eab68c6d
-SHA256: dc6bda88594c1caadd1c5d0455d0a4ade06550795c017b6b53eab7213866a997
+Size: 4832
+MD5sum: 83ec67afc2a0c88346ee4b1da9d7084d
+SHA1: 4bcd00030195170f789860a9b76f2597c10f1546
+SHA256: 19bcbd66b07172e5847faf09a08fd22485361a49804d618cd57bc8009378db53
 Section: 嗨-工具
-Description: 去掉微信公众号文章内置、底部的广告，无设置。插件还是老版本，可能某些功能失效，只是转换支持Fugu15/多巴胺越狱而已。提示：毕竟不是插件作者更新支持rootless，可能会出现bug/风险，若出现风险，自行承担！
-Author: 糖醋丶炒排骨
+Description: 原作者：糖醋丶炒排骨，Mo编译支持rootless，去掉微信公众号文章内置、底部的广告，无设置。
+Author: Mo <cydia778899@gmail.com>
+Dev: Mo <cydia778899@gmail.com>
 Name: 微信公众号去广告(rootless)
 
 Package: com.daodao.snapper2
