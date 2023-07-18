@@ -160,16 +160,16 @@ Author: dvntm
 Name: Infuse Plus(rootless)
 
 Package: com.dao.lynxtwo
-Version: 2.4.1
+Version: 2.4.2
 Architecture: iphoneos-arm64
 Maintainer: MTAC
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Conflicts: com.mtac.lynxtwo
 Filename: rootless/Lynx 2(rootless).deb
-Size: 475252
-MD5sum: 52fbf1b48c15cec1b15be448200334f9
-SHA1: f56002aa16de259eeceedba8b8547e3a74ec15ae
-SHA256: 29824033371c8a39a4f4179c83dad2a17604b11f81af5ceddfd07bc46ea1e6ce
+Size: 475764
+MD5sum: 135d57cf5c51a76e1cd459c973959aca
+SHA1: 6c604565d6650d6751540d175fc518dfcee538ba
+SHA256: 90e31484e5f8145ec10230a047282371dfe17cd34b041b050ec488e69e80d703
 Section: 嗨-工具
 Description: 适用于iOS 14+的终极军刀类多功能插件，汉化包在源内。
 Author: MTAC
