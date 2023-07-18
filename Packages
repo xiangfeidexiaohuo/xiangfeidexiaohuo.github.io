@@ -1,3 +1,34 @@
+Package: com.hk.pf2.cn
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: root/PrimalFolder2 简体中文包.deb
+Size: 5378
+MD5sum: e54d559bb19b6377e3788759a45895b4
+SHA1: 4e234c9ee5c2872356fc960c9aaae4f88fb5b506
+SHA256: 53c3a136a9e04428441930f042023d226dfef675d313547a6747bfdf08362b75
+Section: 嗨-汉化
+Description: PrimalFolder2 简体中文包。
+Author: 妖刀
+Name: PrimalFolder2 简体中文包
+
+Package: com.hk.snap3.cn
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: root/Snapper 3 简体中文包.deb
+Size: 8624
+MD5sum: bdbab9714f03ac6a5d533eefbe1b730f
+SHA1: 31a456a5005b95686f8df08f66080b6c72e53ad0
+SHA256: 1ca29c3b9fefa779f59e4e75bcbc68189eb5bfd6a31ad8f0b0dd595493b4b486
+Section: 嗨-汉化
+Description: Snapper 3 简体中文包。
+Author: 妖刀
+Name: Snapper 3 简体中文包
+
 Package: com.hk.yaodao.dleasy.cn
 Version: 2.13.5
 Architecture: iphoneos-arm
@@ -1331,10 +1362,10 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Snapper3 简体中文包(rootless).deb
-Size: 8748
-MD5sum: 8a08e761a0c6be156d997c097e25c16e
-SHA1: fb3f0f728a9d03e2c27de077517bb5578139bc0d
-SHA256: 7ec006ba97a7256fce50675ecd3161acdf86c87dec38da4c94ed1cd0f1100260
+Size: 8824
+MD5sum: d4629718ef07eeb79f28e9c7de8bf962
+SHA1: a786c2be7b171d681f6dc46ca9340e9d39adf332
+SHA256: 46a11023737462c77f35a1631f1094aab16c4a0ee6b4d45f50c22bf423d470ad
 Section: 嗨-汉化
 Description: Snapper3 简体中文包(rootless)。
 Author: 妖刀
