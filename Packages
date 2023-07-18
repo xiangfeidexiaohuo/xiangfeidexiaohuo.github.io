@@ -29,6 +29,22 @@ Description: Snapper 3 简体中文包。
 Author: 妖刀
 Name: Snapper 3 简体中文包
 
+Package: com.hk.trollstore.cn
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: root/TrollStore 简体中文包.deb
+Size: 11188
+MD5sum: db3986c97805196a649875004724904d
+SHA1: 1ff8c237cfda8d56fadaa919e5007562c465efbf
+SHA256: a0d05d3b36208d2ab9ea3540825f9789795157f3064162bd94612e96957de152
+Section: 嗨-汉化
+Description: TrollStore 简体中文包。
+Author: 妖刀
+Name: TrollStore 简体中文包
+
 Package: com.hk.yaodao.dleasy.cn
 Version: 2.13.5
 Architecture: iphoneos-arm
@@ -1448,16 +1464,16 @@ Author: 妖刀
 Name: TrollNonce 简体中文包(rootless)
 
 Package: com.hk.trollstore.cn.rl
-Version: 1.0-1
+Version: 1.1-1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: rootless/TrollStore 简体中文包(rootless).deb
-Size: 10806
-MD5sum: a54dcc981997b0da1d57f313b59ee7d8
-SHA1: c80046f96df871073f78f641708c278095891002
-SHA256: b47eea2aae9994e6c43053e6e793beeff39280a5c5c02ea2af420fb686d2ac93
+Size: 11266
+MD5sum: 6d3af13eb895476e39d029be7188b030
+SHA1: a58411cc41a56173d5c0f29d9454c63662615dea
+SHA256: ab5fba3e563844ed2c29032d3bd8869ea411e72aec3a9dd2449905e0222d602a
 Section: 嗨-汉化
 Description: TrollStore 简体中文包(rootless)。
 Author: 妖刀
