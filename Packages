@@ -953,6 +953,22 @@ Description: Home Screen Quick Actions 简体中文包(rootless)。
 Author: Mo
 Name: Home Screen Quick Actions 简体中文包(rootless)
 
+Package: com.hk.intelligentpass5.cn.rl
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/IntelligentPass5 简体中文包(rootless).deb
+Size: 6108
+MD5sum: 58a97c7fdc5d02e57b94debef8c7f4b1
+SHA1: ffb9564f747cc60989a759b372e21dda5fd30f1d
+SHA256: 466ae135248768602fc3fd0dbab1b659b3fc9524fe034d489a15ac9984949698
+Section: 嗨-汉化
+Description: IntelligentPass5 简体中文包(rootless)。
+Author: 妖刀
+Name: IntelligentPass5 简体中文包(rootless)
+
 Package: com.hk.jjolano.shadow.cn.rl
 Version: 3.7.1
 Architecture: iphoneos-arm64
