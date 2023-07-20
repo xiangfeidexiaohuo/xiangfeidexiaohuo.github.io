@@ -206,6 +206,22 @@ Description: TikTok的多功能插件，可自动播放、去广告、下载、�
 Author: Bandar Alruwaili
 Name: BHTikTok(rootless)
 
+Package: com.dao.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, xyz.cypwn.icleanerprocrackrootless, com.exile90.icleanerpro
+Filename: rootless/iCleaner Pro(rootless).deb
+Size: 1101800
+MD5sum: b6eb52db721a919d94f4deead748bd82
+SHA1: 8e2c48017ee8bc6d0753a926dd1a8b1d59f3326c
+SHA256: 7ca53e8d9dd33d9b9be24042a981b2114f95e1232a9cf42be9ea3463843ed17e
+Section: 嗨-工具
+Description: 真正的iOS系统清理和管理实用程序，破解版。
+Author: Ivano Bilenchi <support@ib-soft.net>
+Name: iCleaner Pro(rootless)
+
 Package: com.dao.infuseplus
 Version: 1.0.2
 Architecture: iphoneos-arm64
