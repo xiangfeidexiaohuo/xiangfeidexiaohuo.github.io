@@ -1,3 +1,51 @@
+Package: com.hk.alpine.cn
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: root/Alpine 简体中文包.deb
+Size: 7838
+MD5sum: 0c579bc5f24b1e39f4be8e0d82390af9
+SHA1: 5c425850b866631e0dddafb65b6019483f63447b
+SHA256: ca4aec512b6d35eeff52b82b21d90de9ded166d87082d7a609543c0e7df8d948
+Section: 嗨-汉化
+Description: Alpine 简体中文包。
+Author: 妖刀
+Name: Alpine 简体中文包
+
+Package: com.hk.bhinsta.cn
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: root/BHInsta 简体中文包.deb
+Size: 5100
+MD5sum: 18d61b514b9ac64264fba5eac10cd8a1
+SHA1: c90e16b5f27a4a51d429624f60c867cd28da80f3
+SHA256: 00c5dcf101fcbba89d74ebd7ef5e5f3f43068fe6cd4d2541f5c5712d5f92237e
+Section: 嗨-汉化
+Description: BHInsta 简体中文包。
+Author: 妖刀
+Name: BHInsta 简体中文包
+
+Package: com.hk.bhtiktok.cn
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: root/BHTikTok 简体中文包.deb
+Size: 6218
+MD5sum: db9bc60cc2ea10e63a5eb7381b599595
+SHA1: 1bad377b5afcb9bcc8c4cb995febc6c894ac3592
+SHA256: d405de8273bbb2fb5a329b5f9a6a91374e9f6dc15f3723ccba915354ea37a7ae
+Section: 嗨-汉化
+Description: BHTikTok 简体中文包。
+Author: 妖刀
+Name: BHTikTok 简体中文包
+
 Package: com.hk.intelligentpass5.cn
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -558,6 +606,21 @@ Section: 嗨-汉化
 Description: AlarmTime 简体中文包(rootless)。
 Author: 妖刀
 Name: AlarmTime 简体中文包(rootless)
+
+Package: com.hk.alpine.cn.rl
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Alpine 简体中文包(rootless).deb
+Size: 5380
+MD5sum: 025310c29ff9551025ef8bdaf98a40c2
+SHA1: 77845fb56c154ca754be6ac9fe9dab1d3f8e3ea0
+SHA256: f9ffe5b4e9b4ee90ab6c383cba967b58706f7f70eee86d96c6a1f22ab4052ab4
+Section: 嗨-汉化
+Description: Alpine 简体中文包(rootless)。
+Author: 妖刀
+Name: Alpine 简体中文包(rootless)
 
 Package: com.hk.ampere.cn.rl
 Version: 1.1
