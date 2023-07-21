@@ -638,20 +638,20 @@ Author: 妖刀
 Name: Ampere 简体中文包(rootless)
 
 Package: com.hk.appprotectrootless
-Version: 1.7.9
+Version: 1.8.0
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Depends: mobilesubstrate,preferenceloader
 Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless
-Filename: rootless/AppProtect(rootless).deb
-Size: 166360
-MD5sum: 4872eaea089406789c3e84f059c17882
-SHA1: 14fb43feb9e51da63957166e4444cbbea1d81beb
-SHA256: 46c4d02701d9e7d17f9fec66e710151ce47cbd40fe0d8834efa1e2ab8c1ba15a
+Filename: rootless/AppProtect 隐私保护(rootless).deb
+Size: 156312
+MD5sum: e08ea244689834475dfcd0416672d05c
+SHA1: c20b1a29f5cde2e0593a79d4ffd99d8874feb8a6
+SHA256: d4b8e0cbf3bd121553a1e61ee1e9071a46a4afdd1d7ee92b9e22c2e8bedf9234
 Section: 嗨-付费
 Description: 一款强大的App隐私保护插件，系付费插件，25元自行购买。和AppTools一起打包购买，40元。
 Author: aReo
-Name: AppProtect(rootless)
+Name: AppProtect 隐私保护(rootless)
 
 Package: com.hk.apptools15rootless
 Version: 1.2.2
