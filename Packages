@@ -433,16 +433,16 @@ Author: julioverne
 Name: GoodWiFi中文版(rootless)
 
 Package: com.daodao.kayoko
-Version: 1.4
+Version: 1.4.1
 Architecture: iphoneos-arm64
 Maintainer: Traurige <hello@traurige.dev>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, com.daodao.82.kayoko, com.skypain.kayoko
 Filename: rootless/Kayoko官方版(rootless).deb
-Size: 79040
-MD5sum: 60ae1563eb3251a92bdb458ff2d53a17
-SHA1: 62adb17cb13a34c9ed8c191331f0011d45360268
-SHA256: d22624b576ccef8dc5c166ee0e9f062a743d32697153fb3360f6a5c8a732b272
+Size: 79480
+MD5sum: 625bcd8b024380ded627e6e8909055d7
+SHA1: 86dd3a876aa7a3aaa73257f1582b6b7ba42f5442
+SHA256: 5ca95ef44973e640abfb79fec114b66f2ff8efa47b2e589de5649c60fcd1fdf8
 Section: 嗨-系统
 Description: 剪切板插件，直接替代听写键，可直接翻译剪切板里的英文等。中文包在源内安装。
 Author: Traurige <hello@traurige.dev>
