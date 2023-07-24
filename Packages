@@ -351,16 +351,16 @@ Author: ichitaso
 Name: PrimalFolder2(rootless)
 
 Package: com.dao.settingsrevamp
-Version: 2.0.9
+Version: 2.1.1
 Architecture: iphoneos-arm64
 Maintainer: SOPPPra
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
 Filename: rootless/SettingsRevamp(rootless).deb
-Size: 97536
-MD5sum: fab8a269820c571e72c87294da50f32f
-SHA1: ebed63849cfcda790bea4ed2d243658af44b3c92
-SHA256: b31c6eb9d0ee1e65570266b1f316ff3fa6cb3306353bd583fe769fd67743b05d
+Size: 97460
+MD5sum: 5184096c2b3c43b01eeac79a895f719d
+SHA1: abe7d054448bd331995d7a8d9cd62668a2b204f6
+SHA256: 83867fcca805ed2de7a65e628de5970c5a8d8f4f3c5f642c22f1b3cdbc90ee57
 Section: 嗨-工具
 Description: 设置自定义、归类插件，源内有汉化包。
 Author: SOPPPra
@@ -1445,10 +1445,10 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/SettingsRevamp 简体中文包(rootless).deb
-Size: 4344
-MD5sum: eb3f4ea8f7db351a5a312b07fb633eb9
-SHA1: c8ce7cb4cbf17cca57b5fc400bf40a8a0c7edbd7
-SHA256: 603c2e6c22409019ab479f7c1c5b93dd25faaff1bb484eeb0e63554be582f575
+Size: 7592
+MD5sum: c1aa316c2c849e074bd5afca9f528983
+SHA1: 1abcd8ef0af98fc933dc753264583a151a7c09e4
+SHA256: f73c8adf80e18feec5839675581d3c2cbb6649ddaa99491d1dd27850ce970034
 Section: 嗨-汉化
 Description: SettingsRevamp 简体中文包(rootless)。
 Author: 妖刀
