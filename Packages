@@ -1469,6 +1469,21 @@ Description: SettingsRevamp 简体中文包(rootless)。
 Author: 妖刀
 Name: SettingsRevamp 简体中文包(rootless)
 
+Package: com.hk.sex.cn.rl
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/SwipeExtenderX 简体中文包(rootless).deb
+Size: 8272
+MD5sum: 377857befa49f81ed18d0bd5b36ef759
+SHA1: 0101527c173c1af865902ab03a4fba56d3359eb7
+SHA256: ce6c1337531a91f56cfd384ad3c5b52e26a1c160d7114942218e899c32a90b89
+Section: 嗨-汉化
+Description: SwipeExtenderX 简体中文包(rootless)。
+Author: 妖刀
+Name: SwipeExtenderX 简体中文包(rootless)
+
 Package: com.hk.shuffle.cn.rl
 Version: 1.6.2
 Architecture: iphoneos-arm64
