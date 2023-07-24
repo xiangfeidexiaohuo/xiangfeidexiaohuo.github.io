@@ -1455,15 +1455,15 @@ Author: Lillie
 Name: YouTube Reborn(rootless)
 
 Package: com.hk.settingsrevamp.cn.rl
-Version: 2.0.8
+Version: 2.1.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/SettingsRevamp 简体中文包(rootless).deb
 Size: 7592
-MD5sum: c1aa316c2c849e074bd5afca9f528983
-SHA1: 1abcd8ef0af98fc933dc753264583a151a7c09e4
-SHA256: f73c8adf80e18feec5839675581d3c2cbb6649ddaa99491d1dd27850ce970034
+MD5sum: b9c44dac913dc45711e94a108f69b3b6
+SHA1: 1f48d15454acce167b6ff39d3ae619c6abffd68c
+SHA256: 197c7b0e888de0abbe8f2f564be679424775fe5f7adeb41808eef76b1d4f5171
 Section: 嗨-汉化
 Description: SettingsRevamp 简体中文包(rootless)。
 Author: 妖刀
