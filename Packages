@@ -78,6 +78,21 @@ Description: PrimalFolder2 简体中文包。
 Author: 妖刀
 Name: PrimalFolder2 简体中文包
 
+Package: com.hk.settingsrevamp.cn
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: root/SettingsRevamp 简体中文包.deb
+Size: 9336
+MD5sum: 77552ef65fe2abe9dcac1b4f889b986b
+SHA1: 95921abc652c304c7a71960565b83078b41a2578
+SHA256: 2c6a0f43a496821b2af2708d238fe2c7f552392491bf9aa699b82414be009112
+Section: 嗨-汉化
+Description: SettingsRevamp 简体中文包。
+Author: 妖刀
+Name: SettingsRevamp 简体中文包
+
 Package: com.hk.snap3.cn
 Version: 1.0.4
 Architecture: iphoneos-arm
