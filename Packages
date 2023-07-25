@@ -62,6 +62,21 @@ Description: IntelligentPass5 简体中文包。
 Author: 妖刀
 Name: IntelligentPass5 简体中文包
 
+Package: com.hk.lynx2.cn
+Version: 2.4.1
+Architecture: iphoneos-arm
+Maintainer: M哥 & 妖刀
+Depends: mobilesubstrate
+Filename: root/Lynx2 简体中文包.deb
+Size: 26440
+MD5sum: 31d771383be7dfb9dcff9293969e92ad
+SHA1: 3e33e53196697587a39cce478a478e7671b826e7
+SHA256: 09cbf24d78b6abb49b598d8519ccbddd7abb6a0606faff459bc8e515878d378f
+Section: 嗨-汉化
+Description: Lynx2 简体中文包。
+Author: M哥 & 妖刀
+Name: Lynx2 简体中文包
+
 Package: com.hk.pf2.cn
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -1475,12 +1490,12 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/SwipeExtenderX 简体中文包(rootless).deb
-Size: 8312
-MD5sum: 2120180f513ab271104f3d5f1b621dfa
-SHA1: 90124650bb664e18974551ed53e5e39afdd18ca2
-SHA256: 24011a8a7cdaaea81947b2858c35e3a31aee01ee63d1568fac10fef3a75a6b2c
+Size: 8388
+MD5sum: 5f35027642896952735fb1abca5ee3ce
+SHA1: 876e1b73e767f3c6bbdc790fa2cf7423d6660624
+SHA256: b2081c073feb2fc24c2decdc5249c5c282dd305b2cddd396320dfcffd4c90b30
 Section: 嗨-汉化
-Description: SwipeExtenderX 简体中文包(rootless)。
+Description: SwipeExtenderX 简体中文包(rootless)。此插件装了汉化包，无法自定义编辑键位功能，这是插件的遗留bug。
 Author: 妖刀
 Name: SwipeExtenderX 简体中文包(rootless)
 
