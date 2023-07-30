@@ -157,16 +157,16 @@ Author: Bandar Alruwaili
 Name: BHTikTok
 
 Package: com.hk.bhtiktok.cn
-Version: 0.0.1-1
+Version: 0.0.1-3
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: root/BHTikTok 简体中文包.deb
-Size: 6218
-MD5sum: db9bc60cc2ea10e63a5eb7381b599595
-SHA1: 1bad377b5afcb9bcc8c4cb995febc6c894ac3592
-SHA256: d405de8273bbb2fb5a329b5f9a6a91374e9f6dc15f3723ccba915354ea37a7ae
+Size: 7784
+MD5sum: b2b186b5c7668b460a32ff1b8661292a
+SHA1: 9eeda3bf5ca56f89fcddc18ad3a6e16b05ba31f0
+SHA256: cb862358280aec3d478affb814cc1a82e3e0b51386fb4ddb7fc35d9c6b7ac601
 Section: 嗨-汉化
 Description: BHTikTok 简体中文包。
 Author: 妖刀
@@ -696,16 +696,16 @@ Author: 妖刀
 Name: YouTube Reborn v4 简体中文包
 
 Package: com.hk.ytlite
-Version: 2.3
+Version: 2.3.1
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: root/YTLite.deb
-Size: 63410
-MD5sum: 0e294924a82082e795f55ab36791e6fe
-SHA1: 2d15873146a01539b33400820ff9b6ba7495fb49
-SHA256: 58eef8ce873b63625b0aaa281db4a5f6c976d6ea9289e9cdf34802d4912b9fea
+Size: 66098
+MD5sum: dab81b44d6682b5b2b790267fa5c218b
+SHA1: f28e06222c5a17779199125e27fe53106688c68a
+SHA256: c3cddcee8d4891053e512f1dabccc358d273331df51070c276472cd1b0e353c4
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -938,16 +938,16 @@ Author: SOPPPra
 Name: SettingsRevamp(rootless)
 
 Package: com.dao.ytlite
-Version: 2.3
+Version: 2.3.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 50960
-MD5sum: 18052834bac05ed45791f8188f918b8a
-SHA1: bdb48cafe94a137b8e705772a24e112b26b87ba8
-SHA256: 1545d5e7ee674a7bb4751d9f0bf82d01d630f73c585c03c9262d65886fe8f38b
+Size: 53596
+MD5sum: 8724f0d3f84a92a2ac8f7e57a44a84b4
+SHA1: cd80966cc008c9f72ad6c5b620955a84d0f4d3b0
+SHA256: f5e2e688486069a7dfa6b25a14f9ddcbe9cd951524485170f2a8e2129a785da0
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -1317,16 +1317,16 @@ Author: 妖刀
 Name: BHInsta 简体中文包(rootless)
 
 Package: com.hk.bhtiktok.cn.rl
-Version: 0.0.1-2
+Version: 0.0.1-3
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: rootless/BHTikTok 简体中文包(rootless).deb
-Size: 6396
-MD5sum: 1dda78aa6bd002694840376400b2afff
-SHA1: 141a14bdff8d123ae14e3efdd2bbd6bacc35060d
-SHA256: 5bd85b69c64032770605896160a24b9bb996294c136a2d13aad07740ed82a033
+Size: 8038
+MD5sum: 8a38b93c546500892ac8f03e620c34f4
+SHA1: bd347a2cb6701ab3bfcd77d9f4ac672734b36234
+SHA256: ea6cf2487678f9c992364af0e60755c90f00d7e1733b01271d98a6ffa4265127
 Section: 嗨-汉化
 Description: BHTikTok 简体中文包(rootless)。
 Author: 妖刀
