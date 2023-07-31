@@ -1724,6 +1724,22 @@ Description: MilkyWay4 简体中文包(rootless)。
 Author: 妖刀
 Name: MilkyWay4 简体中文包(rootless)
 
+Package: com.hk.nebula.ding
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Mo
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
+Conflicts: me.nebula.ding
+Filename: rootless/Ding 汉化版(rootless).deb
+Size: 25084
+MD5sum: 2fa32c132097582047718bec9a7278b5
+SHA1: 726adbd17981f3cf913b3600a39f91eab9fb0c96
+SHA256: 7a5e705234a9b7da57a31eb7377798c2166f305ade0e03f59afa4ad73e21c3dd
+Section: 嗨-工具
+Description: 控制您的铃声开关！
+Author: Mo
+Name: Ding 汉化版(rootless)
+
 Package: com.hk.nfcwriterxs.cn.rl
 Version: 4.0-1
 Architecture: iphoneos-arm64
