@@ -1709,6 +1709,22 @@ Description: Lynx2 简体中文包(rootless)。
 Author: M哥 & 妖刀
 Name: Lynx2 简体中文包(rootless)
 
+Package: com.hk.marker.cn.rl
+Version: 2.0-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/Marker 简体中文包(rootless).deb
+Size: 8030
+MD5sum: d9624958c17f3b1cac05ede7e0b26647
+SHA1: b910383a7da5b790b61b37eb55fc381a40f48642
+SHA256: c1fa38d4b1b3c3faef9c7846930a9de1eab4618be1a2f5b3db1cd126595894b9
+Section: 嗨-汉化
+Description: Marker 简体中文包(rootless)。
+Author: 妖刀
+Name: Marker 简体中文包(rootless)
+
 Package: com.hk.milkway4.cn.rl
 Version: 0.1.1
 Architecture: iphoneos-arm64
