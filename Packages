@@ -1978,16 +1978,16 @@ Author: Traurige <hello@traurige.dev>
 Name: Liddell小横幅(rootless)
 
 Package: com.hk.rootless.minilsp
-Version: 1.1.1-4
+Version: 1.1.2
 Architecture: iphoneos-arm64
 Maintainer: Mr.Zhang <mr_zhang_00@163.com>
 Depends: mobilesubstrate
 Conflicts: com.skypain.minilsp
 Filename: rootless/MiniLsp(rootless).deb
-Size: 5596
-MD5sum: 6e888492e655a0e696f7dfa9bc7814d5
-SHA1: 7dc60cbd143eb4ef148bf96b7b75a65fe1fc5e5c
-SHA256: 1de63310fe22c67d19e1076ad7664cfa347c01e2d323cb0e4a18c664b0413844
+Size: 5548
+MD5sum: 56ee30561b0ea4c01352f055870c9903
+SHA1: e0ccdbb9eeee7a0db0071ee222ced60b0d7af71e
+SHA256: a315689d1c1feaf32b9afa59a456f2666fa5faa678cb76bc6999e0bbd06753b1
 Section: 嗨-工具
 Description: 迷你锁屏播放器，无设置。
 Author: Mr.Zhang <mr_zhang_00@163.com>
