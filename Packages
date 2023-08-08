@@ -825,6 +825,22 @@ Description: TikTok的多功能插件，可自动播放、去广告、下载、�
 Author: Bandar Alruwaili
 Name: BHTikTok(rootless)
 
+Package: com.dao.coolcc
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Conflicts: alias20.coolcc, com.hk.coolcc.cn.rl
+Filename: rootless/CoolCC(rootless).deb
+Size: 25216
+MD5sum: 88b9900e706db80a2797402c5d0003f0
+SHA1: e96465b9f2c76d88709447112e888d7c2110f981
+SHA256: a8b20255958dff4f8883fc0898bf3d295eed509b6fcabe410d37ab23aabb4e6a
+Section: 嗨-工具
+Description: 控制中心调整背景和边框等，已包含简体中文。神秘大佬修复alias20版的一些bug。
+Author: alias20
+Name: CoolCC(rootless)
+
 Package: com.dao.fuckthermal
 Version: 1.2-38
 Architecture: iphoneos-arm64
