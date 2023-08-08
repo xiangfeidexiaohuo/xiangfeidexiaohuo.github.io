@@ -825,6 +825,22 @@ Description: TikTok的多功能插件，可自动播放、去广告、下载、�
 Author: Bandar Alruwaili
 Name: BHTikTok(rootless)
 
+Package: com.dao.fuckthermal
+Version: 1.2-38
+Architecture: iphoneos-arm64
+Maintainer: Shadow-
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.3)
+Conflicts: com.shadow.fuckthermal
+Filename: rootless/去你X的温控iOS15(rootless).deb
+Size: 216416
+MD5sum: 4c7994fd588ccdfa9b7e92ed4e260c6f
+SHA1: 3a1f6c7a5a142762014f66856ed19714f7d84115
+SHA256: 1a4bf7ad3ed7caa1c97943de757b0703cbce63119a67cc11b82979e78d642e43
+Section: 嗨-工具
+Description: 去你X的温控，测试支持iOS15.1.1及以下，其他系统版本自测。
+Author: Shadow-
+Name: 去你X的温控iOS15(rootless)
+
 Package: com.dao.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64
@@ -904,6 +920,23 @@ Section: 嗨-工具
 Description: 设置应用程序的增强插件，源内有汉化包。
 Author: Nightwind <nightwinddev@gmail.com>
 Name: OneSettings(rootless)
+
+Package: com.dao.powercuff
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: Mo
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
+Filename: rootless/Powercuff(rootless).deb
+Size: 13800
+MD5sum: e0a7262e121d6bec2eece242f6c10116
+SHA1: 578c48546f8fd9d67a7f15682137e3c16caa785c
+SHA256: 9593d18c503b58ce136ef83cff5a394fc29814b56d88e8c1ed2fba85aecdc53d
+Section: 嗨-工具
+Description: 节能插件，效果自测，老Mo根据开源编译支持rootless。
+Author: Ryan Petrich
+Dev: rpetrich
+Name: Powercuff(rootless)
 
 Package: com.dao.primalfolder2
 Version: 0.1.1
