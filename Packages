@@ -2187,10 +2187,10 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Snapper3 简体中文包(rootless).deb
-Size: 9464
-MD5sum: d66c060566d63bdd23fd60bffd42a065
-SHA1: dac4f7458f78ab65629b7a306fc7a911e7114422
-SHA256: ab3154451bda93036d06d63619d892a6c9f4bb299a69cba097bb530f46d62bdf
+Size: 9468
+MD5sum: 5b437d6db30fbb98435328aa350359ae
+SHA1: 8cf5d4c5307a6b8f708fb25bd8617d519efa0662
+SHA256: 5200fdb6e94007dd8cd6ebee41cd218db5bb0e123c884faf1709a5c3ae1967e4
 Section: 嗨-汉化
 Description: Snapper3 简体中文包(rootless)。
 Author: 妖刀
