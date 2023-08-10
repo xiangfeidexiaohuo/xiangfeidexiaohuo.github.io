@@ -474,15 +474,15 @@ Author: 妖刀
 Name: SettingsRevamp 简体中文包
 
 Package: com.hk.snap3.cn
-Version: 1.0.4
+Version: 1.0.8
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/Snapper 3 简体中文包.deb
-Size: 8624
-MD5sum: bdbab9714f03ac6a5d533eefbe1b730f
-SHA1: 31a456a5005b95686f8df08f66080b6c72e53ad0
-SHA256: 1ca29c3b9fefa779f59e4e75bcbc68189eb5bfd6a31ad8f0b0dd595493b4b486
+Filename: root/Snapper 3 简体中文包_1.0.8.deb
+Size: 9296
+MD5sum: bf5012b4c8754fcfbe396ca0b3f49d7a
+SHA1: e894be061b3b03854b588f8f38e1d7ec71e5e61d
+SHA256: 4df9fcb4acad599e22f68b3f50d841055016bac4b4579be1a181c64d05b2af29
 Section: 嗨-汉化
 Description: Snapper 3 简体中文包。
 Author: 妖刀
