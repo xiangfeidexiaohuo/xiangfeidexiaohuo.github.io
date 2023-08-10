@@ -488,6 +488,21 @@ Description: Snapper 3 简体中文包。
 Author: 妖刀
 Name: Snapper 3 简体中文包
 
+Package: com.hk.snap3.cn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: root/Snapper 3 简体中文包.deb
+Size: 6360
+MD5sum: 4fb151bc52e4211537f7bbdd967a2680
+SHA1: 4f4267e8e547552354539bb21ab889e8f1f54208
+SHA256: b1aa9df6552ad60ce49bb43f01af8992efa21ea3701e77e971c15e762ba514b3
+Section: 嗨-汉化
+Description: Snapper 3 简体中文包，连同控制中心Snapper3模块也一起汉化了。
+Author: 妖刀
+Name: Snapper 3 简体中文包
+
 Package: com.hk.termcolors
 Version: 2.0.8
 Architecture: iphoneos-arm
@@ -2193,6 +2208,21 @@ SHA1: f840e7948becd3ed45ce8d4be0aae24aadf8f744
 SHA256: 8590bc0b383f94bd86c0d6cc0113ee1c1901a6a4b275abbbaeb72436fb16cb54
 Section: 嗨-汉化
 Description: Snapper3 简体中文包(rootless)。
+Author: 妖刀
+Name: Snapper3 简体中文包(rootless)
+
+Package: com.hk.snapper3.cn.rl
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Snapper3 简体中文包(rootless).deb
+Size: 6580
+MD5sum: 8afa3be66c1da73bca948581b1651515
+SHA1: 21a6069543c40563c26f0b5bedc9cf92759fd6d9
+SHA256: 3b0ac82325ace34793b49538dac481f1720d65da1d21f5125a36d015ac185ef7
+Section: 嗨-汉化
+Description: Snapper3 简体中文包(rootless)，连同控制中心Snapper3模块也一起汉化了。
 Author: 妖刀
 Name: Snapper3 简体中文包(rootless)
 
