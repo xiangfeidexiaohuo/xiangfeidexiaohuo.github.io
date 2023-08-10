@@ -2182,15 +2182,15 @@ Author: 妖刀
 Name: Snapper2 中文增补包(rootless)
 
 Package: com.hk.snapper3.cn.rl
-Version: 1.0.7
+Version: 1.0.8
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: rootless/Snapper3 简体中文包(rootless).deb
-Size: 9596
-MD5sum: 3ea3ee66171ec9e4842c6dd1190a6103
-SHA1: 7adf666966ceaecfbb2437124048ed63edc4c32b
-SHA256: 2f5fd56c3e9af9bcd02b41d2c954def9c697862f4d5faa705d366e7bba56ba01
+Filename: rootless/Snapper3 简体中文包(rootless)_1.0.8.deb
+Size: 9556
+MD5sum: f80a3dc9e453213e4ca246ade949a162
+SHA1: f840e7948becd3ed45ce8d4be0aae24aadf8f744
+SHA256: 8590bc0b383f94bd86c0d6cc0113ee1c1901a6a4b275abbbaeb72436fb16cb54
 Section: 嗨-汉化
 Description: Snapper3 简体中文包(rootless)。
 Author: 妖刀
