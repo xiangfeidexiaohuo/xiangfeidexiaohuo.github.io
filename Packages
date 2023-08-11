@@ -172,6 +172,22 @@ Description: BHTikTok 简体中文包。
 Author: 妖刀
 Name: BHTikTok 简体中文包
 
+Package: com.hk.bhtiktokmod
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn, com.hk.bhtiktok
+Filename: root/BHTikTok-Mod.deb
+Size: 103708
+MD5sum: ba9a0cc1821987aca21d84ecf0749fdf
+SHA1: b5eae050bc5a7406a9c18dee109d08eeea8045a0
+SHA256: cf39f8e3d62c3ca1d932edbcd777329c4eb1fbc3e32c4b4132d0a5a0c4046e10
+Section: 嗨-工具
+Description: dayanch96的BHTikTok，比原版BHTikTok功能多一点!
+Author: Bandar Alruwaili
+Name: BHTikTok-Mod
+
 Package: com.hk.bioprotectxs.new.cn
 Version: 4.6
 Architecture: iphoneos-arm
@@ -854,6 +870,22 @@ Section: 嗨-工具
 Description: TikTok的多功能插件，可自动播放、去广告、下载、换区等，源内有汉化包。
 Author: Bandar Alruwaili
 Name: BHTikTok(rootless)
+
+Package: com.dao.bhtiktokmod
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn.rl, com.dao.bhtiktok
+Filename: rootless/BHTikTok-Mod(rootless).deb
+Size: 103672
+MD5sum: 90a404fafc4df50508d4a2e25a534292
+SHA1: 4d3e2425285cea4e194a0779c337408c940ec34b
+SHA256: db766bbefc47444ca7f2a2e19be4d7bdebd0822fa279832b994d8587e9f730a0
+Section: 嗨-工具
+Description: dayanch96的BHTikTok，比原版BHTikTok功能多一点!
+Author: Bandar Alruwaili
+Name: BHTikTok-Mod(rootless)
 
 Package: com.dao.coolcc
 Version: 2.0-1
