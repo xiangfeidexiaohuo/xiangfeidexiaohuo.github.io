@@ -345,16 +345,16 @@ Author: julioverne
 Name: GoodWiFi中文版
 
 Package: com.hk.infuseplus
-Version: 1.1
+Version: 1.1-1
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: root/Infuse Plus.deb
-Size: 109476
-MD5sum: 999b7893dec0a4086237770b4e00bbb4
-SHA1: 687b1d36275acb1ee73578e4a41353f0b979d4b2
-SHA256: 4767762d36e7334fd1ba2eb31913a67e799da1067fac885524284e058aebc93f
+Size: 110516
+MD5sum: 8922440fabf09ee84006c0f7a6758bbd
+SHA1: e117b72d02d29b6668f1d2c8fa38a11746b1d9c8
+SHA256: d2eaf97a747041933b48b27a969fa5930260e89fdee42ea0a31557288f1bf9a1
 Section: 嗨-工具
 Description: Infuse的破解/增强插件。
 Author: dvntm
@@ -967,16 +967,16 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Name: iCleaner Pro(rootless)
 
 Package: com.dao.infuseplus
-Version: 1.1
+Version: 1.1-1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootless/Infuse Plus(rootless).deb
-Size: 109564
-MD5sum: 92704f0951afe4430c8822b9bce241d7
-SHA1: da68a28ea7e364dba6157f1050baa4cc10127ed8
-SHA256: 6ffd568040ce634d2987e0e957340d2e0b3faa153661112c1d6803d675679ac7
+Size: 110628
+MD5sum: 2134f8e5896d2a0fa8395aad087306f1
+SHA1: 207226a2c9a4f14c50e6f76da81d973b18f514b8
+SHA256: 3f7997b9c7b09bbb976fb8c4214dabcac4a5f3cb1fe4b38a451296950f39c93e
 Section: 嗨-工具
 Description: Infuse的破解/增强插件。
 Author: dvntm
