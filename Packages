@@ -344,6 +344,22 @@ Description: 更好的WiFi配置，简体中文版。精简无用设置，更换
 Author: julioverne
 Name: GoodWiFi中文版
 
+Package: com.hk.infuseplus
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: root/Infuse Plus.deb
+Size: 109476
+MD5sum: 999b7893dec0a4086237770b4e00bbb4
+SHA1: 687b1d36275acb1ee73578e4a41353f0b979d4b2
+SHA256: 4767762d36e7334fd1ba2eb31913a67e799da1067fac885524284e058aebc93f
+Section: 嗨-工具
+Description: Infuse的破解/增强插件。
+Author: dvntm
+Name: Infuse Plus
+
 Package: com.hk.intelligentpass5.cn
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -533,6 +549,21 @@ Section: 嗨-汉化
 Description: Snapper 3 简体中文包，连同控制中心Snapper3模块也一起汉化了。
 Author: 妖刀
 Name: Snapper 3 简体中文包
+
+Package: com.hk.spectrum.cn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: root/Spectrum 简体中文包.deb
+Size: 1924
+MD5sum: e9c407ec383f194a00469d510699c1de
+SHA1: 75217a904a0382ac914efc93eed952aeeb12d84c
+SHA256: 7e9af6ad07959ee807dd57e3cf3e5827a92077aa4b316ede438a40f283feb044
+Section: 嗨-汉化
+Description: Spectrum 简体中文包。
+Author: 妖刀
+Name: Spectrum 简体中文包
 
 Package: com.hk.termcolors
 Version: 2.0.8
@@ -936,18 +967,18 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Name: iCleaner Pro(rootless)
 
 Package: com.dao.infuseplus
-Version: 1.0.2
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootless/Infuse Plus(rootless).deb
-Size: 106704
-MD5sum: de70901f7a61904fbf40bcc7b74ad19e
-SHA1: fb2670c60cd0ba556d2bb5f8540bdd46bce44842
-SHA256: da23a168b97e197e0b1065525d20d19000f5071c60b22060c419a3ebde4bae4c
+Size: 109564
+MD5sum: 92704f0951afe4430c8822b9bce241d7
+SHA1: da68a28ea7e364dba6157f1050baa4cc10127ed8
+SHA256: 6ffd568040ce634d2987e0e957340d2e0b3faa153661112c1d6803d675679ac7
 Section: 嗨-工具
-Description: Infuse的破解/增强插件，已补全开屏弹窗汉化。
+Description: Infuse的破解/增强插件。
 Author: dvntm
 Name: Infuse Plus(rootless)
 
@@ -2287,6 +2318,21 @@ Section: 嗨-汉化
 Description: Snowboard 中文修正包(rootless)。
 Author: 妖刀
 Name: Snowboard 中文修正包(rootless)
+
+Package: com.hk.spectrum.cn.rl
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Spectrum 简体中文包(rootless).deb
+Size: 1968
+MD5sum: aa8bb9963a48909f858256bf66eba427
+SHA1: 38b853bf9df132c2b5c70006b14c8d17ddfe3bed
+SHA256: 428fbbc70d5cb5b335108f3d17663ac3c9ae2e5687fc78a5e723e7266a7793f2
+Section: 嗨-汉化
+Description: Spectrum 简体中文包(rootless)。
+Author: 妖刀
+Name: Spectrum 简体中文包(rootless)
 
 Package: com.hk.speedy.cn.rl
 Version: 0.2
