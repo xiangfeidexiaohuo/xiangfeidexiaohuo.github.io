@@ -297,6 +297,21 @@ Description: 去除弹窗/UI/长按菜单等地方的分割线，优化下代码
 Author: 妖刀
 Name: NoLine
 
+Package: com.hk.dynamicstage.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: root/DynamicStage 简体中文包.deb
+Size: 5604
+MD5sum: 03c1274070b242d2842e27b9e25d7d4c
+SHA1: 9008424ac3f7ffcdbc164dfb867611f1b0fbd922
+SHA256: 19d99493bc8009da86d1ff491c0303b10380618494c6343145991d4f345c5ec4
+Section: 嗨-汉化
+Description: DynamicStage 简体中文包。
+Author: 妖刀
+Name: DynamicStage 简体中文包
+
 Package: com.hk.filza.cn
 Version: 4.0
 Architecture: iphoneos-arm
@@ -1669,6 +1684,21 @@ Section: 嗨-汉化
 Description: DynamicPeninsula 简体中文包(rootless)。
 Author: 妖刀
 Name: DynamicPeninsula 简体中文包(rootless)
+
+Package: com.hk.dynamicstage.cn.rl
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/DynamicStage 简体中文包(rootless).deb
+Size: 5672
+MD5sum: ef8f6614978a3445df700c392928794f
+SHA1: 3da81858816dc068928cdc140a5c02b6fec4f517
+SHA256: bf8f5a87055675043820d14bf6170739d7500a1e24ebb0a34307c250c39586d9
+Section: 嗨-汉化
+Description: DynamicStage 简体中文包(rootless)。
+Author: 妖刀
+Name: DynamicStage 简体中文包(rootless)
 
 Package: com.hk.edge2.cn.rl
 Version: 1.0
