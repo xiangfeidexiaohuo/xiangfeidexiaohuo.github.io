@@ -2102,16 +2102,16 @@ Name: ColorBadges(rootless)
 Sponsor: Hi客源
 
 Package: com.hk.rootless.crane
-Version: 1.3.10
+Version: 1.3.11-4
 Architecture: iphoneos-arm64
 Maintainer: opa334
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
 Filename: rootless/Crane(rootless).deb
-Size: 561948
-MD5sum: 505b65b3d3ebdbd9d1d48f3bdf12d9b6
-SHA1: d2023caaa6e536672fc9fcb356663e6573e9b7bc
-SHA256: cbaa56b8edb0a309fb0d9c69b2fe836b320fa6231555902061b699c61afc4285
+Size: 566124
+MD5sum: b3da45c9ff9eafa1ecb583516ca6ba7b
+SHA1: b50b9b48840a5713493021e296b5ca48694d0e28
+SHA256: c1cea08e7cc2d5f5d255c00a96fc925d6018fc4df0196240a8bdb9d5e40d3cfa
 Section: 嗨-系统
 Description: 为应用程序提供多个容器，账号多开神器。
 Author: opa334
