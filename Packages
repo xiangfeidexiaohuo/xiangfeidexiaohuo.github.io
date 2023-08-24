@@ -75,6 +75,54 @@ Description: Ampere 简体中文包。
 Author: 妖刀
 Name: Ampere 简体中文包
 
+Package: com.hk.appprotect
+Version: 1.8.1
+Architecture: iphoneos-arm
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect
+Filename: root/AppProtect 隐私保护.deb
+Size: 309672
+MD5sum: 9b9a8253648a7cecfa199a020caf1932
+SHA1: 43beac9ffc77325d7aa496e31fe19c886c27fbba
+SHA256: ce2470316270bd7979ae4880ec3b056ed76e1d07e0dd4944fa6eacd19420492b
+Section: 嗨-工具
+Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
+Author: aReo
+Name: AppProtect 隐私保护
+
+Package: com.hk.apptools14
+Version: 2.0.5
+Architecture: iphoneos-arm
+Maintainer: aReo
+Depends: mobilesubstrate
+Conflicts: com.flex2areo.apptools14
+Filename: root/AppTools14.deb
+Size: 392260
+MD5sum: eae58c32184724c207d692fe8f914ba3
+SHA1: 2320d701673140c452753196654c773d282872d9
+SHA256: feec5dfd7de53ab9d5824a7adf09a2666d157c485b35b7b168723e42d6810954
+Section: 嗨-工具
+Description: AppTools for iOS14，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，插件内自行购买。
+Author: aReo
+Name: AppTools14
+
+Package: com.hk.apptools15
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: aReo
+Depends: mobilesubstrate
+Conflicts: com.flex2areo.apptools15
+Filename: root/AppTools15.deb
+Size: 395164
+MD5sum: 7b014df01830ca863887cee1a8d13455
+SHA1: 2a1ff5cd995efe22c41f4bf1f29fea8d90bf3abb
+SHA256: 2e7c8b845a0301baca36b41b92c6342b98834fb7ca5b56398866be660a1e372f
+Section: 嗨-工具
+Description: AppTools for iOS15，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，插件内自行购买。
+Author: aReo
+Name: AppTools15
+
 Package: com.hk.barmoji
 Version: 2023.3
 Architecture: iphoneos-arm
@@ -1317,16 +1365,16 @@ Author: 妖刀
 Name: Ampere 简体中文包(rootless)
 
 Package: com.hk.appprotectrootless
-Version: 1.8.0
+Version: 1.8.1
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Depends: mobilesubstrate,preferenceloader
 Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless
 Filename: rootless/AppProtect 隐私保护(rootless).deb
-Size: 156312
-MD5sum: e08ea244689834475dfcd0416672d05c
-SHA1: c20b1a29f5cde2e0593a79d4ffd99d8874feb8a6
-SHA256: d4b8e0cbf3bd121553a1e61ee1e9071a46a4afdd1d7ee92b9e22c2e8bedf9234
+Size: 156908
+MD5sum: f35e79c4c979d6beb7198f12e9e0359c
+SHA1: fa06da0897eb0908d8d43db6c7d476c770972a70
+SHA256: 11f795d25d02822fc5e64d3ebe28168f9a0a7fdc1f9c7fabf9855c58503e6521
 Section: 嗨-付费
 Description: 一款强大的App隐私保护插件，系付费插件，25元自行购买。和AppTools一起打包购买，40元。
 Author: aReo
@@ -2035,6 +2083,22 @@ Description: ColorBadges彩色角标，刀刀转换支持Fugu15，已带汉化�
 Author: David Goldman
 Name: ColorBadges(rootless)
 Sponsor: Hi客源
+
+Package: com.hk.rootless.crane
+Version: 1.3.11-4
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
+Filename: rootless/Crane(rootless)_1.3.11-4.deb
+Size: 566124
+MD5sum: b3da45c9ff9eafa1ecb583516ca6ba7b
+SHA1: b50b9b48840a5713493021e296b5ca48694d0e28
+SHA256: c1cea08e7cc2d5f5d255c00a96fc925d6018fc4df0196240a8bdb9d5e40d3cfa
+Section: 嗨-系统
+Description: 为应用程序提供多个容器，账号多开神器。
+Author: opa334
+Name: Crane(rootless)
 
 Package: com.hk.rootless.crane
 Version: 1.3.11-5
