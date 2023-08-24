@@ -2,9 +2,9 @@ Architectures: iphoneos-arm iphoneos-arm64
 Codename: ios
 Components: main
 Date: Thu, 24 Aug 2023 04:05:42 +0000
-Description: DaoDao's tweak repository
-Label: DaoDao's Repo
-Origin: DaoDao's Repo
+Description: 刀刀个人插件源~
+Label: 刀刀源🇨🇳
+Origin: 刀刀源🇨🇳
 Suite: stable
 Version: 1.0
 MD5Sum:
