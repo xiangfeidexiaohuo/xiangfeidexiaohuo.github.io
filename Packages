@@ -439,14 +439,14 @@ Name: Kayoko 简体中文包
 
 Package: com.hk.lastlook.cn
 Version: 3.6.3
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: root/LastLook 简体中文包.deb
 Size: 8464
-MD5sum: c590197bb5b1be77c9910fd46043a72c
-SHA1: 16fb4a9a52522e1949dd87e76771bff68be0902f
-SHA256: 9f9550ac95f474977bb19ee9b4aa253017f060815fc7a2787f0c1d22162f669b
+MD5sum: 42187f1c084ad639cc47f9032a429cc6
+SHA1: f2cf70f280d6e49c09e87d4a49e11b505d2e8758
+SHA256: 4e85d322ec83f874c135ef4904e055b62a24cf3aad8af92770b042ab9c54fa0b
 Section: 嗨-汉化
 Description: LastLook 简体中文包。
 Author: 妖刀
