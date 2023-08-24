@@ -437,6 +437,21 @@ Description: Kayoko 简体中文包。
 Author: 妖刀
 Name: Kayoko 简体中文包
 
+Package: com.hk.lastlook.cn
+Version: 3.6.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: root/LastLook 简体中文包.deb
+Size: 8464
+MD5sum: c590197bb5b1be77c9910fd46043a72c
+SHA1: 16fb4a9a52522e1949dd87e76771bff68be0902f
+SHA256: 9f9550ac95f474977bb19ee9b4aa253017f060815fc7a2787f0c1d22162f669b
+Section: 嗨-汉化
+Description: LastLook 简体中文包。
+Author: 妖刀
+Name: LastLook 简体中文包
+
 Package: com.hk.lintui
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
@@ -534,6 +549,22 @@ Section: 嗨-工具
 Description: YouTube的自定义插件，可去广告、下载视频、更改布局、画中画等，设置入口在右上角播放按钮图标，源内有汉化包。
 Author: Lillie
 Name: YouTube Reborn v4
+
+Package: com.hk.settingsrevamp
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: SOPPPra
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
+Filename: root/SettingsRevamp.deb
+Size: 97312
+MD5sum: 0a503808e476ed413cfafc68a9dcf8d0
+SHA1: 56254e65de357e34d82d28581e22b4dd47430f0c
+SHA256: 923f2945a1cd9b9485b8828abb5c3a8cb0cf8071815346088d23037ab3e6647c
+Section: 嗨-工具
+Description: 设置自定义、归类插件，源内有汉化包。
+Author: SOPPPra
+Name: SettingsRevamp
 
 Package: com.hk.settingsrevamp.cn
 Version: 2.1.1
