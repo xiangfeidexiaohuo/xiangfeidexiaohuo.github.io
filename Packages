@@ -318,10 +318,10 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: root/DynamicStage 简体中文包.deb
-Size: 6084
-MD5sum: d5e3d2d2b78d31c886367b097565406e
-SHA1: 3d3f49c48232d1804010460fe82aee41bd715470
-SHA256: 3b6f449e15a519a8b91613726d245645c119cf4f558fea2529829c3ccb85d426
+Size: 6056
+MD5sum: 13a0d3f602f0380deb828f90d584db79
+SHA1: 988046b362c22f8ed39220ce30e4472c38c9350e
+SHA256: 921ef3761e8488aab21a8f00f946f399fac09b80a7b9f5d8207b23211c7945aa
 Section: 嗨-汉化
 Description: DynamicStage 简体中文包。
 Author: 妖刀
@@ -1705,10 +1705,10 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/DynamicStage 简体中文包(rootless).deb
-Size: 6148
-MD5sum: d3e92ded30f5fbfef5c4330a4caefff2
-SHA1: a867c7258e16bcf71b02c8fc57ed24917f6dfa0e
-SHA256: f4d952d520311aade25c8ca8fc34bc32d7661387475fc1f8201d85be357079d1
+Size: 6124
+MD5sum: 47c22eaadc1cda66dc0f3ceabb914a05
+SHA1: 27dd8d82af67cdee5c9a37c9cfbd30fa5ccc2ffe
+SHA256: 718043f660766dbeac2e9383da1f3d819b103bbaf58c403927edb071efade8ad
 Section: 嗨-汉化
 Description: DynamicStage 简体中文包(rootless)。
 Author: 妖刀
