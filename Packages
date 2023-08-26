@@ -643,15 +643,15 @@ Author: Sudo & Paisseon
 Name: Term Colors(终端多彩界面)
 
 Package: com.hk.translomatic.x.cn
-Version: 2.17.2
+Version: 2.18.6
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: root/Translomatic 中文修复包.deb
-Size: 5198
-MD5sum: c8d424d070ab6cc60dbeeef6dea87c32
-SHA1: 6a2074e844b5a0bca12dc86c0601be15592c654d
-SHA256: 457a696ecd5c81443c4b73d1fae90d56070772c0a7215677cb6e162fd1f89596
+Size: 4332
+MD5sum: 7eafebc621a32005437ff0c3cd8db357
+SHA1: 4907a12d1e6af45dda9aed9e1d67c3edfee1a8a5
+SHA256: 72caa088f9cae316a9d9d7ffe2472f7a5e0fcdeff0e9dad70bb9885e489784f6
 Section: 嗨-汉化
 Description: Translomatic 中文修复包。
 Author: 妖刀
@@ -2426,15 +2426,15 @@ Author: subdiox
 Name: StoreSwitcher2(rootless)
 
 Package: com.hk.translomatic.x.rl
-Version: 2.17.3
+Version: 2.18.6
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Translomatic 中文修复包(rootless).deb
-Size: 4888
-MD5sum: 540eeac61d4fb54b46094925ac87d1b8
-SHA1: 40fe30afccaaca1d8eccf85bbad47245194e0c4c
-SHA256: 49bb1d956b0f52b9a9696b7b621a166037f6a4f74480cd6e109e2d2f77d41d7e
+Size: 4184
+MD5sum: b84adf72388c92521bca236242956aba
+SHA1: c06ed3c9a92a2fb24550351b92e48878520dc038
+SHA256: 75ecea93bdbba6a2aa7131097f8dbdc8ba675a204a32fd5df624a572638473f3
 Section: 嗨-汉化
 Description: Translomatic 中文修复包(rootless)。
 Author: 妖刀
