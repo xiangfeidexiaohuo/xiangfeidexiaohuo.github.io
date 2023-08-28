@@ -438,6 +438,22 @@ Description: 适用于iOS13~15的剪切板插件，剪切板里的英文可直�
 Author: Traurige <hello@traurige.dev>
 Name: Kayoko编译版
 
+Package: com.hk.kayoko
+Version: 1.4.1-2
+Architecture: iphoneos-arm
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, com.hk.traurige.kayoko, com.skypain.kayoko, com.hk.kayoko.cn
+Filename: root/Kayoko魔改版.deb
+Size: 122616
+MD5sum: 9983711a9b208425980b7e0b85a1af44
+SHA1: 915e2e815f8dd3bf0bb829347925ccc8e77c768b
+SHA256: 28cd5928465982a5d1a997caab4ff0387b5044426871aea228a02d674061cc8f
+Section: 嗨-工具
+Description: 剪切板插件，直接替代听写键，可直接翻译剪切板里的英文等。Skypain大佬基于Traurige和Lessica的开源项目，编译适配rootless，Lessica大佬版本特性(可修改高度，音效、振动等)和一些优化修复等，已包含中文包。
+Author: Traurige&Lessica
+Name: Kayoko魔改版
+
 Package: com.hk.kayoko.cn
 Version: 1.2-3
 Architecture: iphoneos-arm
