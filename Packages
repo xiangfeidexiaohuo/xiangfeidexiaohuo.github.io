@@ -460,10 +460,10 @@ Maintainer: XCXiao
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.hk.key+.cn, com.xcxiao.typeplus
 Filename: root/Key+.deb
-Size: 204852
-MD5sum: 5ac501a47e71d6a87c19c11a09f8b479
-SHA1: dd0a83a21569809996c5e9cf656398f5ec32301a
-SHA256: 97c951139d07b4233fd02451807de34c13b734cf78f42fc1192364da4cf9cd29
+Size: 125368
+MD5sum: a470e80dfbb0f4b8625bcdd75c36d00b
+SHA1: e8a250e56222cc94a4a5bbfafae19f9b3b5ab066
+SHA256: 73a384207aa61c2b269cbae684d396dd2a3e682a74e48efd9741e9fe1cb087b4
 Section: 嗨-工具
 Description: 键盘底栏功能(复制/粘贴等)，已包含源内汉化包，添加缺失的插件设置图标。
 Author: XCXiao
