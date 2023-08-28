@@ -643,6 +643,37 @@ Description: Snapper 3 简体中文包，连同控制中心Snapper3模块也一�
 Author: 妖刀
 Name: Snapper 3 简体中文包
 
+Package: com.hk.snapper2.cn
+Version: 2.7.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: root/Snapper2 中文增补包.deb
+Size: 7552
+MD5sum: a800719d14bf6af03c01e3f2c2f396fa
+SHA1: 49c1b82b12a55fd2696972ef9a0b4f00d7376c80
+SHA256: 0134a74a391497339257aec5569e1d40dfeffe68cedafe752673fd65f518aa9a
+Section: 嗨-汉化
+Description: Snapper2 中文增补包。
+Author: 妖刀
+Name: Snapper2 中文增补包
+
+Package: com.hk.snapper2.packix
+Version: 2.5.12
+Architecture: iphoneos-arm
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware(>=12.1)
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2, com.jontelang.snapper2.packix, com.hk.snapper2.cn
+Filename: root/Snapper2 截屏.deb
+Size: 535370
+MD5sum: 5d20ba9d6f4b7c8587da09b23dcec6e9
+SHA1: 01d90e59d8701389bfd7840f99b424067b6824dc
+SHA256: 75b0f49d0754e8486815783496e949eb37ccc99e8f68bc42b5a98470ad293ec7
+Section: 嗨-工具
+Description: Snapper 2快捷截屏，已修复/增补/优化简体中文翻译。关于文字识别功能，识别中文乱码问题，请设置语言为zh-CN，算法修订为Revision2。
+Author: Jonathan Winger-lang
+Name: Snapper2 截屏
+
 Package: com.hk.spectrum.cn
 Version: 1.1
 Architecture: iphoneos-arm
