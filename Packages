@@ -237,16 +237,32 @@ Author: 妖刀
 Name: CC++(11~14)
 
 Package: com.hk.ccplus15.cn
-Version: 1.0.5
+Version: 1.0.6
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, netskao.ccsim, com.hk.ccplus.cn, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic
+Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, com.hk.ccplus.cn, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic
+Filename: root/CC++(iOS15)_1.0.6.deb
+Size: 187232
+MD5sum: dcf10a3fc9a8a601dfbafcb6ae32fccb
+SHA1: c81e070c367943496b7912dfd5b900f5c42ab485
+SHA256: 78e3fba0f0b5a9445bb9ad905be48372598831bce252835d9bf6282dcf54f61b
+Section: 嗨-工具
+Description: 控制中心多合一模块，来自多位开发大佬。模块：截屏/VPN切换/锁屏/定位/音量和亮度小模块/一键静音/微信扫一扫/支付宝扫一扫/双卡切换蜂窝数据/注销/一键清通知角标等，支持iOS15。感谢Netskao、jaibreak365等大佬开发的模块。
+Author: 妖刀
+Name: CC++(iOS15)
+
+Package: com.hk.ccplus15.cn
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
+Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, com.hk.ccplus.cn, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic, netskao.ccsim-rootless, netskao.ccsim
 Filename: root/CC++(iOS15).deb
-Size: 324270
-MD5sum: 2c15f12ed61ccdbee199552f50064966
-SHA1: a80a16097d6fce654703781c4880a1ed774ada2f
-SHA256: ffe1a6ad4e44d793a1a2a6c2f2aa9461365fd6a1ff34e333f30a9f52aea64b9a
+Size: 203776
+MD5sum: 040a7f333552dd54042e0881b5b7dfe5
+SHA1: ef32e3e5e49d7886e6167acd3ba2f2e915fd8f2d
+SHA256: cc815914dbf6b6bd156731d9b8444bb92aad92ae6fe328cbf9bfa48d49836acf
 Section: 嗨-工具
 Description: 控制中心多合一模块，来自多位开发大佬。模块：截屏/VPN切换/锁屏/定位/音量和亮度小模块/一键静音/微信扫一扫/支付宝扫一扫/双卡切换蜂窝数据/注销/一键清通知角标等，支持iOS15。感谢Netskao、jaibreak365等大佬开发的模块。
 Author: 妖刀
