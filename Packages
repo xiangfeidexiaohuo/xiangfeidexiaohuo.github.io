@@ -645,14 +645,14 @@ Name: Snapper 3 简体中文包
 
 Package: com.hk.snapper2.cn
 Version: 2.7.0
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: root/Snapper2 中文增补包.deb
 Size: 7552
-MD5sum: a800719d14bf6af03c01e3f2c2f396fa
-SHA1: 49c1b82b12a55fd2696972ef9a0b4f00d7376c80
-SHA256: 0134a74a391497339257aec5569e1d40dfeffe68cedafe752673fd65f518aa9a
+MD5sum: 998140cad3aec9ee1b3aa02b20a8302f
+SHA1: 983c4dbd3a96abfff32a3520064a4e37c4d7bda5
+SHA256: 3f405e3b15c90c2cc615daa448af34fa84f5d7ad6e29f67aa68dc91f7bf6e665
 Section: 嗨-汉化
 Description: Snapper2 中文增补包。
 Author: 妖刀
