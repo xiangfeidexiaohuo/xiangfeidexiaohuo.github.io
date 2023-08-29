@@ -33,11 +33,28 @@ Architecture: iphoneos-arm
 Maintainer: BandarHL
 Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtwitter
-Filename: root/BHTwitter 中文修复版.deb
+Filename: root/BHTwitter 中文修复版_3.9.1.deb
 Size: 1139356
 MD5sum: 2c539e6047dfa47d9520999e47e1a377
 SHA1: 039156f9061c2edc87afb3d67457c2f49b812bd8
 SHA256: 02e1f4e777e49d08f4c6fc16c49479aa42195039735c25bb1a0e8b96b50a14b0
+Section: 嗨-工具
+Priority: optional
+Description: BHTwitter中文修复版，推特的功能性插件，设置就在推特本身设置里。
+Author: Mo
+Name: BHTwitter 中文修复版
+
+Package: com.hk.BHTwitter.cn
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: BandarHL
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter
+Filename: root/BHTwitter 中文修复版.deb
+Size: 772680
+MD5sum: dc66351c0b81d93f95f68d107ff7a6ba
+SHA1: 4999d1e7ddde568d245da65f4e2559b9f4adca28
+SHA256: 928808533dbdc5bd228043336529cff2c2761c5f2e1e2093fb2791e3cb261c55
 Section: 嗨-工具
 Priority: optional
 Description: BHTwitter中文修复版，推特的功能性插件，设置就在推特本身设置里。
@@ -1323,13 +1340,29 @@ Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common (>= 2.0)
 Conflicts: com.bandarhl.rootless.bhtwitter
-Filename: rootless/BHTwitter(rootless).deb
+Filename: rootless/BHTwitter(rootless)_3.9.1.deb
 Size: 806112
 MD5sum: 87f20fa5eeb95ede859c9b7e5aedaa67
 SHA1: fcd5ab490398fbcf0beff1d69ad6ff0a9f726482
 SHA256: c5c8b41df463d07ff3633ffee11c7db6fb8eb1278327c8eede9e468dc7414378
 Section: 嗨-工具
 Description: Twitter高级工具，可去广告，下载视频等。
+Author: Bandar Alruwaili
+Name: BHTwitter(rootless)
+
+Package: com.daodao.rootless.bhtwitter
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common (>= 2.0)
+Conflicts: com.bandarhl.rootless.bhtwitter
+Filename: rootless/BHTwitter(rootless).deb
+Size: 807976
+MD5sum: 9ee736eaeb5981ad579c6bd580b998b1
+SHA1: 8211c973bd0e045b47f9efc86dd88eba316ef75c
+SHA256: c516d6e45657f93414ab26a8ab00abbc4ed212b84b6a7e3cec12d45754d40ceb
+Section: 嗨-工具
+Description: BHTwitter中文修复版，推特的功能性插件，设置就在推特本身设置里。
 Author: Bandar Alruwaili
 Name: BHTwitter(rootless)
 
