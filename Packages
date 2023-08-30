@@ -647,30 +647,15 @@ Author: 妖刀
 Name: SettingsRevamp 简体中文包
 
 Package: com.hk.snap3.cn
-Version: 1.0.8
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: root/Snapper 3 简体中文包_1.0.8.deb
-Size: 9296
-MD5sum: bf5012b4c8754fcfbe396ca0b3f49d7a
-SHA1: e894be061b3b03854b588f8f38e1d7ec71e5e61d
-SHA256: 4df9fcb4acad599e22f68b3f50d841055016bac4b4579be1a181c64d05b2af29
-Section: 嗨-汉化
-Description: Snapper 3 简体中文包。
-Author: 妖刀
-Name: Snapper 3 简体中文包
-
-Package: com.hk.snap3.cn
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: root/Snapper 3 简体中文包.deb
-Size: 6360
-MD5sum: 4fb151bc52e4211537f7bbdd967a2680
-SHA1: 4f4267e8e547552354539bb21ab889e8f1f54208
-SHA256: b1aa9df6552ad60ce49bb43f01af8992efa21ea3701e77e971c15e762ba514b3
+Size: 5620
+MD5sum: a3f6696d5df36f85f8038c94b5a63ecb
+SHA1: 865bb4daf9da5397ddf82b68a51db5a67a099582
+SHA256: 15d8afa26b98ee910a3dc6fe12fe623c559ec812b4a56014ae7136922ca29777
 Section: 嗨-汉化
 Description: Snapper 3 简体中文包，连同控制中心Snapper3模块也一起汉化了。
 Author: 妖刀
@@ -2447,30 +2432,15 @@ Author: 妖刀
 Name: Snapper2 中文增补包(rootless)
 
 Package: com.hk.snapper3.cn.rl
-Version: 1.0.8
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: rootless/Snapper3 简体中文包(rootless)_1.0.8.deb
-Size: 9556
-MD5sum: f80a3dc9e453213e4ca246ade949a162
-SHA1: f840e7948becd3ed45ce8d4be0aae24aadf8f744
-SHA256: 8590bc0b383f94bd86c0d6cc0113ee1c1901a6a4b275abbbaeb72436fb16cb54
-Section: 嗨-汉化
-Description: Snapper3 简体中文包(rootless)。
-Author: 妖刀
-Name: Snapper3 简体中文包(rootless)
-
-Package: com.hk.snapper3.cn.rl
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Snapper3 简体中文包(rootless).deb
-Size: 6580
-MD5sum: 8afa3be66c1da73bca948581b1651515
-SHA1: 21a6069543c40563c26f0b5bedc9cf92759fd6d9
-SHA256: 3b0ac82325ace34793b49538dac481f1720d65da1d21f5125a36d015ac185ef7
+Size: 5840
+MD5sum: 611774752135a90bff336aad14d72b35
+SHA1: 6e41ec7de4e356766891c8250022f01152f1ee42
+SHA256: 193e8af1a34b6f050f9094335f3ede6c39016f5eea6d631292eb7c8f3129fbaa
 Section: 嗨-汉化
 Description: Snapper3 简体中文包(rootless)，连同控制中心Snapper3模块也一起汉化了。
 Author: 妖刀
