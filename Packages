@@ -238,16 +238,16 @@ Name: BioProtect XS 简体中文包
 Sponsor: Sandy0 & Ball
 
 Package: com.hk.ccplus.cn
-Version: 1.8
+Version: 1.8.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccpower, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, netskao.ccsim, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic
 Filename: root/CC++(11~14).deb
-Size: 2147388
-MD5sum: f27c2b60e2237e0ba41135006f594b85
-SHA1: 365bc0e7659ec5b3cfb2143690190bc718eebd8c
-SHA256: c1d0c6c23881bf87efa90cc201152365bbb46f036edcabaf7fb17044a144f73c
+Size: 1217212
+MD5sum: c591b10aadafe0ffd28bfdaac6fd4759
+SHA1: 2e2e92e610bd039e7fd4786aa8f2b5865a479b78
+SHA256: 29f917417520cf7f8b4a5e3bc61d9923ebeffb1e223a8dc2ba56fab8988cd40d
 Section: 嗨-工具
 Description: 控制中心多合一模块，来自多位开发大佬。模块：截屏/VPN切换/锁屏/定位/音量和亮度小模块/一键静音/微信扫一扫/支付宝扫一扫/一键清角标/快速注销/CCPower电源控制(关机/注销/重启/软启/安全模式/重建桌面/重启用户空间等)，双卡切换/蜂窝数据，实时CPU使用率，系统运行时间等，支持iOS11~14。感谢Netskao、jaibreak365、ball等大佬开发的模块。
 Author: 妖刀
