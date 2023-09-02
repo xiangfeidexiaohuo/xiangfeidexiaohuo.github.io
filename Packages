@@ -210,13 +210,29 @@ Architecture: iphoneos-arm
 Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn, com.hk.bhtiktok
-Filename: root/BHTikTok Plus.deb
+Filename: root/BHTikTok Plus_1.4.deb
 Size: 324376
 MD5sum: 64d19b331ab26d2a622fb296bc0b6916
 SHA1: c33397cf0319a961f25d42908c99a5a39272af0f
 SHA256: d736653fd6e1ddd82ab16cea2f376b13fca5c220da08c4689bfe31acd32c6bb1
 Section: 嗨-工具
 Description: dayanch96的BHTikTok，比原版BHTikTok功能多一点!
+Author: Bandar Alruwaili
+Name: BHTikTok Plus
+
+Package: com.hk.bhtiktokmod
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn, com.hk.bhtiktok
+Filename: root/BHTikTok Plus.deb
+Size: 464540
+MD5sum: 01153135ce99a99d213787adda9c79e9
+SHA1: e887c5dd2d820da42389e5f57245f20673fca6c1
+SHA256: c4e83e304e842a63e489dc14b81fdc10262ba3c1247cc90dbcdd42533ac68811
+Section: 嗨-工具
+Description: dayanch96的BHTikTok，比原版BHTikTok功能多一点！v2.0版本首次打开，设置按钮可能在个人主页右上角。
 Author: Bandar Alruwaili
 Name: BHTikTok Plus
 
@@ -1034,13 +1050,29 @@ Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn.rl, com.dao.bhtiktok
-Filename: rootless/BHTikTok Plus(rootless).deb
+Filename: rootless/BHTikTok Plus(rootless)_1.4.deb
 Size: 324392
 MD5sum: 89536e55eb3345d1a1fb27858d7fc80c
 SHA1: bbdd4a304f9eb61601faa02e8f9752f65f209c36
 SHA256: 818ff7a630e634a2440414345137bf513f5ce65d3a312ca18d5b76ec99f708e2
 Section: 嗨-工具
 Description: dayanch96的BHTikTok，比原版BHTikTok功能多一点!
+Author: Bandar Alruwaili
+Name: BHTikTok Plus(rootless)
+
+Package: com.dao.bhtiktokmod
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn.rl, com.dao.bhtiktok
+Filename: rootless/BHTikTok Plus(rootless).deb
+Size: 464328
+MD5sum: 9ec9e1b47506ef4aa4a8dd163d66af55
+SHA1: ce98d3418b0d76a69862efe127007a7860cc97ec
+SHA256: bf25dc459883cd6e8134ea11995d2dad9268199513861319d552e1f81f0f87b5
+Section: 嗨-工具
+Description: dayanch96的BHTikTok，比原版BHTikTok功能多一点！v2.0版本首次打开，设置按钮可能在个人主页右上角。
 Author: Bandar Alruwaili
 Name: BHTikTok Plus(rootless)
 
