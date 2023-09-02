@@ -223,14 +223,14 @@ Name: BHTikTok Plus
 Package: com.hk.bhtiktokmod
 Version: 2.0
 Architecture: iphoneos-arm
-Maintainer: Bandar Alruwaili
+Maintainer: dayanch96
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn, com.hk.bhtiktok
 Filename: root/BHTikTok Plus.deb
-Size: 464540
-MD5sum: 01153135ce99a99d213787adda9c79e9
-SHA1: e887c5dd2d820da42389e5f57245f20673fca6c1
-SHA256: c4e83e304e842a63e489dc14b81fdc10262ba3c1247cc90dbcdd42533ac68811
+Size: 464352
+MD5sum: bd04877aaaf3b9d71e76870ed70b5207
+SHA1: 43bee3c91ab7961d2e2cc23611480f1153c99838
+SHA256: 577959f27abf6c50e6af136c8042802ef73deeb4827176addf9dddaadc775da5
 Section: 嗨-工具
 Description: dayanch96的BHTikTok，比原版BHTikTok功能多一点！v2.0版本首次打开，设置按钮可能在个人主页右上角。
 Author: Bandar Alruwaili
@@ -1063,14 +1063,14 @@ Name: BHTikTok Plus(rootless)
 Package: com.dao.bhtiktokmod
 Version: 2.0
 Architecture: iphoneos-arm64
-Maintainer: Bandar Alruwaili
+Maintainer: dayanch96
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn.rl, com.dao.bhtiktok
 Filename: rootless/BHTikTok Plus(rootless).deb
-Size: 464328
-MD5sum: 9ec9e1b47506ef4aa4a8dd163d66af55
-SHA1: ce98d3418b0d76a69862efe127007a7860cc97ec
-SHA256: bf25dc459883cd6e8134ea11995d2dad9268199513861319d552e1f81f0f87b5
+Size: 465004
+MD5sum: 54caed2479c817539d8affc86ee43335
+SHA1: 2926d6bdfce83c1e1aefe7dcb07fc7f985c21af7
+SHA256: b665d1082a110ef128e4814d7943554681dcb9f54c8ed8aecb10fe147e8d2d8c
 Section: 嗨-工具
 Description: dayanch96的BHTikTok，比原版BHTikTok功能多一点！v2.0版本首次打开，设置按钮可能在个人主页右上角。
 Author: Bandar Alruwaili
