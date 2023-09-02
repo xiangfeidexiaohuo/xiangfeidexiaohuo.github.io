@@ -227,10 +227,10 @@ Maintainer: dayanch96
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn, com.hk.bhtiktok
 Filename: root/BHTikTok Plus.deb
-Size: 464352
-MD5sum: bd04877aaaf3b9d71e76870ed70b5207
-SHA1: 43bee3c91ab7961d2e2cc23611480f1153c99838
-SHA256: 577959f27abf6c50e6af136c8042802ef73deeb4827176addf9dddaadc775da5
+Size: 464612
+MD5sum: 80c048a4141c4c683a76fa4768a07f95
+SHA1: 09bf14cdc5481f252a020edcb1ba4788a3b34c11
+SHA256: 951edaa8dde6f2be4e787b132419a6fd70ab2906060e5029031e2252d4421f97
 Section: 嗨-工具
 Description: dayanch96的BHTikTok，比原版BHTikTok功能多一点！v2.0版本首次打开，设置按钮可能在个人主页右上角。
 Author: Bandar Alruwaili
@@ -1067,10 +1067,10 @@ Maintainer: dayanch96
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn.rl, com.dao.bhtiktok
 Filename: rootless/BHTikTok Plus(rootless).deb
-Size: 465004
-MD5sum: 54caed2479c817539d8affc86ee43335
-SHA1: 2926d6bdfce83c1e1aefe7dcb07fc7f985c21af7
-SHA256: b665d1082a110ef128e4814d7943554681dcb9f54c8ed8aecb10fe147e8d2d8c
+Size: 464876
+MD5sum: 5b79c775c72ee9a2692e0018d2e06bc3
+SHA1: 63e29f7a726a06196d08a56b9e6ce5db5d50d224
+SHA256: 2a1469847ec48fe1d2dd98e75e3d00a92b03061a1f85f5dda18c33c560c8ce66
 Section: 嗨-工具
 Description: dayanch96的BHTikTok，比原版BHTikTok功能多一点！v2.0版本首次打开，设置按钮可能在个人主页右上角。
 Author: Bandar Alruwaili
