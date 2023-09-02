@@ -221,18 +221,18 @@ Author: Bandar Alruwaili
 Name: BHTikTok Plus
 
 Package: com.hk.bhtiktokmod
-Version: 2.0
+Version: 2.0-1
 Architecture: iphoneos-arm
-Maintainer: dayanch96
+Maintainer: Dayanch96
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn, com.hk.bhtiktok
 Filename: root/BHTikTok Plus.deb
-Size: 464612
-MD5sum: 80c048a4141c4c683a76fa4768a07f95
-SHA1: 09bf14cdc5481f252a020edcb1ba4788a3b34c11
-SHA256: 951edaa8dde6f2be4e787b132419a6fd70ab2906060e5029031e2252d4421f97
+Size: 464228
+MD5sum: 59bcd25d547e8a56adc1c88bd6aa3d02
+SHA1: d11e2eab3259a112df5bc549156a5655eab97bdd
+SHA256: dbb72e0df36932a0518dce56edafab29c230a5329c9063a4608340864b41bede
 Section: 嗨-工具
-Description: dayanch96的BHTikTok，比原版BHTikTok功能多一点！v2.0版本首次打开，设置按钮可能在个人主页右上角。
+Description: Dayanch96的BHTikTok Plus，比原版BHTikTok功能多一点！v2.0版本首次打开，设置按钮可能在个人主页右上角。
 Author: Bandar Alruwaili
 Name: BHTikTok Plus
 
@@ -1061,18 +1061,18 @@ Author: Bandar Alruwaili
 Name: BHTikTok Plus(rootless)
 
 Package: com.dao.bhtiktokmod
-Version: 2.0
+Version: 2.0-1
 Architecture: iphoneos-arm64
-Maintainer: dayanch96
+Maintainer: Dayanch96
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn.rl, com.dao.bhtiktok
 Filename: rootless/BHTikTok Plus(rootless).deb
-Size: 464876
-MD5sum: 5b79c775c72ee9a2692e0018d2e06bc3
-SHA1: 63e29f7a726a06196d08a56b9e6ce5db5d50d224
-SHA256: 2a1469847ec48fe1d2dd98e75e3d00a92b03061a1f85f5dda18c33c560c8ce66
+Size: 464492
+MD5sum: aa246d54120e8ad37e604670c32bc417
+SHA1: 7f5ece8d301118b859c84a8ff57083d41e7a6074
+SHA256: 6e27a67b22e1d7c43690b4889eb77a31d72155eebab9b7259bbbb1d0ad3a5ca1
 Section: 嗨-工具
-Description: dayanch96的BHTikTok，比原版BHTikTok功能多一点！v2.0版本首次打开，设置按钮可能在个人主页右上角。
+Description: Dayanch96开发的BHTikTok Plus，比原版BHTikTok功能多一点！v2.0版本首次打开，设置按钮可能在个人主页右上角。
 Author: Bandar Alruwaili
 Name: BHTikTok Plus(rootless)
 
