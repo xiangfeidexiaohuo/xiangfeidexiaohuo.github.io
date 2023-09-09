@@ -1140,6 +1140,22 @@ Description: Infuse的破解/增强插件。
 Author: dvntm
 Name: Infuse Plus(rootless)
 
+Package: com.dao.jade
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Conflicts: com.nightwind.jade
+Filename: rootless/Jade(rootless).deb
+Size: 277556
+MD5sum: e47ccb421656d0057952002bb5d960e7
+SHA1: 57266f6e21d32fa10c9ce16093819a66aec1ffd6
+SHA256: a306c6aedcfe6fbbb7a19c41e294b25e0014f6c22ccb3918b1997dd9667aa38e
+Section: 嗨-工具
+Description: Prysm控制中心自定义。
+Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
+Name: Jade(rootless)
+
 Package: com.dao.lynxtwo
 Version: 2.4.3
 Architecture: iphoneos-arm64
