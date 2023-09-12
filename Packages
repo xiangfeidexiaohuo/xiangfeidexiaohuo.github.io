@@ -220,6 +220,22 @@ Description: Dayanch96的BHTikTok Plus，支持TikTok去广告、自动下一条
 Author: Bandar Alruwaili
 Name: BHTikTok Plus
 
+Package: com.hk.bigshotsnapper3plugin
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
+Filename: root/Snapper3 长截图[扩展].deb
+Size: 13984
+MD5sum: 4b9d59e832ee9d4cf323f520284715eb
+SHA1: 1e1e66008dced2f8d9ca4b4f69fa971274b762fa
+SHA256: 8e7447275da8395ea01dc493a9eae633d9d371c0d1c62091b7321d1c34461223
+Section: 嗨-工具
+Description: Snapper3的长截图扩展，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。
+Author: Jonathan Winger-lang
+Name: Snapper3 长截图[扩展]
+
 Package: com.hk.bioprotectxs.new.cn
 Version: 4.6
 Architecture: iphoneos-arm
