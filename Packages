@@ -205,16 +205,16 @@ Author: 妖刀
 Name: BHInsta 简体中文包
 
 Package: com.hk.bhtiktokmod
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: Dayanch96
 Depends: mobilesubstrate
 Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn, com.hk.bhtiktok
 Filename: root/BHTikTok Plus.deb
-Size: 452680
-MD5sum: 73c9f49a9fd4a8dd8ac5f14d2f1cb743
-SHA1: 2daa6bba652a65b8181183cf4be0e2117e180f81
-SHA256: d665990f45c202010c978531d9d36e00feb9c2f0b7eb2d924a93ff1333c4f3d1
+Size: 459212
+MD5sum: 22992f8363d495e25c83f1e7372d5b74
+SHA1: 17688db34aa490ddceacc33b1a0102f33c8f300c
+SHA256: 1a62bde5d1c6f8187b99a5027ddf581ee336179d75cfc691d00161d298f81f22
 Section: 嗨-工具
 Description: Dayanch96的BHTikTok Plus，支持TikTok去广告、自动下一条、纯净模式、切换地区等、伪造粉丝数，视频下载等。
 Author: Bandar Alruwaili
@@ -1045,16 +1045,16 @@ Author: Bandar Alruwaili
 Name: BHInsta(rootless)
 
 Package: com.dao.bhtiktokmod
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm64
 Maintainer: Dayanch96
 Depends: mobilesubstrate
 Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn.rl, com.dao.bhtiktok
 Filename: rootless/BHTikTok Plus(rootless).deb
-Size: 449948
-MD5sum: 94f55ae752f63e0c2fe5577afb839b4e
-SHA1: 68fff7abdb177ed9a3291ae51b3651d9446bbb80
-SHA256: 24738134fe722865ef0a61d8bf714f5069fbb1ac92858cc5db00fb91b214b2c8
+Size: 457736
+MD5sum: 870732d8625cf9c431dfa532702cb118
+SHA1: 9bee0e8d611370b50384966c8a2d775f46692282
+SHA256: 137bc9db5cd84b99787dcc7daa47d65f4084e9a16f46953c466c4612c0349264
 Section: 嗨-工具
 Description: Dayanch96开发的BHTikTok Plus，支持TikTok去广告、自动下一条、纯净模式、切换地区等、伪造粉丝数，视频下载等。
 Author: Bandar Alruwaili
