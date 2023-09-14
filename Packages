@@ -581,6 +581,21 @@ Description: 分享菜单中删除烦人的投送和联系人。i_82大佬修复
 Author: Devvix
 Name: NoCShare(iOS13-15)
 
+Package: com.hk.onesettings.cn
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: root/OneSettings 简体中文包.deb
+Size: 11464
+MD5sum: 1661fa3c0bc9c9c848036e87bc7844b2
+SHA1: 9c0fa28347945cc46a2658c4921d5be4a1bb8e63
+SHA256: a77f3b6d17cc87f4159bdca112e76627776d6224b2af30317aee462b4f213db5
+Section: 嗨-汉化
+Description: OneSettings 简体中文包。
+Author: 妖刀
+Name: OneSettings 简体中文包
+
 Package: com.hk.orion.cn
 Version: 1.2-2
 Architecture: iphoneos-arm
