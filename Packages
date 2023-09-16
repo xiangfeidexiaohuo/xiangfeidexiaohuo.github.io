@@ -236,6 +236,22 @@ Description: Snapper3的长截图扩展，安装以后呼出Snapper3会有一个
 Author: Jonathan Winger-lang
 Name: Snapper3 长截图[扩展]
 
+Package: com.hk.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
+Filename: root/BigShot 长截图.deb
+Size: 19100
+MD5sum: 1daddf3e7831414a6ebccbcf2449fd01
+SHA1: 217adac84baa71b6d85608f0798dccede85fa137
+SHA256: ea9bc30c4f55027dd4e1e393e09bd3894b1e06ec5fa9bcf2bb88cf72c64bc609
+Section: 嗨-工具
+Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持单独使用(不需要Snapper3)，通过控制中心添加BigShot模块。
+Author: Jonathan Winger-lang
+Name: BigShot 长截图
+
 Package: com.hk.bioprotectxs.new.cn
 Version: 4.6
 Architecture: iphoneos-arm
@@ -1090,6 +1106,22 @@ Section: 嗨-工具
 Description: Snapper3的长截图扩展，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。
 Author: Jonathan Winger-lang
 Name: Snapper3 长截图[扩展](rootless)
+
+Package: com.dao.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
+Filename: rootless/BigShot 长截图(rootless).deb
+Size: 19268
+MD5sum: 0b88c3d518a9238e8bea0d54944f13c6
+SHA1: 8dc39e263d0043778eae9003496f82779d4c258a
+SHA256: aef941f97147be3955b2c4c40b38117daf71c094dbf8bb05ab5558830ed81686
+Section: 嗨-工具
+Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持单独使用(不需要Snapper3)，通过控制中心添加BigShot模块。
+Author: Jonathan Winger-lang
+Name: BigShot 长截图(rootless)
 
 Package: com.dao.coolcc
 Version: 2.0-1
