@@ -243,12 +243,12 @@ Maintainer: Jonathan Winger-lang
 Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
 Filename: root/BigShot 长截图.deb
-Size: 19100
-MD5sum: 1daddf3e7831414a6ebccbcf2449fd01
-SHA1: 217adac84baa71b6d85608f0798dccede85fa137
-SHA256: ea9bc30c4f55027dd4e1e393e09bd3894b1e06ec5fa9bcf2bb88cf72c64bc609
+Size: 19088
+MD5sum: 38fc96f944fa296514448c0ab62e5660
+SHA1: 5cc0d7349ac11f071c6acb85b55a5d309e7381b7
+SHA256: d4b8bd00652c8d6e58275883bf3e7bf759f5a234909d88e38f5baafbd867d04f
 Section: 嗨-工具
-Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持单独使用(不需要Snapper3)，通过控制中心添加BigShot模块。
+Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用(没提示)。
 Author: Jonathan Winger-lang
 Name: BigShot 长截图
 
@@ -1114,12 +1114,12 @@ Maintainer: Jonathan Winger-lang
 Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
 Filename: rootless/BigShot 长截图(rootless).deb
-Size: 19268
-MD5sum: 0b88c3d518a9238e8bea0d54944f13c6
-SHA1: 8dc39e263d0043778eae9003496f82779d4c258a
-SHA256: aef941f97147be3955b2c4c40b38117daf71c094dbf8bb05ab5558830ed81686
+Size: 19256
+MD5sum: b1d501cc728682627113f5ffcced8d18
+SHA1: 243d9a241649369a6dc75d95e271791c810ebd80
+SHA256: 9b783f02260492f99525d93f599b01de8dd6b26a9477454bd2ca84fc3256529b
 Section: 嗨-工具
-Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持单独使用(不需要Snapper3)，通过控制中心添加BigShot模块。
+Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用(没提示)。
 Author: Jonathan Winger-lang
 Name: BigShot 长截图(rootless)
 
