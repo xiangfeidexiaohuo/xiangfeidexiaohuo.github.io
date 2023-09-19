@@ -662,6 +662,21 @@ Description: YouTube的自定义插件，可去广告、下载视频、更改布
 Author: Lillie
 Name: YouTube Reborn v4
 
+Package: com.hk.sa.cn
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: root/SwitchAccounts 简体中文包.deb
+Size: 3388
+MD5sum: 928339a8ab10a9a33724c82c4b546b6a
+SHA1: 7615b0429960524b78d38e5089cd86eb9773f1e4
+SHA256: cc6fd55c11668eb2009b70e6432880807dae1d00c86b05e0e20e17cde7d3d211
+Section: 嗨-汉化
+Description: SwitchAccounts 简体中文包。
+Author: 妖刀
+Name: SwitchAccounts 简体中文包
+
 Package: com.hk.settingsrevamp
 Version: 2.1.1
 Architecture: iphoneos-arm
@@ -2435,6 +2450,22 @@ Section: 嗨-工具
 Description: YouTube自定义插件，可去广告、下载、画中画、改布局等，汉化包源内安装。
 Author: Lillie
 Name: YouTube Reborn(rootless)
+
+Package: com.hk.sa.cn
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/SwitchAccounts 简体中文包(rootless).deb
+Size: 3390
+MD5sum: a5db5580ff06333ac7263cd769faff5d
+SHA1: 1c460fa7b68dd9800f4fe41ca2cbaf908fa3b79a
+SHA256: 961cb62d7b168f806f79b65ff8fa36bfe16ca10306b9e483cafe3f12c3cc690e
+Section: 嗨-汉化
+Description: SwitchAccounts 简体中文包(rootless)。
+Author: 妖刀
+Name: SwitchAccounts 简体中文包(rootless)
 
 Package: com.hk.settingsrevamp.cn.rl
 Version: 2.1.1
