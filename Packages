@@ -393,17 +393,17 @@ Author: 妖刀
 Name: DynamicStage 简体中文包
 
 Package: com.hk.filza.cn
-Version: 4.0
+Version: 4.0-1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: root/Filza 中文增补包.deb
-Size: 11854
-MD5sum: 93bd7314a9d44bedf7126e31a33ed267
-SHA1: a393c90f82cb8992f96f19f3cee7096dfcd9df23
-SHA256: c0c2840b30af2aa8b4d792135aa09266abcd99a14297d718d4f4f20c830b46f9
+Size: 13472
+MD5sum: 13843aaf49ac05c1c7e3973352e050e6
+SHA1: 5dccc177578b1afea4cfba9ee3eabeb87956ffc2
+SHA256: 673e0b045ee029b2fcdaabddb22aa2274e773d1438868273a8ae340c847bb5f5
 Section: 嗨-汉化
-Description: Filza 中文增补包。Filza虽然自带中文，但是某些小地方缺失翻译，增补了下。
+Description: Filza 中文增补包。
 Author: Mo/妖刀
 Name: Filza 中文增补包
 
@@ -1315,6 +1315,22 @@ Description: 设置自定义、归类插件，源内有汉化包。
 Author: SOPPPra
 Name: SettingsRevamp(rootless)
 
+Package: com.dao.souvenir
+Version: 1.15
+Architecture: iphoneos-arm64
+Maintainer: Elio Feghali
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.eliofeghali.souvenir, com.nan.souvenir.zh-hans
+Filename: rootless/Souvenir(rootless).deb
+Size: 100344
+MD5sum: c9fea5e943c49e371272162f7c1a5c20
+SHA1: 1686d4afbaef999460b4dc2ad7c0c887d5b933b6
+SHA256: 0585376cb75c25a228a7bc0ffefd38b91012ff4411f4faa199b73975d334edf0
+Section: 嗨-工具
+Description: 锁屏自定义插件，包含赵楠的简体中文汉化包。
+Author: Elio Feghali
+Name: Souvenir(rootless)
+
 Package: com.dao.ytlite
 Version: 2.3.1
 Architecture: iphoneos-arm64
@@ -1952,15 +1968,15 @@ Author: 妖刀
 Name: EZSwipe 简体中文包(rootless)
 
 Package: com.hk.filza.cn.rl
-Version: 4.0
+Version: 4.0-1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/Filza 中文增补包(rootless).deb
-Size: 10804
-MD5sum: 510afef15e9b3846f0603cbdf9805941
-SHA1: 694274e2a75efc247cd0776bc9bec4fb178ca890
-SHA256: 808107d7c007264225a24c9c4bb52fdb0ba4d4e7bb0837304c18f5fe64d50ceb
+Size: 13608
+MD5sum: e4c2705335f78538d88618b81266f792
+SHA1: 6032bf00a0ab8ca08eee278eb918fa00707cf501
+SHA256: 5ccb2e77b3ce25006e279a1aa6675e07616a7ec203e8b1c05ce1c43090fbc635
 Section: 嗨-汉化
 Description: Filza 中文增补包(rootless)。
 Author: Mo/妖刀
