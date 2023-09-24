@@ -2849,3 +2849,35 @@ Description: 图片和颜色计算控件，Liddell小横幅插件的依赖。
 Author: Traurige <hello@traurige.dev>
 Name: libKitten(rootless)
 
+Package: com.qms.cpudasher
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: lw
+Depends: firmware (>= 15.0), ellekit, mobilesubstrate
+Conflicts: CPU.Dasher
+Filename: roothide/CPUDasher 破解VIP(RootHide).deb
+Size: 34232
+MD5sum: 028d56a76977101f1820e86a544b813a
+SHA1: 98c4aab8e5526665972e2f3d5e32c2801efaac77
+SHA256: 4a7b3ed3eaa207942ee9c9e31152e39c22c659ee58a073a5bc976a090fa6de4c
+Section: 嗨-工具
+Description: CPUDasher破解VIP。
+Author: lw
+Name: CPUDasher 破解VIP(RootHide)
+
+Package: cpm.qms.storeswitcher
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: lw
+Depends: firmware (>= 15.0), ellekit, mobilesubstrate
+Conflicts: StoreSwitcher
+Filename: roothide/AppStore 切换账号(RootHide).deb
+Size: 150328
+MD5sum: 37548f74f8480f412a692f65fbfe56d0
+SHA1: 1b39269f7898cd4e81021e26726535f66c62dbc8
+SHA256: 353f615ced0899ad789e86016a158b1504075807783975a68dc66126ba07e5f2
+Section: 嗨-工具
+Description: AppStore快速切换账号。
+Author: lw
+Name: AppStore 切换账号(RootHide)
+
