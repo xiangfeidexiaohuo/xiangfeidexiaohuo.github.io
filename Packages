@@ -2649,6 +2649,21 @@ Description: 冷冷雨基于开源编译适配rootless，AppStore帐户页面中
 Author: subdiox
 Name: StoreSwitcher2(rootless)
 
+Package: com.hk.tempdrop.cn.rl
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/TempDrop 简体中文包(rootless).deb
+Size: 1300
+MD5sum: d53a525be719834a9ece018500848cd5
+SHA1: b045bce6cc022395f824ff3bf78ee7e49774f9cd
+SHA256: 0e96a9934b242ca91748ba8e1fbc3ecfc7f3680e4b6e9008243f06240edcaa9a
+Section: 嗨-工具
+Description: TempDrop 简体中文包(rootless)。插件源：https://repo.icrazeios.com/
+Author: 妖刀
+Name: TempDrop 简体中文包(rootless)
+
 Package: com.hk.translomatic.x.rl
 Version: 2.18.6
 Architecture: iphoneos-arm64
