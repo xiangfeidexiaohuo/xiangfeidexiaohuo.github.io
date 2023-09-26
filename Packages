@@ -1316,16 +1316,16 @@ Author: SOPPPra
 Name: SettingsRevamp(rootless)
 
 Package: com.dao.souvenir
-Version: 1.15
+Version: 1.18
 Architecture: iphoneos-arm64
 Maintainer: Elio Feghali
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.eliofeghali.souvenir, com.nan.souvenir.zh-hans
 Filename: rootless/Souvenir(rootless).deb
-Size: 100344
-MD5sum: c9fea5e943c49e371272162f7c1a5c20
-SHA1: 1686d4afbaef999460b4dc2ad7c0c887d5b933b6
-SHA256: 0585376cb75c25a228a7bc0ffefd38b91012ff4411f4faa199b73975d334edf0
+Size: 101436
+MD5sum: 17f62c9de88de39630aa2e9e78f54794
+SHA1: bc9529022eb54313bb518173544b0e008df41453
+SHA256: 8fa5266954aab0f067d5874f1921031cf5b8e57c750f0c0045f1087fca4857b3
 Section: 嗨-工具
 Description: 锁屏自定义插件，包含赵楠的简体中文汉化包。
 Author: Elio Feghali
