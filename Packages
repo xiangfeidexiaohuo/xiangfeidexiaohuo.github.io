@@ -2880,6 +2880,39 @@ Description: CPUDasher破解VIP。
 Author: lw
 Name: CPUDasher 破解VIP(RootHide)
 
+Package: com.qms.goodwifi
+Version: 0.0~beta6.5-daodao
+Architecture: iphoneos-arm64e
+Maintainer: julioverne
+Installed-Size: 480
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.goodwifi
+Filename: roothide/GoodWiFi中文版(RootHide).deb
+Size: 56168
+MD5sum: eb88df0b494541b8769ddbb74fc952c0
+SHA1: 7a882636ca862516ff0225a5e62b58994b820a4c
+SHA256: 3b4447bcf5a97e67c3cd6217fc3be3d921bd984afe07d5b09d5463795fa2bdd1
+Section: 嗨-工具
+Description: 更好的WiFi配置，简体中文版。
+Author: julioverne
+Name: GoodWiFi中文版(RootHide)
+
+Package: com.qms.noseparators
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: roothide/NoLine(RootHide).deb
+Size: 3700
+MD5sum: eec38497e0247ce23f3a558dc7be0287
+SHA1: 0d3141381235e552e81b7b5ac409dfdbf6ddf484
+SHA256: 1d0481335915c253b05a24cacef91de59b028d92b266e110e7a423e22642e639
+Section: 嗨-系统
+Description: 去除弹窗/UI/长按菜单等地方的分割线，优化下代码。
+Author: 妖刀
+Name: NoLine(RootHide)
+
 Package: cpm.qms.storeswitcher
 Version: 1.2
 Architecture: iphoneos-arm64e
