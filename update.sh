@@ -10,8 +10,8 @@ cat Packages | lzma > Packages.lzma
 cat Packages | zstd > Packages.zst
 
 apt-ftparchive\
- -o APT::FTPArchive::Release::Origin="刀刀源🇨🇳"\
- -o APT::FTPArchive::Release::Label="刀刀源🇨🇳"\
+ -o APT::FTPArchive::Release::Origin="刀刀源"\
+ -o APT::FTPArchive::Release::Label="刀刀源"\
  -o APT::FTPArchive::Release::Suite="stable"\
  -o APT::FTPArchive::Release::Version="1.0"\
  -o APT::FTPArchive::Release::Codename="ios"\
