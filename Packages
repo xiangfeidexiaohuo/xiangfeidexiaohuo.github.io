@@ -1710,6 +1710,21 @@ Description: BetterAlarm 简体中文包(rootless)。
 Author: 妖刀
 Name: BetterAlarm 简体中文包(rootless)
 
+Package: com.hk.bettercc.cn.rl
+Version: 0.0.5.3
+Architecture: iphoneos-arm64
+Maintainer: Ball <434479917@qq.com>
+Depends: mobilesubstrate
+Filename: rootless/BetterCC 简体中文包(rootless).deb
+Size: 2628
+MD5sum: fae08ae2b2c480c5572024ed6541a52c
+SHA1: 8038a4d82a6d5fe54ab0b6af244b11b3cb449944
+SHA256: b8827cdae81f07188e0d92e6e2b8c7b10fe82427fb2cefb7b38ad2497aec7a9f
+Section: 嗨-汉化
+Description: BetterCC 简体中文包(rootless)。
+Author: Ball <434479917@qq.com>
+Name: BetterCC 简体中文包(rootless)
+
 Package: com.hk.bhinsta.cn.rl
 Version: 0.0.1-1
 Architecture: iphoneos-arm64
