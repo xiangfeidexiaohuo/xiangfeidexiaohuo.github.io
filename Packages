@@ -1316,20 +1316,36 @@ Author: SOPPPra
 Name: SettingsRevamp(rootless)
 
 Package: com.dao.souvenir
-Version: 1.19
+Version: 1.20
 Architecture: iphoneos-arm64
 Maintainer: Elio Feghali
 Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.eliofeghali.souvenir, com.nan.souvenir.zh-hans
+Conflicts: com.eliofeghali.souvenir, com.nan.souvenir.zh-hans, com.dao.souvenir.cn.tl
 Filename: rootless/Souvenir(rootless).deb
-Size: 103280
-MD5sum: 9cb4d6f5ce8ab66c0f84f0aefc941aef
-SHA1: e3976d56815e146ff7c7b463717d84c124fda04e
-SHA256: 6ce99a54869955b021d38074b4ab3767311fd374472df133d9ff8ce4b8072fc2
+Size: 102976
+MD5sum: 2dd6392ba5f9ef41c2c1567e0b25bab3
+SHA1: cf72e1786ae4c59c2ff9f0a3e8eb90661935dffb
+SHA256: 5d1a97af9e4cab2ee3726b7e0752b12631ee3f72ae5520507e86fdb03c4bd3e8
 Section: 嗨-工具
 Description: 锁屏自定义插件，包含赵楠的简体中文汉化包。
 Author: Elio Feghali
 Name: Souvenir(rootless)
+
+Package: com.dao.souvenir.cn.tl
+Version: 1.20
+Architecture: iphoneos-arm64
+Maintainer: 赵楠&刀刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dao.souvenir, com.nan.souvenir.zh-hans
+Filename: rootless/Souvenir 简体中文包(rootless).deb
+Size: 6908
+MD5sum: ec410eee3607caf8fbde4269af1f4a81
+SHA1: 91502b2a697c99137e2bf113dea61c3b3e268e68
+SHA256: 656ea50df7a51386f2c0f0b2db187042d6691e4c1e1db4aa15d10e87497d2700
+Section: 嗨-工具
+Description: Souvenir 简体中文包(rootless)。
+Author: 赵楠
+Name: Souvenir 简体中文包(rootless)
 
 Package: com.dao.ytlite
 Version: 2.3.1
