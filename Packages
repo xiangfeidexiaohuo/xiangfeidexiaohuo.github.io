@@ -1493,22 +1493,6 @@ Description: BHTwitter中文修复版，推特的功能性插件，设置就在�
 Author: Bandar Alruwaili
 Name: BHTwitter(rootless)
 
-Package: com.daodao.rootless.vfa
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: Mo <cydia778899@gmail.com>
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/微信公众号去广告(rootless).deb
-Size: 4832
-MD5sum: 83ec67afc2a0c88346ee4b1da9d7084d
-SHA1: 4bcd00030195170f789860a9b76f2597c10f1546
-SHA256: 19bcbd66b07172e5847faf09a08fd22485361a49804d618cd57bc8009378db53
-Section: 嗨-工具
-Description: 原作者：糖醋丶炒排骨，Mo编译支持rootless，去掉微信公众号文章内置、底部的广告，无设置。
-Author: Mo <cydia778899@gmail.com>
-Dev: Mo <cydia778899@gmail.com>
-Name: 微信公众号去广告(rootless)
-
 Package: com.daodao.snapper2
 Version: 2.7.0
 Architecture: iphoneos-arm64
@@ -2401,22 +2385,6 @@ Description: 为应用程序提供多个容器，账号多开神器。
 Author: opa334
 Name: Crane(rootless)
 
-Package: com.hk.rootless.janwechat
-Version: 1.1.5-1
-Architecture: iphoneos-arm64
-Maintainer: Jan
-Depends: mobilesubstrate
-Filename: rootless/WeChat(rootless).deb
-Size: 599252
-MD5sum: 758abe2e5b71163092f15682e307443d
-SHA1: 7f9537b94c7343664ea84e0cc4f51ed198da4c6c
-SHA256: 51cfe285188fb2e64818e2db33553d675a76c17fc4773f15cfcada96701169ba
-Section: 嗨-工具
-Description: Jan WeChat微信助手rootless版，插件还是老版本，可能某些功能失效，只是转换支持Fugu15/多巴胺越狱而已。提示：毕竟不是插件作者更新支持rootless，可能会出现bug/风险，若出现风险，自行承担！
-Author: Jan
-Name: WeChat(rootless)
-Sponsor: Jan
-
 Package: com.hk.rootless.liddell
 Version: 1.4.3
 Architecture: iphoneos-arm64
@@ -2463,22 +2431,6 @@ SHA256: d640a4f31217daf2f62917c461efda6a9d74b8edcd817b9a77f941598c2731fd
 Section: 嗨-工具
 Description: 完全可自由定制的通知横幅，源内安装汉化包。
 Name: Velvet 2(rootless)
-
-Package: com.hk.rootless.wceablefriendsstar
-Version: 1.1-2
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Depends: mobilesubstrate, firmware (>= 13.0)
-Conflicts: netskao.wceablefriendsstar
-Filename: rootless/微信FriendsStar.deb
-Size: 58380
-MD5sum: 0eab510affbda40e4f1084c0bff9ee3c
-SHA1: 4b888c7231ec46fb7aa7549923fa9abc0440be37
-SHA256: 91d13ee9ddd52d828a55ec8ddad4984cd08d53b6a07fc276d4f242cc1abf34ff
-Section: 嗨-工具
-Description: 直接启用微信朋友圈置顶功能，无设置，仅支持8.0.36及以上。
-Author: Netskao
-Name: 微信FriendsStar
 
 Package: com.hk.rootless.youtubereborn
 Version: 4.0.9-rootless-1+debug
@@ -2860,22 +2812,6 @@ Section: 嗨-工具
 Description: 某大佬古老的今日头条系列去广告插件，无设置。插件还是老版本，可能某些功能失效，只是转换支持Fugu15/多巴胺越狱而已。提示：毕竟不是插件作者更新支持rootless，可能会出现bug/风险，若出现风险，自行承担！
 Author: 佚名
 Name: 头条NoAds(rootless)
-Sponsor: 佚名
-
-Package: com.wx.pyqnoads.rl
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 佚名
-Depends: mobilesubstrate
-Filename: rootless/微信朋友圈NoAds(rootless).deb
-Size: 4516
-MD5sum: 7cff7cdfeeb2f958df095bc0e4902f04
-SHA1: d68623f5e687b09c3ffd65d3b8edc69d97f6834e
-SHA256: e974a574570604a22615d27bcc4aa23c1ef259a83e83ef4087292f6fba3bca59
-Section: 嗨-工具
-Description: 微信去朋友圈广告，无设置。群友分享不知道作者，使用自行承担风险。转换支持Fugu15/多巴胺越狱而已。提示：毕竟不是插件作者更新支持rootless，可能会出现bug/风险，若出现风险，自行承担！
-Author: 佚名
-Name: 微信朋友圈NoAds(rootless)
 Sponsor: 佚名
 
 Package: dev.traurige.libkitten
