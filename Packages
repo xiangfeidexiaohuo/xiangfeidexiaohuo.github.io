@@ -61,6 +61,21 @@ Description: BHTwitter中文修复版，推特的功能性插件，设置就在�
 Author: Mo
 Name: BHTwitter 中文修复版
 
+Package: com.hk.akara.cn
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: root/Akara 简体中文包.deb
+Size: 6776
+MD5sum: 4762599649ee0cf628b9bcae738bb614
+SHA1: fb9097f16508d90076e82bb66d0d65867fea7677
+SHA256: efd011d8cdbdb126e87f50c260f0aee66a917abf795ed6540640bffd8d583a69
+Section: 嗨-汉化
+Description: Akara 简体中文包。
+Author: 妖刀
+Name: Akara 简体中文包
+
 Package: com.hk.alpine.cn
 Version: 1.2-1
 Architecture: iphoneos-arm
@@ -1588,6 +1603,21 @@ Description: A-Font 简体中文包(rootless)。
 Author: 妖刀
 Name: A-Font 简体中文包(rootless)
 
+Package: com.hk.akara.cn.rl
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Akara 简体中文包(rootless).deb
+Size: 6876
+MD5sum: 2a25be3195cce42640e64e20c283bf81
+SHA1: d91e880801cae182ac934c6cd6e8fe9b4927f221
+SHA256: 5a29cf431e53375b284f62f89605d6888c07306b69224a0bac99ceb907221dda
+Section: 嗨-汉化
+Description: Akara 简体中文包(rootless)。
+Author: 妖刀
+Name: Akara 简体中文包(rootless)
+
 Package: com.hk.alarmtime.cn.rl
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -1599,6 +1629,22 @@ Size: 3676
 MD5sum: 343893f9e17c2d23982dbda30395535b
 SHA1: 77196bdc185f61a1403be938665cb53b6995df13
 SHA256: b17340690c9a1341f13e99f425ee55e904fa02c27965ce84cb38c7ef15955a5f
+Section: 嗨-汉化
+Description: AlarmTime 简体中文包(rootless)。
+Author: 妖刀
+Name: AlarmTime 简体中文包(rootless)
+
+Package: com.hk.alarmtime.cn.rl
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/AlarmTime 简体中文包(rootless)_1.0-2.deb
+Size: 3774
+MD5sum: bdb4be51d43ae5954bbe3cf7e66d5204
+SHA1: 11fa8651c33daf9779b3a719d98011c4abef0ef5
+SHA256: 7177087ab3c37e91ded17c0a0835e1c1b8e5679c80189fa5ef8a7ba80a558a7a
 Section: 嗨-汉化
 Description: AlarmTime 简体中文包(rootless)。
 Author: 妖刀
