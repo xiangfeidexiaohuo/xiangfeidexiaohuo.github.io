@@ -1089,6 +1089,22 @@ Description: Ultrasound 简体中文包(rootless)。
 Author: Ball <ball@hackcn.net>
 Name: Ultrasound 简体中文包(rootless)
 
+Package: com.dao.akara
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: Tr1Fecta & Kennyroo
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>= 15.0), com.hk.akara.cn.rl
+Conflicts: xyz.cypwn.akara
+Filename: rootless/Akara(rootless).deb
+Size: 612176
+MD5sum: 0b2b8d2a6e86353ccb8f0a4b2ffab96c
+SHA1: fd5a59c725b7a3da15001d990d543943ff1d4d0c
+SHA256: 5cb129e2b44d26a9c305bf18b631c1fad9e1953d164d2d7a535db1283b1a0d74
+Section: 嗨-工具
+Description: 不可思议的简约控制中心，源内有汉化包。
+Author: Tr1Fecta & Kennyroo
+Name: Akara(rootless)
+
 Package: com.dao.bhinsta
 Version: 0.0.1
 Architecture: iphoneos-arm64
