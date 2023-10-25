@@ -1620,15 +1620,15 @@ Author: 妖刀
 Name: A-Font 简体中文包(rootless)
 
 Package: com.hk.akara.cn.rl
-Version: 2.0
+Version: 2.0.0
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Akara 简体中文包(rootless).deb
-Size: 6876
-MD5sum: 2a25be3195cce42640e64e20c283bf81
-SHA1: d91e880801cae182ac934c6cd6e8fe9b4927f221
-SHA256: 5a29cf431e53375b284f62f89605d6888c07306b69224a0bac99ceb907221dda
+Size: 6860
+MD5sum: 30de1691dc1ecac0639d5ba27cc685b0
+SHA1: 20fef3433b47df6202e85540788ff974560f052b
+SHA256: f5d01db41033f204d53809d85d309429f0ecf941d2243ac1f54c64eae9267f61
 Section: 嗨-汉化
 Description: Akara 简体中文包(rootless)。
 Author: 妖刀
