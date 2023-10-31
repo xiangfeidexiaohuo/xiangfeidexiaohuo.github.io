@@ -582,19 +582,19 @@ Author: zp
 Name: Xina长按临退
 
 Package: com.hk.lynx2.cn
-Version: 2.4.3
+Version: 2.4.5
 Architecture: iphoneos-arm
 Maintainer: M哥 & 妖刀
 Depends: mobilesubstrate
-Filename: root/Lynx2 简体中文包.deb
-Size: 22164
-MD5sum: fc73dbabb919b08e53bcecb7e51fef02
-SHA1: c4955eb8c0def522a6b724972e7065dae155ac7c
-SHA256: 1413a526224545de2801b1f46a20fa587a3703f380f076e158b457d977f28a87
+Filename: root/Lynx 2 简体中文包.deb
+Size: 23160
+MD5sum: 335c27e312b276d6a389e5a70ec2b79c
+SHA1: 178a56ae3eb598b653ed43f53b1dadad34679f4f
+SHA256: 9820c3617d1b3dc6c220a824fdfee976999c375eab7e631c865e2fdcf459ad57
 Section: 嗨-汉化
-Description: Lynx2 简体中文包。
+Description: Lynx 2 简体中文包。
 Author: M哥 & 妖刀
-Name: Lynx2 简体中文包
+Name: Lynx 2 简体中文包
 
 Package: com.hk.nocshare
 Version: 1.1.2
@@ -1266,16 +1266,16 @@ Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
 Name: Jade(rootless)
 
 Package: com.dao.lynxtwo
-Version: 2.4.3
+Version: 2.4.5
 Architecture: iphoneos-arm64
 Maintainer: MTAC
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Conflicts: com.mtac.lynxtwo
 Filename: rootless/Lynx 2(rootless).deb
-Size: 484552
-MD5sum: f269f063876887d34e51df125922ec46
-SHA1: dfc4e6e414315f0b4102c21ce49ef606e5e126a3
-SHA256: acca9dae4c07c43679db9c576f742faed812f9a7dc6c361b80d910aeb54ce112
+Size: 508004
+MD5sum: b974444e71cbdd7a1c787c82409c9995
+SHA1: d05d1fb8f36c071f7b45385e1cf6a961c1236f98
+SHA256: beeabc224a213484c2f15f67fefc3c0da829d50b5ef5a049ee27b64b3837c690
 Section: 嗨-工具
 Description: 适用于iOS14+的军刀类多功能插件，汉化包在源内。
 Author: MTAC
@@ -2197,19 +2197,19 @@ Author: 妖刀
 Name: Liddell 简体中文包(rootless)
 
 Package: com.hk.lynx2.cn.rl
-Version: 2.4.3
+Version: 2.4.5
 Architecture: iphoneos-arm64
 Maintainer: M哥 & 妖刀
 Depends: mobilesubstrate
-Filename: rootless/Lynx2 简体中文包(rootless).deb
-Size: 22308
-MD5sum: 58e965d921ea2d149f38cd83ca2523ce
-SHA1: b88e7dc0d3b5a553e254840230ee8f52de6309d6
-SHA256: 7ab87a53de186ec1cfaf2587db1ff789630ba40603499b03b525779a4efeddc4
+Filename: rootless/Lynx 2 简体中文包(rootless).deb
+Size: 23244
+MD5sum: a00b2693b78eb4ecfc38212a7ba01725
+SHA1: bd902979cf10c945e4e1be5526ae1cb88d29fdd5
+SHA256: 196fc0bfaf07ba3189ab78b5d959493975a7c0ba575973d1113203be90f4d992
 Section: 嗨-汉化
-Description: Lynx2 简体中文包(rootless)。
+Description: Lynx 2 简体中文包(rootless)。
 Author: M哥 & 妖刀
-Name: Lynx2 简体中文包(rootless)
+Name: Lynx 2 简体中文包(rootless)
 
 Package: com.hk.marker.cn.rl
 Version: 2.0-1
