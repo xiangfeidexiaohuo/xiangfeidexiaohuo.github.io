@@ -27,6 +27,22 @@ Description: Safari Plus 中文修复包。
 Author: 妖刀
 Name: Safari Plus 中文修复包
 
+Package: com.dao.souvenir.cn
+Version: 1.22
+Architecture: iphoneos-arm
+Maintainer: 赵楠&刀刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dao.souvenir, com.nan.souvenir.zh-hans
+Filename: root/Souvenir 简体中文包.deb
+Size: 6740
+MD5sum: 92bb433edef3b7ad2d4294b6d7f69ddf
+SHA1: 1bc44bd20d555e8556620f669e22700f4258f3af
+SHA256: ee9ab7f079a09fdbaf22ae29ee2dc4bb0d3a1259a89570b6d6ed034bdf475238
+Section: 嗨-工具
+Description: Souvenir 简体中文包。
+Author: 赵楠
+Name: Souvenir 简体中文包
+
 Package: com.hk.BHTwitter.cn
 Version: 3.9.1
 Architecture: iphoneos-arm
@@ -1363,32 +1379,32 @@ Author: SOPPPra
 Name: SettingsRevamp(rootless)
 
 Package: com.dao.souvenir
-Version: 1.20
+Version: 1.22
 Architecture: iphoneos-arm64
 Maintainer: Elio Feghali
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.eliofeghali.souvenir, com.nan.souvenir.zh-hans, com.dao.souvenir.cn.tl
 Filename: rootless/Souvenir(rootless).deb
-Size: 102976
-MD5sum: 2dd6392ba5f9ef41c2c1567e0b25bab3
-SHA1: cf72e1786ae4c59c2ff9f0a3e8eb90661935dffb
-SHA256: 5d1a97af9e4cab2ee3726b7e0752b12631ee3f72ae5520507e86fdb03c4bd3e8
+Size: 103280
+MD5sum: 1a986ec1321ec74e1ecf0c29cde57ece
+SHA1: 939704a560cc2c42af053402b3a92a1aebedfbb3
+SHA256: 66ebc30609f7149e18272b573648314e592955503d3549c67b26909a6bd4fbca
 Section: 嗨-工具
-Description: 锁屏自定义插件，包含赵楠的简体中文汉化包。
+Description: 锁屏自定义插件，已包含赵楠的简体中文汉化包，增补了一些弹窗的汉化。
 Author: Elio Feghali
 Name: Souvenir(rootless)
 
 Package: com.dao.souvenir.cn.tl
-Version: 1.20
+Version: 1.22
 Architecture: iphoneos-arm64
 Maintainer: 赵楠&刀刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.dao.souvenir, com.nan.souvenir.zh-hans
 Filename: rootless/Souvenir 简体中文包(rootless).deb
-Size: 6908
-MD5sum: ec410eee3607caf8fbde4269af1f4a81
-SHA1: 91502b2a697c99137e2bf113dea61c3b3e268e68
-SHA256: 656ea50df7a51386f2c0f0b2db187042d6691e4c1e1db4aa15d10e87497d2700
+Size: 6928
+MD5sum: bdc54f6540a13b11228c8681407a8b5d
+SHA1: 757f5214b75b6b9e143a6bd5f4038ac551aa9203
+SHA256: c08f301665cc1064bc369cee66ee97b7afca0c6dba7e2728c73a78a88cd125f3
 Section: 嗨-工具
 Description: Souvenir 简体中文包(rootless)。
 Author: 赵楠
