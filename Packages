@@ -408,6 +408,22 @@ Description: 去除弹窗/UI/长按菜单等地方的分割线，优化下代码
 Author: 妖刀
 Name: NoLine
 
+Package: com.hk.dotto+
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: ConorTheDev <conorthedev@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), me.conorthedev.libappearancecell, ws.hbang.alderis | org.thebigboss.libcolorpicker
+Conflicts: com.hk.dotto+.cn, me.conorthedev.dotto+
+Filename: root/dotto+.deb
+Size: 109526
+MD5sum: 05cc6a34ad96a73faedf8adff54e501b
+SHA1: 0a9949ed84c00791b0a8472b1255df93f4829e4e
+SHA256: 3f0d7e7ff7ab6dd0d80b010e45bf89df1a6bb320d1e21fae423fe8f3cf792035
+Section: 嗨-工具
+Description: 改变角标为一个圆点，并自适应角标颜色。
+Author: ConorTheDev & Mirac
+Name: dotto+
+
 Package: com.hk.dynamicstage.cn
 Version: 1.0.2
 Architecture: iphoneos-arm
