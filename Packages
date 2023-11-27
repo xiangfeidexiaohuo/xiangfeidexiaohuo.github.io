@@ -187,6 +187,21 @@ Description: 在刘海设备的键盘底部空隙处显示Emoji表情。82大佬
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Name: Barmoji(iOS10~15)
 
+Package: com.hk.battsafepro.cn
+Version: 1.1.8
+Architecture: iphoneos-arm
+Maintainer: udevs
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: root/BattSafePro 中文增补包.deb
+Size: 2372
+MD5sum: cc1d2de57506b823155d6663b00d31d0
+SHA1: 24682a0141162e7d2139d6c0c95e969c7c681edb
+SHA256: e6582637db7d42e906e8c662c2f666292b975c46cc4c9d3dfa8a38c1ea538fea
+Section: Tweaks
+Description: BattSafePro 中文增补包。
+Author: udevs
+Name: BattSafePro 中文增补包
+
 Package: com.hk.betteralarm.cn
 Version: 1.4.2
 Architecture: iphoneos-arm
