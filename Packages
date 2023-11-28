@@ -879,16 +879,16 @@ Author: Traurige <hello@traurige.dev>
 Name: Kayoko官方版
 
 Package: com.hk.trollstore.cn
-Version: 2.0-1
+Version: 2.0-2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: root/TrollStore 简体中文包.deb
-Size: 11852
-MD5sum: 3ed53ef16104c14ab06080f05712b218
-SHA1: 4a48c983f802bcba7d116ab963def30edf038d46
-SHA256: 579106230583fc997fca7535c79186191319e4df43caad3d6c37e775a9860cbb
+Size: 11708
+MD5sum: 36cb0b0d47151afa4f3a2a955c359d5e
+SHA1: aad0a3d1456f6027fb25f0493f2aef5aaea41cb5
+SHA256: 3fec623519ed3d6f81bfedf664ef4e66ef13cc3c8963a66b91d059767e6a1824
 Section: 嗨-汉化
 Description: TrollStore 简体中文包。
 Author: 妖刀
@@ -2771,16 +2771,16 @@ Author: 妖刀
 Name: TrollNonce 简体中文包(rootless)
 
 Package: com.hk.trollstore.cn.rl
-Version: 2.0-1
+Version: 2.0-2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: rootless/TrollStore 简体中文包(rootless).deb
-Size: 11738
-MD5sum: 217fdf1f84728a18bb7fb701bdf7d0da
-SHA1: fe6d761535778776e6c40238d2d9cca5b326fcd9
-SHA256: 3794af689241bd5f9f6d7f90fec42a990460a164603e900f32c180829720eb27
+Size: 11736
+MD5sum: 4d915493358c6b808eb2530dde4d9e81
+SHA1: 8e6301f627fc3718752ad819098d8723396d0e6d
+SHA256: ffcda460d443d4d744d4f912ab42a9c834b79343deff5cdbfb69e2c56426a2ba
 Section: 嗨-汉化
 Description: TrollStore 简体中文包(rootless)。
 Author: 妖刀
