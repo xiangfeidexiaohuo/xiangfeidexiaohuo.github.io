@@ -643,6 +643,21 @@ Description: Lynx 2 简体中文包。
 Author: M哥 & 妖刀
 Name: Lynx 2 简体中文包
 
+Package: com.hk.milkyway3.cn
+Version: 0.2.8
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate
+Filename: root/MilkyWay3 简体中文包.deb
+Size: 4204
+MD5sum: 283fa56647b6b0051cd269c5a47ae7e4
+SHA1: 56f575604173b5eca2638eaf774529edb22565d2
+SHA256: e76ae63b8ae7c07804625ec7b50c5e6a7fe77eb607530db19a0cc63f6a3f8001
+Section: 嗨-汉化
+Description: MilkyWay3 简体中文包，桌面图标菜单选项已汉化。MilkyWay3插件介绍：一款适用于iOS13-14的分屏插件
+Author: Ball
+Name: MilkyWay3 简体中文包
+
 Package: com.hk.nocshare
 Version: 1.1.2
 Architecture: iphoneos-arm
