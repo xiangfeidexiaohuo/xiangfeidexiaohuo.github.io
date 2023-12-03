@@ -1473,16 +1473,16 @@ Author: dvntm
 Name: YTLite(rootless)
 
 Package: com.daodao.82.kayoko
-Version: 1.4.1-1
+Version: 1.4.2-1
 Architecture: iphoneos-arm64
 Maintainer: Mr.Zhang <mr_zhang_00@163.com>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, com.daodao.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl
 Filename: rootless/Kayoko魔改版(rootless).deb
-Size: 122428
-MD5sum: 1d2059fd53347d13b739e09daa4d19d5
-SHA1: 31ee67ece25bbe513a03509f2cf1dcf13ded73fb
-SHA256: 728eb563adc8563997261a14c825581df74d8a34d2a01d7caf1857892ac1804d
+Size: 120900
+MD5sum: 3fdf58f4fda14eb5d84699df414c282f
+SHA1: 524ec534b6707cabdd91f3c26bee0f3539dfc69a
+SHA256: 33f3a595064ba29c369205c2824231df35cbce9a035b9fa9b25264b424759ba1
 Section: 嗨-系统
 Description: 剪切板插件，直接替代听写键，可直接翻译剪切板里的英文等。Skypain大佬基于Traurige和Lessica的开源项目，编译适配rootless，Lessica大佬版本特性(可修改高度，音效、振动等)和一些优化修复等，已包含中文包。
 Author: Traurige <hello@traurige.dev>
