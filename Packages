@@ -109,15 +109,15 @@ Author: 妖刀
 Name: Alpine 简体中文包
 
 Package: com.hk.ampere.cn
-Version: 1.1
+Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: 妖刀
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate
 Filename: root/Ampere 简体中文包.deb
-Size: 8576
-MD5sum: 122abae1655141d14c7d8e15d17b3941
-SHA1: 95961193da9a7bd7b84356ee1142372fb6bc7b27
-SHA256: a859e3a44c831715ab475e151a44c12573946dec0bb28d3306cd4a40a5e4f88f
+Size: 6132
+MD5sum: da337100ed3ac9eb3a99469bca542e80
+SHA1: 659ca29278bbc4da5d0160ae5720c574197e0e6b
+SHA256: 11460e64eae7ae17fefe3324cf077b387a1c32bb95036b32b4d5f27e9ec80bbd
 Section: 嗨-汉化
 Description: Ampere 简体中文包。
 Author: 妖刀
@@ -1712,15 +1712,15 @@ Author: 妖刀
 Name: Alpine 简体中文包(rootless)
 
 Package: com.hk.ampere.cn.rl
-Version: 1.1
+Version: 1.4
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Ampere 简体中文包(rootless).deb
-Size: 5728
-MD5sum: 0899480a1e31a64c310c3a52fe86ce78
-SHA1: ca1c5a0f734728157556badc335eafd3386d1da0
-SHA256: 985cae3aecd6aee90de1a2faec48c691992d8b4f8443955994974e1676c89730
+Size: 6184
+MD5sum: 1fdf46654ab13d45e1579ef6b90ed7ac
+SHA1: 78f8fb177a64d16d75e949dc7fdde0baba74b39d
+SHA256: bd964e429d31499f40f1fe397bf20594f77950bb1b6f05c28e4bffce26b21771
 Section: 嗨-汉化
 Description: Ampere 简体中文包(rootless)。
 Author: 妖刀
