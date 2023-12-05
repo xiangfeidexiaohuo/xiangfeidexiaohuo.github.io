@@ -720,6 +720,23 @@ Description: PrimalFolder2 简体中文包。
 Author: 妖刀
 Name: PrimalFolder2 简体中文包
 
+Package: com.hk.powercuff
+Version: 0.6-1
+Architecture: iphoneos-arm
+Maintainer: 刀刀源
+Installed-Size: 196
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
+Filename: root/Powercuff_0.6.deb
+Size: 13928
+MD5sum: 1743817ba885ab933640ab8f93d7b73c
+SHA1: b246786fd3510b2dd0515648d679ad55f5616eb8
+SHA256: 4588a4f3d42bf32fa30f31af4d035d06caecab363bfe042c4d272341249bbf60
+Section: 嗨-工具
+Description: 节能插件，效果自测，重新编译。
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Name: Powercuff
+
 Package: com.hk.ryan.youtubereborn
 Version: 4.0.9
 Architecture: iphoneos-arm
@@ -1393,16 +1410,17 @@ Dev: rpetrich
 Name: Powercuff(rootless)
 
 Package: com.dao.powercuff
-Version: 0.5-2
+Version: 0.6-1
 Architecture: iphoneos-arm64
 Maintainer: 刀刀源
+Installed-Size: 196
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
-Filename: rootless/Powercuff(rootless)_0.5.deb
-Size: 13820
-MD5sum: 1887e74cf95e19cb41b49be1dd0ecfe5
-SHA1: 2ea629da55201e894021a87eeebe8cc9a26be606
-SHA256: 5a0bc00d75b1927391d6c924737cbdde53ea7d2ed819daa6595888c464530143
+Filename: rootless/Powercuff(rootless)_0.6.deb
+Size: 13980
+MD5sum: c697103e55a70234a6d2d0168132e79a
+SHA1: 3a2c3b180e5db35bbc9ab2cc3e1fb859e6b4a8f3
+SHA256: 8bdc56b2dba2e27c0e99c8c46c8252a908c24c1cce3a07a3e667617abe353d32
 Section: 嗨-工具
 Description: 节能插件，效果自测，编译支持rootless。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
