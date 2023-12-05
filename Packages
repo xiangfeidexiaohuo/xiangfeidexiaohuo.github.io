@@ -1381,7 +1381,7 @@ Architecture: iphoneos-arm64
 Maintainer: Mo
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
-Filename: rootless/Powercuff(rootless).deb
+Filename: rootless/Powercuff(rootless)_0.1.deb
 Size: 13800
 MD5sum: e0a7262e121d6bec2eece242f6c10116
 SHA1: 578c48546f8fd9d67a7f15682137e3c16caa785c
@@ -1390,6 +1390,23 @@ Section: 嗨-工具
 Description: 节能插件，效果自测，老Mo根据开源编译支持rootless。
 Author: Ryan Petrich
 Dev: rpetrich
+Name: Powercuff(rootless)
+
+Package: com.dao.powercuff
+Version: 0.5-1
+Architecture: iphoneos-arm64
+Maintainer: 刀刀源
+Installed-Size: 196
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
+Filename: rootless/Powercuff(rootless)_0.5.deb
+Size: 14044
+MD5sum: 4f8bbd145c518284b2fd1bf48faff718
+SHA1: 43757e7969f8c4112af46f275baa69437ba71a55
+SHA256: 565f523cd8144783744abfa6d545c045810023cfcda19e68994e74a4c0731a7e
+Section: 嗨-工具
+Description: 节能插件，效果自测，编译支持rootless。
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff(rootless)
 
 Package: com.dao.primalfolder2
