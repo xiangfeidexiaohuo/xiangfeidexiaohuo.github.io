@@ -958,23 +958,6 @@ Description: 完全可自由定制的通知横幅变色。
 Author: NoisyFlake <support@noisyflake.com>
 Name: Velvet 2
 
-Package: com.hk.velvet2
-Version: 2.2-1
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 664
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl
-Filename: root/Velvet 2 中文版.deb
-Size: 102068
-MD5sum: 1c9c6148a7353855d3cf6ddc7353f44d
-SHA1: 29afa6a0265c63b55514ef22fe3db0e00bd23883
-SHA256: f8d915426bc8ba5e750bc2a97e587537246c276d3ad3a32285c377651fd1eecf
-Section: 嗨-工具
-Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
-Author: NoisyFlake
-Name: Velvet 2 中文版
-
 Package: com.hk.velvet2.cn
 Version: 2.1.2
 Architecture: iphoneos-arm
@@ -2590,23 +2573,6 @@ SHA256: d640a4f31217daf2f62917c461efda6a9d74b8edcd817b9a77f941598c2731fd
 Section: 嗨-工具
 Description: 完全可自由定制的通知横幅，源内安装汉化包。
 Name: Velvet 2(rootless)
-
-Package: com.hk.rootless.velvet2
-Version: 2.2-1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 664
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl
-Filename: rootless/Velvet 2 中文版(rootless).deb
-Size: 102112
-MD5sum: 2c6f5693652c28c16d3a2584682ad9e7
-SHA1: 180a5224cd248cc6b74e77c40e98bee0681eeb94
-SHA256: 98ed5eb5893f65e2d811f4569e25d1332cb7fb4cb8b863a765bc7d67c8ea44e4
-Section: 嗨-工具
-Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
-Author: NoisyFlake
-Name: Velvet 2 中文版(rootless)
 
 Package: com.hk.rootless.youtubereborn
 Version: 4.0.9-rootless-1+debug
