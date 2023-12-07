@@ -171,6 +171,23 @@ Description: AppTools for iOS15，强大的App类辅助插件，可以清理缓�
 Author: aReo
 Name: AppTools15
 
+Package: com.hk.axon
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Baw Appie & alias20 & 妖刀
+Installed-Size: 648
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon
+Filename: root/Axon 中文版.deb
+Size: 141414
+MD5sum: fba21d3b50a4ff99d2b5685b062a013a
+SHA1: 1abd3104a82897c48a5f776c5ec5f4ee98ec72ee
+SHA256: 966c23c156179f324afc4220850443fc21511cf13697c74db5de3c2de91dcfd7
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，根据开源编译/汉化。
+Author: Nepeta & Baw Appie
+Name: Axon 中文版
+
 Package: com.hk.barmoji
 Version: 2023.3
 Architecture: iphoneos-arm
@@ -1171,6 +1188,23 @@ Description: 锁屏通知聚合插件，XsF1re适配iOS15(rootless/Ellekit)，�
 Author: Nepeta & Baw Appie & XsF1re
 Name: Axon(rootless)
 Sponsor: Acreson <342080124@qq.com>
+
+Package: com.alias20.hk.axon
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: Baw Appie & alias20 & 妖刀
+Installed-Size: 648
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon
+Filename: rootless/Axon 中文版(rootless).deb
+Size: 141278
+MD5sum: 5de85c8862d87a93cf751f25007a0515
+SHA1: 125836216ca9cb5581ca6056445970b6b438804c
+SHA256: 490cbb6822c204178a6fa4c1a46d78ae0d44363ddc171122030782c9612aafda
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，根据开源编译/汉化。
+Author: Nepeta & Baw Appie
+Name: Axon 中文版(rootless)
 
 Package: com.alucard.wifiqr.cn
 Version: 1.1-1
@@ -3040,6 +3074,23 @@ Section: 嗨-系统
 Description: 图片和颜色计算控件，Liddell小横幅插件的依赖。
 Author: Traurige <hello@traurige.dev>
 Name: libKitten(rootless)
+
+Package: com.qms.axon
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: Baw Appie & alias20 & 妖刀
+Installed-Size: 648
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon
+Filename: roothide/Axon 中文版(RootHide).deb
+Size: 141214
+MD5sum: d239ad7f10aab75beb57d3cb0be84dc9
+SHA1: e47f508dac22831ac142ae46dfb18aa8e2344d8d
+SHA256: f13d79b3305447dc2c814a708ac4fc6a404dca78fe454e4962536d38c9f6a637
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，根据开源编译/汉化。
+Author: Nepeta & Baw Appie
+Name: Axon 中文版(RootHide)
 
 Package: com.qms.betteralarm
 Version: 1.4.5-1
