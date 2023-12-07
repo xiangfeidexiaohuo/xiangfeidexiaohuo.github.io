@@ -1,13 +1,13 @@
 Package: com.ball.copylog.cn
-Version: 1.5.6-2
+Version: 1.5.6-3
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: root/CopyLog 简体中文包.deb
-Size: 8194
-MD5sum: cab2d99d059f4e088e88afa49d0c952a
-SHA1: 822d718808d1aaaaba68e7a0a9d3b121df01c0b4
-SHA256: c447cfadc0fccb1e55623f2450683dba9f7721afe5b9962aecb4609783505892
+Size: 6400
+MD5sum: ce11542ccbc9a0d7b5b3f9d2f28435d1
+SHA1: 02c9077f823a23d9630f00e97f03c6f754ac66d4
+SHA256: 12f9b9aa83372b4042692b707ae9e2f576403353b848a7ef8f59a30c61dde74b
 Section: 嗨-汉化
 Description: CopyLog 简体中文包。
 Author: Ball
@@ -201,6 +201,23 @@ Section: Tweaks
 Description: BattSafePro 中文增补包。
 Author: udevs
 Name: BattSafePro 中文增补包
+
+Package: com.hk.betteralarm
+Version: 1.4.5-1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 756
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.noisyflake.betteralarm, com.hk.betteralarm.cn, com.hk.betteralarm.cn.rl
+Filename: root/BetterAlarm中文版.deb
+Size: 297794
+MD5sum: 4c31a546c1f0ea9826eee2a58abfdf46
+SHA1: 08d361ffdd020959b156855ecd560f9322911f79
+SHA256: fc704dbf01e6c25691d1d57ff32ebb4310357f007081f86dd3aa9a29f0a38720
+Section: 嗨-工具
+Description: 漂亮的定时器和闹钟提醒，根据开源编译。
+Author: NoisyFlake
+Name: BetterAlarm中文版
 
 Package: com.hk.betteralarm.cn
 Version: 1.4.2
@@ -958,6 +975,23 @@ Description: 完全可自由定制的通知横幅变色。
 Author: NoisyFlake <support@noisyflake.com>
 Name: Velvet 2
 
+Package: com.hk.velvet2
+Version: 2.1.5-1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl
+Filename: root/Velvet 2 中文版.deb
+Size: 99772
+MD5sum: 09e9586ad956b0cfaeccc2ca8276215a
+SHA1: 08cc0910b9bc20a11edbbf867c34bfffdffee48a
+SHA256: 1ae9539ca39b9212abb09c97d99fc7c76a9613e8328cb19c7435579095dd92f4
+Section: 嗨-工具
+Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
+Author: NoisyFlake
+Name: Velvet 2 中文版
+
 Package: com.hk.velvet2.cn
 Version: 2.1.2
 Architecture: iphoneos-arm
@@ -1183,6 +1217,23 @@ Section: 嗨-工具
 Description: 不可思议的简约控制中心，源内有汉化包。
 Author: Tr1Fecta & Kennyroo
 Name: Akara(rootless)
+
+Package: com.dao.betteralarm
+Version: 1.4.5-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 756
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.noisyflake.betteralarm, com.hk.betteralarm.cn, com.hk.betteralarm.cn.rl
+Filename: rootless/BetterAlarm中文版(rootless).deb
+Size: 297870
+MD5sum: e8e8638254494010db4f0ae60fbe070f
+SHA1: 7a4ba81217390d7428c344a5d526ed73c34bb29c
+SHA256: bde8db696c0cc2abdf0bababa6ca290f2c56a000a1c2b74481c436e610e5f881
+Section: 嗨-工具
+Description: 漂亮的定时器和闹钟提醒，根据开源编译。
+Author: NoisyFlake
+Name: BetterAlarm中文版(rootless)
 
 Package: com.dao.bhinsta
 Version: 0.0.1
@@ -1974,15 +2025,15 @@ Author: 妖刀
 Name: CoolCC Reborn 简体中文包(rootless)
 
 Package: com.hk.copylog.cn.rl
-Version: 1.5.6-2
+Version: 1.5.6-3
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/CopyLog 简体中文包(rootless).deb
-Size: 6488
-MD5sum: 3c11acbfc42d207e7ba9ba45b533c91c
-SHA1: 1a6d9281254e149d68b2035933087057252bc0ba
-SHA256: a6df5181c8a086ed6c55803a68b125ec58f21668f05f7294117c2648303c65fc
+Size: 6500
+MD5sum: 881aef355a9461dcc12c730a4193f16b
+SHA1: 488b92538b4bb185302fd658dae46812aa82cf05
+SHA256: 095a18eb1a5acdc54dc9bf28d379317329d745c35c362933d39d669ee8d3e03b
 Section: 嗨-汉化
 Description: CopyLog 简体中文包(rootless)。
 Author: Hi客源
@@ -2574,6 +2625,23 @@ Section: 嗨-工具
 Description: 完全可自由定制的通知横幅，源内安装汉化包。
 Name: Velvet 2(rootless)
 
+Package: com.hk.rootless.velvet2
+Version: 2.1.5-1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl
+Filename: rootless/Velvet 2 中文版(rootless).deb
+Size: 99844
+MD5sum: e69eedbbf97910ff4c009cbf16d2efd3
+SHA1: 63ef279c7d56815fae12076806c268bba3aa7e3f
+SHA256: 35310d886d0f68c93bcc4b55841a2dcea0fc840143e89037c77b88cd7e82ddd3
+Section: 嗨-工具
+Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
+Author: NoisyFlake
+Name: Velvet 2 中文版(rootless)
+
 Package: com.hk.rootless.youtubereborn
 Version: 4.0.9-rootless-1+debug
 Architecture: iphoneos-arm64
@@ -2973,6 +3041,23 @@ Description: 图片和颜色计算控件，Liddell小横幅插件的依赖。
 Author: Traurige <hello@traurige.dev>
 Name: libKitten(rootless)
 
+Package: com.qms.betteralarm
+Version: 1.4.5-1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 756
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: com.noisyflake.betteralarm, com.hk.betteralarm.cn, com.hk.betteralarm.cn.rl
+Filename: roothide/BetterAlarm中文版(RootHide).deb
+Size: 297818
+MD5sum: 9eda0f97c823c6db75042c88b30f46ed
+SHA1: f2954fc0afc046a640a98fbf8cb4f6a16dd0904d
+SHA256: 9e9b5bc56ac184cbdf4ec7972e2af0bba55e542c1d66915353dc2a619f74bc9e
+Section: 嗨-工具
+Description: 漂亮的定时器和闹钟提醒，根据开源编译。
+Author: NoisyFlake
+Name: BetterAlarm中文版(RootHide)
+
 Package: com.qms.cpudasher
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -3021,6 +3106,23 @@ Section: 嗨-系统
 Description: 去除弹窗/UI/长按菜单等地方的分割线，优化下代码。
 Author: 妖刀
 Name: NoLine(RootHide)
+
+Package: com.qms.velvet2
+Version: 2.1.5-1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl
+Filename: roothide/Velvet 2 中文版(RootHide).deb
+Size: 99810
+MD5sum: 02cd8907c099da2ca34337e306a568d4
+SHA1: f541b470b6f9374f760ba0cab2eaaa6ae5b8d88f
+SHA256: be43e86310985ea5158a0474518eb2b222cb7f6a3861da77db82a302d18c9eec
+Section: 嗨-工具
+Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
+Author: NoisyFlake
+Name: Velvet 2 中文版(RootHide)
 
 Package: cpm.qms.storeswitcher
 Version: 1.2
