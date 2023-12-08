@@ -668,10 +668,10 @@ Architecture: iphoneos-arm
 Maintainer: M哥 & 妖刀
 Depends: mobilesubstrate
 Filename: root/Lynx 2 简体中文包.deb
-Size: 23228
-MD5sum: 71a4ffa91b17a959cb7467dcaff0d847
-SHA1: cf142072f6d9b458e707a57021653a5a2fa726b4
-SHA256: 93aaacee5a13e4975292c27a5d85d14bd2272cc4762bc3b70d6af8d2ce9ceaca
+Size: 23240
+MD5sum: 594f7f19ab8eedafcfafa1c8b4c58114
+SHA1: 2edc8a144da8897e7596bd702d860134baa66b9b
+SHA256: fa6ecc5ab054eb6aece696b90ea853a6ce611486ff31e28e2f4a7bff35a3bbfc
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包。
 Author: M哥 & 妖刀
