@@ -44,23 +44,6 @@ Author: 赵楠
 Name: Souvenir 简体中文包
 
 Package: com.hk.BHTwitter.cn
-Version: 3.9.1
-Architecture: iphoneos-arm
-Maintainer: BandarHL
-Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.bhtwitter
-Filename: root/BHTwitter 中文修复版_3.9.1.deb
-Size: 1139356
-MD5sum: 2c539e6047dfa47d9520999e47e1a377
-SHA1: 039156f9061c2edc87afb3d67457c2f49b812bd8
-SHA256: 02e1f4e777e49d08f4c6fc16c49479aa42195039735c25bb1a0e8b96b50a14b0
-Section: 嗨-工具
-Priority: optional
-Description: BHTwitter中文修复版，推特的功能性插件，设置就在推特本身设置里。
-Author: Mo
-Name: BHTwitter 中文修复版
-
-Package: com.hk.BHTwitter.cn
 Version: 4.0
 Architecture: iphoneos-arm
 Maintainer: BandarHL
@@ -366,22 +349,6 @@ Author: 妖刀
 Name: CC++(11~14)
 
 Package: com.hk.ccplus15.cn
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
-Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, com.hk.ccplus.cn, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic
-Filename: root/CC++(iOS15)_1.0.6.deb
-Size: 187232
-MD5sum: dcf10a3fc9a8a601dfbafcb6ae32fccb
-SHA1: c81e070c367943496b7912dfd5b900f5c42ab485
-SHA256: 78e3fba0f0b5a9445bb9ad905be48372598831bce252835d9bf6282dcf54f61b
-Section: 嗨-工具
-Description: 控制中心多合一模块，来自多位开发大佬。模块：截屏/VPN切换/锁屏/定位/音量和亮度小模块/一键静音/微信扫一扫/支付宝扫一扫/双卡切换蜂窝数据/注销/一键清通知角标等，支持iOS15。感谢Netskao、jaibreak365等大佬开发的模块。
-Author: 妖刀
-Name: CC++(iOS15)
-
-Package: com.hk.ccplus15.cn
 Version: 1.0.7
 Architecture: iphoneos-arm
 Maintainer: 妖刀
@@ -519,19 +486,19 @@ Author: John Coates/妖刀
 Name: Flex3 Patch For Xina
 
 Package: com.hk.goodwifi
-Version: 0.0~beta6.5-daodao
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: julioverne
-Installed-Size: 472
+Installed-Size: 368
 Depends: mobilesubstrate, preferenceloader
-Conflicts: com.julioverne.goodwifi, com.alucard.goodwifi.cn
+Conflicts: com.julioverne.goodwifi
 Filename: root/GoodWiFi中文版.deb
-Size: 91382
-MD5sum: b60e9b1bee648a1dd039c94a3c5c92bd
-SHA1: 18ae5738d6da80ba0f2c7816d98c00c52515a981
-SHA256: 899891837d7020ac9a4fb327fe8c2326a0bc1f5e23db1d22b627319515cd2fe5
+Size: 34378
+MD5sum: 7887be6cec7b7953b22a5a988c1fef35
+SHA1: 21bfd1595f321bce4af66d030324cc3ba55efc11
+SHA256: dbb5a3feb1f220f4ac544c56a93329da5af91c5e364b448a9e933771c4fd17cd
 Section: 嗨-工具
-Description: 更好的WiFi配置，简体中文版。精简无用设置，更换图标。
+Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版
 
@@ -761,7 +728,7 @@ Maintainer: 刀刀源
 Installed-Size: 196
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
-Filename: root/Powercuff_0.6.deb
+Filename: root/Powercuff.deb
 Size: 13928
 MD5sum: 1743817ba885ab933640ab8f93d7b73c
 SHA1: b246786fd3510b2dd0515648d679ad55f5616eb8
@@ -1398,22 +1365,6 @@ Author: dvntm
 Name: Infuse Plus(rootless)
 
 Package: com.dao.jade
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Nightwind and thetimeloop <nightwinddev@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
-Conflicts: com.nightwind.jade
-Filename: rootless/Jade(rootless)_1.0.deb
-Size: 277556
-MD5sum: e47ccb421656d0057952002bb5d960e7
-SHA1: 57266f6e21d32fa10c9ce16093819a66aec1ffd6
-SHA256: a306c6aedcfe6fbbb7a19c41e294b25e0014f6c22ccb3918b1997dd9667aa38e
-Section: 嗨-工具
-Description: Prysm控制中心自定义。
-Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
-Name: Jade(rootless)
-
-Package: com.dao.jade
 Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: Nightwind and thetimeloop <nightwinddev@gmail.com>
@@ -1501,7 +1452,7 @@ Maintainer: 刀刀源
 Installed-Size: 196
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
-Filename: rootless/Powercuff(rootless)_0.6.deb
+Filename: rootless/Powercuff(rootless).deb
 Size: 13980
 MD5sum: c697103e55a70234a6d2d0168132e79a
 SHA1: 3a2c3b180e5db35bbc9ab2cc3e1fb859e6b4a8f3
@@ -1608,34 +1559,17 @@ Author: Traurige <hello@traurige.dev>
 Name: Kayoko魔改版(rootless)
 
 Package: com.daodao.goodwifi
-Version: 0.0~beta6-daodao
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: julioverne
-Installed-Size: 380
+Installed-Size: 368
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.goodwifi
 Filename: rootless/GoodWiFi中文版(rootless).deb
-Size: 42996
-MD5sum: bf63fe82099c5d0d334e203cbec0bc12
-SHA1: 6c1559623c1e5fcd9fb29053e59a1b5614727729
-SHA256: a647321360af033ffb8b989ac58356febaa02c0db81030b0da5e8ea604029703
-Section: 嗨-工具
-Description: 更好的WiFi配置，简体中文版。
-Author: julioverne
-Name: GoodWiFi中文版(rootless)
-
-Package: com.daodao.goodwifi
-Version: 0.0~beta6.5-daodao
-Architecture: iphoneos-arm64
-Maintainer: julioverne
-Installed-Size: 480
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.julioverne.goodwifi
-Filename: rootless/GoodWiFi中文版(rootless)_beta6.5-daodao.deb
-Size: 55808
-MD5sum: 760956ed78a23e9969818492dc48cfd5
-SHA1: 93336d5342605a13d7eb9f80549e71a3b2351372
-SHA256: 94963e34229ff31e9e0eba4e330c38667c03f852de4beea05250f6ef0e12cbef
+Size: 34406
+MD5sum: ee5bd365e395e38c43f91eaaeb5cd24e
+SHA1: c6d4135da85f8810a6c4606b738da37d1b330907
+SHA256: 1995e0f8627a9f5fe5af95c1ea285673f3c7d704485a2a6e62c0c48a577c43cb
 Section: 嗨-工具
 Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
@@ -1688,22 +1622,6 @@ Section: 嗨-系统
 Description: 更好的窗口多任务分屏，屏幕侧边呼出。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
 Author: c1d3r
 Name: PullOver Pro(rootless)-Netskao
-
-Package: com.daodao.rootless.bhtwitter
-Version: 3.9.1
-Architecture: iphoneos-arm64
-Maintainer: Bandar Alruwaili
-Depends: mobilesubstrate, ws.hbang.common (>= 2.0)
-Conflicts: com.bandarhl.rootless.bhtwitter
-Filename: rootless/BHTwitter(rootless)_3.9.1.deb
-Size: 806112
-MD5sum: 87f20fa5eeb95ede859c9b7e5aedaa67
-SHA1: fcd5ab490398fbcf0beff1d69ad6ff0a9f726482
-SHA256: c5c8b41df463d07ff3633ffee11c7db6fb8eb1278327c8eede9e468dc7414378
-Section: 嗨-工具
-Description: Twitter高级工具，可去广告，下载视频等。
-Author: Bandar Alruwaili
-Name: BHTwitter(rootless)
 
 Package: com.daodao.rootless.bhtwitter
 Version: 4.0
@@ -3126,17 +3044,17 @@ Author: lw
 Name: CPUDasher 破解VIP(RootHide)
 
 Package: com.qms.goodwifi
-Version: 0.0~beta6.5-daodao
+Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: julioverne
-Installed-Size: 480
+Installed-Size: 368
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.goodwifi
 Filename: roothide/GoodWiFi中文版(RootHide).deb
-Size: 56168
-MD5sum: eb88df0b494541b8769ddbb74fc952c0
-SHA1: 7a882636ca862516ff0225a5e62b58994b820a4c
-SHA256: 3b4447bcf5a97e67c3cd6217fc3be3d921bd984afe07d5b09d5463795fa2bdd1
+Size: 34370
+MD5sum: 583036051c54f079157e43e8a357aa50
+SHA1: e53b140eaf70e3f420506736a6fefa3202217a7c
+SHA256: 9eb2b78435a3693460e88ac9cde51b95cdab67075fe0620f6010a28e256ce8d8
 Section: 嗨-工具
 Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
