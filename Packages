@@ -738,6 +738,21 @@ Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff
 
+Package: com.hk.rune.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: root/Rune 简体中文包.deb
+Size: 6424
+MD5sum: c8955bf815dcc67b2f9bece3b3304168
+SHA1: f4c767f04ff8daec9621ba1be16f9310c6b8da29
+SHA256: a6172bc83f6035336cd961b509f49844d8c6b0378b834bd530aa8ca1775e0d2d
+Section: 嗨-汉化
+Description: Rune 简体中文包。
+Author: 妖刀
+Name: Rune 简体中文包
+
 Package: com.hk.ryan.youtubereborn
 Version: 4.0.9
 Architecture: iphoneos-arm
@@ -2611,6 +2626,21 @@ Section: 嗨-工具
 Description: YouTube自定义插件，可去广告、下载、画中画、改布局等，汉化包源内安装。
 Author: Lillie
 Name: YouTube Reborn(rootless)
+
+Package: com.hk.rune.cn.rl
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Rune 简体中文包(rootless).deb
+Size: 6500
+MD5sum: b15714e39709d8e619e6aafd29e38bc8
+SHA1: ab593ee4382f2d47f2022401259eaa8bb4355e4f
+SHA256: ccd6896656eeeeacf5381737e817878dc5958aaf60f489d35eb3844f279f770a
+Section: 嗨-汉化
+Description: Rune 简体中文包(rootless)。
+Author: 妖刀
+Name: Rune 简体中文包(rootless)
 
 Package: com.hk.sa.cn
 Version: 1.0-1
