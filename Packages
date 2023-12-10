@@ -49,7 +49,7 @@ Architecture: iphoneos-arm
 Maintainer: BandarHL
 Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtwitter
-Filename: root/BHTwitter 中文修复版.deb
+Filename: root/BHTwitter 中文修复版_4.0.deb
 Size: 772680
 MD5sum: dc66351c0b81d93f95f68d107ff7a6ba
 SHA1: 4999d1e7ddde568d245da65f4e2559b9f4adca28
