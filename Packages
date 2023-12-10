@@ -722,17 +722,17 @@ Author: 妖刀
 Name: PrimalFolder2 简体中文包
 
 Package: com.hk.powercuff
-Version: 0.6-1
+Version: 0.7
 Architecture: iphoneos-arm
 Maintainer: 刀刀源
 Installed-Size: 196
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
 Filename: root/Powercuff.deb
-Size: 13928
-MD5sum: 1743817ba885ab933640ab8f93d7b73c
-SHA1: b246786fd3510b2dd0515648d679ad55f5616eb8
-SHA256: 4588a4f3d42bf32fa30f31af4d035d06caecab363bfe042c4d272341249bbf60
+Size: 13788
+MD5sum: 73731d77ecce67870fd3a9e92a8facd8
+SHA1: fe3c7bbade1e8622a1b15b931ee256145bea6185
+SHA256: b4670a1ae4053638c3e5bd18bab2c3d413b5669c032209cf95f650b00aba22b0
 Section: 嗨-工具
 Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
@@ -1461,17 +1461,17 @@ Dev: rpetrich
 Name: Powercuff(rootless)
 
 Package: com.dao.powercuff
-Version: 0.6-1
+Version: 0.7
 Architecture: iphoneos-arm64
 Maintainer: 刀刀源
 Installed-Size: 196
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
 Filename: rootless/Powercuff(rootless).deb
-Size: 13980
-MD5sum: c697103e55a70234a6d2d0168132e79a
-SHA1: 3a2c3b180e5db35bbc9ab2cc3e1fb859e6b4a8f3
-SHA256: 8bdc56b2dba2e27c0e99c8c46c8252a908c24c1cce3a07a3e667617abe353d32
+Size: 13858
+MD5sum: 284266511961f2267e93027adfca9b08
+SHA1: 653d427be5e716fb4fad4df953f05b63048fb56b
+SHA256: 0346b2327840684562e0e79d02e9b7a17125f79153cb48c33746218c0ae883e5
 Section: 嗨-工具
 Description: 节能插件，效果自测，编译支持rootless。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
@@ -1644,7 +1644,7 @@ Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common (>= 2.0)
 Conflicts: com.bandarhl.rootless.bhtwitter
-Filename: rootless/BHTwitter(rootless).deb
+Filename: rootless/BHTwitter(rootless)_4.0.deb
 Size: 807976
 MD5sum: 9ee736eaeb5981ad579c6bd580b998b1
 SHA1: 8211c973bd0e045b47f9efc86dd88eba316ef75c
@@ -3105,6 +3105,23 @@ Section: 嗨-系统
 Description: 去除弹窗/UI/长按菜单等地方的分割线，优化下代码。
 Author: 妖刀
 Name: NoLine(RootHide)
+
+Package: com.qms.powercuff
+Version: 0.7
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀源
+Installed-Size: 196
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
+Filename: roothide/Powercuff(RootHide).deb
+Size: 13810
+MD5sum: 640c6e01190a658b351c41171be9b34d
+SHA1: 25cb67727d8b597b90640e1432aa879cd1f6783a
+SHA256: fb3256f2eeff64a1a661b0849109dcb724d91b5229a40e4e16589114c7a133eb
+Section: 嗨-工具
+Description: 节能插件，效果自测，重新编译。
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Name: Powercuff(RootHide)
 
 Package: com.qms.velvet2
 Version: 2.1.5-1
