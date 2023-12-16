@@ -425,22 +425,6 @@ Description: 破解Nicegram Premium，自由使用翻译等功能。
 Author: Randy420
 Name: Nicegram高级版
 
-Package: com.hk.daodao.noseparators
-Version: 1.3-1
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: root/NoLine.deb
-Size: 5220
-MD5sum: eb6bdeae3807c2be41552e88c977a80f
-SHA1: 93d461362ae8dde2c5266116391048d8fbb11fb9
-SHA256: cf775a652c0075b5fcbb10a02978d9526d4b10f1d0c5fe3e77a6c272a0111441
-Section: 嗨-系统
-Description: 去除弹窗/UI/长按菜单等地方的分割线，优化下代码。
-Author: 妖刀
-Name: NoLine
-
 Package: com.hk.dotto+
 Version: 1.0.6
 Architecture: iphoneos-arm
@@ -691,6 +675,23 @@ Section: 嗨-工具
 Description: 分享菜单中删除烦人的投送和联系人。i_82大佬修复支持iOS15，支持Xina越狱。
 Author: Devvix
 Name: NoCShare(iOS13-15)
+
+Package: com.hk.noline
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators
+Filename: root/PurifyLine.deb
+Size: 3342
+MD5sum: 02a0c5f06fef64f906f74bb876d5de2e
+SHA1: 067513c22e5f89f8c5e733853038022ab455dd89
+SHA256: a81ba7f8094f3788d41fcefa448523738609dace1c7105e8e6e99a22a8128dd3
+Section: 嗨-系统
+Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
+Author: 妖刀
+Name: PurifyLine
 
 Package: com.hk.onesettings.cn
 Version: 2.0
@@ -1445,6 +1446,23 @@ Description: 适用于iOS14+的军刀类多功能插件，汉化包在源内。
 Author: MTAC
 Name: Lynx 2(rootless)
 
+Package: com.dao.noline
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators
+Filename: rootless/PurifyLine(rootless).deb
+Size: 3410
+MD5sum: 63c4e91431d68ba3b6b9c59e621235f4
+SHA1: 0bf5ca72eacd5c2b882f7fc5c5c95381835547a3
+SHA256: a364c3538cf37b01999ddef95df2c5d10fef59948ed6f3fecffd7adb2e63c830
+Section: 嗨-系统
+Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
+Author: 妖刀
+Name: PurifyLine(rootless)
+
 Package: com.dao.ocd
 Version: 0.4-beta-1-Lite
 Architecture: iphoneos-arm64
@@ -2100,22 +2118,6 @@ Section: 嗨-汉化
 Description: CylinderReborn 中文修复包(rootless)。
 Author: 妖刀
 Name: CylinderReborn 中文修复包(rootless)
-
-Package: com.hk.daodao.rootless.noseparators
-Version: 1.3-1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: rootless/NoLine(rootless).deb
-Size: 3762
-MD5sum: 28f53c0cbf10eff62e57ebe860419c3e
-SHA1: bb61f2b2df0929718eb9589c2c7aeee679b21da7
-SHA256: 6748a12aa35497e3f58da8dff4d18046ef5773680b42f8a31b7ea925dfc33b53
-Section: 嗨-系统
-Description: 去除弹窗/UI/长按菜单等地方的分割线，优化下代码。
-Author: 妖刀
-Name: NoLine(rootless)
 
 Package: com.hk.dleasy.cn.rl
 Version: 2.13.5
@@ -3140,21 +3142,22 @@ Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版(RootHide)
 
-Package: com.qms.noseparators
-Version: 1.0-1
+Package: com.qms.noline
+Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobilesubstrate
-Filename: roothide/NoLine(RootHide).deb
-Size: 3700
-MD5sum: eec38497e0247ce23f3a558dc7be0287
-SHA1: 0d3141381235e552e81b7b5ac409dfdbf6ddf484
-SHA256: 1d0481335915c253b05a24cacef91de59b028d92b266e110e7a423e22642e639
+Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators
+Filename: roothide/PurifyLine(RootHide).deb
+Size: 3378
+MD5sum: 620813b51af9828f21a52c180f105500
+SHA1: 62294f5e9f2e6a0743dc6bba1cd23fbc7fcfde48
+SHA256: 71ba487a5dcaff0af3fd7dbfe25a34e0838bb0b8ac3ff50daa3555a6c8a9654b
 Section: 嗨-系统
-Description: 去除弹窗/UI/长按菜单等地方的分割线，优化下代码。
+Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
 Author: 妖刀
-Name: NoLine(RootHide)
+Name: PurifyLine(RootHide)
 
 Package: com.qms.powercuff
 Version: 0.8
