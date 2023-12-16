@@ -756,17 +756,17 @@ Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff
 
 Package: com.hk.reverie
-Version: 0.3
+Version: 0.5
 Architecture: iphoneos-arm
 Maintainer: 刀刀
 Installed-Size: 864
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
 Conflicts: lilliana.reverie
 Filename: root/Reverie 中文版.deb
-Size: 99342
-MD5sum: 65c585ec7d37b3510cbad7514e8741e9
-SHA1: b6032bd7363efe3e42a021ebcf4e0e32c3252685
-SHA256: cf32fe41f3390856a073b3fa6b75936ba813fc9d13a78b4733448e06ac157f7d
+Size: 99384
+MD5sum: b12347685c959557c58512f9c3bf6526
+SHA1: bc1883e0704c5d96b5722219cb88bd120debd791
+SHA256: 69e0bb33d9c10fd40c5cbfb61d72de57ed401c4f1fee364b531ae522c35ead22
 Section: 嗨-工具
 Description: 自由的休眠设备来节省电量。
 Author: Paisseon
@@ -1478,23 +1478,6 @@ Author: Nightwind <nightwinddev@gmail.com>
 Name: OneSettings(rootless)
 
 Package: com.dao.powercuff
-Version: 0.1-1
-Architecture: iphoneos-arm64
-Maintainer: Mo
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
-Filename: rootless/Powercuff(rootless)_0.1.deb
-Size: 13800
-MD5sum: e0a7262e121d6bec2eece242f6c10116
-SHA1: 578c48546f8fd9d67a7f15682137e3c16caa785c
-SHA256: 9593d18c503b58ce136ef83cff5a394fc29814b56d88e8c1ed2fba85aecdc53d
-Section: 嗨-工具
-Description: 节能插件，效果自测，老Mo根据开源编译支持rootless。
-Author: Ryan Petrich
-Dev: rpetrich
-Name: Powercuff(rootless)
-
-Package: com.dao.powercuff
 Version: 0.7
 Architecture: iphoneos-arm64
 Maintainer: 刀刀源
@@ -1528,17 +1511,17 @@ Author: ichitaso
 Name: PrimalFolder2(rootless)
 
 Package: com.dao.reverie
-Version: 0.3
+Version: 0.5
 Architecture: iphoneos-arm64
 Maintainer: 刀刀
 Installed-Size: 864
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
 Conflicts: lilliana.reverie
 Filename: rootless/Reverie 中文版(rootless).deb
-Size: 99398
-MD5sum: 1ad742ba3b891906cf427aaf398626c5
-SHA1: b3d61d5be2f583bd1a099ce083750eeb389ca91f
-SHA256: bb451df4155ff01db350b6d25c0b935fa63c93def43f22ad3b76262e532df126
+Size: 99594
+MD5sum: 50cd0a4fdac965587ef0bc0300335d15
+SHA1: 7948abe3132b6b4dd79504ba5e3f9c3999641190
+SHA256: 2c00b3295c1ea6bd8d0180edc5167b94f8cae077000d45d77bd7ec761a5a0bf6
 Section: 嗨-工具
 Description: 自由的休眠设备来节省电量。
 Author: Paisseon
@@ -3191,17 +3174,17 @@ Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff(RootHide)
 
 Package: com.qms.reverie
-Version: 0.3
+Version: 0.5
 Architecture: iphoneos-arm64e
 Maintainer: 刀刀
 Installed-Size: 864
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
 Conflicts: lilliana.reverie
 Filename: roothide/Reverie 中文版(RootHide).deb
-Size: 99424
-MD5sum: 7affe61c378b12a304d8d1a04688df0b
-SHA1: 784659244b7de3c0c45d8459935255e3387692cc
-SHA256: 838264dd90358adae1eb3a717ad642f282969f45404be57abc6fb7e19a5953c6
+Size: 99436
+MD5sum: 363a05b6fdda6e0138cf31511d8cec71
+SHA1: 93b4de246e44a6b58c89f9238aa5e997d0f08f38
+SHA256: e205fcb27cce1824a17f7dfa0fe082fceab10658e6d77b29dc407e3bfeecfb0b
 Section: 嗨-工具
 Description: 自由的休眠设备来节省电量。
 Author: Paisseon
