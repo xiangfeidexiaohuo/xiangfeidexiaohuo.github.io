@@ -756,6 +756,23 @@ Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff
 
+Package: com.hk.powercuff
+Version: 0.9
+Architecture: iphoneos-arm
+Maintainer: 刀刀源
+Installed-Size: 192
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
+Filename: root/Powercuff.deb
+Size: 13714
+MD5sum: d0e083e0822d316d54a5036ecdabe5bc
+SHA1: 7884854f5a1def82593226c8132ad87a2225657b
+SHA256: dc8984a0fce4f5722e8e4ef7c97795d57c6bbeb9dd11b24c480a0f93243ac78b
+Section: 嗨-工具
+Description: 节能插件，效果自测，重新编译。
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Name: Powercuff
+
 Package: com.hk.reverie
 Version: 0.5
 Architecture: iphoneos-arm
@@ -1507,6 +1524,23 @@ Size: 13612
 MD5sum: 4457dd7f9c1276acba573a169accd2f3
 SHA1: 8259519451c0a4d611f3e4eb768681c04d7f9e0c
 SHA256: 861439a2eb1ae0eb32cea46e763e9f6e8a16909dd5d926a02e4dbb3cb1db371c
+Section: 嗨-工具
+Description: 节能插件，效果自测，重新编译。
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Name: Powercuff(rootless)
+
+Package: com.dao.powercuff
+Version: 0.9
+Architecture: iphoneos-arm64
+Maintainer: 刀刀源
+Installed-Size: 192
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
+Filename: rootless/Powercuff(rootless).deb
+Size: 13832
+MD5sum: 0500805a034184bd85c5ae204bca0446
+SHA1: dc23d9f4e3da5ad6f3d91de9babe6bdf1155ea49
+SHA256: 531d1750508c841d543d9b2673aa12c8c62473abdc0c40a1e3bef577d14803cc
 Section: 嗨-工具
 Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
