@@ -746,7 +746,7 @@ Maintainer: 刀刀源
 Installed-Size: 192
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
-Filename: root/Powercuff.deb
+Filename: root/Powercuff_0.8.deb
 Size: 13508
 MD5sum: 42b042af34e34316060fcb18a13452bb
 SHA1: cee37869f27f1b5692e8be3d240dfb016d117d5f
@@ -1502,7 +1502,7 @@ Maintainer: 刀刀源
 Installed-Size: 192
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
-Filename: rootless/Powercuff(rootless).deb
+Filename: rootless/Powercuff(rootless)_0.8.deb
 Size: 13612
 MD5sum: 4457dd7f9c1276acba573a169accd2f3
 SHA1: 8259519451c0a4d611f3e4eb768681c04d7f9e0c
@@ -3166,7 +3166,7 @@ Maintainer: 刀刀源
 Installed-Size: 192
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
-Filename: roothide/Powercuff(RootHide).deb
+Filename: roothide/Powercuff(RootHide)_0.8.deb
 Size: 13554
 MD5sum: 88fc35037e928ed7ad3c8dda33ceba4e
 SHA1: 4d218b757dd46508080d6b328bb3d4333e05818c
