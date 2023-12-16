@@ -739,17 +739,17 @@ Author: 妖刀
 Name: PrimalFolder2 简体中文包
 
 Package: com.hk.powercuff
-Version: 0.7
+Version: 0.8
 Architecture: iphoneos-arm
 Maintainer: 刀刀源
-Installed-Size: 196
+Installed-Size: 192
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
 Filename: root/Powercuff.deb
-Size: 13788
-MD5sum: 73731d77ecce67870fd3a9e92a8facd8
-SHA1: fe3c7bbade1e8622a1b15b931ee256145bea6185
-SHA256: b4670a1ae4053638c3e5bd18bab2c3d413b5669c032209cf95f650b00aba22b0
+Size: 13508
+MD5sum: 42b042af34e34316060fcb18a13452bb
+SHA1: cee37869f27f1b5692e8be3d240dfb016d117d5f
+SHA256: 0046bb90b15fa49751bc40ac0c79c74613d1d4cb9d037b05073d30fd51fc3b7e
 Section: 嗨-工具
 Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
@@ -1478,19 +1478,19 @@ Author: Nightwind <nightwinddev@gmail.com>
 Name: OneSettings(rootless)
 
 Package: com.dao.powercuff
-Version: 0.7
+Version: 0.8
 Architecture: iphoneos-arm64
 Maintainer: 刀刀源
-Installed-Size: 196
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Installed-Size: 192
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
 Filename: rootless/Powercuff(rootless).deb
-Size: 13858
-MD5sum: 284266511961f2267e93027adfca9b08
-SHA1: 653d427be5e716fb4fad4df953f05b63048fb56b
-SHA256: 0346b2327840684562e0e79d02e9b7a17125f79153cb48c33746218c0ae883e5
+Size: 13612
+MD5sum: 4457dd7f9c1276acba573a169accd2f3
+SHA1: 8259519451c0a4d611f3e4eb768681c04d7f9e0c
+SHA256: 861439a2eb1ae0eb32cea46e763e9f6e8a16909dd5d926a02e4dbb3cb1db371c
 Section: 嗨-工具
-Description: 节能插件，效果自测，编译支持rootless。
+Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff(rootless)
 
@@ -3157,17 +3157,17 @@ Author: 妖刀
 Name: NoLine(RootHide)
 
 Package: com.qms.powercuff
-Version: 0.7
+Version: 0.8
 Architecture: iphoneos-arm64e
 Maintainer: 刀刀源
-Installed-Size: 196
+Installed-Size: 192
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
 Filename: roothide/Powercuff(RootHide).deb
-Size: 13810
-MD5sum: 640c6e01190a658b351c41171be9b34d
-SHA1: 25cb67727d8b597b90640e1432aa879cd1f6783a
-SHA256: fb3256f2eeff64a1a661b0849109dcb724d91b5229a40e4e16589114c7a133eb
+Size: 13554
+MD5sum: 88fc35037e928ed7ad3c8dda33ceba4e
+SHA1: 4d218b757dd46508080d6b328bb3d4333e05818c
+SHA256: caf7014bb6d353193382958ec42812b3758833f1e536f6ab6e631d0f3b5199be
 Section: 嗨-工具
 Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
