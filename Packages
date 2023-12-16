@@ -755,6 +755,23 @@ Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff
 
+Package: com.hk.reverie
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: 刀刀
+Installed-Size: 864
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Conflicts: lilliana.reverie
+Filename: root/Reverie 中文版.deb
+Size: 99342
+MD5sum: 65c585ec7d37b3510cbad7514e8741e9
+SHA1: b6032bd7363efe3e42a021ebcf4e0e32c3252685
+SHA256: cf32fe41f3390856a073b3fa6b75936ba813fc9d13a78b4733448e06ac157f7d
+Section: 嗨-工具
+Description: 自由的休眠设备来节省电量。
+Author: Paisseon
+Name: Reverie 中文版
+
 Package: com.hk.rune.cn
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1509,6 +1526,23 @@ Section: 嗨-工具
 Description: 将文件夹显示为图标等多功能文件夹，源内有中文包。
 Author: ichitaso
 Name: PrimalFolder2(rootless)
+
+Package: com.dao.reverie
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: 刀刀
+Installed-Size: 864
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Conflicts: lilliana.reverie
+Filename: rootless/Reverie 中文版(rootless).deb
+Size: 99398
+MD5sum: 1ad742ba3b891906cf427aaf398626c5
+SHA1: b3d61d5be2f583bd1a099ce083750eeb389ca91f
+SHA256: bb451df4155ff01db350b6d25c0b935fa63c93def43f22ad3b76262e532df126
+Section: 嗨-工具
+Description: 自由的休眠设备来节省电量。
+Author: Paisseon
+Name: Reverie 中文版(rootless)
 
 Package: com.dao.settingsrevamp
 Version: 2.1.1
@@ -3155,6 +3189,23 @@ Section: 嗨-工具
 Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff(RootHide)
+
+Package: com.qms.reverie
+Version: 0.3
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Installed-Size: 864
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Conflicts: lilliana.reverie
+Filename: roothide/Reverie 中文版(RootHide).deb
+Size: 99424
+MD5sum: 7affe61c378b12a304d8d1a04688df0b
+SHA1: 784659244b7de3c0c45d8459935255e3387692cc
+SHA256: 838264dd90358adae1eb3a717ad642f282969f45404be57abc6fb7e19a5953c6
+Section: 嗨-工具
+Description: 自由的休眠设备来节省电量。
+Author: Paisseon
+Name: Reverie 中文版(RootHide)
 
 Package: com.qms.velvet2
 Version: 2.1.5-1
