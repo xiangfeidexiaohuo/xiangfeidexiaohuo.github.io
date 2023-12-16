@@ -3210,6 +3210,23 @@ Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff(RootHide)
 
+Package: com.qms.powercuff
+Version: 0.9
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀源
+Installed-Size: 192
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
+Filename: roothide/Powercuff(RootHide).deb
+Size: 13782
+MD5sum: f6adf473852d30f6f22f44a2d13e7291
+SHA1: f3db94757bc5126e1e6416460abf7de7c0ae203d
+SHA256: 3463c4e421ed5e74dcb1172b9dce7e871048bd3b6b2b3f6c777bd0afaf32c1b3
+Section: 嗨-工具
+Description: 节能插件，效果自测，重新编译。
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Name: Powercuff(RootHide)
+
 Package: com.qms.reverie
 Version: 0.5
 Architecture: iphoneos-arm64e
