@@ -366,14 +366,14 @@ Sponsor: Sandy0 & Ball
 
 Package: com.hk.cask3.cn
 Version: 1.0.2
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: root/Cask 3 简体中文包.deb
 Size: 1516
-MD5sum: 1479d61a1bb86b96ae04d4f71a4d1872
-SHA1: 4fa35f5a3fc6c704c46910ace19f0bb93ced126f
-SHA256: 3349519502065e9cdd2f08a2b29b7778968cd419d25aab900bf9b53bfc3cc1fe
+MD5sum: da32c3be32ee03d995a552144bd9a83d
+SHA1: 8488ffd5977dbc5edb134f8e8a5d842b783c4cd9
+SHA256: b57c70cf68e8e2515b7bf739c4f637b3dd81e7f8b1e952060ef478e473cd73ef
 Section: 嗨-汉化
 Description: Cask 3 简体中文包。
 Author: 妖刀
