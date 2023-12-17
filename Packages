@@ -1,3 +1,18 @@
+Package: com.apper.wf
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 小果子
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: root/威锋去广告.deb
+Size: 88064
+MD5sum: d23f4ee48ef704aa850508b271cec7a3
+SHA1: 33432875df2873c9ecad40e226dcbd658ee7e791
+SHA256: d1b5134126c15b883d0a7c902d969c1bf12244907c9b3b9f6cff05703ef1fa5a
+Section: 嗨-工具
+Description: 去除所有广告，无弹窗。
+Author: 小果子
+Name: 威锋去广告
+
 Package: com.ball.copylog.cn
 Version: 1.5.6-3
 Architecture: iphoneos-arm
@@ -1255,6 +1270,21 @@ Section: 嗨-汉化
 Description: WiFiQR和HotspotQR 共用简体中文包(rootless)。
 Author: Alucard
 Name: WiFiQR & HotspotQR 简体中文包(rootless)
+
+Package: com.apper.wf.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 小果子
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/威锋去广告(rootless).deb
+Size: 83924
+MD5sum: cbcc2686a4ca9910ca43d924435d7d2a
+SHA1: bf2b5b275c254f99268e534cfe4b866a9303dc85
+SHA256: 4f8fb9bcde451de86c6bdc5be848bd23e8b9482e2cb0f3b2dc6c0469e79acaeb
+Section: 嗨-工具
+Description: 去除所有广告，无弹窗。
+Author: 小果子
+Name: 威锋去广告(rootless)
 
 Package: com.ball.ultrasound.cn.rl
 Version: 1.2.12
@@ -3108,6 +3138,21 @@ Section: 嗨-系统
 Description: 图片和颜色计算控件，Liddell小横幅插件的依赖。
 Author: Traurige <hello@traurige.dev>
 Name: libKitten(rootless)
+
+Package: com.apper.wf.roothide
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 小果子
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/威锋去广告(RootHide).deb
+Size: 87596
+MD5sum: 4a63fd261cf7ff13f0902864899514b0
+SHA1: 284924f1cd6414a6a435742bfbfcf277f4b190cf
+SHA256: 8737acdb552521729a232f460a4eff7c9c9764005d5d0c4b8056333a165c9fca
+Section: 嗨-工具
+Description: 去除所有广告，无弹窗。
+Author: 小果子
+Name: 威锋去广告(RootHide)
 
 Package: com.qms.axon
 Version: 1.5
