@@ -487,18 +487,18 @@ Author: 妖刀
 Name: DynamicStage 简体中文包
 
 Package: com.hk.filza.cn
-Version: 4.0-1
+Version: 4.0-2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: root/Filza 中文增补包.deb
-Size: 13472
-MD5sum: 13843aaf49ac05c1c7e3973352e050e6
-SHA1: 5dccc177578b1afea4cfba9ee3eabeb87956ffc2
-SHA256: 673e0b045ee029b2fcdaabddb22aa2274e773d1438868273a8ae340c847bb5f5
+Size: 13776
+MD5sum: 6b6fca3990ed07a0541e2d80d283dff8
+SHA1: f57abc0af5bc0059e837ad974fa9f8e8a50a7044
+SHA256: 7d297c8c5dbc304e57926b99f8e0d494248b66f51cb7ca46f014e14968d131e0
 Section: 嗨-汉化
 Description: Filza 中文增补包。
-Author: Mo/妖刀
+Author: Mo/妖刀/Alucard
 Name: Filza 中文增补包
 
 Package: com.hk.flex3patch.xina
@@ -2287,18 +2287,18 @@ Author: 妖刀
 Name: EZSwipe 简体中文包(rootless)
 
 Package: com.hk.filza.cn.rl
-Version: 4.0-1
+Version: 4.0-2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/Filza 中文增补包(rootless).deb
-Size: 13608
-MD5sum: e4c2705335f78538d88618b81266f792
-SHA1: 6032bf00a0ab8ca08eee278eb918fa00707cf501
-SHA256: 5ccb2e77b3ce25006e279a1aa6675e07616a7ec203e8b1c05ce1c43090fbc635
+Size: 13820
+MD5sum: 0b670aed98a3e1170bcf29c0b7d72245
+SHA1: 5fe6d95d322cecb6388ce616eed6075421321447
+SHA256: 7e60a06f82cc5e2bceb42b3218aa65c91ea83b93cbbcafac0a88065912070a47
 Section: 嗨-汉化
 Description: Filza 中文增补包(rootless)。
-Author: Mo/妖刀
+Author: Mo/妖刀/Alucard
 Name: Filza 中文增补包(rootless)
 
 Package: com.hk.floatingdock16.cn.rl
