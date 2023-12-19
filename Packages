@@ -557,10 +557,10 @@ Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: root/Infuse Plus.deb
-Size: 115268
-MD5sum: b4be00a7134401e7bc41b8b54a2674f4
-SHA1: f351f33d6024f2e8fd4825b37f8926056588a81a
-SHA256: 9b4d8476b53d28be97fbe07f432318c88747ba0fcffd5eb31fbdcc710956a4d6
+Size: 115588
+MD5sum: f0164daf61ea3a74946aa7bc46b47764
+SHA1: b9104b97b56e5ff1d5b98d8a115556702acc9849
+SHA256: 50ddbe633059c51473512b2cd765ec04f936ab06a8cad7eab42803648afffb74
 Section: 嗨-工具
 Description: Infuse的破解/增强插件。
 Author: dvntm
@@ -1500,10 +1500,10 @@ Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootless/Infuse Plus(rootless).deb
-Size: 115288
-MD5sum: a4717cd385d2c1dc6c2c5a60b43f4179
-SHA1: 8cfebcd078ffef11e4a9d0eb1a9e81a6ff7e79ad
-SHA256: 4071a7bef9c8fb7b479f8486e226555725c4b87eb17d14f6b2bd8a5277b31bdd
+Size: 115620
+MD5sum: e23fe25643b6116f153afb3e0025e3c7
+SHA1: 681869c2ea33aa1bc34ce138213df4d128b2d5e9
+SHA256: d8ed4a6ca5c13acdfaebd02c3272d4cafcaac2f31da73328d7981bd9ceceb3bf
 Section: 嗨-工具
 Description: Infuse的破解/增强插件。
 Author: dvntm
