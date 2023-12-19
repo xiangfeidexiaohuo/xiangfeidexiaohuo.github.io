@@ -186,6 +186,23 @@ Description: AppTools for iOS15，强大的App类辅助插件，可以清理缓�
 Author: aReo
 Name: AppTools15
 
+Package: com.hk.april
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: 刀刀
+Installed-Size: 820
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings, me.luki.april
+Filename: root/April 中文版.deb
+Size: 393914
+MD5sum: 8059a519f299f759054a72f7698d5bb0
+SHA1: 03ee0746d034efcb6589f803afafadce7a58315c
+SHA256: 71aaf4037f1b083f7b7c1d61ca18e845587591c45b8b3f4cb3455bb0da5aea14
+Section: 嗨-工具
+Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
+Author: Luki
+Name: April 中文版
+
 Package: com.hk.axon
 Version: 1.5
 Architecture: iphoneos-arm
@@ -1329,6 +1346,23 @@ Section: 嗨-工具
 Description: 不可思议的简约控制中心，源内有汉化包。
 Author: Tr1Fecta & Kennyroo
 Name: Akara(rootless)
+
+Package: com.dao.april
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: 刀刀
+Installed-Size: 820
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings, me.luki.april
+Filename: rootless/April 中文版(rootless).deb
+Size: 394220
+MD5sum: 560491b55335097d5b581c170360ba4b
+SHA1: 85f5af9e46ca2de87125600ae26b09110a6cbe71
+SHA256: 0dea2e458a87a5a05cd1558483935e64afba48656bc0663e94a0020bef4c1815
+Section: 嗨-工具
+Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
+Author: Luki
+Name: April 中文版(rootless)
 
 Package: com.dao.betteralarm
 Version: 1.4.5-1
