@@ -1025,16 +1025,16 @@ Author: Traurige <hello@traurige.dev>
 Name: Kayoko官方版
 
 Package: com.hk.trollstore.cn
-Version: 2.0-3
+Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: rootful/TrollStore 简体中文包.deb
-Size: 12056
-MD5sum: 116edd1df947b65c4c3f57e47e800cca
-SHA1: 7dd3dfb41bec97fcc2da7ced74cbcc6125af43c8
-SHA256: c22ab2bb3ef900a92f279980e13763a47606b2db7742b9384e12b6392cef06d4
+Size: 12210
+MD5sum: dac1faa1c3f5722f79f41e4db68994b7
+SHA1: 3998e5f37f50f0eec6de33af30f995c6c330674d
+SHA256: ec30f7a29dd6e0701a3a3c4857b61afec86879b149b779aee0d9b9dc4787bfc7
 Section: 嗨-汉化
 Description: TrollStore 简体中文包。
 Author: 妖刀
@@ -3048,16 +3048,16 @@ Author: 妖刀
 Name: TrollNonce 简体中文包(rootless)
 
 Package: com.hk.trollstore.cn.rl
-Version: 2.0-3
+Version: 2.0.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: rootless/TrollStore 简体中文包(rootless).deb
-Size: 12108
-MD5sum: 40443fa98c79f62c31a25abe9e86b101
-SHA1: 42bb85aeb89073a210ce61bd746cb1e99f971445
-SHA256: 3fdab399c89a5f7faac2d91fa3d61dff58c9452084e1f6a8e242f96ddf5bc388
+Size: 12290
+MD5sum: 2e22e06ef2b0e448429862da3cdb250e
+SHA1: 80a25edd708bf30fcbd6c1a1a056e17dd64736fc
+SHA256: d0e208d5bb269225fa4cbe859524cf28f86a24c05c98f540794da39d131f5bb6
 Section: 嗨-汉化
 Description: TrollStore 简体中文包(rootless)。
 Author: 妖刀
@@ -3351,16 +3351,16 @@ Author: Paisseon
 Name: Reverie 中文版(RootHide)
 
 Package: com.qms.trollstore.cn
-Version: 2.0-1
+Version: 2.0.1
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: roothide/TrollStore 简体中文包(RootHide).deb
-Size: 12066
-MD5sum: d8e2a2a5f8c6b7d69ef7c2d9bff24dee
-SHA1: e14241f621349e3537acbf272573b19463c5176c
-SHA256: 5e587bcff87966cb032a69eb0cd453b889a2b734c518c2b8f2f436603c966805
+Size: 12242
+MD5sum: 00bd9d014fd087ca71c955d0e0547e44
+SHA1: 1c6f6f1b7dcf2e0d38c2533f03b1c38f4138f05e
+SHA256: eafa384ec0c98c78da13f30941220ca56e29bfdc31a88c6e5b22e3e5393268e9
 Section: 嗨-汉化
 Description: TrollStore 简体中文包(RootHide)。
 Author: 妖刀
