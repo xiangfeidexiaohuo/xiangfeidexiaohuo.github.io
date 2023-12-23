@@ -3350,6 +3350,22 @@ Description: 自由的休眠设备来节省电量。
 Author: Paisseon
 Name: Reverie 中文版(RootHide)
 
+Package: com.qms.trollstore.cn
+Version: 2.0-1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: roothide/TrollStore 简体中文包(RootHide).deb
+Size: 12066
+MD5sum: d8e2a2a5f8c6b7d69ef7c2d9bff24dee
+SHA1: e14241f621349e3537acbf272573b19463c5176c
+SHA256: 5e587bcff87966cb032a69eb0cd453b889a2b734c518c2b8f2f436603c966805
+Section: 嗨-汉化
+Description: TrollStore 简体中文包(RootHide)。
+Author: 妖刀
+Name: TrollStore 简体中文包(RootHide)
+
 Package: com.qms.velvet2
 Version: 2.1.5-1
 Architecture: iphoneos-arm64e
