@@ -3,7 +3,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: 小果子
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: root/威锋去广告.deb
+Filename: rootful/威锋去广告.deb
 Size: 88064
 MD5sum: d23f4ee48ef704aa850508b271cec7a3
 SHA1: 33432875df2873c9ecad40e226dcbd658ee7e791
@@ -18,7 +18,7 @@ Version: 1.5.6-3
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/CopyLog 简体中文包.deb
+Filename: rootful/CopyLog 简体中文包.deb
 Size: 6400
 MD5sum: ce11542ccbc9a0d7b5b3f9d2f28435d1
 SHA1: 02c9077f823a23d9630f00e97f03c6f754ac66d4
@@ -32,7 +32,7 @@ Package: com.crack.safariplus.cn
 Version: 1.7.22
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: root/Safari Plus 中文修复包.deb
+Filename: rootful/Safari Plus 中文修复包.deb
 Size: 13212
 MD5sum: 6ed238c6179cfe98e1b86082a3df36d2
 SHA1: 113d8aec87f45f6b213d61ab6c621f831939cc7c
@@ -48,7 +48,7 @@ Architecture: iphoneos-arm
 Maintainer: 赵楠&刀刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.dao.souvenir, com.nan.souvenir.zh-hans
-Filename: root/Souvenir 简体中文包.deb
+Filename: rootful/Souvenir 简体中文包.deb
 Size: 6832
 MD5sum: 1cd86aa4ebf12f3aeff2294570ccb342
 SHA1: 9fe2d3c0b65357c24d30e1983520c3717d91ecdd
@@ -64,7 +64,7 @@ Architecture: iphoneos-arm
 Maintainer: BandarHL
 Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtwitter
-Filename: root/BHTwitter 中文修复版_4.0.deb
+Filename: rootful/BHTwitter 中文修复版_4.0.deb
 Size: 772680
 MD5sum: dc66351c0b81d93f95f68d107ff7a6ba
 SHA1: 4999d1e7ddde568d245da65f4e2559b9f4adca28
@@ -81,7 +81,7 @@ Architecture: iphoneos-arm
 Maintainer: BandarHL
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtwitter
-Filename: root/BHTwitter 中文修复版.deb
+Filename: rootful/BHTwitter 中文修复版.deb
 Size: 7615904
 MD5sum: b6001dd1ab5c84334999acdb1bff265b
 SHA1: 58a6dc2eea289ac52a187a256d745289b73e9876
@@ -97,7 +97,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/Akara 简体中文包.deb
+Filename: rootful/Akara 简体中文包.deb
 Size: 6776
 MD5sum: 4762599649ee0cf628b9bcae738bb614
 SHA1: fb9097f16508d90076e82bb66d0d65867fea7677
@@ -113,7 +113,7 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: root/Alpine 简体中文包.deb
+Filename: rootful/Alpine 简体中文包.deb
 Size: 7838
 MD5sum: 0c579bc5f24b1e39f4be8e0d82390af9
 SHA1: 5c425850b866631e0dddafb65b6019483f63447b
@@ -128,7 +128,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/Ampere 简体中文包.deb
+Filename: rootful/Ampere 简体中文包.deb
 Size: 6132
 MD5sum: da337100ed3ac9eb3a99469bca542e80
 SHA1: 659ca29278bbc4da5d0160ae5720c574197e0e6b
@@ -144,7 +144,7 @@ Architecture: iphoneos-arm
 Maintainer: aReo
 Depends: mobilesubstrate,preferenceloader
 Conflicts: com.flex2areo.appprotect
-Filename: root/AppProtect 隐私保护.deb
+Filename: rootful/AppProtect 隐私保护.deb
 Size: 309672
 MD5sum: 9b9a8253648a7cecfa199a020caf1932
 SHA1: 43beac9ffc77325d7aa496e31fe19c886c27fbba
@@ -160,7 +160,7 @@ Architecture: iphoneos-arm
 Maintainer: aReo
 Depends: mobilesubstrate
 Conflicts: com.flex2areo.apptools14
-Filename: root/AppTools14.deb
+Filename: rootful/AppTools14.deb
 Size: 360392
 MD5sum: fb4154974fd0968a461940aaee4fd584
 SHA1: 95f84e70266a1792069a9813b3170cd271e8e3d2
@@ -176,7 +176,7 @@ Architecture: iphoneos-arm
 Maintainer: aReo
 Depends: mobilesubstrate
 Conflicts: com.flex2areo.apptools15
-Filename: root/AppTools15.deb
+Filename: rootful/AppTools15.deb
 Size: 390596
 MD5sum: 0c616189efee5d91e21ac5765d9446ed
 SHA1: fbb9753dbeb129c009bd39fa0b3411eab3e6616c
@@ -193,7 +193,7 @@ Maintainer: 刀刀
 Installed-Size: 820
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: com.midnightchips.bettersettings, me.luki.april
-Filename: root/April 中文版.deb
+Filename: rootful/April 中文版.deb
 Size: 393914
 MD5sum: 8059a519f299f759054a72f7698d5bb0
 SHA1: 03ee0746d034efcb6589f803afafadce7a58315c
@@ -210,7 +210,7 @@ Maintainer: Baw Appie & alias20 & 妖刀
 Installed-Size: 648
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon
-Filename: root/Axon 中文版.deb
+Filename: rootful/Axon 中文版.deb
 Size: 141414
 MD5sum: fba21d3b50a4ff99d2b5685b062a013a
 SHA1: 1abd3104a82897c48a5f776c5ec5f4ee98ec72ee
@@ -226,7 +226,7 @@ Architecture: iphoneos-arm
 Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.cpdigitaldarkroom.barmoji
-Filename: root/Barmoji(iOS10~15).deb
+Filename: rootful/Barmoji(iOS10~15).deb
 Size: 83216
 MD5sum: 8d47aa240426591c984c8216390976d7
 SHA1: 26b0b390478bdcfccb8da125b8c44282653c6f7b
@@ -241,7 +241,7 @@ Version: 1.1.8
 Architecture: iphoneos-arm
 Maintainer: udevs
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: root/BattSafePro 中文增补包.deb
+Filename: rootful/BattSafePro 中文增补包.deb
 Size: 2372
 MD5sum: cc1d2de57506b823155d6663b00d31d0
 SHA1: 24682a0141162e7d2139d6c0c95e969c7c681edb
@@ -258,7 +258,7 @@ Maintainer: 妖刀
 Installed-Size: 756
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
 Conflicts: com.noisyflake.betteralarm, com.hk.betteralarm.cn, com.hk.betteralarm.cn.rl
-Filename: root/BetterAlarm中文版.deb
+Filename: rootful/BetterAlarm中文版.deb
 Size: 297794
 MD5sum: 4c31a546c1f0ea9826eee2a58abfdf46
 SHA1: 08d361ffdd020959b156855ecd560f9322911f79
@@ -273,7 +273,7 @@ Version: 1.4.2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/BetterAlarm 简体中文包.deb
+Filename: rootful/BetterAlarm 简体中文包.deb
 Size: 2906
 MD5sum: cc03deb6e8d9a1a4acf4daa94af134c4
 SHA1: 52bcc9c9cf44768ce3d3a04ec7bcb9e1f98f9584
@@ -290,7 +290,7 @@ Maintainer: Bandar Alruwaili
 Installed-Size: 408
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta
-Filename: root/BHInsta.deb
+Filename: rootful/BHInsta.deb
 Size: 109970
 MD5sum: f85a0791561d7f718d987f9ebd45a585
 SHA1: 4a491a8dd7e3bdb0843b8be2dbc65b15f0693456
@@ -306,7 +306,7 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: root/BHInsta 简体中文包.deb
+Filename: rootful/BHInsta 简体中文包.deb
 Size: 5100
 MD5sum: 18d61b514b9ac64264fba5eac10cd8a1
 SHA1: c90e16b5f27a4a51d429624f60c867cd28da80f3
@@ -322,7 +322,7 @@ Architecture: iphoneos-arm
 Maintainer: Dayanch96
 Depends: mobilesubstrate
 Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn, com.hk.bhtiktok
-Filename: root/BHTikTok Plus.deb
+Filename: rootful/BHTikTok Plus.deb
 Size: 482252
 MD5sum: d4ef65cee069a4b2625caa491a5faf7d
 SHA1: 39389c9252a1ed97758ba5231e1c3ececdaf72ca
@@ -338,7 +338,7 @@ Architecture: iphoneos-arm
 Maintainer: Jonathan Winger-lang
 Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
-Filename: root/Snapper3 长截图[扩展].deb
+Filename: rootful/Snapper3 长截图[扩展].deb
 Size: 13984
 MD5sum: 4b9d59e832ee9d4cf323f520284715eb
 SHA1: 1e1e66008dced2f8d9ca4b4f69fa971274b762fa
@@ -354,7 +354,7 @@ Architecture: iphoneos-arm
 Maintainer: Jonathan Winger-lang
 Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
-Filename: root/BigShot 长截图.deb
+Filename: rootful/BigShot 长截图.deb
 Size: 19088
 MD5sum: 38fc96f944fa296514448c0ab62e5660
 SHA1: 5cc0d7349ac11f071c6acb85b55a5d309e7381b7
@@ -370,7 +370,7 @@ Architecture: iphoneos-arm
 Maintainer: Sandy0 & Ball
 Depends: mobilesubstrate
 Conflicts: com.hk.bioprotectxs.x.cn, com.hk.bioprotectxs.cn, com.crak.bioprotectxs.x.cn, com.crak.bioprotectxs.cn
-Filename: root/BioProtect XS 简体中文包.deb
+Filename: rootful/BioProtect XS 简体中文包.deb
 Size: 20398
 MD5sum: 17a4bdd75c42b69e137d68899ad011d5
 SHA1: b4f4bfe86adddd6b5e245968f7c012c8f496d34f
@@ -386,7 +386,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/Cask 3 简体中文包.deb
+Filename: rootful/Cask 3 简体中文包.deb
 Size: 1516
 MD5sum: da32c3be32ee03d995a552144bd9a83d
 SHA1: 8488ffd5977dbc5edb134f8e8a5d842b783c4cd9
@@ -402,7 +402,7 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccpower, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, netskao.ccsim, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic
-Filename: root/CC++(11~14).deb
+Filename: rootful/CC++(11~14).deb
 Size: 1217212
 MD5sum: c591b10aadafe0ffd28bfdaac6fd4759
 SHA1: 2e2e92e610bd039e7fd4786aa8f2b5865a479b78
@@ -418,7 +418,7 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), com.opa334.ccsupport
 Conflicts: com.crak.wechatscan, netskao.wechatscan, com.hk.wechatscan, com.kingpuffdaddi.control-center.ccvpn, com.jailbreak365.safeccmodules, netskao.alipayscan, netskao.ccbadgeclear, netskao.ccautobrightness, com.ichitaso.autobrightness11, netskao.ccswitchdata, com.hk.ccplus.cn, netskao.quantumultxlauncher, com.mtac.uptime, com.sop.cpumagic, netskao.ccsim-rootless, netskao.ccsim
-Filename: root/CC++(iOS15).deb
+Filename: rootful/CC++(iOS15).deb
 Size: 203776
 MD5sum: 040a7f333552dd54042e0881b5b7dfe5
 SHA1: ef32e3e5e49d7886e6167acd3ba2f2e915fd8f2d
@@ -432,7 +432,7 @@ Package: com.hk.choicy.cn
 Version: 1.4.6
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: root/Choicy 简体中文包.deb
+Filename: rootful/Choicy 简体中文包.deb
 Size: 4250
 MD5sum: 48b563d6cc71851752ff81000c627158
 SHA1: 6b637465812e57cdd3ee2463f1c689ee250819c9
@@ -447,7 +447,7 @@ Version: 1.3.9
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: root/Crane 中文修复包.deb
+Filename: rootful/Crane 中文修复包.deb
 Size: 12606
 MD5sum: 9f1be16e399929daaea149aca2f82f04
 SHA1: 5579faf9da2236f90f0666a31fc91ce915f06fc3
@@ -462,7 +462,7 @@ Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: root/Nicegram高级版.deb
+Filename: rootful/Nicegram高级版.deb
 Size: 5136
 MD5sum: f93adb16f0864ee8fb6b9a214cf346ae
 SHA1: 2adbbae32b313861359541043f026cc191426d24
@@ -478,7 +478,7 @@ Architecture: iphoneos-arm
 Maintainer: ConorTheDev <conorthedev@gmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware (>=13.0), me.conorthedev.libappearancecell, ws.hbang.alderis | org.thebigboss.libcolorpicker
 Conflicts: com.hk.dotto+.cn, me.conorthedev.dotto+
-Filename: root/dotto+.deb
+Filename: rootful/dotto+.deb
 Size: 109526
 MD5sum: 05cc6a34ad96a73faedf8adff54e501b
 SHA1: 0a9949ed84c00791b0a8472b1255df93f4829e4e
@@ -493,7 +493,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/DynamicStage 简体中文包.deb
+Filename: rootful/DynamicStage 简体中文包.deb
 Size: 6056
 MD5sum: 13a0d3f602f0380deb828f90d584db79
 SHA1: 988046b362c22f8ed39220ce30e4472c38c9350e
@@ -508,7 +508,7 @@ Version: 4.0-2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: root/Filza 中文增补包.deb
+Filename: rootful/Filza 中文增补包.deb
 Size: 13776
 MD5sum: 6b6fca3990ed07a0541e2d80d283dff8
 SHA1: f57abc0af5bc0059e837ad974fa9f8e8a50a7044
@@ -523,7 +523,7 @@ Version: 3~Beta98-xina
 Architecture: iphoneos-arm
 Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>=15.0)
-Filename: root/Flex3 Patch For Xina.deb
+Filename: rootful/Flex3 Patch For Xina.deb
 Size: 414124
 MD5sum: 8f4e4cca296239b69d9a3a25e98bc394
 SHA1: d63f4d5c6b6adc27e3c829aa3b793c275cd75ff7
@@ -540,7 +540,7 @@ Maintainer: julioverne
 Installed-Size: 368
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.goodwifi
-Filename: root/GoodWiFi中文版.deb
+Filename: rootful/GoodWiFi中文版.deb
 Size: 34378
 MD5sum: 7887be6cec7b7953b22a5a988c1fef35
 SHA1: 21bfd1595f321bce4af66d030324cc3ba55efc11
@@ -556,7 +556,7 @@ Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
-Filename: root/Infuse Plus.deb
+Filename: rootful/Infuse Plus.deb
 Size: 115588
 MD5sum: f0164daf61ea3a74946aa7bc46b47764
 SHA1: b9104b97b56e5ff1d5b98d8a115556702acc9849
@@ -572,7 +572,7 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: root/IntelligentPass5 简体中文包.deb
+Filename: rootful/IntelligentPass5 简体中文包.deb
 Size: 6058
 MD5sum: 1e723cb882e80289ed47a3fcfbe1bce3
 SHA1: 2173ae540e02ab234ee81513e290c4ef63c7ae01
@@ -588,7 +588,7 @@ Architecture: iphoneos-arm
 Maintainer: Traurige <hello@traurige.dev>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
 Conflicts: dev.traurige.kayoko, com.hk.traurige.kayoko
-Filename: root/Kayoko编译版.deb
+Filename: rootful/Kayoko编译版.deb
 Size: 202868
 MD5sum: 7dee1b2d3f83d83943e59981d0c87f34
 SHA1: fb5862422b23ad08d70d2d6acdbd465ea6dd8c21
@@ -604,7 +604,7 @@ Architecture: iphoneos-arm
 Maintainer: Mr.Zhang <mr_zhang_00@163.com>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, com.hk.traurige.kayoko, com.skypain.kayoko, com.hk.kayoko.cn
-Filename: root/Kayoko魔改版.deb
+Filename: rootful/Kayoko魔改版.deb
 Size: 122616
 MD5sum: 9983711a9b208425980b7e0b85a1af44
 SHA1: 915e2e815f8dd3bf0bb829347925ccc8e77c768b
@@ -619,7 +619,7 @@ Version: 1.2-3
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: root/Kayoko 简体中文包.deb
+Filename: rootful/Kayoko 简体中文包.deb
 Size: 6910
 MD5sum: cfe41af7265121975b1b248ff39e535d
 SHA1: 5ffc1fed99abd57efaae6f40dfb42221ed886edf
@@ -635,7 +635,7 @@ Architecture: iphoneos-arm
 Maintainer: XCXiao
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.hk.key+.cn, com.xcxiao.typeplus
-Filename: root/Key+.deb
+Filename: rootful/Key+.deb
 Size: 125368
 MD5sum: a470e80dfbb0f4b8625bcdd75c36d00b
 SHA1: e8a250e56222cc94a4a5bbfafae19f9b3b5ab066
@@ -650,7 +650,7 @@ Version: 3.6.3
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: root/LastLook 简体中文包.deb
+Filename: rootful/LastLook 简体中文包.deb
 Size: 8464
 MD5sum: 42187f1c084ad639cc47f9032a429cc6
 SHA1: f2cf70f280d6e49c09e87d4a49e11b505d2e8758
@@ -667,7 +667,7 @@ Maintainer: zp
 Installed-Size: 92
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: zp.lintui
-Filename: root/Xina长按临退.deb
+Filename: rootful/Xina长按临退.deb
 Size: 6224
 MD5sum: 770bd36485bbda68786e406e103c4a4a
 SHA1: 793be417cee56d690bcb72c747734e021c59807b
@@ -682,7 +682,7 @@ Version: 2.4.5-1
 Architecture: iphoneos-arm
 Maintainer: M哥 & 妖刀
 Depends: mobilesubstrate
-Filename: root/Lynx 2 简体中文包.deb
+Filename: rootful/Lynx 2 简体中文包.deb
 Size: 23240
 MD5sum: 594f7f19ab8eedafcfafa1c8b4c58114
 SHA1: 2edc8a144da8897e7596bd702d860134baa66b9b
@@ -697,7 +697,7 @@ Version: 0.2.8
 Architecture: iphoneos-arm
 Maintainer: Ball
 Depends: mobilesubstrate
-Filename: root/MilkyWay3 简体中文包.deb
+Filename: rootful/MilkyWay3 简体中文包.deb
 Size: 4204
 MD5sum: 283fa56647b6b0051cd269c5a47ae7e4
 SHA1: 56f575604173b5eca2638eaf774529edb22565d2
@@ -713,7 +713,7 @@ Architecture: iphoneos-arm
 Maintainer: Devvix
 Depends: mobilesubstrate
 Conflicts: com.devvix.nocshare
-Filename: root/NoCShare(iOS13-15).deb
+Filename: rootful/NoCShare(iOS13-15).deb
 Size: 6962
 MD5sum: e6267a53c0e63b6cdfbad22ec4833434
 SHA1: ef31a4618b3714ca4f0b537ccfb71f5f0210db40
@@ -730,7 +730,7 @@ Maintainer: 妖刀
 Installed-Size: 168
 Depends: mobilesubstrate
 Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators
-Filename: root/PurifyLine.deb
+Filename: rootful/PurifyLine.deb
 Size: 3342
 MD5sum: 02a0c5f06fef64f906f74bb876d5de2e
 SHA1: 067513c22e5f89f8c5e733853038022ab455dd89
@@ -745,7 +745,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: root/OneSettings 简体中文包.deb
+Filename: rootful/OneSettings 简体中文包.deb
 Size: 11464
 MD5sum: 1661fa3c0bc9c9c848036e87bc7844b2
 SHA1: 9c0fa28347945cc46a2658c4921d5be4a1bb8e63
@@ -760,7 +760,7 @@ Version: 1.2-2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: root/Orion 简体中文包.deb
+Filename: rootful/Orion 简体中文包.deb
 Size: 62180
 MD5sum: b684416500e64de440bb49d999265b90
 SHA1: 725d82d0583c80b8947cd7831acaa5612e5d4a40
@@ -776,7 +776,7 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: root/PrimalFolder2 简体中文包.deb
+Filename: rootful/PrimalFolder2 简体中文包.deb
 Size: 5378
 MD5sum: e54d559bb19b6377e3788759a45895b4
 SHA1: 4e234c9ee5c2872356fc960c9aaae4f88fb5b506
@@ -793,7 +793,7 @@ Maintainer: 刀刀源
 Installed-Size: 192
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
-Filename: root/Powercuff_0.8.deb
+Filename: rootful/Powercuff_0.8.deb
 Size: 13508
 MD5sum: 42b042af34e34316060fcb18a13452bb
 SHA1: cee37869f27f1b5692e8be3d240dfb016d117d5f
@@ -809,7 +809,7 @@ Architecture: iphoneos-arm
 Maintainer: 刀刀源
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
-Filename: root/Powercuff.deb
+Filename: rootful/Powercuff.deb
 Size: 13716
 MD5sum: cfac300291530340f0eaa4e82f2d03b0
 SHA1: a1f263312e31eedeaed3ae3e9c0f7af963a296a1
@@ -826,7 +826,7 @@ Maintainer: 刀刀
 Installed-Size: 864
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
 Conflicts: lilliana.reverie
-Filename: root/Reverie 中文版.deb
+Filename: rootful/Reverie 中文版.deb
 Size: 99384
 MD5sum: b12347685c959557c58512f9c3bf6526
 SHA1: bc1883e0704c5d96b5722219cb88bd120debd791
@@ -841,7 +841,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/Rune 简体中文包.deb
+Filename: rootful/Rune 简体中文包.deb
 Size: 6424
 MD5sum: c8955bf815dcc67b2f9bece3b3304168
 SHA1: f4c767f04ff8daec9621ba1be16f9310c6b8da29
@@ -860,7 +860,7 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiu
 Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
 Provides: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, weeb.lillie.enhancerforyoutubepremium
-Filename: root/YouTube Reborn v4.deb
+Filename: rootful/YouTube Reborn v4.deb
 Size: 12014568
 MD5sum: 03ebc8a265ed000592a5156dbeed1366
 SHA1: 2a029e4b3f83f5c308abe6559fec0c96d4403e51
@@ -875,7 +875,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/SwitchAccounts 简体中文包.deb
+Filename: rootful/SwitchAccounts 简体中文包.deb
 Size: 3388
 MD5sum: 928339a8ab10a9a33724c82c4b546b6a
 SHA1: 7615b0429960524b78d38e5089cd86eb9773f1e4
@@ -891,7 +891,7 @@ Architecture: iphoneos-arm
 Maintainer: SOPPPra
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
 Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, com.sop.settingsrevamp
-Filename: root/SettingsRevamp.deb
+Filename: rootful/SettingsRevamp.deb
 Size: 97312
 MD5sum: 0a503808e476ed413cfafc68a9dcf8d0
 SHA1: 56254e65de357e34d82d28581e22b4dd47430f0c
@@ -906,7 +906,7 @@ Version: 2.1.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/SettingsRevamp 简体中文包.deb
+Filename: rootful/SettingsRevamp 简体中文包.deb
 Size: 9336
 MD5sum: 77552ef65fe2abe9dcac1b4f889b986b
 SHA1: 95921abc652c304c7a71960565b83078b41a2578
@@ -921,7 +921,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/Snapper 3 简体中文包.deb
+Filename: rootful/Snapper 3 简体中文包.deb
 Size: 5596
 MD5sum: 8b647ef5b98051cc92436b544395f327
 SHA1: f525d0779f8641a1b238996b383eae13da2a31d1
@@ -936,7 +936,7 @@ Version: 2.7.0
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/Snapper2 中文增补包.deb
+Filename: rootful/Snapper2 中文增补包.deb
 Size: 7552
 MD5sum: 998140cad3aec9ee1b3aa02b20a8302f
 SHA1: 983c4dbd3a96abfff32a3520064a4e37c4d7bda5
@@ -952,7 +952,7 @@ Architecture: iphoneos-arm
 Maintainer: Jonathan Winger-lang
 Depends: mobilesubstrate, firmware(>=12.1)
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2, com.jontelang.snapper2.packix, com.hk.snapper2.cn
-Filename: root/Snapper2 截屏.deb
+Filename: rootful/Snapper2 截屏.deb
 Size: 535370
 MD5sum: 5d20ba9d6f4b7c8587da09b23dcec6e9
 SHA1: 01d90e59d8701389bfd7840f99b424067b6824dc
@@ -967,7 +967,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/Spectrum 简体中文包.deb
+Filename: rootful/Spectrum 简体中文包.deb
 Size: 1924
 MD5sum: e9c407ec383f194a00469d510699c1de
 SHA1: 75217a904a0382ac914efc93eed952aeeb12d84c
@@ -983,7 +983,7 @@ Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: mobilesubstrate, bash
 Conflicts: xyz.cypwn.bat, bat, xyz.cypwn.termcolors
-Filename: root/Term Colors(终端多彩界面).deb
+Filename: rootful/Term Colors(终端多彩界面).deb
 Size: 2701222
 MD5sum: fb8f0e6b45a0dfafe42f11414a9ddc52
 SHA1: 928626cec78dce8d57eb3dba592779105b05430d
@@ -998,7 +998,7 @@ Version: 2.18.6
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/Translomatic 中文修复包.deb
+Filename: rootful/Translomatic 中文修复包.deb
 Size: 4332
 MD5sum: 7eafebc621a32005437ff0c3cd8db357
 SHA1: 4907a12d1e6af45dda9aed9e1d67c3edfee1a8a5
@@ -1014,7 +1014,7 @@ Architecture: iphoneos-arm
 Maintainer: Traurige <hello@traurige.dev>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, com.hk.kayoko
-Filename: root/Kayoko官方版.deb
+Filename: rootful/Kayoko官方版.deb
 Size: 171380
 MD5sum: ad0439406c9242c04b6c9e83c3ee6372
 SHA1: 91790540b05b129d0815d5df297911831531473e
@@ -1030,7 +1030,7 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: root/TrollStore 简体中文包.deb
+Filename: rootful/TrollStore 简体中文包.deb
 Size: 12056
 MD5sum: 116edd1df947b65c4c3f57e47e800cca
 SHA1: 7dd3dfb41bec97fcc2da7ced74cbcc6125af43c8
@@ -1046,7 +1046,7 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: root/uYou 简体中文包.deb
+Filename: rootful/uYou 简体中文包.deb
 Size: 22392
 MD5sum: a5995eb1219e710d5faa814a112ed8bb
 SHA1: ac79a3baefcc12535933440d28122a83e5bddc49
@@ -1062,7 +1062,7 @@ Architecture: iphoneos-arm
 Maintainer: NoisyFlake <support@noisyflake.com>
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2
-Filename: root/Velvet 2.deb
+Filename: rootful/Velvet 2.deb
 Size: 153606
 MD5sum: c6abb27b5159be955968394e8a68c9a8
 SHA1: 0bf20dbb9cf5e16cc5160aabdf1b8725ec9eff7c
@@ -1079,7 +1079,7 @@ Maintainer: 妖刀
 Installed-Size: 660
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl
-Filename: root/Velvet 2 中文版.deb
+Filename: rootful/Velvet 2 中文版.deb
 Size: 99772
 MD5sum: 09e9586ad956b0cfaeccc2ca8276215a
 SHA1: 08cc0910b9bc20a11edbbf867c34bfffdffee48a
@@ -1094,7 +1094,7 @@ Version: 2.1.2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: root/Velvet 2 简体中文包.deb
+Filename: rootful/Velvet 2 简体中文包.deb
 Size: 10114
 MD5sum: 52d7144467574c75280e76f756b5ad0d
 SHA1: fb3564eb3fd5aa48508282b4ded763871b028937
@@ -1110,7 +1110,7 @@ Architecture: iphoneos-arm
 Maintainer: Bruno Andrade <brubiluco@globo.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Conflicts: com.brunonfl.wicellswitcher
-Filename: root/WiCellSwitcher(iOS9-15).deb
+Filename: rootful/WiCellSwitcher(iOS9-15).deb
 Size: 20138
 MD5sum: cece07f313e8737591a9626c8ef40369
 SHA1: 5d21dc2392778c39c89d7ef23acdcfe7f0dcd01c
@@ -1129,7 +1129,7 @@ Depends: mobilesubstrate, firmware (>= 11.0), ldid | firmware (>= 15.0)
 Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2, com.hk.afc2d-arm64, com.cannathea.afc2d-arm64
 Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
 Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Filename: root/AFC2(Xina越狱专版).deb
+Filename: rootful/AFC2(Xina越狱专版).deb
 Size: 18836
 MD5sum: f5abd57c2d5259c3cd501c543a6defe0
 SHA1: 1dcc7a27a5463fc9db878de85690b2773b98afab
@@ -1145,7 +1145,7 @@ Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: com.hk.termcolors (>= 2.0.7)
 Conflicts: xyz.cypwn.newterm3x, ws.hbang.Terminal3, ws.hbang.terminal3
-Filename: root/NewTerm 3(Xina).deb
+Filename: rootful/NewTerm 3(Xina).deb
 Size: 2619880
 MD5sum: acfab2a047194e1ab470ebad126cb3fe
 SHA1: 8637c1d71b9104d066506446dd94aff2950bb7b6
@@ -1160,7 +1160,7 @@ Version: 0.0.1-23
 Architecture: iphoneos-arm
 Maintainer: xia0z
 Depends: mobilesubstrate
-Filename: root/Filza Crack.deb
+Filename: rootful/Filza Crack.deb
 Size: 5670
 MD5sum: 403141b1729c143122131ee69edf2de7
 SHA1: d2657b0f000ac9fe28aa61dc15c6fa8fa803cf18
@@ -1175,7 +1175,7 @@ Version: 2.13.5
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: root/DLEasy 简体中文包.deb
+Filename: rootful/DLEasy 简体中文包.deb
 Size: 3780
 MD5sum: 2d569bd40ddee9e37d7f3757bbf0b878
 SHA1: 39e4a80f021ec702479d7039e82e87d549915c3a
@@ -1191,7 +1191,7 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: root/YouTube Reborn v4 简体中文包.deb
+Filename: rootful/YouTube Reborn v4 简体中文包.deb
 Size: 19574
 MD5sum: 7462a5210f13b9050843eba65b6d560b
 SHA1: ec24286bc4108dc665f8f0bb9d2f241447c00642
@@ -1207,7 +1207,7 @@ Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
-Filename: root/YTLite.deb
+Filename: rootful/YTLite.deb
 Size: 55276
 MD5sum: bdf51ff02b4117001828fe0502b978ac
 SHA1: 25445a9b8a7bed2595e1681e835e2fa75fc77b76
@@ -1222,7 +1222,7 @@ Version: 0.0.1-61+debug
 Architecture: iphoneos-arm
 Maintainer: xina520 <3608063@qq.com>
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: root/XinaBlackList(注入黑名单).deb
+Filename: rootful/XinaBlackList(注入黑名单).deb
 Size: 41074
 MD5sum: b49e9171dc2e0969d1581f8a02babe42
 SHA1: ad494eb0bdd4737c183ecda746cd1bd512cfb1f5
