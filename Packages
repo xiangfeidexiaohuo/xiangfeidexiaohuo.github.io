@@ -3183,6 +3183,23 @@ Description: 去除所有广告，无弹窗。
 Author: 小果子
 Name: 威锋去广告(RootHide)
 
+Package: com.qms.april
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Installed-Size: 836
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings, me.luki.april
+Filename: roothide/April 中文版(RootHide).deb
+Size: 392428
+MD5sum: ff4283e3103c5cae5ed2d8549b3d9dce
+SHA1: 9cffa6034600e585319e14219bb0a7465cb7c0f6
+SHA256: e2a5e0f768b5d4bda1e254a606f423132b7effcc91fbf4513b4975e90a0ee6a2
+Section: 嗨-工具
+Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
+Author: Luki
+Name: April 中文版(RootHide)
+
 Package: com.qms.axon
 Version: 1.5
 Architecture: iphoneos-arm64e
