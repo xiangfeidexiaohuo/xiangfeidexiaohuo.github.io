@@ -59,33 +59,16 @@ Author: 赵楠
 Name: Souvenir 简体中文包
 
 Package: com.hk.BHTwitter.cn
-Version: 4.0
-Architecture: iphoneos-arm
-Maintainer: BandarHL
-Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.bhtwitter
-Filename: rootful/BHTwitter 中文修复版_4.0.deb
-Size: 772680
-MD5sum: dc66351c0b81d93f95f68d107ff7a6ba
-SHA1: 4999d1e7ddde568d245da65f4e2559b9f4adca28
-SHA256: 928808533dbdc5bd228043336529cff2c2761c5f2e1e2093fb2791e3cb261c55
-Section: 嗨-工具
-Priority: optional
-Description: BHTwitter中文修复版，推特的功能性插件，设置就在推特本身设置里。
-Author: Mo
-Name: BHTwitter 中文修复版
-
-Package: com.hk.BHTwitter.cn
 Version: 4.2-1
 Architecture: iphoneos-arm
 Maintainer: BandarHL
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtwitter
 Filename: rootful/BHTwitter 中文修复版.deb
-Size: 7615904
-MD5sum: b6001dd1ab5c84334999acdb1bff265b
-SHA1: 58a6dc2eea289ac52a187a256d745289b73e9876
-SHA256: 6450d1076891dc54d99ced1aedf2639cba32678b6be3cd41bab21a76cab32dcc
+Size: 7611668
+MD5sum: 1bdf0ce298f4d2f0c3187adf15520e59
+SHA1: 038a0737a49805c2d5a960e10c7fea2efbd0b577
+SHA256: a4ca435f85981906e4657e535a55b5e992b05fa3de3ad612911d00bec25a01c1
 Section: 嗨-工具
 Priority: optional
 Description: BHTwitter中文修复版，推特的功能性插件，设置就在推特本身设置里。
@@ -1802,32 +1785,16 @@ Author: c1d3r
 Name: PullOver Pro(rootless)-Netskao
 
 Package: com.daodao.rootless.bhtwitter
-Version: 4.0
-Architecture: iphoneos-arm64
-Maintainer: Bandar Alruwaili
-Depends: mobilesubstrate, ws.hbang.common (>= 2.0)
-Conflicts: com.bandarhl.rootless.bhtwitter
-Filename: rootless/BHTwitter(rootless)_4.0.deb
-Size: 807976
-MD5sum: 9ee736eaeb5981ad579c6bd580b998b1
-SHA1: 8211c973bd0e045b47f9efc86dd88eba316ef75c
-SHA256: c516d6e45657f93414ab26a8ab00abbc4ed212b84b6a7e3cec12d45754d40ceb
-Section: 嗨-工具
-Description: BHTwitter中文修复版，推特的功能性插件，设置就在推特本身设置里。
-Author: Bandar Alruwaili
-Name: BHTwitter(rootless)
-
-Package: com.daodao.rootless.bhtwitter
 Version: 4.2-1
 Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter
 Filename: rootless/BHTwitter 中文修复版(rootless).deb
-Size: 7611456
-MD5sum: 436d7d62e09049ecf3fd7a12c977c003
-SHA1: eea73fb0479780b923b495a52f633cf8c367bf59
-SHA256: cde2ec58f8c440ef899e8acf13d4b5e585547fe7e3f3a2c0c093f3fbf551092b
+Size: 7617660
+MD5sum: 5ce988e952f1e51b857dd5082413cb41
+SHA1: 5957e33a0cfc67d3b0c7bc0fe5355fa4b8eaa2f7
+SHA256: 99128b8a4e0bf70b2891a1159bb5d5632709a3adff5c074fb50cf0a3e288dd03
 Section: 嗨-工具
 Description: BHTwitter中文修复版，推特的功能性插件，设置就在推特本身设置里。
 Author: Bandar Alruwaili
