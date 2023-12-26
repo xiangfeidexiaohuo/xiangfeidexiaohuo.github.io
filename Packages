@@ -1093,15 +1093,15 @@ Architecture: iphoneos-arm
 Maintainer: CyPwn
 Depends: com.hk.termcolors (>= 2.0.7)
 Conflicts: xyz.cypwn.newterm3x, ws.hbang.Terminal3, ws.hbang.terminal3
-Filename: rootful/NewTerm 3(Xina).deb
-Size: 2619880
-MD5sum: acfab2a047194e1ab470ebad126cb3fe
-SHA1: 8637c1d71b9104d066506446dd94aff2950bb7b6
-SHA256: 59544cc86c05f3212ada60a2e30066ea250b4ea76dec6fcaeb9f3561864e40e3
+Filename: rootful/Xina1NewTerm3.deb
+Size: 1980000
+MD5sum: a6a3acb99433417a19c67216039d5af1
+SHA1: bf6bc04d07c94a3ce4b45277f8964b1a61cb02d7
+SHA256: fd073cb18d1d2db82d5468b7bd0b812e7bb6d7c3d8659f366a9e9a761de19b7e
 Section: 嗨-工具
-Description: Xina专版NewTerm3，配合Term Colors使用效果更佳。Xina用户千万不要更新Procursus源提示的三十几个依赖更新，千万别更新！！！
+Description: Xina1专版NewTerm3，Xina1用户千万不要更新Procursus源提示的三十几个依赖更新，千万别更新！！！
 Author: HASHBANG Productions
-Name: NewTerm 3(Xina)
+Name: NewTerm 3(Xina1)
 
 Package: com.hk.xkfilza
 Version: 0.0.1-23
