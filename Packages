@@ -96,7 +96,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: rootful/Akara 简体中文包.deb
+Filename: rootful/Akara_CN.deb
 Size: 6776
 MD5sum: 4762599649ee0cf628b9bcae738bb614
 SHA1: fb9097f16508d90076e82bb66d0d65867fea7677
