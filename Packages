@@ -956,22 +956,6 @@ Description: Translomatic 中文修复包。
 Author: 妖刀
 Name: Translomatic 中文修复包
 
-Package: com.hk.traurige.kayoko
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: Traurige <hello@traurige.dev>
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, com.hk.kayoko
-Filename: rootful/Kayoko_ORG.deb
-Size: 171380
-MD5sum: ad0439406c9242c04b6c9e83c3ee6372
-SHA1: 91790540b05b129d0815d5df297911831531473e
-SHA256: b25402535eb685b9cf636c54f4ecafea6f5369651d925f5cd2e71313c17c2d84
-Section: 嗨-工具
-Description: 剪切板插件，直接替代听写键，可直接翻译剪切板里的英文等。中文包在源内安装。
-Author: Traurige <hello@traurige.dev>
-Name: Kayoko官方版
-
 Package: com.hk.trollstore.cn
 Version: 2.0.1
 Architecture: iphoneos-arm
@@ -1702,22 +1686,6 @@ Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版(rootless)
 
-Package: com.daodao.kayoko
-Version: 1.4.1
-Architecture: iphoneos-arm64
-Maintainer: Traurige <hello@traurige.dev>
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, com.daodao.82.kayoko, com.skypain.kayoko
-Filename: rootless/Kayoko官方版(rootless).deb
-Size: 79480
-MD5sum: 625bcd8b024380ded627e6e8909055d7
-SHA1: 86dd3a876aa7a3aaa73257f1582b6b7ba42f5442
-SHA256: 5ca95ef44973e640abfb79fec114b66f2ff8efa47b2e589de5649c60fcd1fdf8
-Section: 嗨-系统
-Description: 剪切板插件，直接替代听写键，可直接翻译剪切板里的英文等。中文包在源内安装。
-Author: Traurige <hello@traurige.dev>
-Name: Kayoko官方版(rootless)
-
 Package: com.daodao.nocshare
 Version: 1.1.2-1
 Architecture: iphoneos-arm64
@@ -1907,16 +1875,16 @@ Author: aReo
 Name: AppProtect 隐私保护(rootless)
 
 Package: com.hk.apptools15rootless
-Version: 1.2.4
+Version: 1.2.5
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Depends: firmware (>=15.0), mobilesubstrate
 Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15
 Filename: rootless/AppTools15(rootless).deb
-Size: 196096
-MD5sum: 4f33de873226c0731839b987a63dc80b
-SHA1: bcf88c57c3046bb3a4dd77fcd30d2f12a56d02ea
-SHA256: 6ef7ebcda945ca6efc8b09a000b09679cb075f95c148a49e3ed09836179c46ba
+Size: 194828
+MD5sum: 2c4996f9554ae89568869899e93ed9f0
+SHA1: f650619eb912931dc60aea1e92e6c9e86ea74d92
+SHA256: 1295f381f1918148557650b16b3907f6ec5709ed0ba9620f90e97be994d3f6e0
 Section: 嗨-付费
 Description: AppTools for iOS15 Rootless，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，25元自行购买。和AppProtect一起打包购买，40元。
 Author: aReo
