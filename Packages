@@ -43,17 +43,17 @@ Author: 妖刀
 Name: Safari Plus 中文修复包
 
 Package: com.dao.kayoko
-Version: 2.0-1
+Version: 2.0.2
 Architecture: iphoneos-arm
 Maintainer: zp & 妖刀
-Installed-Size: 548
-Depends: firmware (>= 13.0), firmware (<< 16), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Installed-Size: 996
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
 Filename: rootful/Kayoko_ZH.deb
-Size: 63986
-MD5sum: 0da23b1275c61a2c882dd3883b356a5a
-SHA1: cd18536cf732b40bccc7371eb9eef683f62ff05f
-SHA256: c96aae48727180fdb70dfc4db0cb68926a4305edcf642e9e7ddaa6c628ab7a7d
+Size: 92224
+MD5sum: 41c9cebda56cee90a0a2b0ff65101d91
+SHA1: 80f20634cb4f1207c218b0ca08b30d8db659074e
+SHA256: 9fe8c64d049119392515d2136e7003e0d9235399e8f52828c7d24177dee0f26e
 Section: 嗨-工具
 Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，替换了听写键图标)，基本保持了原滋原味。
 Author: Alexandra Aurora Göttlicher
@@ -1426,17 +1426,17 @@ Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
 Name: Jade(rootless)
 
 Package: com.dao.kayoko
-Version: 2.0-1
+Version: 2.0.2
 Architecture: iphoneos-arm64
 Maintainer: zp & 妖刀
-Installed-Size: 548
-Depends: firmware (>= 13.0), firmware (<< 16), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Installed-Size: 996
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
 Filename: rootless/Kayoko 中文版(rootless).deb
-Size: 62706
-MD5sum: a545f54bb4d45011f7fbdad408badf07
-SHA1: 8b25a147ca577caf1813c8eb9f7e55c2db9cdcb0
-SHA256: 3e0f679af28199542a53af118ad89867b4069feda646a503e2cf7074e0d24b19
+Size: 92320
+MD5sum: 0d178177e0df974c90fbb6307c6be5d6
+SHA1: 85c3e0ec784cfe4904566ad22abeb9de6e955a96
+SHA256: 255303ed371f919aa8f8f809870759087a6dc70af4ef501c6884f3fab99f25f9
 Section: 嗨-工具
 Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，替换了听写键图标)，基本保持了原滋原味。
 Author: Alexandra Aurora Göttlicher
@@ -3070,17 +3070,17 @@ Author: 小果子
 Name: 威锋去广告(RootHide)
 
 Package: com.dao.kayoko
-Version: 2.0-1
+Version: 2.0.2
 Architecture: iphoneos-arm64e
 Maintainer: zp & 妖刀
-Installed-Size: 548
-Depends: firmware (>= 13.0), firmware (<< 16), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Installed-Size: 996
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
 Filename: roothide/Kayoko 中文版(RootHide).deb
-Size: 64018
-MD5sum: 26cbde44034ef722787387baef195126
-SHA1: 251625ccdb192af94072b270404669743741721b
-SHA256: 4eee6b87ba41c041c44f082d4a0de637f8266f9f6bfd471feebd1dbebe0f615d
+Size: 92268
+MD5sum: 88830e8ecd29e3d69fa744aaa2fb80a4
+SHA1: cd91ef2e698d1f0f986695621cb308a36f7fffcf
+SHA256: edd6c597ba383f83d5cc2cca5ebbe71d791d04737df8cdff313dc2b552d7299c
 Section: 嗨-工具
 Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，替换了听写键图标)，基本保持了原滋原味。
 Author: Alexandra Aurora Göttlicher
