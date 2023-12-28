@@ -1006,33 +1006,17 @@ Author: 妖刀
 Name: uYou 简体中文包
 
 Package: com.hk.velvet2
-Version: 2.1.2
-Architecture: iphoneos-arm
-Maintainer: NoisyFlake <support@noisyflake.com>
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2
-Filename: rootful/Velvet2.deb
-Size: 153606
-MD5sum: c6abb27b5159be955968394e8a68c9a8
-SHA1: 0bf20dbb9cf5e16cc5160aabdf1b8725ec9eff7c
-SHA256: 8b85879b5ae0d09237a7904948df74c195cf2e2a995ac63c7bd3f2ef039cd5ae
-Section: 嗨-工具
-Description: 完全可自由定制的通知横幅变色。
-Author: NoisyFlake <support@noisyflake.com>
-Name: Velvet 2
-
-Package: com.hk.velvet2
-Version: 2.1.5-1
+Version: 2.1.6
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 660
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl
 Filename: rootful/Velvet2_ZH.deb
-Size: 99772
-MD5sum: 09e9586ad956b0cfaeccc2ca8276215a
-SHA1: 08cc0910b9bc20a11edbbf867c34bfffdffee48a
-SHA256: 1ae9539ca39b9212abb09c97d99fc7c76a9613e8328cb19c7435579095dd92f4
+Size: 99774
+MD5sum: 7e897aac7b25cd77d91a47d81d1e6dd4
+SHA1: 065103bb48adb84060fe3597892cd74f49d1c09f
+SHA256: 3b8959947a0646efeaae10339b2d1688fc251c607068866bc562b8c54312fdbc
 Section: 嗨-工具
 Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
 Author: NoisyFlake
@@ -2706,17 +2690,17 @@ Description: 完全可自由定制的通知横幅，源内安装汉化包。
 Name: Velvet 2(rootless)
 
 Package: com.hk.rootless.velvet2
-Version: 2.1.5-1
+Version: 2.1.6
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 660
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl
 Filename: rootless/Velvet 2 中文版(rootless).deb
-Size: 99844
-MD5sum: e69eedbbf97910ff4c009cbf16d2efd3
-SHA1: 63ef279c7d56815fae12076806c268bba3aa7e3f
-SHA256: 35310d886d0f68c93bcc4b55841a2dcea0fc840143e89037c77b88cd7e82ddd3
+Size: 100056
+MD5sum: de3167c3d70620d842018a068ebaf5cc
+SHA1: 09cca09b58f0bb56b490dde8ece5eb7a60dbdafb
+SHA256: 2f053274a9238f2fcc13b69f4984fa9d9b263a5dbde07d56047c4865d7c5e1b4
 Section: 嗨-工具
 Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
 Author: NoisyFlake
@@ -3319,17 +3303,17 @@ Author: 妖刀
 Name: TrollStore 简体中文包(RootHide)
 
 Package: com.qms.velvet2
-Version: 2.1.5-1
+Version: 2.1.6
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Installed-Size: 660
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl
 Filename: roothide/Velvet 2 中文版(RootHide).deb
-Size: 99810
-MD5sum: 02cd8907c099da2ca34337e306a568d4
-SHA1: f541b470b6f9374f760ba0cab2eaaa6ae5b8d88f
-SHA256: be43e86310985ea5158a0474518eb2b222cb7f6a3861da77db82a302d18c9eec
+Size: 100050
+MD5sum: 6d1892b09bb46bd2c53d3a2d3f293f06
+SHA1: 9d0b4767fcaf6a9dc2bb1d245f079157c05d52be
+SHA256: 9afb1bfb2eb4e16c363ffb610ad0e5380a5656c075fe2b0334a97c438433c1bc
 Section: 嗨-工具
 Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
 Author: NoisyFlake
