@@ -203,17 +203,17 @@ Author: aReo
 Name: AppTools15
 
 Package: com.hk.april
-Version: 3.0
+Version: 3.0.1
 Architecture: iphoneos-arm
 Maintainer: 刀刀
-Installed-Size: 820
+Installed-Size: 832
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: com.midnightchips.bettersettings, me.luki.april
 Filename: rootful/April_ZH.deb
-Size: 393914
-MD5sum: 8059a519f299f759054a72f7698d5bb0
-SHA1: 03ee0746d034efcb6589f803afafadce7a58315c
-SHA256: 71aaf4037f1b083f7b7c1d61ca18e845587591c45b8b3f4cb3455bb0da5aea14
+Size: 392530
+MD5sum: 48bdaf762aac20ba14f6ede67ea9b745
+SHA1: 7a4b0bc59ad6444de849a1509e05357de222592c
+SHA256: d9f74e79bfe2d7a7e9a8aca1e51766b1c56cec9595f5000bc814196eba9c0f01
 Section: 嗨-工具
 Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
 Author: Luki
@@ -1249,17 +1249,17 @@ Author: Tr1Fecta & Kennyroo
 Name: Akara(rootless)
 
 Package: com.dao.april
-Version: 3.0
+Version: 3.0.1
 Architecture: iphoneos-arm64
 Maintainer: 刀刀
-Installed-Size: 820
+Installed-Size: 832
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: com.midnightchips.bettersettings, me.luki.april
 Filename: rootless/April 中文版(rootless).deb
-Size: 394220
-MD5sum: 560491b55335097d5b581c170360ba4b
-SHA1: 85f5af9e46ca2de87125600ae26b09110a6cbe71
-SHA256: 0dea2e458a87a5a05cd1558483935e64afba48656bc0663e94a0020bef4c1815
+Size: 392518
+MD5sum: b23f0312ea18f2b5c9f9568597609df0
+SHA1: 684f591cedb2ef45e5bfa77e8ed5ca213aa87226
+SHA256: 51b6d46f9d0d522fe3e77ce360450f5e0211f2c7b1944df320422468858a7eef
 Section: 嗨-工具
 Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
 Author: Luki
@@ -3104,17 +3104,17 @@ Author: Lillie
 Name: YTR 中文版(RootHide)
 
 Package: com.qms.april
-Version: 3.0
+Version: 3.0.1
 Architecture: iphoneos-arm64e
 Maintainer: 刀刀
-Installed-Size: 836
+Installed-Size: 832
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: com.midnightchips.bettersettings, me.luki.april
 Filename: roothide/April 中文版(RootHide).deb
-Size: 392428
-MD5sum: ff4283e3103c5cae5ed2d8549b3d9dce
-SHA1: 9cffa6034600e585319e14219bb0a7465cb7c0f6
-SHA256: e2a5e0f768b5d4bda1e254a606f423132b7effcc91fbf4513b4975e90a0ee6a2
+Size: 392456
+MD5sum: 22fcfc6a1fc895e1a0210135a46d6d0e
+SHA1: 4bd75ceeb219ea91b50571a6d17ee7d00db15403
+SHA256: d01761ac31ac50182f305e5ab7252af065325bffeef8710bba4a7297c7386543
 Section: 嗨-工具
 Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
 Author: Luki
