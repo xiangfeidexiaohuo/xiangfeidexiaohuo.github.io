@@ -993,14 +993,13 @@ Package: com.hk.velvet2
 Version: 2.1.6
 Architecture: iphoneos-arm
 Maintainer: 妖刀
-Installed-Size: 660
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl
 Filename: rootful/Velvet2_ZH.deb
-Size: 99774
-MD5sum: 7e897aac7b25cd77d91a47d81d1e6dd4
-SHA1: 065103bb48adb84060fe3597892cd74f49d1c09f
-SHA256: 3b8959947a0646efeaae10339b2d1688fc251c607068866bc562b8c54312fdbc
+Size: 99932
+MD5sum: f6c79caa9b497977f218f8eed14e21cf
+SHA1: afdb79663bff1af04ab559cd5dd9824794104f00
+SHA256: feb96a05e7c7df60a71979056d5222cf6b2dca7f5c27f7a4e34da885914e8f2a
 Section: 嗨-工具
 Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
 Author: NoisyFlake
