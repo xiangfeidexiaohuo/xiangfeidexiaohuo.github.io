@@ -268,17 +268,17 @@ Author: udevs
 Name: BattSafePro 中文增补包
 
 Package: com.hk.betteralarm
-Version: 1.4.5-1
+Version: 1.4.6
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 756
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
 Conflicts: com.noisyflake.betteralarm, com.hk.betteralarm.cn, com.hk.betteralarm.cn.rl
 Filename: rootful/BetterAlarm_ZH.deb
-Size: 297794
-MD5sum: 4c31a546c1f0ea9826eee2a58abfdf46
-SHA1: 08d361ffdd020959b156855ecd560f9322911f79
-SHA256: fc704dbf01e6c25691d1d57ff32ebb4310357f007081f86dd3aa9a29f0a38720
+Size: 295732
+MD5sum: bfc94abe84ae60d078b97f830608b5b6
+SHA1: 869903575ff557e86e51ada5bfeead6721766302
+SHA256: 8603cf4a9e73ba6a40b78e44059a54acda6b46a1c6be1600f807ae22f500fb46
 Section: 嗨-工具
 Description: 漂亮的定时器和闹钟提醒，根据开源编译。
 Author: NoisyFlake
@@ -1266,17 +1266,17 @@ Author: Luki
 Name: April 中文版(rootless)
 
 Package: com.dao.betteralarm
-Version: 1.4.5-1
+Version: 1.4.6
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 756
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
 Conflicts: com.noisyflake.betteralarm, com.hk.betteralarm.cn, com.hk.betteralarm.cn.rl
 Filename: rootless/BetterAlarm中文版(rootless).deb
-Size: 297870
-MD5sum: e8e8638254494010db4f0ae60fbe070f
-SHA1: 7a4ba81217390d7428c344a5d526ed73c34bb29c
-SHA256: bde8db696c0cc2abdf0bababa6ca290f2c56a000a1c2b74481c436e610e5f881
+Size: 295882
+MD5sum: 310f78bb0946a644c6ca38f2486c1ec9
+SHA1: f04cd60a62e3fdc5078e80cbee18322c800ae1d1
+SHA256: 5fe9a1bec07faf95faa3e70f0f4b578bcb4c5a51bbbe1d81e514856473802f73
 Section: 嗨-工具
 Description: 漂亮的定时器和闹钟提醒，根据开源编译。
 Author: NoisyFlake
@@ -3138,17 +3138,17 @@ Author: Nepeta & Baw Appie
 Name: Axon 中文版(RootHide)
 
 Package: com.qms.betteralarm
-Version: 1.4.5-1
+Version: 1.4.6
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Installed-Size: 756
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
 Conflicts: com.noisyflake.betteralarm, com.hk.betteralarm.cn, com.hk.betteralarm.cn.rl
 Filename: roothide/BetterAlarm中文版(RootHide).deb
-Size: 297818
-MD5sum: 9eda0f97c823c6db75042c88b30f46ed
-SHA1: f2954fc0afc046a640a98fbf8cb4f6a16dd0904d
-SHA256: 9e9b5bc56ac184cbdf4ec7972e2af0bba55e542c1d66915353dc2a619f74bc9e
+Size: 295812
+MD5sum: d5922b1f726fb597d4f5c4fbd125d410
+SHA1: 661582939771b9cc53167f1bea983bd078a3ca85
+SHA256: dbe2dc46e12012d7546366d70e244041c2ee2e2a345977ef72cb3fe2b9ca7ecf
 Section: 嗨-工具
 Description: 漂亮的定时器和闹钟提醒，根据开源编译。
 Author: NoisyFlake
