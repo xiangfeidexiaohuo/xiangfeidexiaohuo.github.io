@@ -110,6 +110,23 @@ Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff
 
+Package: com.dao.reverie
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: 刀刀
+Installed-Size: 864
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
+Filename: rootful/Reverie_ZH.deb
+Size: 99516
+MD5sum: 874b400e1d71c65649fe86ee0e1b994f
+SHA1: bed88cbf20275a48219e9b2b4928a82070fa4c55
+SHA256: 94942bdd489b0b271125af68c4a1df418a8dc39a629856197f47f929f3b8d89f
+Section: 嗨-工具
+Description: 自由的休眠设备来节省电量。
+Author: Paisseon
+Name: Reverie 中文版
+
 Package: com.dao.souvenir.cn
 Version: 1.25
 Architecture: iphoneos-arm
@@ -820,23 +837,6 @@ Description: PrimalFolder2 简体中文包。
 Author: 妖刀
 Name: PrimalFolder2 简体中文包
 
-Package: com.hk.reverie
-Version: 0.5
-Architecture: iphoneos-arm
-Maintainer: 刀刀
-Installed-Size: 864
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
-Conflicts: lilliana.reverie
-Filename: rootful/Reverie_ZH.deb
-Size: 99384
-MD5sum: b12347685c959557c58512f9c3bf6526
-SHA1: bc1883e0704c5d96b5722219cb88bd120debd791
-SHA256: 69e0bb33d9c10fd40c5cbfb61d72de57ed401c4f1fee364b531ae522c35ead22
-Section: 嗨-工具
-Description: 自由的休眠设备来节省电量。
-Author: Paisseon
-Name: Reverie 中文版
-
 Package: com.hk.rune.cn
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1542,17 +1542,17 @@ Author: ichitaso
 Name: PrimalFolder2(rootless)
 
 Package: com.dao.reverie
-Version: 0.5
+Version: 0.6
 Architecture: iphoneos-arm64
 Maintainer: 刀刀
 Installed-Size: 864
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
-Conflicts: lilliana.reverie
+Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
 Filename: rootless/Reverie 中文版(rootless).deb
-Size: 99594
-MD5sum: 50cd0a4fdac965587ef0bc0300335d15
-SHA1: 7948abe3132b6b4dd79504ba5e3f9c3999641190
-SHA256: 2c00b3295c1ea6bd8d0180edc5167b94f8cae077000d45d77bd7ec761a5a0bf6
+Size: 99462
+MD5sum: 479111b64e21b9cde4b69336a73c0cfc
+SHA1: 6a437b5324818111546fdaa625322ef00e28abbb
+SHA256: e85007bd2304ccba06d5bd67e8ea0027435fc9d5afd952497fe403038e675f92
 Section: 嗨-工具
 Description: 自由的休眠设备来节省电量。
 Author: Paisseon
@@ -3139,6 +3139,23 @@ Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff(RootHide)
 
+Package: com.dao.reverie
+Version: 0.6
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Installed-Size: 864
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
+Filename: roothide/Reverie 中文版(RootHide).deb
+Size: 99458
+MD5sum: e9bc2a56145a78f54fb3a6944d0de5b7
+SHA1: bb9c077d6ca769740dbfc164b2830c4d11987531
+SHA256: fdd276ba7be946f9b24a2a3f99c35b2535887fe8558da33c08aeb57f9f38fb3b
+Section: 嗨-工具
+Description: 自由的休眠设备来节省电量。
+Author: Paisseon
+Name: Reverie 中文版(RootHide)
+
 Package: com.dao.velvet2
 Version: 2.2
 Architecture: iphoneos-arm64e
@@ -3271,23 +3288,6 @@ Section: 嗨-系统
 Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
 Author: 妖刀
 Name: PurifyLine(RootHide)
-
-Package: com.qms.reverie
-Version: 0.5
-Architecture: iphoneos-arm64e
-Maintainer: 刀刀
-Installed-Size: 864
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
-Conflicts: lilliana.reverie
-Filename: roothide/Reverie 中文版(RootHide).deb
-Size: 99436
-MD5sum: 363a05b6fdda6e0138cf31511d8cec71
-SHA1: 93b4de246e44a6b58c89f9238aa5e997d0f08f38
-SHA256: e205fcb27cce1824a17f7dfa0fe082fceab10658e6d77b29dc407e3bfeecfb0b
-Section: 嗨-工具
-Description: 自由的休眠设备来节省电量。
-Author: Paisseon
-Name: Reverie 中文版(RootHide)
 
 Package: cpm.qms.storeswitcher
 Version: 1.2
