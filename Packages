@@ -42,6 +42,23 @@ Description: Safari Plus 中文修复包。
 Author: 妖刀
 Name: Safari Plus 中文修复包
 
+Package: com.dao.axon
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 648
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: rootful/Axon_ZH.deb
+Size: 141336
+MD5sum: f46ff4aae215d940d70cf09296e4f6a7
+SHA1: d2ddcf028ba7a483866b8a7bd72da872ee730103
+SHA256: fbb7834945b3d1edf036ad9fda41732bbe3977f5682545a186e56ee02dac2564
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，根据开源编译/汉化。
+Author: Nepeta & Baw Appie & alias
+Name: Axon 中文版
+
 Package: com.dao.betteralarm
 Version: 1.5
 Architecture: iphoneos-arm
@@ -269,23 +286,6 @@ Section: 嗨-工具
 Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
 Author: Luki
 Name: April 中文版
-
-Package: com.hk.axon
-Version: 1.5
-Architecture: iphoneos-arm
-Maintainer: Baw Appie & alias20 & 妖刀
-Installed-Size: 648
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon
-Filename: rootful/Axon_ZH.deb
-Size: 141414
-MD5sum: fba21d3b50a4ff99d2b5685b062a013a
-SHA1: 1abd3104a82897c48a5f776c5ec5f4ee98ec72ee
-SHA256: 966c23c156179f324afc4220850443fc21511cf13697c74db5de3c2de91dcfd7
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。
-Author: Nepeta & Baw Appie
-Name: Axon 中文版
 
 Package: com.hk.barmoji
 Version: 2023.3
@@ -1170,23 +1170,6 @@ Author: Nepeta & Baw Appie & XsF1re
 Name: Axon(rootless)
 Sponsor: Acreson <342080124@qq.com>
 
-Package: com.alias20.hk.axon
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: Baw Appie & alias20 & 妖刀
-Installed-Size: 648
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon
-Filename: rootless/Axon 中文版(rootless).deb
-Size: 141278
-MD5sum: 5de85c8862d87a93cf751f25007a0515
-SHA1: 125836216ca9cb5581ca6056445970b6b438804c
-SHA256: 490cbb6822c204178a6fa4c1a46d78ae0d44363ddc171122030782c9612aafda
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。
-Author: Nepeta & Baw Appie
-Name: Axon 中文版(rootless)
-
 Package: com.alucard.wifiqr.cn
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -1264,6 +1247,23 @@ Section: 嗨-工具
 Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
 Author: Luki
 Name: April 中文版(rootless)
+
+Package: com.dao.axon
+Version: 1.5.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 648
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: rootless/Axon 中文版(rootless).deb
+Size: 141610
+MD5sum: 6de964749d9c9ce191f7fbad00f9840b
+SHA1: c0935651b3eed78101fcb31af4aaa236dbf48cb5
+SHA256: d777e2725dd6ed0e1e16be35f91a11560070f8d598ce35db9e6a4164c00bcf45
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，根据开源编译/汉化。
+Author: Nepeta & Baw Appie & alias
+Name: Axon 中文版(rootless)
 
 Package: com.dao.betteralarm
 Version: 1.5
@@ -3071,6 +3071,23 @@ Description: 去除所有广告，无弹窗。
 Author: 小果子
 Name: 威锋去广告(RootHide)
 
+Package: com.dao.axon
+Version: 1.5.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 648
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: roothide/Axon 中文版(RootHide).deb
+Size: 141374
+MD5sum: e168a4846eb4ae52b9a7a1ad014cf566
+SHA1: 0615fb8fff02c1a36e3a08e8c3c484218c71b4e3
+SHA256: 585465e6ac223bf33e3c3f3d16897062bdce4dec48e53057d15144d25562a25c
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，根据开源编译/汉化。
+Author: Nepeta & Baw Appie & alias
+Name: Axon 中文版(RootHide)
+
 Package: com.dao.betteralarm
 Version: 1.5
 Architecture: iphoneos-arm64e
@@ -3204,23 +3221,6 @@ Section: 嗨-工具
 Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
 Author: Luki
 Name: April 中文版(RootHide)
-
-Package: com.qms.axon
-Version: 1.5
-Architecture: iphoneos-arm64e
-Maintainer: Baw Appie & alias20 & 妖刀
-Installed-Size: 648
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon
-Filename: roothide/Axon 中文版(RootHide).deb
-Size: 141214
-MD5sum: d239ad7f10aab75beb57d3cb0be84dc9
-SHA1: e47f508dac22831ac142ae46dfb18aa8e2344d8d
-SHA256: f13d79b3305447dc2c814a708ac4fc6a404dca78fe454e4962536d38c9f6a637
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。
-Author: Nepeta & Baw Appie
-Name: Axon 中文版(RootHide)
 
 Package: com.qms.cpudasher
 Version: 1.1
