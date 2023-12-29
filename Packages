@@ -110,6 +110,23 @@ Description: 剪切板插件，直接替代听写键。基于原作者重构的2
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版
 
+Package: com.dao.noline
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
+Filename: rootful/PurifyLine.deb
+Size: 3588
+MD5sum: 3ed78db1cd0a377e485269b9b9d0e448
+SHA1: a6ebd3f9329d08af8b180bfb5f822731a5b022f6
+SHA256: 4de4505fe260db6b61a103cc88797a19c11292d9caa5694efdd6340ecc06e5bd
+Section: 嗨-系统
+Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
+Author: 妖刀
+Name: PurifyLine
+
 Package: com.dao.powercuff
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -774,23 +791,6 @@ Description: 分享菜单中删除烦人的投送和联系人。i_82大佬修复
 Author: Devvix
 Name: NoCShare(iOS13-15)
 
-Package: com.hk.noline
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 168
-Depends: mobilesubstrate
-Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators
-Filename: rootful/PurifyLine.deb
-Size: 3342
-MD5sum: 02a0c5f06fef64f906f74bb876d5de2e
-SHA1: 067513c22e5f89f8c5e733853038022ab455dd89
-SHA256: a81ba7f8094f3788d41fcefa448523738609dace1c7105e8e6e99a22a8128dd3
-Section: 嗨-系统
-Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
-Author: 妖刀
-Name: PurifyLine
-
 Package: com.hk.onesettings.cn
 Version: 2.0
 Architecture: iphoneos-arm
@@ -1443,17 +1443,17 @@ Author: MTAC
 Name: Lynx 2(rootless)
 
 Package: com.dao.noline
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 168
 Depends: mobilesubstrate
-Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators
+Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
 Filename: rootless/PurifyLine(rootless).deb
-Size: 3410
-MD5sum: 63c4e91431d68ba3b6b9c59e621235f4
-SHA1: 0bf5ca72eacd5c2b882f7fc5c5c95381835547a3
-SHA256: a364c3538cf37b01999ddef95df2c5d10fef59948ed6f3fecffd7adb2e63c830
+Size: 3672
+MD5sum: f961e3bec214078a6909885762a26e0a
+SHA1: 81513b26c2a7369e1aaeb7ec79f60e8d4a6731e9
+SHA256: 5bb93a8730aee84f8c9dcbaf37f7eb894b5d59dd9bc26af2049bac09818c3f61
 Section: 嗨-系统
 Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
 Author: 妖刀
@@ -3122,6 +3122,23 @@ Description: 剪切板插件，直接替代听写键。基于原作者重构的2
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版(RootHide)
 
+Package: com.dao.noline
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
+Filename: roothide/PurifyLine(RootHide).deb
+Size: 3622
+MD5sum: e11dc62993425d66480eac1f1a1922f4
+SHA1: 17729cf339768574e7234b1ce162a7422aab4df9
+SHA256: 6e892fa982c31b27353afe3f89dc5c25614645a36901e66caee9c8750b43427e
+Section: 嗨-系统
+Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
+Author: 妖刀
+Name: PurifyLine(RootHide)
+
 Package: com.dao.powercuff
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -3254,23 +3271,6 @@ Section: 嗨-工具
 Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版(RootHide)
-
-Package: com.qms.noline
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 168
-Depends: mobilesubstrate
-Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators
-Filename: roothide/PurifyLine(RootHide).deb
-Size: 3378
-MD5sum: 620813b51af9828f21a52c180f105500
-SHA1: 62294f5e9f2e6a0743dc6bba1cd23fbc7fcfde48
-SHA256: 71ba487a5dcaff0af3fd7dbfe25a34e0838bb0b8ac3ff50daa3555a6c8a9654b
-Section: 嗨-系统
-Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
-Author: 妖刀
-Name: PurifyLine(RootHide)
 
 Package: cpm.qms.storeswitcher
 Version: 1.2
