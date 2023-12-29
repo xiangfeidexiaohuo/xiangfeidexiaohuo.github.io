@@ -1153,23 +1153,6 @@ Tag: purpose::daemon, role::enduser
 Author: saurik, Cannathea <csupport@cannathea.com>
 Name: AFC2(rootless)
 
-Package: com.alias20.hk.axon
-Version: 1.4-1
-Architecture: iphoneos-arm64
-Maintainer: Baw Appie
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, acreson.rootless.cj.axon, acreson.rootless.cj.axon.cn, com.rootless.hk.axon, me.nepeta.axon
-Filename: rootless/Axon(rootless).deb
-Size: 140936
-MD5sum: 8c91ae0cf5b0af7909398f6096b9edb6
-SHA1: 82243d66a79cfd969d04dd36b5d58a1d98e7a122
-SHA256: 38952c230961f1a6344659098d55ffb09876b116a97b868c481d5c3d0093ab54
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，XsF1re适配iOS15(rootless/Ellekit)，源内安装中文汉化包。
-Author: Nepeta & Baw Appie & XsF1re
-Name: Axon(rootless)
-Sponsor: Acreson <342080124@qq.com>
-
 Package: com.alucard.wifiqr.cn
 Version: 1.1-1
 Architecture: iphoneos-arm64
