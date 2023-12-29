@@ -42,6 +42,23 @@ Description: Safari Plus 中文修复包。
 Author: 妖刀
 Name: Safari Plus 中文修复包
 
+Package: com.dao.april
+Version: 3.0.2
+Architecture: iphoneos-arm
+Maintainer: 刀刀
+Installed-Size: 832
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings, me.luki.april, com.hk.april, com.qms.april
+Filename: rootful/April_ZH.deb
+Size: 392494
+MD5sum: cd7ae4774e91cfc3d59baeab9a2f8b40
+SHA1: 06960f9674e1543800062062b052305ad5d1cdb0
+SHA256: dba258ab63dc210f8ba222c03c895bdb73ab30db40c480364b9eb563e888cee7
+Section: 嗨-工具
+Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
+Author: Luki
+Name: April 中文版
+
 Package: com.dao.axon
 Version: 1.5.1
 Architecture: iphoneos-arm
@@ -286,23 +303,6 @@ Section: 嗨-工具
 Description: AppTools for iOS15，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，插件内自行购买。
 Author: aReo
 Name: AppTools15
-
-Package: com.hk.april
-Version: 3.0.1
-Architecture: iphoneos-arm
-Maintainer: 刀刀
-Installed-Size: 832
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Conflicts: com.midnightchips.bettersettings, me.luki.april
-Filename: rootful/April_ZH.deb
-Size: 392530
-MD5sum: 48bdaf762aac20ba14f6ede67ea9b745
-SHA1: 7a4b0bc59ad6444de849a1509e05357de222592c
-SHA256: d9f74e79bfe2d7a7e9a8aca1e51766b1c56cec9595f5000bc814196eba9c0f01
-Section: 嗨-工具
-Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
-Author: Luki
-Name: April 中文版
 
 Package: com.hk.barmoji
 Version: 2023.3
@@ -1215,17 +1215,17 @@ Author: Tr1Fecta & Kennyroo
 Name: Akara(rootless)
 
 Package: com.dao.april
-Version: 3.0.1
+Version: 3.0.2
 Architecture: iphoneos-arm64
 Maintainer: 刀刀
 Installed-Size: 832
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Conflicts: com.midnightchips.bettersettings, me.luki.april
+Conflicts: com.midnightchips.bettersettings, me.luki.april, com.hk.april, com.qms.april
 Filename: rootless/April 中文版(rootless).deb
-Size: 392518
-MD5sum: b23f0312ea18f2b5c9f9568597609df0
-SHA1: 684f591cedb2ef45e5bfa77e8ed5ca213aa87226
-SHA256: 51b6d46f9d0d522fe3e77ce360450f5e0211f2c7b1944df320422468858a7eef
+Size: 392674
+MD5sum: c46f986641d7ce6912eaa6753bdc4504
+SHA1: 5777876a983b411ec01a7a85adbf1ea3199f39c5
+SHA256: 564e9d1c8ef177f6a964d70b09e0c8193a7859a6f0ac3e852281df113ddff917
 Section: 嗨-工具
 Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
 Author: Luki
@@ -3054,6 +3054,23 @@ Description: 去除所有广告，无弹窗。
 Author: 小果子
 Name: 威锋去广告(RootHide)
 
+Package: com.dao.april
+Version: 3.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Installed-Size: 832
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings, me.luki.april, com.hk.april, com.qms.april
+Filename: roothide/April 中文版(RootHide).deb
+Size: 392550
+MD5sum: a5c25dfdf910e4b928bad7e120c27d9a
+SHA1: a330f4128cac01270f13515713172470f3517460
+SHA256: 4b6f9d63cd52ee0e99142289d28bd3c52fd82c342b90ab7dd9f8de898afbb9b6
+Section: 嗨-工具
+Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
+Author: Luki
+Name: April 中文版(RootHide)
+
 Package: com.dao.axon
 Version: 1.5.1
 Architecture: iphoneos-arm64e
@@ -3204,23 +3221,6 @@ Section: 嗨-汉化
 Description: uYou 简体中文包(RootHide)。
 Author: 妖刀
 Name: uYou 简体中文包(RootHide)
-
-Package: com.qms.april
-Version: 3.0.1
-Architecture: iphoneos-arm64e
-Maintainer: 刀刀
-Installed-Size: 832
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Conflicts: com.midnightchips.bettersettings, me.luki.april
-Filename: roothide/April 中文版(RootHide).deb
-Size: 392456
-MD5sum: 22fcfc6a1fc895e1a0210135a46d6d0e
-SHA1: 4bd75ceeb219ea91b50571a6d17ee7d00db15403
-SHA256: d01761ac31ac50182f305e5ab7252af065325bffeef8710bba4a7297c7386543
-Section: 嗨-工具
-Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
-Author: Luki
-Name: April 中文版(RootHide)
 
 Package: com.qms.cpudasher
 Version: 1.1
