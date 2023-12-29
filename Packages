@@ -28,6 +28,21 @@ Description: CopyLog 简体中文包。
 Author: Ball
 Name: CopyLog 简体中文包
 
+Package: com.crack.callbarx
+Version: 0.3-68k
+Architecture: iphoneos-arm
+Maintainer: Elias Limneos
+Depends: mobilesubstrate, preferenceLoader
+Filename: rootful/CallBarXCrack.deb
+Size: 142000
+MD5sum: 28bc005013cc232031bf49bf8286b935
+SHA1: 645d10677c5b192a9b7386cf7c0d869fbebff584
+SHA256: 5b28d5f4a7dd0fb8754dfd07e33c4c3b816773ab9f59abc6673bf9c20cb502f8
+Section: 嗨-破解
+Description: CallBar X 破解版，汉化包源内有。
+Author: Elias Limneos
+Name: CallBar X Crack
+
 Package: com.crack.safariplus.cn
 Version: 1.7.22
 Architecture: iphoneos-arm
@@ -41,6 +56,21 @@ Section: 嗨-汉化
 Description: Safari Plus 中文修复包。
 Author: 妖刀
 Name: Safari Plus 中文修复包
+
+Package: com.crak.callbarx.cn
+Version: 0.3-68
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Depends: mobilesubstrate
+Filename: rootful/CallBarX_CN.deb
+Size: 2552
+MD5sum: 76a1210c356e1958a4b7da6f7fdedf66
+SHA1: c45ba36ac8ff65a14841d83fbacd0eb7c2da9d37
+SHA256: 514785fb23a7140d3d35cd1979207f69831ca281b0019afbea96e83914c978eb
+Section: 嗨-汉化
+Description: CallBar X 简体中文包。
+Author: Sandy0&妖刀
+Name: CallBar X 简体中文包
 
 Package: com.dao.april
 Version: 3.0.2
@@ -449,6 +479,21 @@ Author: Sandy0 & Ball
 Name: BioProtect XS 简体中文包
 Sponsor: Sandy0 & Ball
 
+Package: com.hk.callbarxs12.cn
+Version: 4.0-17
+Architecture: iphoneos-arm
+Maintainer: Sandy0、妖刀
+Depends: mobilesubstrate
+Filename: rootful/CallBarXS_CN.deb
+Size: 8016
+MD5sum: 1e8367d2a49e6b4605020bfac621e19b
+SHA1: 9d68d8f9e3d38b1c709d9abd1fbd471cbae46baa
+SHA256: dcf944eae446e72a5ccf48d1b26e5db602c41566059be66ec2ecdd1758383125
+Section: 嗨-汉化
+Description: CallBar XS 简体中文包。
+Author: Sandy0、妖刀
+Name: CallBar XS 简体中文包
+
 Package: com.hk.cask3.cn
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -539,6 +584,21 @@ Section: 嗨-破解
 Description: 破解Nicegram Premium，自由使用翻译等功能。
 Author: Randy420
 Name: Nicegram高级版
+
+Package: com.hk.dockx.cn
+Version: 2.4.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/DockX_CN.deb
+Size: 8420
+MD5sum: a4e213d00ee234720f9634b65508b6c3
+SHA1: 2aac7e180822ea47c1dd0713cc9441e7bbb99de4
+SHA256: 101c0160bfe0ad276be359c044a463f2ff1ac19ba5b08d18bbeffbd563e4247d
+Section: 嗨-汉化
+Description: DockX 简体中文包。插件源https://udevsharold.github.io/repo/
+Author: 妖刀
+Name: DockX 简体中文包
 
 Package: com.hk.dotto+
 Version: 1.0.6
