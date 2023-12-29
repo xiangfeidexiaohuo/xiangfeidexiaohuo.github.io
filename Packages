@@ -991,16 +991,16 @@ Author: 妖刀
 Name: TrollStore 简体中文包
 
 Package: com.hk.uyou.cn
-Version: 3.0-1
+Version: 3.0.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: rootful/uYou_CN.deb
-Size: 22392
-MD5sum: a5995eb1219e710d5faa814a112ed8bb
-SHA1: ac79a3baefcc12535933440d28122a83e5bddc49
-SHA256: d85ff0342f5480896e1d15c34b210b32b12601b67dbd213c198fd0b1d3178573
+Size: 12284
+MD5sum: d2e8d8ee7592abda49b903ecde2f4169
+SHA1: d2f127844429066f77cc7f946d41e9bfd1e20d30
+SHA256: 7973b14a84607f0a8335a27ffc76b9f7c47e15b55cb7aea8aaedf358aa6c2b74
 Section: 嗨-汉化
 Description: uYou 简体中文包。
 Author: 妖刀
@@ -2963,15 +2963,16 @@ Author: 妖刀
 Name: UnderDock 简体中文包(rootless)
 
 Package: com.hk.uyou.cn.rl
-Version: 3.0-1
+Version: 3.0.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
+Installed-Size: 184
 Depends: mobilesubstrate
 Filename: rootless/uYou 简体中文包(rootless).deb
-Size: 12632
-MD5sum: 8f0c70e1ed23d5b42a55387066d38d06
-SHA1: 99d975a5abb3c1083217b14a76cd9d9175f6a7f4
-SHA256: 064b0e331ce4180566e2f95420bce0152258e2091fba04a73a2bfe12559a7d22
+Size: 12384
+MD5sum: e9f4219354b1af2cfc6de4aa196d3bd9
+SHA1: fced639414634481cf01888950e8b2ce93d419a9
+SHA256: dd4c2ebfd3d4344f3ecbd7fb2f92cc059b2912cfcb56c168c2bff6c4d04ff965
 Section: 嗨-汉化
 Description: uYou 简体中文包(rootless)。
 Author: 妖刀
@@ -3153,6 +3154,22 @@ Section: 嗨-工具
 Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
 Author: Lillie
 Name: YTR 中文版(RootHide)
+
+Package: com.hk.uyou.cn.rl
+Version: 3.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: roothide/uYou 简体中文包(RootHide).deb
+Size: 12322
+MD5sum: c5970e63f41c6b26d2e462970269c6a7
+SHA1: e800d429f2705583c12fbe77874816083e62614c
+SHA256: 501862656e347c66aa10fa1881c4ee057b1f82568bbe507ad61fec91eb4d5a19
+Section: 嗨-汉化
+Description: uYou 简体中文包(RootHide)。
+Author: 妖刀
+Name: uYou 简体中文包(RootHide)
 
 Package: com.qms.april
 Version: 3.0.1
