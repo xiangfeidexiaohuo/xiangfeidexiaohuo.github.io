@@ -3155,6 +3155,23 @@ Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中�
 Author: Lillie
 Name: YTR 中文版(RootHide)
 
+Package: com.hk.trollstore.cn.rl
+Version: 2.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Conflicts: com.qms.trollstore.cn
+Filename: roothide/TrollStore 简体中文包(RootHide).deb
+Size: 12262
+MD5sum: 863fe757d1a6ae711779ddaf990d3fdf
+SHA1: 30472ab3b4b898c8c1af8c5898a2f9fb6fecbf61
+SHA256: 9a06bd8b566c43f584287a9e21bdff0b46883561ace128c127b9d685c75e83a7
+Section: 嗨-汉化
+Description: TrollStore 简体中文包(RootHide)。
+Author: 妖刀
+Name: TrollStore 简体中文包(RootHide)
+
 Package: com.hk.uyou.cn.rl
 Version: 3.0.1
 Architecture: iphoneos-arm64e
@@ -3271,22 +3288,6 @@ Section: 嗨-工具
 Description: 自由的休眠设备来节省电量。
 Author: Paisseon
 Name: Reverie 中文版(RootHide)
-
-Package: com.qms.trollstore.cn
-Version: 2.0.1
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 184
-Depends: mobilesubstrate
-Filename: roothide/TrollStore 简体中文包(RootHide).deb
-Size: 12242
-MD5sum: 00bd9d014fd087ca71c955d0e0547e44
-SHA1: 1c6f6f1b7dcf2e0d38c2533f03b1c38f4138f05e
-SHA256: eafa384ec0c98c78da13f30941220ca56e29bfdc31a88c6e5b22e3e5393268e9
-Section: 嗨-汉化
-Description: TrollStore 简体中文包(RootHide)。
-Author: 妖刀
-Name: TrollStore 简体中文包(RootHide)
 
 Package: cpm.qms.storeswitcher
 Version: 1.2
