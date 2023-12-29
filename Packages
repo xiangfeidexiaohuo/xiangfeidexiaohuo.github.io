@@ -59,6 +59,23 @@ Description: 剪切板插件，直接替代听写键。基于原作者重构的2
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版
 
+Package: com.dao.powercuff
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 刀刀源
+Installed-Size: 180
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.rpetrich.powercuff, com.hk.powercuff, com.qms.powercuff, byg.iosios.net.powercuff
+Filename: rootful/Powercuff.deb
+Size: 14224
+MD5sum: 8ef009d07fac1940dc995143fd30b588
+SHA1: 31874f440578396057583a71eccf84d8325dc5c3
+SHA256: 9afcd70f47f25c6e518671c53fa452f55ceb2731cea22cebd389daff2270cb2d
+Section: 嗨-工具
+Description: 节能插件，效果自测，重新编译。
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Name: Powercuff
+
 Package: com.dao.souvenir.cn
 Version: 1.25
 Architecture: iphoneos-arm
@@ -786,22 +803,6 @@ Description: PrimalFolder2 简体中文包。
 Author: 妖刀
 Name: PrimalFolder2 简体中文包
 
-Package: com.hk.powercuff
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 刀刀源
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
-Filename: rootful/Powercuff.deb
-Size: 14124
-MD5sum: 2f02de56054f5ebcab65220b866685d3
-SHA1: c2b336a31906114e5d9c8453a16091ea3f1276dd
-SHA256: 9593432dbb16c6c124cf179e8729a3e517a94eca53c2d1325358d94248391e7e
-Section: 嗨-工具
-Description: 节能插件，效果自测，重新编译。
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Name: Powercuff
-
 Package: com.hk.reverie
 Version: 0.5
 Architecture: iphoneos-arm
@@ -1507,17 +1508,17 @@ Author: Nightwind <nightwinddev@gmail.com>
 Name: OneSettings(rootless)
 
 Package: com.dao.powercuff
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: 刀刀源
-Installed-Size: 176
+Installed-Size: 180
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
+Conflicts: com.rpetrich.powercuff, com.hk.powercuff, com.qms.powercuff, byg.iosios.net.powercuff
 Filename: rootless/Powercuff(rootless).deb
-Size: 14142
-MD5sum: 01f6d2600dc8d423e2dfbfb9fdd4cb4f
-SHA1: a2da034db25a9b1959be909a94eea0c2e6864d1b
-SHA256: 63b29a06ce93acf4573828735680a720b4aff8b1efa3cf55d8846e51be874f9c
+Size: 14292
+MD5sum: 99c79c4086d1e2fb214df2c76b70d9ee
+SHA1: daf2b822b21cffef58065fe587bd6771058c6658
+SHA256: 145ebe6b154c3b5250099c86774843e000e9cb3fe86231d3a57c82d72f332af6
 Section: 嗨-工具
 Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
@@ -3085,6 +3086,23 @@ Description: 剪切板插件，直接替代听写键。基于原作者重构的2
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版(RootHide)
 
+Package: com.dao.powercuff
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀源
+Installed-Size: 180
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Conflicts: com.rpetrich.powercuff, com.hk.powercuff, com.qms.powercuff, byg.iosios.net.powercuff
+Filename: roothide/Powercuff(RootHide).deb
+Size: 14250
+MD5sum: 4ea18b6640cf247b42b31cfa6ae33fc7
+SHA1: e91a20eb056b93df0b678ce0db6b5259d300150b
+SHA256: c68a9f63e9d434763d6752afaf67dc3d7cf0a85601a154cd646cbfc7e19a7c95
+Section: 嗨-工具
+Description: 节能插件，效果自测，重新编译。
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Name: Powercuff(RootHide)
+
 Package: com.dao.youtubereborn
 Version: 4.1.2
 Architecture: iphoneos-arm64e
@@ -3201,22 +3219,6 @@ Section: 嗨-系统
 Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
 Author: 妖刀
 Name: PurifyLine(RootHide)
-
-Package: com.qms.powercuff
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: 刀刀源
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Conflicts: com.rpetrich.powercuff, byg.iosios.net.powercuff
-Filename: roothide/Powercuff(RootHide).deb
-Size: 14144
-MD5sum: 27983209ec1421a10377e4adf3500e24
-SHA1: 8955c5dbc8b832e734ffb72f16ef2e008d994f06
-SHA256: 072502c12ca0da13d10fc2d5458ea895d7f3af6916de2ef759fcb3892a671e97
-Section: 嗨-工具
-Description: 节能插件，效果自测，重新编译。
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Name: Powercuff(RootHide)
 
 Package: com.qms.reverie
 Version: 0.5
