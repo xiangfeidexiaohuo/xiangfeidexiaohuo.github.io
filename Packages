@@ -714,33 +714,17 @@ Package: com.hk.kayoko
 Version: 1.2-3
 Architecture: iphoneos-arm
 Maintainer: Traurige <hello@traurige.dev>
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
-Conflicts: dev.traurige.kayoko, com.hk.traurige.kayoko
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: dev.traurige.kayoko, com.hk.traurige.kayoko, com.dao.kayoko
 Filename: rootful/Kayoko_Mod.deb
-Size: 202868
-MD5sum: 7dee1b2d3f83d83943e59981d0c87f34
-SHA1: fb5862422b23ad08d70d2d6acdbd465ea6dd8c21
-SHA256: 512384a4fb4e68db955292b6b280a4c34d74b667f51e40faccf1ef21fada6df1
+Size: 121096
+MD5sum: f2fcfd90544426bd4d52ad129f110912
+SHA1: b2b3359a921a1263eed7e1456a563721d234bbc1
+SHA256: cbed7fa804ce152bc448468df0ac042419725d25e350749f3656a02679579c43
 Section: 嗨-工具
 Description: 适用于iOS13~15的剪切板插件，剪切板里的英文可直接翻译等，汉化包在源内。v1.2x版本为某大佬修改编译版本，修改日志：1、加了个高度、音效、振动反馈；2、听写图标改成了剪贴板图标；3、按钮配色换了；4、修了个收藏夹切回来，原本内容无法正常显示的Bug；5、优化了条目删除或者移动时候的动画效果；6、修复了其他bug；7、修复了偶发粘贴失败的情况；8、加了个禁用粘贴浮动提示的功能；9、iOS14及以下不修改听写图标(修改会有问题)。
 Author: Traurige <hello@traurige.dev>
 Name: Kayoko编译版
-
-Package: com.hk.kayoko
-Version: 1.4.1-2
-Architecture: iphoneos-arm
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, com.hk.traurige.kayoko, com.skypain.kayoko, com.hk.kayoko.cn
-Filename: rootful/Kayoko_MOD.deb
-Size: 122616
-MD5sum: 9983711a9b208425980b7e0b85a1af44
-SHA1: 915e2e815f8dd3bf0bb829347925ccc8e77c768b
-SHA256: 28cd5928465982a5d1a997caab4ff0387b5044426871aea228a02d674061cc8f
-Section: 嗨-工具
-Description: 剪切板插件，直接替代听写键，可直接翻译剪切板里的英文等。Skypain大佬基于Traurige和Lessica的开源项目，编译适配rootless，Lessica大佬版本特性(可修改高度，音效、振动等)和一些优化修复等，已包含中文包。
-Author: Traurige&Lessica
-Name: Kayoko魔改版
 
 Package: com.hk.kayoko.cn
 Version: 1.2-3
