@@ -303,16 +303,16 @@ Author: 妖刀
 Name: Ampere 简体中文包
 
 Package: com.hk.appprotect
-Version: 1.8.1
+Version: 1.8.4
 Architecture: iphoneos-arm
 Maintainer: aReo
 Depends: mobilesubstrate,preferenceloader
 Conflicts: com.flex2areo.appprotect
 Filename: rootful/AppProtect.deb
-Size: 310184
-MD5sum: f32a3925cf624df9095c706864cb9c2e
-SHA1: 97772c20551c4b75121ef4c3af7a6931544acba0
-SHA256: 494f5d0db3783e3e12b6fac7dfd20cbb03b6ee1dff57d2d0cbaee5e253c0b597
+Size: 322648
+MD5sum: 725df3ae0ae2d2a1431ae44e24710ea2
+SHA1: 5552bfd5463be7cfee2ce36c69ac4666ed0eb6b2
+SHA256: d46546dee36ea97113c4a08c045ed4f0d23ed0bf1ac417000d084f44dd41e8ba
 Section: 嗨-工具
 Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
 Author: aReo
@@ -1886,16 +1886,16 @@ Author: 妖刀
 Name: Ampere 简体中文包(rootless)
 
 Package: com.hk.appprotectrootless
-Version: 1.8.1
+Version: 1.8.4
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Depends: mobilesubstrate,preferenceloader
 Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless
 Filename: rootless/AppProtect 隐私保护(rootless).deb
-Size: 156908
-MD5sum: f35e79c4c979d6beb7198f12e9e0359c
-SHA1: fa06da0897eb0908d8d43db6c7d476c770972a70
-SHA256: 11f795d25d02822fc5e64d3ebe28168f9a0a7fdc1f9c7fabf9855c58503e6521
+Size: 161056
+MD5sum: 1d979347932c231e8f9de79fe246b6fb
+SHA1: 1ce72df4de0ee61dc288be78987275517d832d62
+SHA256: a6fe368f3d25f4cdc6597f3bcda597bd2eec246f510f440f8ed88d88dbe44eda
 Section: 嗨-付费
 Description: 一款强大的App隐私保护插件，系付费插件，25元自行购买。和AppTools一起打包购买，40元。
 Author: aReo
