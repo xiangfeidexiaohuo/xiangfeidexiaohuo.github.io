@@ -13,21 +13,6 @@ Description: 虚拟定位，模拟WiFI，查看WIFI密码等，不像新版需�
 Author: Daniu大牛
 Name: Daniu大牛 (只支持10.x)
 
-Package: cn.crack.priorityhub.cn
-Version: 0.0.8-1
-Architecture: iphoneos-arm
-Maintainer: null
-Filename: rootful/PriorityHub_CN.deb
-Size: 2916
-MD5sum: 789ee5fa43c5636f99470173c1156429
-SHA1: 5245beeb43e9d1bcb48e9cbede5c0b505fa79535
-SHA256: f11a3426e896e489c11efb0a5ef9f30db24f84904e37e1c2478482015ea9e651
-Section: 嗨-汉化
-Priority: standard
-Description: Priority Hub 简体中文包。
-Author: Sandy0&妖刀
-Name: Priority Hub 简体中文包
-
 Package: cn.hk.opennotifier12.cn
 Version: 2.6.0
 Architecture: iphoneos-arm
@@ -90,6 +75,22 @@ Section: 嗨-汉化
 Description: Delta 模拟器简体中文包。支持最新版本1.3。改善了由于14系统限制导致汉化引起卡死的问题。Alucard汉化编译。
 Author: Hi客
 Name: Delta 简体中文包
+
+Package: com.alucard.loupe.cn
+Version: 1.1.0-1
+Architecture: iphoneos-arm
+Maintainer: Alucard
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: rootful/Loupe_CN.deb
+Size: 4132
+MD5sum: a308fa30cdced7bf0192af399e396b59
+SHA1: a38b1dc6146ff73c8c6701accb524c0a7c2e5b2a
+SHA256: 52a4a855862b6738bbf05ba2f737741c17a338db1eff3e395c01e3a0b441b78b
+Section: 嗨-汉化
+Description: Loupe 简体中文包；Alucard汉化；文本字段的放大镜；在iOS 14上复活放大镜；该软件包经过测试可在iOS 14.3上运行；在较低的iOS版本上可不起作用。官方源：https://udevsharold.github.io/repo/
+Author: Alucard
+Name: Loupe 简体中文包
 
 Package: com.anvem.top.nappytime14.cn
 Version: 1.1.2
@@ -180,6 +181,20 @@ Description: Anisette 简体中文包！Anisette 介绍：在屏幕右则显示:
 Author: Ball <ball@hackcn.net>
 Name: Anisette 简体中文包
 
+Package: com.ball.ants.cn
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/Ants_CN.deb
+Size: 1828
+MD5sum: b6370354b028a26f12fe7c2d2d390c88
+SHA1: 4c4495a0446e3fc4b5218ff8441bfb5e99ce824f
+SHA256: e80575dc29830933a90558d7cb4498b7b5569121130b1bff7a7ed92df5c686bf
+Section: 嗨-汉化
+Description: Ants 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: Ants 简体中文包
+
 Package: com.ball.askbeforecallingtoo11.cn.zh
 Version: 1.0.0~beta18-6
 Architecture: iphoneos-arm
@@ -237,6 +252,21 @@ Description: BaseBadges 简体中文包！BaseBadges 介绍：在各种基础，
 Author: Ball <ball@hackcn.net>
 Name: BaseBadges 简体中文包
 
+Package: com.ball.better3dmenus.ch.ch
+Version: 2.0-85
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/better3DMenus_CN.deb
+Size: 1932
+MD5sum: 60bb7751901ac3b884168fa873796b55
+SHA1: b86d73a7a1c15234bc6427345dca8e6c61c52474
+SHA256: 29737dc05e44bd536d5fd83a9d655b4ee3bdf169ecf1c706bd9355a8003fab93
+Section: 嗨-汉化
+Description: better3DMenus 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: better3DMenus 简体中文包
+
 Package: com.ball.bettertelegram.ch.cn
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -252,6 +282,20 @@ Description: BetterTelegram 简体中文包。
 Author: Ball
 Name: BetterTelegram 简体中文包
 
+Package: com.ball.coalesce.cn
+Version: 0.2.6
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/Coalesce_CN.deb
+Size: 1524
+MD5sum: cd8b0e0d3a22b5b8db69f887813a6057
+SHA1: 45919bad683d92ce8a4294d69a100ec1483bdc1e
+SHA256: 8f5ce4d71e04d38f8afa982492702afa11517da7105b0e10c6d2cf65e249df42
+Section: 嗨-汉化
+Description: Coalesce 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: Coalesce 简体中文包
+
 Package: com.ball.copylog.cn
 Version: 1.5.6-3
 Architecture: iphoneos-arm
@@ -266,6 +310,36 @@ Section: 嗨-汉化
 Description: CopyLog 简体中文包。
 Author: Ball
 Name: CopyLog 简体中文包
+
+Package: com.ball.cornuicopia.ch.ch
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Cornuicopia_CN.deb
+Size: 2596
+MD5sum: 939f7c85f7cdee617ea3ca37f10cd52f
+SHA1: 7bbb52cb1d81babd1f01e0045e877de2902f22ba
+SHA256: 27b9cc61a76a45c207968d6eb0eed330cae06b17b205166ca59a27e080abd2a4
+Section: 嗨-汉化
+Description: Cornuicopia 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: Cornuicopia 简体中文包
+
+Package: com.ball.crack.strongerfi.cn
+Version: 1.0.0~beta5
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>=9.0), mobilesubstrate
+Filename: rootful/StrongerFi_CN.deb
+Size: 3652
+MD5sum: 058682678d7133245b47c220e8d156e2
+SHA1: 053d65d955174422d2373bdee7890146e2980e9d
+SHA256: c1f0cbb8713bc12cf2e799dfa17cdb6d05ca81d89832e8178ee1b97e4e58bbed
+Section: 嗨-汉化
+Description: Strongerfi 简体中文包。
+Author: Ball & 妖刀
+Name: StrongerFi 简体中文包
 
 Package: com.ball.deluminator.cn
 Version: 2.1.2
@@ -324,6 +398,20 @@ Description: EasyDialer 简体中文包。
 Author: Ball <434479917@qq.com>
 Name: EasyDialer 简体中文包
 
+Package: com.ball.easydock.cn
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/EasyDock_CN.deb
+Size: 1784
+MD5sum: ed89ba9706eb8e5c870167e312e05f4b
+SHA1: d53c6f384343aa54ec220056b15c8e4ef9acc684
+SHA256: 1008624baa805690c5a95dede8ac454e839ec39a1d9cbcb392b67e07a6fac2e0
+Section: 嗨-汉化
+Description: EasyDock 简体中文包 。
+Author: Ball <434479917@qq.com>
+Name: EasyDock 简体中文包
+
 Package: com.ball.edge.cn
 Version: 1.0b2
 Architecture: iphoneos-arm
@@ -351,6 +439,21 @@ Section: 嗨-汉化
 Description: Epicentre (iOS 11) 简体中文包。
 Author: Ball <434479917@qq.com>
 Name: Epicentre (iOS 11)简体中文包
+
+Package: com.ball.ermete.ch.cn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Ermete_CN.deb
+Size: 2372
+MD5sum: 470b31fb2a0cc4f718d159448d261a07
+SHA1: 2cf26214d2ccd444a9ed97054a77c02f89a7602f
+SHA256: 0d45775f08db22deef9c23c52e81aeb3e94ac68ad9f9cde082c33afe8dcba1b2
+Section: 嗨-汉化
+Description: Ermete 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: Ermete 简体中文包
 
 Package: com.ball.exsto.cn
 Version: 0.0.1.2-1
@@ -425,6 +528,21 @@ Description: Gif2Ani 简体中文包。
 Author: Ball <434479917@qq.com>
 Name: Gif2Ani 简体中文包
 
+Package: com.ball.goodges.zh.cn
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Goodges2_CN.deb
+Size: 4576
+MD5sum: 6b5f7d054c097a5be4379fd53ee77109
+SHA1: 5fd8ea009a820c5001cbcd03c39891ec74eef802
+SHA256: 27036796bc8bdfefac41d19a48589288d4a07babefd11eca087beece4dfbe03f
+Section: 嗨-汉化
+Description: Goodges 2 简体中文包。
+Author: Ball
+Name: Goodges 2 简体中文包
+
 Package: com.ball.haystack.cn
 Version: 1.6.1
 Architecture: iphoneos-arm
@@ -498,6 +616,20 @@ Description: Lace 2 简体中文包。
 Author: Ball <434479917@qq.com>
 Name: Lace 2 简体中文包
 
+Package: com.ball.messagebubbles.cn
+Version: 0.2.2-1
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/MessageBubbles_CN.deb
+Size: 2724
+MD5sum: 8c5b2d5555703689d4ff9f16acacb31d
+SHA1: 19debb7a0712ef7e2cccd1ed6fd47c7a200d0dfd
+SHA256: 9c672a736fefd789258af744598002bf32342d803701e4dcc3b76fed221ab9ab
+Section: 嗨-汉化
+Description: MessageBubbles 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: MessageBubbles 简体中文包
+
 Package: com.ball.miscsttings.zh.cn
 Version: 2.4.0
 Architecture: iphoneos-arm
@@ -525,6 +657,36 @@ Section: 嗨-汉化
 Description: NextAlarm12 简体中文包！NextAlarm12介绍：闹钟增强插件
 Author: Ball
 Name: NextAlarm12 简体中文包
+
+Package: com.ball.nightshade.ch.cn
+Version: 0.0.1-93+debug
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Nightshade_CN.deb
+Size: 1808
+MD5sum: ae68994384fcf35a1feca505deff4988
+SHA1: bdfc90c1f1d84fff51316b5d0b3b3c353174fcd2
+SHA256: 4fd12d934362037f5dac53d62936b77f7470b948d0a2e82644ddb0f733da8e3a
+Section: 嗨-汉化
+Description: Nightshade 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: Nightshade 简体中文包
+
+Package: com.ball.palert.ch.cn
+Version: 1.1.0-2
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 10.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Palert_CN.deb
+Size: 1636
+MD5sum: f599262cde2668fbb8041b5900917f32
+SHA1: d77bdea1fd8db5603b6cd158c7b4202fe420111c
+SHA256: e5a475ae7c7f467b1b84523460e1142ca205af48e9baf50c155d91ea8e248d14
+Section: 嗨-汉化
+Description: Palert 简体中文包。
+Author: Ball
+Name: Palert 简体中文包
 
 Package: com.ball.pencilchargingIndicator.ch.cn
 Version: 1.2~b7
@@ -568,6 +730,21 @@ Description: Roxanne 简体中文包！
 Author: Ball <ball@hackcn.net>
 Name: Roxanne 简体中文包
 
+Package: com.ball.simplepowerdown.ch.cn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/SimplePowerDown_CN.deb
+Size: 1440
+MD5sum: 630f1f622b36607158d89f157c843687
+SHA1: 0963de4a7a6f075692887e09ce3de8b68db299a8
+SHA256: ebf5a24a604e6d5fbaa59b1b6d6a4c7f1aa56c1367fafa92e3fd6b5d63704aac
+Section: 嗨-汉化
+Description: Simple Power Down 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: Simple Power Down 简体中文包
+
 Package: com.ball.skinnysettings.cn
 Version: 1.2.7
 Architecture: iphoneos-arm
@@ -581,6 +758,20 @@ Section: 嗨-汉化
 Description: SkinnySettings 简体中文包。
 Author: Ball <434479917@qq.com>
 Name: SkinnySettings 简体中文包
+
+Package: com.ball.smarttapx.ch.cn
+Version: 0.1.2-234
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/SmartTapX_CN.deb
+Size: 2852
+MD5sum: 3cd6337503ae03258a82a2cf0da667f1
+SHA1: baa3966fcd1d3b8262fb4638ea9a125a11c81fb0
+SHA256: acc22d67847d4329f83d1e3fb617a4f708f009a07b4b8f5b151aa3a05df4d006
+Section: 嗨-汉化
+Description: SmartTap X 简体中文。
+Author: Ball <434479917@qq.com>
+Name: SmartTap X 简体中文包
 
 Package: com.ball.smartvolumemixer.ch.ch
 Version: 2.3
@@ -596,6 +787,20 @@ Section: 嗨-汉化
 Description: SmartVolumeMixer 简体中文包。
 Author: Ball <ball@hackcn.net>
 Name: SmartVolumeMixer 简体中文包
+
+Package: com.ball.smoothbattery.cn
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/SmoothBattery_CN.deb
+Size: 2292
+MD5sum: da2f3a33f785fc33c00e3302afbafd7c
+SHA1: 3dfc22318830d448c4f9d76ade719d31e7d7e78c
+SHA256: fa26ccee63a879469f8b2ae3eea70c47e53de297ae5e8f9715883b5713309579
+Section: 嗨-汉化
+Description: SmoothBattery 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: SmoothBattery 简体中文包
 
 Package: com.ball.sneakycam.ch.cn
 Version: 2.0.4
@@ -668,6 +873,21 @@ Description: TapticKeys 简体中文包。
 Author: Ball <434479917@qq.com>
 Name: TapticKeys 简体中文包
 
+Package: com.ball.tinysiri.ch.cn
+Version: 1.2.1-1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/TinySiri_CN.deb
+Size: 2756
+MD5sum: 364572980d7e0528beaa31d9f29b908d
+SHA1: 9e0a9a1ba5e4f7f6afe62cd4af8affc7f3ecd565
+SHA256: 25c693b0b7d2cf98092232b2c02366bfd06f32df770f8c5213e142cde5ab7bc2
+Section: 嗨-汉化
+Description: TinySiri 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: TinySiri 简体中文包
+
 Package: com.ball.twittertweak.ch.cn
 Version: 1.0
 Architecture: iphoneos-arm
@@ -725,6 +945,20 @@ Description: Waves 简体中文包。
 Author: Ball <434479917@qq.com>
 Name: Waves 简体中文包
 
+Package: com.ball.weatheranimations.cn
+Version: 0.7
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/WeatherAnimations_CN.deb
+Size: 1852
+MD5sum: 153ed887244f2b7968ebe70cab85fd6d
+SHA1: fc1fdfb54af9bb983d9c2ebeeb06c624228688d4
+SHA256: a29c339cb94cf1315ef50cecf041edbb663669c64ee22dfec87bf921ba1de1f9
+Section: 嗨-汉化
+Description: Weather Animations 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: Weather Animations 简体中文包
+
 Package: com.ball.xenhtml.zh.cn
 Version: 1.0
 Architecture: iphoneos-arm
@@ -738,6 +972,49 @@ Section: 嗨-汉化
 Description: XenHTML 简体中文包。
 Author: Ball&Sandy0
 Name: XenHTML 简体中文包
+
+Package: com.ball.xeninfo.cn
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/XenInfo_CN.deb
+Size: 2924
+MD5sum: d04888c48092bd79428c2acef86c6d74
+SHA1: f7ec6459618fd4a9d536dc7b9d0a623cc30684b9
+SHA256: e4a6d63e36b016969ad93113bda481b770cdf7af72bc12c3fd587d4e0136de9b
+Section: 嗨-汉化
+Description: XenInfo 简体中文包！XenInfo介绍: XenHTML的音乐，天气和电池信息的依赖
+Author: Ball <ball@hackcn.net>
+Name: XenInfo 简体中文包
+
+Package: com.ball.yourespring.ch.cn
+Version: 1.7.4
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/YouRespring_CN.deb
+Size: 1772
+MD5sum: 97da3449d1d8be4ab3432bda090ec096
+SHA1: c4a3bc7d8c7bb55827d968d51ad172c1d8c63647
+SHA256: 0e80be10de84e3ca81f3a57ea7f8a852e122ffa64f8ef15a62b887a98a09f7c1
+Section: 嗨-汉化
+Description: YouRespring 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: YouRespring 简体中文包
+
+Package: com.ball.zenith.cn
+Version: 1.1.0-2
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/Zenith_CN.deb
+Size: 2828
+MD5sum: b2d00706a7289998c1e011f1323cee07
+SHA1: e8e4bd2c3ef5759288d3f004c9acef224ecf8c44
+SHA256: ecc68357bee7042c164dd9a036e7ba5f61342e490b571b404c2da8aff7f1c3c1
+Section: 嗨-汉化
+Description: Zenith 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: Zenith 简体中文包
 
 Package: com.carck.alkaline
 Version: 1.3-1
@@ -753,6 +1030,51 @@ Section: 嗨-工具
 Description: Alkaline 汉化版，带5个主题。
 Author: 妖刀
 Name: Alkaline 汉化版
+
+Package: com.carck.cabello.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Cabello_CN.deb
+Size: 3280
+MD5sum: acbef9f18c11c20d8ebe81020d761fa4
+SHA1: 76937f23c2deb2caa00abebf667285425d2ce4df
+SHA256: ad3c0c7626c53f1736461ce2b56e34562f03c5abbe68da7fe45f4e99125a151f
+Section: 嗨-汉化
+Description: Cabello 简体中文包。
+Author: 妖刀
+Name: Cabello 简体中文包
+
+Package: com.carck.classiclockscreen.cn
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>=9.0)
+Filename: rootful/ClassicLockScreen_CN.deb
+Size: 2056
+MD5sum: bacd8144e4ad1d7034862ddbab24570d
+SHA1: 6ad50674a82b85881aa2443da1bfb1bb277d76e4
+SHA256: 456a44b3d95722627a4dd511ca5df104f67663da0ff7c2452df02b16048a9b2f
+Section: 嗨-汉化
+Description: ClassicLockScreen 简体中文包。
+Author: 妖刀
+Name: ClassicLockScreen 简体中文包
+
+Package: com.carck.colorflow4.cn
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>=11.0)
+Filename: rootful/ColorFlow4_CN.deb
+Size: 1796
+MD5sum: 172961d6b35eef4c9b5a169fad7b63e5
+SHA1: 52b8eb9a3cf66859824ff4e04e3637806d9df08f
+SHA256: 6dbc8dd74966b3b2bc9801b64f2278c671e6ea6ef52da875808f66d440a503ab
+Section: 嗨-汉化
+Description: ColorFlow 4 简体中文包。
+Author: 妖刀
+Name: ColorFlow 4 简体中文包
 
 Package: com.carck.cracktool3.cn
 Version: 3.0~up
@@ -784,6 +1106,21 @@ Description: Flame 简体中文包。
 Author: 妖刀
 Name: Flame 简体中文包
 
+Package: com.carck.hidestatusbaritems.cn
+Version: 0.3.6
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/HideStatusbarItems_CN.deb
+Size: 3192
+MD5sum: bb6987f3cd2db40a11f65d16d54e536d
+SHA1: a742a8282a1c47c25406256257d79142faad877c
+SHA256: f65dc637eeed4e584009976cae1231d5a584ff790d17a1d3c7877b4c951622e6
+Section: 嗨-汉化
+Description: Hide Statusbar Items 简体中文包。
+Author: 妖刀
+Name: Hide Statusbar Items 简体中文包
+
 Package: com.carck.illlooklater.cn
 Version: 2.0-2
 Architecture: iphoneos-arm
@@ -813,6 +1150,21 @@ Section: 嗨-汉化
 Description: iOS Blocks 简体中文包。
 Author: 妖刀
 Name: iOS Blocks 简体中文包
+
+Package: com.carck.jitter.cn
+Version: 1.0-17+debug
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Jitter_CN.deb
+Size: 1700
+MD5sum: 0e1db43e6f194cc42916124aa10c37f3
+SHA1: 720c98ea062e77c6d4712695f0e410535b75726b
+SHA256: 3517b607fbd5687c48ceeb0637b3ebc99bc6d911ec4f42ab9a6697a8c871b6fa
+Section: 嗨-汉化
+Description: Jitter 简体中文包。
+Author: 妖刀
+Name: Jitter 简体中文包
 
 Package: com.carck.killbackground10.cn
 Version: 1.1.2
@@ -858,6 +1210,21 @@ Section: 嗨-汉化
 Description: Nox 简体中文包，添加缺失的插件设置图标。
 Author: 妖刀
 Name: Nox 简体中文包
+
+Package: com.carck.passby.cn
+Version: 1.8.3
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: firmware (>= 9.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/PassBy_CN.deb
+Size: 6076
+MD5sum: 6cca1c33f04439bde7cee2a33d1d60c5
+SHA1: 57bce5b7041932d2872b6fbc2de39ef6dcb27531
+SHA256: 43cfa11cafc37b0e94e1533bb77e14f52683d40c6cf4313427c9afc2e4bf658b
+Section: 嗨-汉化
+Description: PassBy 简体中文包。
+Author: 妖刀
+Name: PassBy 简体中文包
 
 Package: com.carck.powertap2.cn
 Version: 1.0.1
@@ -1008,6 +1375,21 @@ Description: BottomControlX 简体中文包！BottomControlX 介绍: 为iPhone X
 Author: 妖刀&Ball
 Name: BottomControlX 简体中文包
 
+Package: com.crack.boxy3.cn
+Version: 3.3.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Depends: mobilesubstrate
+Filename: rootful/Boxy3_CN.deb
+Size: 2428
+MD5sum: 9457b03bcc77c6fac65847befdf9efac
+SHA1: 22beda1ddcf4150e5914f0b03916ca668b432d47
+SHA256: d8fd56f4e1be212cb9492e5810704b260bf14a16161919ebad87aa06fdb20d73
+Section: 嗨-汉化
+Description: Boxy 3 简体中文包。
+Author: Sandy0
+Name: Boxy 3 简体中文包
+
 Package: com.crack.callbar.cn
 Version: 1.3-169
 Architecture: iphoneos-arm
@@ -1037,6 +1419,25 @@ Section: 嗨-破解
 Description: CallBar X 破解版，汉化包源内有。
 Author: Elias Limneos
 Name: CallBar X Crack
+
+Package: com.crack.cocoatop64
+Version: 2.2.3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 915
+Depends: firmware (>= 10.0)
+Conflicts: ru.domo.cocoatop, ru.domo.cocoatop64
+Filename: rootful/CocoaTop64.deb
+Size: 230100
+MD5sum: bf478c1fd65f4e50797016cc9a2ba105
+SHA1: 14ed7e3baa81ca862906ee5e0da57503c4d014c4
+SHA256: 8260499aa64577134fc1c69a65092a9d6bd8a56b65137b09c170f2ad1d42e77b
+Section: 嗨-系统
+Description: 图形版查看当前所有进程，CPU占用率的软件。
+Tag: purpose::uikit
+Author: Domo <domo@rambler.ru>
+Name: CocoaTop64
+Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.crack.conditionalwifi3
 Version: 1.0.1
@@ -1083,6 +1484,21 @@ Section: 嗨-汉化
 Description: Cydown 简体中文修复包，修正Cydown不完整中文。
 Author: Sandy0&7Loopy
 Name: CyDown 中文修复包
+
+Package: com.crack.dimid.cn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Dimid_CN.deb
+Size: 1976
+MD5sum: 40609f45fbce70423b438088a3890ccb
+SHA1: 9a141c075d05d8a3a182f0ebe8ea5fd1bca57d3c
+SHA256: 26cfb6279a4cd53041d5319f8ccaad307b5d776fb1879459d4628ebd182a9504
+Section: 嗨-汉化
+Description: Dimid 简体中文包。
+Author: 妖刀
+Name: Dimid 简体中文包
 
 Package: com.crack.duplexclockxpro.cn
 Version: 1.3-1+debug
@@ -1160,6 +1576,37 @@ Description: 适用于Liberty、Liberty Lite、Liberty Lite(beta)完整版/精�
 Author: 妖刀
 Name: Liberty 简体中文包
 
+Package: com.crack.mikoto.cn
+Version: 4.0.2-1
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Installed-Size: 15548
+Depends: firmware (>= 5.0)
+Filename: rootful/Mikoto_CN.deb
+Size: 9116
+MD5sum: 43674a936675b9f274c4a1a204f0456a
+SHA1: dc972143e6cf73b2589aabbe74e782bcd4996a06
+SHA256: b5a4ab39e409a96ac2563ea2fec15bdc65888a1868aab8c8179ca25d84c1a945
+Section: 嗨-汉化
+Description: mikoto 简体中文包
+Author: Sandy0
+Name: Mikoto 简体中文包
+
+Package: com.crack.nine.cn
+Version: 0.2.3
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Nice_CN.deb
+Size: 2732
+MD5sum: 91d073df161da7c2934d8c4cbe6b1d6b
+SHA1: a6b4dbcfa87e91355667129870089952e985faf4
+SHA256: 3e0fb06f87906dfa4a6154a010d887dd44d52bb5df1f1c9afe94fa9f2b589e83
+Section: 嗨-汉化
+Description: Nine 简体中文包。
+Author: 妖刀
+Name: Nine 简体中文包
+
 Package: com.crack.pwn20wnd.semirestore11
 Version: 1.1.2-1
 Architecture: iphoneos-arm
@@ -1190,6 +1637,21 @@ Section: 嗨-汉化
 Description: Safari Plus 中文修复包。
 Author: 妖刀
 Name: Safari Plus 中文修复包
+
+Package: com.crack.safariupro.cn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Depends: mobilesubstrate
+Filename: rootful/SafariUnleashedPro_CN.deb
+Size: 1668
+MD5sum: f8e3e513496e2d7f1b0d3d0022e90388
+SHA1: ec67b0508e787167cf83219d67ab92ff6cf65fd3
+SHA256: 63c421d9ce7e37a91bb909fbd8633434e52ee2a665d893a172e4f2b73b3c24b2
+Section: 嗨-汉化
+Description: SafariUnleashed PRO 简体中文包。
+Author: Sandy0
+Name: SafariUnleashed PRO 简体中文包
 
 Package: com.crack.slices2.cn
 Version: 1.0b2
@@ -1265,6 +1727,22 @@ Priority: optional
 Description: springplus11简体中文包。
 Author: Kents&妖刀
 Name: SpringPlus11 简体中文包
+
+Package: com.crack.undertime.cn
+Version: 1.6-21+debug
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: rootful/UnderTime_CN.deb
+Size: 2080
+MD5sum: 34728a624bd30c14ccaf02d7a3046a8c
+SHA1: ac716a374065a71556a21fa1131ce8ca9b1b4654
+SHA256: 0af8c137e2f19de1e4fd556f71a0c4f58c00f1cda9b6fc1a10061ffc75c62692
+Section: 嗨-汉化
+Description: UnderTime 简体中文包。
+Author: Sandy0
+Name: UnderTime 简体中文包
 
 Package: com.crack.uni9k.utoolspro.cn
 Version: 2.0.2-1
@@ -1344,6 +1822,36 @@ Description: AquaBoard X 简体中文包。修正下汉化，所以我多了一�
 Author: 妖刀
 Name: AquaBoard X 简体中文包
 
+Package: com.crack.yaodao.cclinker.cn
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/CCLinker_CN.deb
+Size: 2132
+MD5sum: 79cc5d88097aa1e0e3ea4f81673e1767
+SHA1: cc04cf9e33831ab384c6112e4e3410a0564b7a0a
+SHA256: afec603e76597b1a82bc611410998248b12e8c8de72a5a40c6601eff1c9b8ba4
+Section: 嗨-汉化
+Description: CCLinker 简体中文包。
+Author: 妖刀
+Name: CCLinker 简体中文包
+
+Package: com.crack.yaodao.smartlpm.cn
+Version: 1.3.0-1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/SmartLPM_CN.deb
+Size: 1728
+MD5sum: 50956152002427e2db8238b66680d55d
+SHA1: 1855e45c8a85f9e69d2db58f87d7ea5e959f9094
+SHA256: 71551b05fd14d722b6b185742a85844c5d7305e879137a7e73f8afa2a0b24b61
+Section: 嗨-汉化
+Description: SmartLPM 简体中文包。
+Author: 妖刀
+Name: SmartLPM 简体中文包
+
 Package: com.crak.callbarx.cn
 Version: 0.3-68
 Architecture: iphoneos-arm
@@ -1358,6 +1866,20 @@ Section: 嗨-汉化
 Description: CallBar X 简体中文包。
 Author: Sandy0&妖刀
 Name: CallBar X 简体中文包
+
+Package: com.crak.stylish11.cn
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/Stylish11_CN.deb
+Size: 10268
+MD5sum: 44505fe3b353368568cb27467f4f0d68
+SHA1: 9270362b431bc5f50af5a18c5375742526141752
+SHA256: 51f7d9dcc5d22b5d703359d68f3d0a59b1ed5ca9599622ee527bd4420b69a046
+Section: 嗨-汉化
+Description: Stylish11 简体中文包。
+Author: Sandy0 & Ball
+Name: Stylish11 简体中文包
 
 Package: com.dao.april
 Version: 3.0.2
@@ -1603,6 +2125,36 @@ Description: Diary 简体中文包。Diary：一款win10锁屏风格插件，插
 Author: P神、妖刀
 Name: Diary 简体中文包
 
+Package: com.hk.Folded.cn
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Folded_CN.deb
+Size: 5716
+MD5sum: a1928ac9c94b779cf29d8699107f7e55
+SHA1: 2cb8c25429f3a36a803f274a34f234391bc6e869
+SHA256: a7d4bfadf742d73caa386024d1e0f2e46424357b470a4f0b5362ece75fdf2fa4
+Section: 嗨-汉化
+Description: Folded 简体中文包，Folded一款文件夹增强插件。
+Author: 嗨客源P神
+Name: Folded 简体中文包
+
+Package: com.hk.HomeScreenQuickActions.cn
+Version: 1.6.5
+Architecture: iphoneos-arm
+Maintainer: Mo
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/HomeScreenQuickActions_CN.deb
+Size: 2484
+MD5sum: b10ed2ce47c7e571a4f30c14be7ecf68
+SHA1: a30a8b936980e1fcc262a542017a3f8770cc497b
+SHA256: 08e9e0974225ad9a9c5cb20b04d90133807c1adb4cecc2222b2afb171bab3c32
+Section: 嗨-汉化
+Description: Home Screen Quick Actions 简体中文包。
+Author: Mo
+Name: Home Screen Quick Actions 简体中文包
+
 Package: com.hk.MessageHeadsXI.cn
 Version: 2.0
 Architecture: iphoneos-arm
@@ -1617,6 +2169,22 @@ Section: 嗨-汉化
 Description: ChatHeads 简体中文包。
 Author: 妖刀
 Name: ChatHeads 简体中文包
+
+Package: com.hk.QQanitiRecallHook
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: TouGBao
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootful/QQanitiRecallHook.deb
+Size: 26760
+MD5sum: 2f91a1d5e96c1b11262ea9663f122db1
+SHA1: dc810fa598d8ea1e8f90ac11a33434450aa3757d
+SHA256: 9ab6b745de78d04a0ddb29dab403a7c72f0de00a55859aa6ad747c72127b5ce7
+Section: 嗨-工具
+Priority: optional
+Description: QQ/TIM防撤回，带撤回提示，支持QQ/TIM！无设置项，安装后注销设备即可生效。食用前请关闭同类插件或者补丁。
+Author: TouGBao
+Name: QQanitiRecallHook (QQ防撤回)
 
 Package: com.hk.Sakura.cn
 Version: 1.0
@@ -1663,6 +2231,51 @@ Description: Vibin 简体中文包。
 Author: Mo
 Name: Vibin 简体中文包
 
+Package: com.hk.Zetsu.cn
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Zetsu_CN.deb
+Size: 2908
+MD5sum: f79802b7b47a70b44d438ed2b08cdcb1
+SHA1: b73ab05fcaace23ea0e7a1e899e942a76c39a336
+SHA256: f02f84512cccb9426bcfa7d0150f263beae1bb0fee7f2be059d8bada845a258a
+Section: 嗨-汉化
+Description: Zetsu 简体中文包。
+Author: Mo
+Name: Zetsu 简体中文包
+
+Package: com.hk.abypass.cn
+Version: 1.5.7
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/A-Bypass_CN.deb
+Size: 3024
+MD5sum: 20a007b14430d40d978b01fb7def2b3a
+SHA1: 512ed9cc97aba415eb69ddd7be80a3f17aa839ee
+SHA256: ab7883c701b7669c1d24959f8cd46512fcbe780f3ac7f504fa4d3c3788f6717a
+Section: 嗨-汉化
+Description: A-Bypass 简体中文包。插件源：http://repo.co.kr/
+Author: 妖刀
+Name: A-Bypass 简体中文包
+
+Package: com.hk.accent.cn
+Version: 1.4.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Accent_CN.deb
+Size: 1728
+MD5sum: 55dccf1d5c2737e35a30286d22422814
+SHA1: 52af56bae6da2cfe93e5b68d6de4873540acce22
+SHA256: 1f30d422dec63ed004b5ab3bc5bac462d7c338c3bab11c76064c5417fdaa38bf
+Section: 嗨-汉化
+Description: Accent 简体中文包。
+Author: 妖刀
+Name: Accent 简体中文包
+
 Package: com.hk.addtofolder.cn
 Version: 1.2.1-1
 Architecture: iphoneos-arm
@@ -1679,6 +2292,21 @@ Description: AddToFolder 简体中文包；官方源：https://repo.anthopak.dev
 Author: Alucard
 Name: AddToFolder 简体中文包
 
+Package: com.hk.afont.cn
+Version: 1.9.6
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/A-Font_CN.deb
+Size: 2472
+MD5sum: df695e7ee31b0490ef5b41665dafe90d
+SHA1: 330b14befc199daba6cb823cca9ebf66963ee038
+SHA256: ce96aa63a67b0f6592a5f58f8e7d055e4cd0e30286cd6dc3ada2dccd738dba99
+Section: 嗨-汉化
+Description: A-Font 简体中文包。
+Author: 妖刀
+Name: A-Font 简体中文包
+
 Package: com.hk.aim.cn
 Version: 1.2.5
 Architecture: iphoneos-arm
@@ -1693,6 +2321,20 @@ Section: 嗨-汉化
 Description: AIM 简体中文包。
 Author: 妖刀
 Name: AIM 简体中文包
+
+Package: com.hk.aion.cn
+Version: 0.0.18~Beta1
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/Aion_CN.deb
+Size: 2432
+MD5sum: fdda1d885aea512a3758822074d77239
+SHA1: 59a9df0b2fa87e06445f53ea2bff1990a754196c
+SHA256: 3aa5e21b1b82c42269a80b6d3d7d0c12cd3b36a6d595e23af9fb147f5551242a
+Section: 嗨-汉化
+Description: Aion 简体中文包。Aion介绍: 为你提供一个全新的后台应用切换器！
+Author: Ball <ball@hackcn.net>
+Name: Aion 简体中文包
 
 Package: com.hk.akara.cn
 Version: 2.0
@@ -1937,6 +2579,37 @@ Description: AppShortcut 简体中文包。
 Author: Sandy0
 Name: AppShortcut 简体中文包
 
+Package: com.hk.appshortcut2.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/AppShortcut2_CN.deb
+Size: 1776
+MD5sum: 63ff89814d475ec2b2374fe6bcb2be2c
+SHA1: cb042c07de12378f88988c0ac20edaf4efa90ab9
+SHA256: d04f1779977e0e4c3de2adf000692f3c2d6c0e2275b42ead4b75b7db6166b6ee
+Section: 嗨-汉化
+Description: AppShortcut 2 简体中文包。
+Author: Sandy0、妖刀
+Name: AppShortcut 2 简体中文包
+
+Package: com.hk.appstore++.cn
+Version: 1.2-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 364
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: rootful/AppStore++_CN.deb
+Size: 91188
+MD5sum: f6ae5ce800d993ac2a1979390ccbed14
+SHA1: 853abede92db0146290c48823912e16f76bb1146
+SHA256: 6f1d0743fd1ec897b1c036cee340d5d30ae8d3a6a3b56cf9221e0cc49d86166c
+Section: 嗨-汉化
+Description: AppStore++简体中文汉化，修改版本ID降级查询页面为中国区(原始为美国区)，去除0.9.14-2之后版本长按降级时弹出的广告，为AppStore++设置列表添加切换AppStore账号功能。原插件在在：http://cokepokes.github.io
+Author: Netskao
+Name: AppStore++ 简体中文包
+
 Package: com.hk.apptools14
 Version: 2.0.6
 Architecture: iphoneos-arm
@@ -2030,6 +2703,21 @@ Description: Are You Sur?弹窗，macOS BigSur风格的弹窗样式，已自带�
 Author: MTAC
 Name: BigSur弹窗
 
+Package: com.hk.arkita.cn
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Arkita_CN.deb
+Size: 2196
+MD5sum: 2babb786c331b136d48fe43ad2d4f0fd
+SHA1: 8617d8d5b655083d7539c27b22276abccef19701
+SHA256: 272acd317d3b8705718ee6829ca5d88c91011d47aefbc706bf24cebe19109607
+Section: 嗨-汉化
+Description: Arkita 简体中文包。
+Author: 妖刀
+Name: Arkita 简体中文包
+
 Package: com.hk.artsy.cn
 Version: 2.0~Beta.3
 Architecture: iphoneos-arm
@@ -2045,6 +2733,22 @@ Priority: optional
 Description: Artsy 简体中文包，支持1.2和2.0~Beta.3版本。
 Author: Sandy0
 Name: Artsy 简体中文包
+
+Package: com.hk.atria.cn
+Version: 1.3.3-1
+Architecture: iphoneos-arm
+Maintainer: Hi 客
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: rootful/Atria_CN.deb
+Size: 9016
+MD5sum: 89e7e58fb7930703da3f6f27c5cda4c9
+SHA1: 0ec5a21559d5d74c84199dec11f26cf4eceee970
+SHA256: 0846f0cd1278d32817ff777578fcb0791c31a42c1548a09769761daaa65e9e91
+Section: 嗨-汉化
+Description: Atria 简体中文包。官方源：https://repo.chariz.com/
+Author: Alucard
+Name: Atria 简体中文包
 
 Package: com.hk.audio.6s120
 Version: 1.0
@@ -2076,6 +2780,21 @@ Description: iOS在13上削弱了音质，通过替换iOS12的音效相关文件
 Author: 佚名
 Name: 提升音质(6S-12.4.1)
 
+Package: com.hk.audio.6sp1241
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 13.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Audio(6SP-12.4.1).deb
+Size: 3368180
+MD5sum: d30771946418ee81c5bc5b0afb6f7d6a
+SHA1: 61ff42d4f279fe613f0e13b5ada34fa8d39493c8
+SHA256: 18981c04fd32bb09ba6aea614e5b0ef3b839b038bdcee7f860fca12c66479d8b
+Section: 嗨-系统
+Description: iOS在13上削弱了音质，通过替换iOS12的音效相关文件，达到提升的目的。此安装包适用于6S Plus替换iOS12.4.1的音效文件，自动备份本机音效文件，卸载即可还原。换音效版本，必须卸载之前的安装的。音效文件来自本人(妖刀)提取！
+Author: 佚名
+Name: 提升音质(6SP-12.4.1)
+
 Package: com.hk.audio.7p8p120
 Version: 1.0
 Architecture: iphoneos-arm
@@ -2090,6 +2809,21 @@ Section: 嗨-系统
 Description: iOS在13上削弱了音质，通过替换iOS12的音效相关文件，达到提升的目的。此安装包适用于苹果7P/8P替换iOS12.0的音效文件，自动备份本机音效文件，卸载即可还原。换音效版本，必须卸载之前的安装的。音效文件来自本人(妖刀)提取！
 Author: 佚名
 Name: 提升音质(7P/8P-12.0)
+
+Package: com.hk.audio.7p8p1241
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 13.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Audio(7P-8P-12.4.1).deb
+Size: 3412320
+MD5sum: d1edf59ce365f0a232568a97f3c0179b
+SHA1: 7caca62dc87e46e32fc0251afadf1d019beda82a
+SHA256: bd9edaf7fd1311aabd83a1d1bd4eac30c971261626c758b7451f18abe2229b4f
+Section: 嗨-系统
+Description: iOS在13上削弱了音质，通过替换iOS12的音效相关文件，达到提升的目的。此安装包适用于苹果7P/8P替换iOS12.4.1的音效文件，自动备份本机音效文件，卸载即可还原。换音效版本，必须卸载之前的安装的。音效文件来自本人(妖刀)提取！
+Author: 佚名
+Name: 提升音质(7P/8P-12.4.1)
 
 Package: com.hk.audio.ip78120
 Version: 1.0
@@ -2121,6 +2855,21 @@ Description: iOS在13上削弱了音质，通过替换iOS12的音效相关文件
 Author: 佚名
 Name: 提升音质(7/8-12.4.1)
 
+Package: com.hk.audio.non-xsm120
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 13.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Audio(NonXsMax-12.0).deb
+Size: 3316092
+MD5sum: 0bfa9db9e7b0ee0d86891fb45d8a2210
+SHA1: 524a45f676720ecb8f396e2ce80a41e2c938eea6
+SHA256: 727c5b2491b5e6a5ad1d4565413b3ad9af39a6925e8132c8891697834eb6fb7f
+Section: 嗨-系统
+Description: iOS在13上削弱了音质，通过替换iOS12的音效相关文件，达到提升的目的。此安装包适用于非国行XsMax替换iOS12.0的音效文件，自动备份本机音效文件，卸载即可还原。换音效版本，必须卸载之前的安装的。音效文件来自威锋@chenyingkeng帖子，感谢！
+Author: 佚名
+Name: 提升音质(非国行XsMax-12.0)
+
 Package: com.hk.audio.non-xsm1201
 Version: 1.0
 Architecture: iphoneos-arm
@@ -2150,6 +2899,36 @@ Section: 嗨-系统
 Description: iOS在13上削弱了音质，通过替换iOS12的音效相关文件，达到提升的目的。此安装包适用于非国行的XSM替换iOS12.4.1的音效文件，自动备份本机音效文件，卸载即可还原。换音效版本，必须卸载之前的安装的。音效文件来自威锋@chenyingkeng帖子，感谢！
 Author: 佚名
 Name: 提升音质(非国行XsMax-12.4.1)
+
+Package: com.hk.audio.x120
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 13.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Audio(X-12.0).deb
+Size: 3375800
+MD5sum: 2d1a2d8b22f47ecb1d2b22fe997ef804
+SHA1: c0df208195394f3e6db3d392125fe87677c6d400
+SHA256: 90781f33a48c33a37920325ac1ac11ab216da37656c72ee50800a0813716be6a
+Section: 嗨-系统
+Description: iOS在13上削弱了音质，通过替换iOS12的音效相关文件，达到提升的目的。此安装包适用于苹果X替换iOS12.0的音效文件，自动备份本机音效文件，卸载即可还原。换音效版本，必须卸载之前的安装的。音效文件来自群友@夏天，感谢！
+Author: 佚名
+Name: 提升音质(X-12.0)
+
+Package: com.hk.audio.x1241
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 13.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Audio(X-12.4.1).deb
+Size: 3386152
+MD5sum: 3abd3f40499c9791bd017ea8049ff705
+SHA1: 48ba5603b541c54034d89fffcd480d5ff895478e
+SHA256: 86a42dda790728c8a49838054e855c6d19ab4da194da3de518cf20256760b693
+Section: 嗨-系统
+Description: iOS在13上削弱了音质，通过替换iOS12的音效相关文件，达到提升的目的。此安装包适用于苹果X替换iOS12.4.1的音效文件，自动备份本机音效文件，卸载即可还原。换音效版本，必须卸载之前的安装的。音效文件来自群友@夏天，感谢！
+Author: 佚名
+Name: 提升音质(X-12.4.1)
 
 Package: com.hk.audio.xr120
 Version: 1.0
@@ -2241,6 +3020,36 @@ Description: iOS在13上削弱了音质，通过替换iOS12的音效相关文件
 Author: 佚名
 Name: 提升音质(国行XsMax-12.0)
 
+Package: com.hk.audio.xsm1201
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 13.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Audio(XsMax-12.0.1).deb
+Size: 3311728
+MD5sum: 61d117740753e39add66afd8a7043542
+SHA1: c31665dc8d2a51af784b9e48f62d1fc2978bc918
+SHA256: f596869c26d1abc40671942dc981d3bd9a625867b3c8d01ee72f6b8d4c2e1b91
+Section: 嗨-系统
+Description: iOS在13上削弱了音质，通过替换iOS12的音效相关文件，达到提升的目的。此安装包适用于国行的XSM替换iOS12.0.1的音效文件，自动备份本机音效文件，卸载即可还原。换音效版本，必须卸载之前的安装的。音效文件来自威锋@chenyingkeng帖子，感谢！
+Author: 佚名
+Name: 提升音质(国行XsMax-12.0.1)
+
+Package: com.hk.audio.xsm1241
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 13.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Audio(XsMax-12.4.1).deb
+Size: 3329176
+MD5sum: db70a54aa9cf3b57f4634e7061f361e3
+SHA1: 70303270ac5029d4dfbd1f7b9a45d5983be23f21
+SHA256: e0eaa29d4f29e413f1bc3364847b5581df7302dea6103d0381b4441de66b38e7
+Section: 嗨-系统
+Description: iOS在13上削弱了音质，通过替换iOS12的音效相关文件，达到提升的目的。此安装包适用于国行的XSM替换iOS12.4.1的音效文件，自动备份本机音效文件，卸载即可还原。换音效版本，必须卸载之前的安装的。音效文件来自威锋@chenyingkeng帖子，感谢！
+Author: 佚名
+Name: 提升音质(国行XsMax-12.4.1)
+
 Package: com.hk.autofaceunlock
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -2256,6 +3065,36 @@ Section: 嗨-工具
 Description: iOS13面容识别成功自动解锁无需滑动，原生函数更为节电。
 Author: Netskao
 Name: AutoFaceUnlock
+
+Package: com.hk.autoscroll.cn
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/AutoScroll_CN.deb
+Size: 1800
+MD5sum: fbe28854a914b22f1e49d2513f45184e
+SHA1: 3097d71eeeb02631c074fbba8a49b7c9b39ca998
+SHA256: d85401e4032bb9f2427b47a656f0b48f6cba09dbcdb4a331d1f32ad805f545d9
+Section: 嗨-汉化
+Description: AutoScroll 简体中文包。
+Author: 妖刀
+Name: AutoScroll 简体中文包
+
+Package: com.hk.autounlockx.cn
+Version: 1.0.14
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/AutoUnlockX_CN.deb
+Size: 1676
+MD5sum: 779436d32e81363f35ba38fc1914c661
+SHA1: 943557baa95e497b4bfaa6e70caa4511790c6464
+SHA256: e200e8aed68d9cb79ad5d0427e4dc70454a82d49c68e9a5f30386442cd3659a1
+Section: 嗨-汉化
+Description: AutoUnlockX 简体中文包。
+Author: Sandy0
+Name: AutoUnlockX 简体中文包
 
 Package: com.hk.awesomepagedots
 Version: 1.2
@@ -2273,6 +3112,53 @@ Description: 非常漂亮的桌面翻页点动画，可选择多种翻页点动�
 Author: shiftcmdk
 Name: AwesomePageDots翻页点动画
 
+Package: com.hk.awesomepagedots.cn
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: rootful/AwesomePageDots_CN.deb
+Size: 3776
+MD5sum: e912243bab06b2cbe9b819eea476a649
+SHA1: 9da24799ca58a9006820c013198e1a295f810009
+SHA256: 23a4014820a2d895829fbb74352a404b500f165429b79f548d3ba6654beae5ad
+Section: 嗨-汉化
+Description: AwesomePageDots 简体中文包。
+Author: 妖刀
+Name: AwesomePageDots 简体中文包
+
+Package: com.hk.axon.cn
+Version: 2.0.0-3
+Architecture: iphoneos-arm
+Maintainer: Ball <ball@hackcn.net>
+Filename: rootful/Axon_CN.deb
+Size: 6572
+MD5sum: d294b3cbe183e123f9e07238f7c234ec
+SHA1: bdfc469c8c192ba92b80e4b5d41db656c51ec5de
+SHA256: dc4eb51966417673674128477843bcea82ade7ba9ebdd2a7f2f910b46d08fddb
+Section: 嗨-汉化
+Description: Axon 通用简体中文包。
+Author: Ball <ball@hackcn.net>
+Name: Axon 简体中文包
+
+Package: com.hk.aysxhack
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Ai-小苹果™
+Depends: mobilesubstrate
+Conflicts: com.cydiabc.aiyueshuxianghack, com.hk.ifthook
+Filename: rootful/AYSX_Pro.deb
+Size: 145860
+MD5sum: bb416e89f2fed797b0658122fb954b58
+SHA1: 7431436901a3f048a4063121b2534ef6076050dd
+SHA256: b329931c514cdd72823c9dee49434a09910bb18e886b9dab35b48170dc5044be
+Section: 嗨-破解
+Description: 爱阅书香完美破解，关闭格言，换主题，去广告等，兼容v6.8.2。
+Author: Ai-小苹果™
+Name: 爱阅书香Pro+
+Sponsor: Ai-小苹果™
+
 Package: com.hk.backrunner.cn
 Version: 0.1.7
 Architecture: iphoneos-arm
@@ -2287,6 +3173,21 @@ Section: 嗨-汉化
 Description: BackRunner 简体中文包。
 Author: 妖刀
 Name: BackRunner 简体中文包
+
+Package: com.hk.backtrix.cn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Backtrix_CN.deb
+Size: 2876
+MD5sum: 4581cb20da82c9b7b89e52df1a2ae149
+SHA1: c5c45d3bfeddc448a2c503923b3c766a997803b7
+SHA256: ea5b05cafba3df9c5a730669bb317700bcf7d460a42e50b52b74d22805742d4d
+Section: 嗨-汉化
+Description: Backtrix 简体中文包。
+Author: 妖刀
+Name: Backtrix 简体中文包
 
 Package: com.hk.backupaz3.cn
 Version: 1.3
@@ -2319,6 +3220,34 @@ Description: BadgeBar 简体中文包。
 Author: 妖刀
 Name: BadgeBar 简体中文包
 
+Package: com.hk.badgomizer.cn
+Version: 1.6.11
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Filename: rootful/Badgomizer_CN.deb
+Size: 4204
+MD5sum: 23f584c5ed4941ed03593b214f0e21b5
+SHA1: b9c9a341fbb9e8a74161e0e680d6e4d757306cc1
+SHA256: 465cb5685f701d8dd9ff0735d0bdbd7f1199c8b2b9f5e23f53931dabbb1061c9
+Section: 嗨-汉化
+Description: Badgomizer 简体中文包。Badgomizer介绍:自定义你的桌面角标
+Author: Sandy0
+Name: Badgomizer 简体中文包
+
+Package: com.hk.ball.bannersouns12.cn
+Version: 1.0.0~beta2-1
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/BannerSounds12_CN.deb
+Size: 2948
+MD5sum: ab7e07ddb3b3dd7fe0e57e2235a41944
+SHA1: 9c5f451aad5fb236d3def031382d7f40eb0d2379
+SHA256: ad563731b3c801927911e03ee72caff0962365b0a8c126482c381f02908fce20
+Section: 嗨-汉化
+Description: Banner Sounds 12 简体中文包。
+Author: Ball <434479917@qq.com>
+Name: Banner Sounds 12 简体中文包
+
 Package: com.hk.ball.betterccIconspro.cn
 Version: 1.6.1
 Architecture: iphoneos-arm
@@ -2348,6 +3277,21 @@ Description: CallLogPro(iOS 11/10/8) 简体中文包(非完整汉化，设置选
 Author: Ball <ball@hackcn.net>
 Name: CallLogPro(iOS 11/10/8) 简体中文包
 
+Package: com.hk.ball.features.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ball
+Filename: rootful/StoreFeatures_CN.deb
+Size: 1380
+MD5sum: 7e572e4e1db1314576ca9e26ccb8e28a
+SHA1: fd90bee0158e698f1f23275f9eaf048351cbf92c
+SHA256: edc0117e0835ccdde55a109b762b98cf0acd279221fb3c51f8019283b1d7856d
+Section: 嗨-汉化
+Description: Store Features 简体中文包! Store Features介绍：增强你的cydia
+Author: Ball
+Name: Store Features 简体中文包
+Sponsor: Ball
+
 Package: com.hk.ball.harbor2.cn
 Version: 1.0.1-1+debug
 Architecture: iphoneos-arm
@@ -2375,6 +3319,20 @@ Section: 嗨-汉化
 Description: Hide Statusbars 简体中文包
 Author: Ball <ball@hackcn.net>
 Name: Hide Statusbars 简体中文包
+
+Package: com.hk.ball.hidestusbarltemsx12.cn
+Version: 0.3.6
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/HideStatusbarltemsX12_CN.deb
+Size: 2732
+MD5sum: dbc537d319f7e7b3b65cce473133fa56
+SHA1: 8f593824ccbc0600f67298f459dc94d3e15b7e86
+SHA256: 2645566005d2ba8af66a328749337afe16e125bf528d270f1f1a5bf84267d960
+Section: 嗨-汉化
+Description: Hide Statusbar ltems X(12) 简体中文包
+Author: Ball <ball@hackcn.net>
+Name: Hide Statusbar ltems X(12) 简体中文包
 
 Package: com.hk.ball.hive.cn
 Version: 1.0.1
@@ -2432,6 +3390,22 @@ Section: 嗨-汉化
 Description: Slyd 简体中文包。
 Author: Ball <434479917@qq.com>
 Name: Slyd (SlideToUnlock)简体中文包
+
+Package: com.hk.ball.tabblocker.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ball
+Filename: rootful/TabBlocker_CN.deb
+Size: 3292
+MD5sum: 73fd805677b2d41526b5e124dc9306eb
+SHA1: 1dcab3984339a1f5ca1bb4cfc9cb9fe1ec24f7e1
+SHA256: 7e82382962f1fb312a0f0ded0ad823120a5ec228c64113c579e2ba3b419dcae2
+Section: 嗨-汉化
+Priority: standard
+Description: Tab Blocker 简体中文包。
+Author: Ball
+Name: TabBlocker简体中文包
+Sponsor: Ball
 
 Package: com.hk.ball.talion.cn
 Version: 0.0.1-357+debug
@@ -2541,6 +3515,20 @@ Description: BetterCC简体中文包
 Author: Ball <434479917@qq.com>
 Name: BetterCC 简体中文包
 Sponsor: Ball <434479917@qq.com>
+
+Package: com.hk.betterccIcons13.cn
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/BetterCCIcons13_CN.deb
+Size: 1852
+MD5sum: 8a6dc81de128531547c7654f5f625b49
+SHA1: bfef9bd94059671f9b385ef2da44c7bbc4d968e2
+SHA256: 2b35f20b54c32db518feb653f9558f622e0b6928bce1727384fc1892e0a0dd94
+Section: 嗨-汉化
+Description: BetterCCIcons13 简体中文包。
+Author: Ball
+Name: BetterCCIcons13 简体中文包
 
 Package: com.hk.bettercclite.cn
 Version: 1.2
@@ -2718,6 +3706,37 @@ Author: Sandy0 & Ball
 Name: BioProtect XS 简体中文包
 Sponsor: Sandy0 & Ball
 
+Package: com.hk.blurryalerts
+Version: 1.2.3-1
+Architecture: iphoneos-arm
+Maintainer: SlyFabi
+Depends: mobilesubstrate, com.spark.libsparkcolourpicker
+Conflicts: com.slyfabi.blurryalerts, com.hk.blurryalerts.cn
+Filename: rootful/BlurryAlerts_ZH.deb
+Size: 28500
+MD5sum: 8f22ba459dacf73e4181fcdf02126e80
+SHA1: a03c0010606fda3a2e99eabcc352e29b9ce3bd9d
+SHA256: ef168867b8100bfb1595dac92d43da1f8186899a2dbffa6c838740130c321115
+Section: 嗨-工具
+Description: tvOS风格弹窗，支持iOS13~14，自带了汉化包。
+Author: SlyFabi
+Name: BlurryAlerts (tvOS弹窗)
+
+Package: com.hk.blurryalerts.cn
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate
+Filename: rootful/BlurryAlerts_CN.deb
+Size: 4412
+MD5sum: e68275a12019bf112a4161d824f74057
+SHA1: d32de63e3f4eda68abc8039dbbcda21feb004328
+SHA256: db0b6e00daa51de16c48c57e575f548fbcd98e0b951fec7376f1c92c632b8e28
+Section: 嗨-汉化
+Description: BlurryAlerts 简体中文包。原插件介绍：一款免费的仿tvOS弹窗插件
+Author: Ball
+Name: BlurryAlerts 简体中文包
+
 Package: com.hk.bongwater
 Version: 1.2.0
 Architecture: iphoneos-arm
@@ -2732,6 +3751,37 @@ Section: 嗨-工具
 Description: 通讯录顶部添加3个最喜欢的联系人(长按删除)，联系人显示资料图片，联系人旁边添加呼叫、信息或电子邮件按钮。
 Author: qwertyuiop1379 <thoffman8839@gmail.com>
 Name: Bongwater
+
+Package: com.hk.bongwater.cn
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Ball
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: rootful/Bongwater_CN.deb
+Size: 3528
+MD5sum: 56879d800db4f4ed48af06a8a16f2ef2
+SHA1: c35f42f235da630561339280aa175665104efc69
+SHA256: d7e9e17eab29e495d1bfae4cb5c1411c42830e8c0f258d14df9d4077a2bfad13
+Section: 嗨-汉化
+Description: Bongwater 简体中文包
+Author: Ball
+Name: Bongwater 简体中文包
+
+Package: com.hk.boxy4.cn
+Version: 4.3.5
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Boxy3-4_CN.deb
+Size: 3824
+MD5sum: be94e030f1df91da42c1b54d07b7cb98
+SHA1: 6cf4aa164baf0211b02982a9bf4c3930ed441606
+SHA256: 1a2c0b90ec3e5ee0d4e02da2ccd44ffa18c3cb0b301953e66b894e83e5b7e600
+Section: 嗨-汉化
+Description: Boxy 3&4 通用简体中文包。
+Author: 黑客源/Hi客源
+Name: Boxy 3&4 简体中文包
 
 Package: com.hk.bubbles.cn
 Version: 0.5.0
@@ -2761,6 +3811,21 @@ Section: 嗨-汉化
 Description: CallBar XS 简体中文包。
 Author: Sandy0、妖刀
 Name: CallBar XS 简体中文包
+
+Package: com.hk.camera11.cn
+Version: 1.2.6-1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Camera11_CN.deb
+Size: 2464
+MD5sum: 9b811b33a96d7f99866f1909b181f909
+SHA1: 7571c43df76f06717fcd5febc0b4d0b5d3e9eff0
+SHA256: 8067db12f1da4782b9337ff68984406a823523d7fedc6714d0e9389088746080
+Section: 嗨-汉化
+Description: Camera11 简体中文包。
+Author: 妖刀
+Name: Camera11 简体中文包
 
 Package: com.hk.camerashuttersounddisabler
 Version: 0.1.0
@@ -2912,6 +3977,22 @@ Description: Chronos 简体中文！Chronos 介绍：管理应用程序后台/�
 Author: Ball <ball@hackcn.net>
 Name: Chronos 简体中文包
 
+Package: com.hk.circleicons.cn
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: dunkston
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: rootful/CircleIcons_CN.deb
+Size: 1152
+MD5sum: 85e448a53a9ea1d5e1134b2db3c81386
+SHA1: 808d01a54d892e7ad135a8811e5b0ddbfa9ced5d
+SHA256: efa8e819b90445729fec63b184b7c05609c0779b4c265d925aadd8a0134cf67c
+Section: 嗨-汉化
+Description: Circle Icons 简体中文包。
+Author: dunkston
+Name: Circle Icons 简体中文包
+
 Package: com.hk.classicfolders3.cn
 Version: 3.0.0
 Architecture: iphoneos-arm
@@ -2960,6 +4041,22 @@ Description: ClassicKeyboardXS精简版，降低X键盘底部高度为0，无设
 Author: Netskao
 Name: ClassicKeyboardXS Lite
 
+Package: com.hk.colorbadges
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: David Goldman
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Filename: rootful/ColorBadges.deb
+Size: 59704
+MD5sum: e3a39fa5238593d1adfb60bfc85a016f
+SHA1: 9a1cf1c916178b6703891df7d13b3ef036da3fd8
+SHA256: 0dc0c4b2668bb858ea7416283550a14d3ef68083550f56d45028f9b9a0535c10
+Section: 嗨-系统
+Description: 彩色角标，通知角标跟随App图标颜色变化。源内有汉化包，兼容iOS15。
+Author: David Goldman
+Name: ColorBadges 彩色角标
+Sponsor: Hi客源
+
 Package: com.hk.colorbanners3
 Version: 1.1.0
 Architecture: iphoneos-arm
@@ -2988,6 +4085,35 @@ Section: 嗨-汉化
 Description: ColorBanners 3 (iOS13~14)简体中文包。
 Author: Ball <ball@hackcn.net>
 Name: ColorBanners 3 简体中文包
+
+Package: com.hk.colorflow5.cn
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5.000)
+Filename: rootful/ColorFlow5_CN.deb
+Size: 2128
+MD5sum: 75f4227549fd07996d37ecc23d3f78ea
+SHA1: 3fc3f96b5c4a17da6a1f1961973b3b23a25bffbd
+SHA256: 4a9c4a0e5df364bc9a2a5691118b7b09bc1acc5ada48e204ee3e604377237025
+Section: 嗨-汉化
+Description: ColorFlow 5 简体中文包。
+Author: 妖刀
+Name: ColorFlow 5 简体中文包
+
+Package: com.hk.colormebaddge.cn
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/ColorMeBaddge_CN.deb
+Size: 8940
+MD5sum: 43b4a3ebf6446a87327b130bf187af77
+SHA1: 1a74f4fe02792b73fefc828bb215e2a82c3dc2b7
+SHA256: c7f4087d5db2b9372c204fc2bdd79d55dae812dd49fb79b8aca8c553ed80ab71
+Section: 嗨-汉化
+Description: ColorMeBaddge 简体中文包！ColorMeBaddge 介绍：强大的角标管理插件，调整角标颜色、外观、特殊角标、边框设置、等等的功能...
+Author: Ball <ball@hackcn.net>
+Name: ColorMeBaddge 简体中文包
 
 Package: com.hk.colormenotifs.cn
 Version: 1.2.1
@@ -3063,6 +4189,21 @@ Section: 嗨-汉化
 Description: Copypasta 简体中文 ！Copypasta 介绍：复制粘贴记录增强插件
 Author: Ball <ball@hackcn.net>
 Name: Copypasta 简体中文
+
+Package: com.hk.cosmos.cn
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Cosmos_CN.deb
+Size: 3088
+MD5sum: 4197864915b3e58862f1a2a976d461cc
+SHA1: a1fb6d905120c95c1420cfda8495aaf01cffb1fd
+SHA256: 42f3668a21399476335385179effd932f928430bc4772f98ef13ffbb8bdf6c48
+Section: 嗨-汉化
+Description: Cosmos 简体中文包。
+Author: 妖刀
+Name: Cosmos 简体中文包
 
 Package: com.hk.cozybadges.cn
 Version: 1.2.0
@@ -3140,6 +4281,22 @@ Description: 适用于CT4所有版本的汉化，若CrackTool4原插件有更新
 Author: 妖刀
 Name: CrackTool4 简体中文包
 
+Package: com.hk.crane
+Version: 1.3.8
+Architecture: iphoneos-arm
+Maintainer: opa334
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane, com.hk.crane13
+Filename: rootful/Crane_1.3.8.deb
+Size: 607648
+MD5sum: e0df5779b752c0c5f96f0e5b41c4b438
+SHA1: 7cfea3bde40d36054bc7e6bfb591a53f4c686993
+SHA256: d0c9de32b95e3725a97abc2dacfea4be7e1f793debff81cea889b7f391c5c590
+Section: 嗨-工具
+Description: APP多开账号，长按图标快捷菜单切换，支持iOS11~16，源内有中文修复包。Xina越狱的用户如果安装后安全模式，卸载再装一次，就没问题了。
+Author: opa334
+Name: Crane (iOS 11+) 账号多开
+
 Package: com.hk.crane.cn
 Version: 1.3.9
 Architecture: iphoneos-arm
@@ -3154,6 +4311,21 @@ Section: 嗨-汉化
 Description: Crane 中文修复包，也支持Crane Lite。增补/修复自带不全的中文~
 Author: 妖刀
 Name: Crane 中文修复包
+
+Package: com.hk.cthulhu.cn
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Cthulhu_CN.deb
+Size: 2324
+MD5sum: 538d85561e0c6f265602cd48c8148c67
+SHA1: c974d069b317e013f4c6464ceed304456adb61f3
+SHA256: b2dbe06c2ebb5570dfc0f9be58212552d3ccef7314a527345db2d95d5dd22d7d
+Section: 嗨-汉化
+Description: Cthulhu 简体中文包。
+Author: 妖刀
+Name: Cthulhu 简体中文包
 
 Package: com.hk.cucu.cn
 Version: 0.0.3
@@ -3201,6 +4373,21 @@ Description: Cydown v7.1.2汉化版，集成中文修复，去掉其他语言，
 Author: julioverne <julioverne@me.com>
 Name: CyDown [7.1.2汉化版]
 
+Package: com.hk.cylinder.cn
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Cylinder_CN.deb
+Size: 2268
+MD5sum: 801bb3339fcc5c5f33d878b4e6dce06a
+SHA1: 1fab2fdc000e089a8bfc6259fbb09299683db3aa
+SHA256: a5ae62fbed479734ccc826aa17fc7cad80e1f8fe72d1c5e562614394730cb710
+Section: 嗨-汉化
+Description: Cylinder 中文修复包。修复补全Cylinder自带的残缺中文，支持最新出的Cylinder Reborn。
+Author: 妖刀
+Name: Cylinder 中文修复包
+
 Package: com.hk.cypwn.nicegram
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -3230,6 +4417,20 @@ Section: 嗨-汉化
 Description: Dayn 简体中文包，修复由于作者官方文件夹名错误导致不显示中文。
 Author: Sandy0
 Name: Dayn 简体中文包
+
+Package: com.hk.defaultpage.cn
+Version: 0.0.19
+Architecture: iphoneos-arm
+Maintainer: Ball <ball@hackcn.net>
+Filename: rootful/DefaultPage_CN.deb
+Size: 2404
+MD5sum: b70833658d384a17a9a9ee016d2be110
+SHA1: b6bfbaac4c383ab4248c4517ad7ba6b77ec06441
+SHA256: f2a1ad6f77363a8eec7bd5a607b775ea93734ff72c9a617a2d9bd391d2a9ec90
+Section: 嗨-汉化
+Description: DefaultPage 简体中文！DefaultPage 介绍： 选择你要默认显示的桌面页面！
+Author: Ball <ball@hackcn.net>
+Name: DefaultPage 简体中文包
 
 Package: com.hk.delta.cn
 Version: 1.2b-1
@@ -3261,6 +4462,21 @@ Section: 嗨-工具
 Description: 禁用iOS的粘贴提示，支持iOS14-iOS15。
 Author: Netskao
 Name: DisablePasteTips(禁粘贴提示)
+
+Package: com.hk.disableswipex.cn
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate
+Filename: rootful/DisableSwipeX_CN.deb
+Size: 4548
+MD5sum: b023cee3b4448d1809f5f6dd0d009332
+SHA1: 5825021d58d059687f4ecaafb7f166e9c8e154ba
+SHA256: b93f4619bf342531b03da28c3356337f56a190d2e6f0eb8e8b04a75a0420d626
+Section: 嗨-汉化
+Description: DisableSwipeX 汉化包
+Author: Ball
+Name: DisableSwipeX 简体中文包
 
 Package: com.hk.dockx.cn
 Version: 2.4.1
@@ -3322,6 +4538,21 @@ Section: 嗨-汉化
 Description: dotto+ 简体中文包。
 Author: 妖刀
 Name: dotto+ 简体中文包
+
+Package: com.hk.dra1n.cn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Dra1n_CN.deb
+Size: 3492
+MD5sum: dd9d40990a48b6eb2d7e3f743ec3131e
+SHA1: 35a79d0e2c10079276c51a75c448d7e2988944a2
+SHA256: b23706e8936418ee7a08b1dcc42ce4e2feb74aa0ce571b2b84028b22d5aceb69
+Section: 嗨-汉化
+Description: Dra1n 简体中文包。
+Author: 妖刀
+Name: Dra1n 简体中文包
 
 Package: com.hk.dune.cn
 Version: 1.1.1
@@ -3411,6 +4642,21 @@ Description: Electrifying 简体中文包。Electrifying 介绍：重新设计�
 Author: Ball
 Name: Electrifying 简体中文包
 
+Package: com.hk.electrode.cn
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootful/Electrode_CN.deb
+Size: 4116
+MD5sum: fe59831c169cd4be45eb7459bfabe0ea
+SHA1: 84705c1f2475d3cdf329f626cc6fb24833f4cf93
+SHA256: 7920c9d313c5694f06cef8b59458c7bfd409958e549729a09e84f91b9c7e1a00
+Section: 嗨-汉化
+Description: Electrode 简体中文包。类似PencilChargingIndicator的电量弹窗插件。插件源https://bid3v.github.io/repo/
+Author: 妖刀
+Name: Electrode 简体中文包
+
 Package: com.hk.esfilepro
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -3427,6 +4673,37 @@ Description: 解锁ES文件管理会员权限，冷冷雨出品。
 Author: lenglengyu
 Name: ES文件浏览器Crack
 
+Package: com.hk.esim.cn
+Version: 1.14-beta-2.1
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate
+Conflicts: com.hk.esim.com, com.crak.esim.com
+Filename: rootful/eSim+_CN.deb
+Size: 44972
+MD5sum: 624e291811faea79c0c65d4b8ddbe3a5
+SHA1: 4679d642f0a264fb0d83ec13e1a3db9a5a577e27
+SHA256: dc553a49341ee33ec99e65cf75d8fcbf251a1443601d84c2d55e742235b41f1b
+Section: 嗨-汉化
+Description: eSim+ 完整汉化包。eSim+ 介绍：双卡拨号&发信息增强插件。作者源：https://apt.iarrays.com/
+Author: Ball
+Name: eSim+ 简体中文包
+
+Package: com.hk.exsto13.cn
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate
+Filename: rootful/Exsto13_CN.deb
+Size: 4260
+MD5sum: 749bf49ef907b6c19937aea4c9c2b00b
+SHA1: 1eaecfe06fcb164bc2de0b58866243d3d76bb619
+SHA256: f2a9863817b33af2285503e319433e77a3c781fc3ec8a0843816f0da10382180
+Section: 嗨-汉化
+Description: Exsto13 简体中文包
+Author: Ball
+Name: Exsto13 简体中文包
+
 Package: com.hk.eyeplugs.cn
 Version: 1.5.1
 Architecture: iphoneos-arm
@@ -3440,6 +4717,20 @@ Section: 嗨-汉化
 Description: Eyeplugs 简体中文！Eyeplugs 介绍: 通知屏蔽.游戏党必备神器,在运行某些应用中自动屏蔽其它应用发出的通知！
 Author: Ball
 Name: Eyeplugs 简体中文
+
+Package: com.hk.fancyselection.cn
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/FancySelection_CN.deb
+Size: 4972
+MD5sum: 117cd36d99d8a3598c9da10b8dbe3a77
+SHA1: 060f894acf4caa80bc67632e6bb61de3a32f47a1
+SHA256: ce877f0ec100fa14cbc023289abecdff16c3bdc9b91ff105e05dd53042c5a56d
+Section: 嗨-汉化
+Description: FancySelection 简体中文包。FancySelection 插件介绍：让iOS文本选择菜单变得更加胡里花哨
+Author: Ball <ball@hackcn.net>
+Name: FancySelection 简体中文包
 
 Package: com.hk.fastAppls.cn
 Version: 1.0.1
@@ -3455,6 +4746,21 @@ Section: 嗨-汉化
 Description: FastAppLS 简体中文包。
 Author: 妖刀
 Name: FastAppLS 简体中文包
+
+Package: com.hk.fastx.cn
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/FastX_CN.deb
+Size: 1500
+MD5sum: 34b7836a6e264e23d0cd6c1f0f5162e2
+SHA1: 995da1dd0efe804c49c2676385d3f04561f78a52
+SHA256: 7809d2c9a7830b0119406b8590447941ebd88c11bf0891151142da7340061cf9
+Section: 嗨-汉化
+Description: FastX 简体中文包。
+Author: 妖刀
+Name: FastX 简体中文包
 
 Package: com.hk.filza.cn
 Version: 4.0-2
@@ -3485,6 +4791,36 @@ Section: 嗨-工具
 Description: FingerTouch 汉化版，合入Rishanan的ios12修复补丁1.1。
 Author: Michele Primavera&妖刀
 Name: FingerTouch(iOS12) 汉化版
+
+Package: com.hk.finical.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Depends: mobilesubstrate
+Filename: rootful/Finical_CN.deb
+Size: 1760
+MD5sum: 3c7be8f8dccddb94a448dc4a66819e05
+SHA1: b8d487e8c0aef06bc185f1e8d875708ea1fb52d4
+SHA256: 7978395909de3fd51162f92ac6d11bf6f353999c6b707ac197c4f672e46d3f4e
+Section: 嗨-汉化
+Description: Finical 简体中文包。
+Author: Sandy0
+Name: Finical 简体中文包
+
+Package: com.hk.fixclassicfolders2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: mobilesubstrate
+Filename: rootful/FixClassicFolders2.deb
+Size: 3640
+MD5sum: 34fc67be6264c6569a9268869bbc246c
+SHA1: ee6e28d24f918fe56c02df798ee8df7d74b22196
+SHA256: 466756129be7115026a5cabef057edeb22e93195f3e6d7abeae6444179b48d61
+Section: 嗨-系统
+Description: 修复ClassicFolders 2锁屏后第一次打开文件夹时位置错乱的Bugs
+Author: Netskao
+Name: FixClassicFolders2
 
 Package: com.hk.flex3beta
 Version: 3~Beta50
@@ -3671,6 +5007,51 @@ Description: FolderControllerXIII 简体中文修复包。
 Author: 妖刀
 Name: FolderControllerXIII 中文修复包
 
+Package: com.hk.font.eng.cs12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/CorporativeSans(iOS11~12).deb
+Size: 9758028
+MD5sum: f35117e2a85eef927c1a376ed4bfba24
+SHA1: bf5370bea516090e371a1cb6da248bcf26e99947
+SHA256: 8d4c6051e1eec601adb7036849457b907f29949eb15d72832065478e1ed20d42
+Section: 嗨-字体
+Description: 仅英文直装字体，可搭配本源的中文直装字体。英文为：Corporative Sans Alt 多字重动态英文(Alexman)，加入kupord定制的盲文。安装前先卸载已安装的直装字体，自动备份原机字体，卸载即可还原。
+Author: 佚名
+Name: [英文]Corporative Sans(iOS11~12)
+
+Package: com.hk.font.eng.ggsans12
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/GoogleSans(iOS11~12).deb
+Size: 5810632
+MD5sum: 6ee82984618b6a1f9b4b77bcba339211
+SHA1: 43b2925b8e0ea12379f4c96b189a1411ef8df284
+SHA256: 3a94181eb9a20e60c329f96821a5ed702466b9c542763d445216cfa52dca9417
+Section: 嗨-字体
+Description: 仅英文直装字体，可搭配本源的中文直装字体。英文为：GoogleSans多字重动态英文(Alexman)，加入kupord定制的盲文。安装前先卸载已安装的直装字体，自动备份原机字体，卸载即可还原。
+Author: 佚名
+Name: [英文]GoogleSans(iOS11~12)
+
+Package: com.hk.font.eng.ggsans13
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 13.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/GoogleSans(iOS13).deb
+Size: 8966004
+MD5sum: 28711ceafd929e2933f84c9d5202f8e0
+SHA1: 4b90bfdb273c1826cb767b9585afa2ac9f3fedc8
+SHA256: ee6940a990a7b63d4d13c91cbf7774e35b6130725e2547714a2c3e7ab0a667f7
+Section: 嗨-字体
+Description: 仅英文直装字体，可搭配本源的中文直装字体。英文为：GoogleSans多字重动态英文(Alexman)，加入kupord定制的盲文。安装前先卸载已安装的直装字体，自动备份原机字体，卸载即可还原。
+Author: 佚名
+Name: [英文]GoogleSans(iOS13)
+
 Package: com.hk.font.eng.ggsans14
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3715,6 +5096,37 @@ Section: 嗨-字体
 Description: 仅英文直装字体，可搭配本源的中文直装字体。英文为：SF Compact Rounded多字重动态英文(Alexman)，加入kupord定制的盲文。安装前先卸载已安装的直装字体，自动备份原机字体，卸载即可还原。
 Author: 佚名
 Name: [英文]SFCompactRounded(iOS13)
+
+Package: com.hk.force3dappshortcuts
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 428
+Depends: mobilesubstrate
+Filename: rootful/Force3DAppShortcuts.deb
+Size: 28008
+MD5sum: c3318873613198dd709f0993c8e90e7a
+SHA1: 36cdf4b9d84e15558d54f87278f595585f2614e2
+SHA256: 20498310b28d8d2edac9ff16614c0ec99cc659ce47fd35067d8c20f0de2eb7f3
+Section: 嗨-工具
+Description: 为非 3D touch 机型开启 3D Touch 功能，支持iOS12，支持A12设备(如XR)。
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: Force3DAppShortcuts
+
+Package: com.hk.force3dappshortcuts.cn
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Force3DAppShortcuts_CN.deb
+Size: 2048
+MD5sum: 3277f736fb195aee1107d9dc78917eca
+SHA1: e7ec4aca9818923ea4ab3fe594d3afa1b81609bd
+SHA256: b8bd21418f31202e7e8bbd138b2faeaaf4a527e81e1a6188032fddbb6a7eeb07
+Section: 嗨-汉化
+Description: Force3DAppShortcuts 简体中文包。
+Author: 妖刀
+Name: Force3DAppShortcuts 简体中文包
 
 Package: com.hk.freshwall.cn
 Version: 0.0.6b2
@@ -3776,6 +5188,20 @@ Description: Gesto 简体修正包，修正自带的一些译文，新增未汉�
 Author: Ball <ball@hackcn.net>
 Name: Gesto 汉化修正包
 
+Package: com.hk.gesto13.cn
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: Ball <ball@hackcn.net>
+Filename: rootful/Gesto13_CN.deb
+Size: 3060
+MD5sum: bbd8c09b2f272d484d0f9322784af8d1
+SHA1: 7b497b57262502d9caf223b7a557d7ecea9dd295
+SHA256: f2baa8c7b0c4034c34ebc7792a7a8d0f47c0c96be4dca0e1af297e89933f0eb5
+Section: 嗨-汉化
+Description: Gesto for iOS 13 简体中文包
+Author: Ball <ball@hackcn.net>
+Name: Gesto for iOS 13 简体中文包
+
 Package: com.hk.gestures13
 Version: 1.1
 Architecture: iphoneos-arm
@@ -3791,6 +5217,21 @@ Section: 嗨-工具
 Description: 开启非刘海iPhone的手势操作，适配iOS13，无设置。但是抬高了键盘，可用ClassicKeyboardXS降低键盘高度。
 Author: iCraze & Ryan Nair
 Name: Gestures13 (iOS13手势)
+
+Package: com.hk.glance.cn
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Glance_CN.deb
+Size: 1680
+MD5sum: 3757f543b520ca793ae1e6a2c1d72725
+SHA1: dce55e37c4a8bb2b46a5a6ecac253eeda54fb221
+SHA256: 01a001220ad1dddce39117c904def9d17071510e9d30b8a24be733bda20e6860
+Section: 嗨-汉化
+Description: Glance 简体中文包。
+Author: 妖刀
+Name: Glance 简体中文包
 
 Package: com.hk.glow.cn
 Version: 0.4-45
@@ -3823,6 +5264,21 @@ Section: 嗨-工具
 Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版
+
+Package: com.hk.gradi.cn
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Gradi_CN.deb
+Size: 1812
+MD5sum: 57e61da0028a5394c215df77f9d4512e
+SHA1: 07098c8cda6f25de602358dd2cba167735a2d09a
+SHA256: 073de076fecd9bd52be6c8cdcd2a7cfb90a4456808ca5dce800cb74e7e8687a3
+Section: 嗨-汉化
+Description: Gradi 简体中文包。
+Author: 妖刀
+Name: Gradi 简体中文包
 
 Package: com.hk.grupi
 Version: 2.1
@@ -3869,6 +5325,21 @@ Section: 嗨-汉化
 Description: Gump 简体中文！ Gump介绍:注销设备过程中不停止播放音乐
 Author: Ball <ball@hackcn.net>
 Name: Gump 简体中文包
+
+Package: com.hk.gyration.cn
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Gyration_CN.deb
+Size: 2368
+MD5sum: 52ccf09b0755b8dc4c04ffb26761ddd2
+SHA1: 1ae1f4d2750f487fd67f4aa2a332d9393c562752
+SHA256: cbb032237496ef05d29b3fdb3c09dd6fb3060d3c6739d7f9a4389cdf1bc94273
+Section: 嗨-汉化
+Description: Gyration 简体中文包。
+Author: 妖刀
+Name: Gyration 简体中文包
 
 Package: com.hk.harbor3.cn
 Version: 1.1.1-1
@@ -3917,6 +5388,51 @@ Description: HideStatusBarItemsPro 简体中文包。HideStatusBarItemsPro 介�
 Author: Ball <ball@hackcn.net>
 Name: HideStatusBarItemsPro 简体中文包
 
+Package: com.hk.homegesture.zlxdikeios11
+Version: 1.77
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: rootful/HomeGesture11.deb
+Size: 73984
+MD5sum: 5a09a518819d3d6ffc0be104e5b899b6
+SHA1: 64c8d7498a53d37ac60ff61991c41cd873071baa
+SHA256: b109d02536e661cbce084045079a4c1328cc164e8bd740bac7362d3fa7ff8ef7
+Section: 嗨-系统
+Priority: optional
+Description: iOS11仿X手势插件zlxdike修改版，修复微信语音bug，相机退出BUG，后台上滑关闭APP等，带设置开关。用于iOS11非刘海设备。
+Author: zlxdike
+Name: HomeGesture(修改版-iOS11)
+
+Package: com.hk.homelist.cn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Ball <ball@hackcn.net>
+Filename: rootful/HomeList_CN.deb
+Size: 1944
+MD5sum: 2b7ef4c30657de3c52ef18d2d72bdd5a
+SHA1: 165613d6d1a99a5175967cde66bc6a888b1aa0ef
+SHA256: cf902d0d7eb8ef0344161725d387355fb78ca6b5683641e67fa1a717be29f92d
+Section: 嗨-汉化
+Description: HomeList 简体中文！ HomeList 介绍: HomeList完全替代你的主屏幕，包括两种不同风格的按钮和三种不同风格的背景模糊，每个按钮都是手工制作类似于在Watchos"菜单"的风格启动板！
+Author: Ball <ball@hackcn.net>
+Name: HomeList 简体中文包
+
+Package: com.hk.homepluspro.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate
+Filename: rootful/HomePlusPro_CN.deb
+Size: 4864
+MD5sum: 84aabc63d37180fc39c18483a2d25db6
+SHA1: e049be1ed199f0bc64bf1417e11dd1ec5904f152
+SHA256: a2d6b39e9010ddf92a162148bd612e869f3ba1b87298b3fcc69db89b056d3d34
+Section: 嗨-汉化
+Description: HomePlus Pro 完整汉化。 HomePlus  Pro介绍: 具有直观UI的动态实时调整主屏幕图标布局、图标大小等等。
+Author: Ball
+Name: HomePlus Pro 简体中文包
+
 Package: com.hk.homerrun.cn
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -3945,6 +5461,21 @@ Description: Honey 简体中文！Honey 介绍：适用于所有设备的Apple W
 Author: Ball <ball@hackcn.net>
 Name: Honey 简体中文包
 
+Package: com.hk.hswidgets.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate
+Filename: rootful/HSWidgets_CN.deb
+Size: 6568
+MD5sum: d66b3def9e041167d766b8a5589bb98b
+SHA1: d9b6250099219ab84d2e1c8e73cc34702b0c8567
+SHA256: 57d3484fbbd2ae68f782d67de9e04d2378672c80bbd25e70760cb639a0c6d8b9
+Section: 嗨-汉化
+Description: HSWidgets 简体中文包。HSWidgets 介绍，在桌面添加小部件。HSWidgets 作者源：https://dgh0st.github.io/
+Author: Ball
+Name: HSWidgets 简体中文包
+
 Package: com.hk.hyperion.cn
 Version: 0.4.8-2
 Architecture: iphoneos-arm
@@ -3961,6 +5492,36 @@ Description: Hyperion 简体中文包。
 Author: Sandy0
 Name: Hyperion 简体中文包
 
+Package: com.hk.iBlockPrefs.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/iBlockPrefs_CN.deb
+Size: 2136
+MD5sum: 8e8743b12da87dad941513ebeb546b01
+SHA1: 07469298d6df4a0ab845167866b231fc9b324556
+SHA256: 5b645c6bccb2cc0b242eb8caf26ee7804249c8a8201ca5d7311c00f2d04026e7
+Section: 嗨-汉化
+Description: iBlockPrefs 简体中文包。
+Author: Mo
+Name: iBlockPrefs 简体中文包
+
+Package: com.hk.icaughtuxii.cn
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Depends: mobilesubstrate
+Filename: rootful/iCaughtU12_CN.deb
+Size: 2652
+MD5sum: b798888ee4a4fb3d17cde468bb67b33b
+SHA1: 8ab8b5c962b63b72e11e273b3e013f67482521d1
+SHA256: 31a1af79b8748ca4ae489ce6eb129fd224372b6d65a16898c395b5cc9958bbe3
+Section: 嗨-汉化
+Description: iCaughtU 12 简体中文包。
+Author: Sandy0
+Name: iCaughtU 12 简体中文包
+
 Package: com.hk.iconator2.cn
 Version: 2.2.1
 Architecture: iphoneos-arm
@@ -3974,6 +5535,22 @@ Section: 嗨-汉化
 Description: Iconator2 简体中文！Iconator2 介绍：调整主屏幕上的图标大小，还可以调整主屏幕的布局与行数/列数(类似Boxy3)！
 Author: Ball <ball@hackcn.net>
 Name: Iconator2 简体中文包
+
+Package: com.hk.iconcert
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Hao Nguyen
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13)
+Conflicts: com.haoict.iconcert, com.haoict.libhdev
+Filename: rootful/IconCert14_ZH.deb
+Size: 61548
+MD5sum: 3b8f5ea615cc4a05440b364e59ce318b
+SHA1: 21e8a6dcd8aff88ed1e4c91d925f542541447057
+SHA256: 6b1dee0dbc7fae118dc41497fbdd7922b14c32603dac3a02f3bdd216fdc4b6ae
+Section: 嗨-工具
+Description: IconCert 14汉化版，包含了所需依赖，不与作者源的原版兼容。在签名的APP上显示过期时间的插件，支持iOS13~14。
+Author: Hao Nguyen
+Name: IconCert 14
 
 Package: com.hk.icontweak.cn
 Version: 1.0-5
@@ -4051,6 +5628,20 @@ Description: Infuse的破解/增强插件。
 Author: dvntm
 Name: Infuse Plus
 
+Package: com.hk.instalauncher2.cn
+Version: 1.8.2
+Architecture: iphoneos-arm
+Maintainer: Ball <ball@hackcn.net>
+Filename: rootful/InstaLauncher2_CN.deb
+Size: 2956
+MD5sum: 1810c48c3b844d775a787a1fbf13e0cc
+SHA1: 32931d510ebf4fb6618205b31f45b313627366b5
+SHA256: 03fc6af0c5f30cdf8339bc6a286c176444664df62f2a8786c48f29ee1ebaecfe
+Section: 嗨-汉化
+Description: InstaLauncher 2 简体中文包。InstaLauncher 2 介绍:屏幕侧边快捷应用启动器。
+Author: Ball <ball@hackcn.net>
+Name: InstaLauncher 2 简体中文包
+
 Package: com.hk.intelligentpass4.cn
 Version: 1.1.1-1
 Architecture: iphoneos-arm
@@ -4081,6 +5672,50 @@ Description: IntelligentPass5 简体中文包。
 Author: 妖刀
 Name: IntelligentPass5 简体中文包
 
+Package: com.hk.ios6chargingaudio
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Depends: mobilesubstrate
+Filename: rootful/iOS6ChargingSound.deb
+Size: 25096
+MD5sum: 844120989f6d3897d0d83f2b2daab4a3
+SHA1: 64e75e698c6800f68b219a116bbdabcecca3c22d
+SHA256: 4bae8bb6837289a8cbe4c1756eb38acb1fa10ed3094f8e8dd561b3e5f36fd5d2
+Section: 嗨-工具
+Description: 替换iOS 6 系统充电音，自动备份原文件，卸载即恢复。
+Author: Sandy0
+Name: iOS 6 充电音效
+
+Package: com.hk.ios6lockaudio
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Depends: mobilesubstrate
+Filename: rootful/iOS6LockSound.deb
+Size: 25316
+MD5sum: 6bb0401c5f05630919c39c5c04bfd2c7
+SHA1: 26e59b82153472648fc3ac8dc75627a99d08a183
+SHA256: 38c05dfd6c3b886ddffd155d0e2b2ef61f35595858a969afaa6d4d66a844600a
+Section: 嗨-工具
+Description: 替换iOS 6 锁屏音，自动备份原文件，卸载即恢复。
+Author: Sandy0
+Name: iOS 6 锁屏音效
+
+Package: com.hk.ipadstatusbar13.cn
+Version: 1.1.8
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/iPadStatusBar13_CN.deb
+Size: 2064
+MD5sum: 8a4600f410a352d8b4e028144e929859
+SHA1: 5aaef4bfd7c11cc880d29840499c6170d59b4533
+SHA256: ef7096a7b6c55b878ae4573aa957fe47917901901e2ed894e6d497154c2ee8c0
+Section: 嗨-汉化
+Description: iPadStatusBar13 简体中文包。iPadStatusBar13 介绍：在所有iPhone设备上启用iOS 13 iPad状态栏，支持iOS 12-13！原插件安装源: https://repo.twickd.com/
+Author: Ball <ball@hackcn.net>
+Name: iPadStatusBar13 简体中文包
+
 Package: com.hk.iridium
 Version: 1.2.15-REL-1669371195
 Architecture: iphoneos-arm
@@ -4096,6 +5731,36 @@ Section: 嗨-工具
 Description: iOS应用解密砸壳工具，织词汉化。适用于iOS13.5-14.x，具体支持系统版本自测。
 Author: Lakr Aream <launchctl@outlook.com>
 Name: Iridium砸壳(汉化版)
+
+Package: com.hk.jailprotect
+Version: 0.0.1-2
+Architecture: iphoneos-arm
+Maintainer: admin
+Depends: mobilesubstrate
+Filename: rootful/Jailprotect.deb
+Size: 16160
+MD5sum: 14297b9d1f228fc7ea311c3f21fb1674
+SHA1: b9f0b50365d89f9ff427f6c8d145d0a9251376a5
+SHA256: b5f2bb2a83621331ae37c908cba215b9607253acaf7b976694a1e6e23caae5ca
+Section: 嗨-工具
+Description: 一款很好的屏蔽越狱的插件，无设置，可屏蔽发现精彩等，还不影响性能。
+Author: admin
+Name: Jailprotect 屏蔽越狱
+
+Package: com.hk.jjolano.shadow.cn
+Version: 3.6.0
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Shadow_CN.deb
+Size: 3044
+MD5sum: 41052d2891abc7fd2020e5d3cce3b924
+SHA1: 918de0477de5d41b0c679aa37174ac588d7acaac
+SHA256: 80d53e5a77a5141c26bbda6992c3ac409c2e7a24e49d5956b03442ab8f00987d
+Section: 嗨-汉化
+Description: Shadow 简体中文包，适配Shadow v3.xx版本。插件和依赖源：https://ios.jjolano.me
+Author: 妖刀
+Name: Shadow 简体中文包
 
 Package: com.hk.juice.cn
 Version: 1.0.1
@@ -4141,6 +5806,24 @@ Section: 嗨-汉化
 Description: Kaleidoscope 简体中文包。插件源：http://sparkdev.me/。一款改变iOS13暗黑模式配色的插件，自带几种预设。
 Author: 妖刀
 Name: Kaleidoscope 简体中文包
+
+Package: com.hk.kalm
+Version: 3.0.3
+Architecture: iphoneos-arm
+Maintainer: ubik <cydia@ubikstyl.es>
+Installed-Size: 1228
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, com.twickd.julius.april
+Filename: rootful/Kalm.deb
+Size: 266996
+MD5sum: 263ec83782400b0616544ccb34bfe91e
+SHA1: 36a3be6d324342bb4c7c6222b47d601819c77980
+SHA256: b8533c94d6a6d4f1580d3158a74a6dd881adc836bc6ed798ea64fe89afbe5c74
+Section: 嗨-工具
+Description: Kalm 锁屏定制，源内有汉化包。
+Tag: compatible_min::ios13.0
+Author: ubik <cydia@ubikstyl.es>
+Name: Kalm 锁屏定制
 
 Package: com.hk.kalm.cn
 Version: 3.0.3
@@ -4188,6 +5871,21 @@ Description: Kayoko 简体中文包。
 Author: 妖刀
 Name: Kayoko 简体中文包
 
+Package: com.hk.keepitsimple.cn
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootful/KeepItSimple_CN.deb
+Size: 1700
+MD5sum: e255c13c05b9bb62741ef5896431ec13
+SHA1: 7f00e9c2eb8e0ec08de8c7055bf7e3a1dc4b29a5
+SHA256: 113bcd25f9f807d2a0132df5a1bbffb14fec17c1e1b770a2ef4abb8f97ddb4aa
+Section: 嗨-汉化
+Description: KeepItSimple 简体中文包。通知中心/锁屏界面一键下拉清除通知的插件。
+Author: 妖刀
+Name: KeepItSimple 简体中文包
+
 Package: com.hk.key+
 Version: 1.1.5
 Architecture: iphoneos-arm
@@ -4219,6 +5917,51 @@ Description: Kill All Apps 简体中文包。插件源：https://haoict.github.i
 Author: 妖刀
 Name: Kill All Apps 简体中文包
 
+Package: com.hk.killmyapps.cn
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/KillMyApps_CN.deb
+Size: 2484
+MD5sum: 02709c8cbf988fd51707114a003bdca4
+SHA1: d51f22925e1ba1496f47a5b09e466073c73e37ef
+SHA256: 5486e430f769a7ec7e62b7ebf03bc20decd61d5bec35c77799aff81d6cda3f44
+Section: 嗨-汉化
+Description: KillMyApps 简体中文。KillMyApps 介绍： 当锁定屏幕或退出应用程序时杀死你选定的应用程序！
+Author: Ball <ball@hackcn.net>
+Name: KillMyApps 简体中文包
+
+Package: com.hk.killxpro
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: cemck
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 11.0)
+Conflicts: com.cemck.killx, com.crak.killx, com.hk.killx, com.hk.killxpro.cn
+Filename: rootful/KillXPro_ZH.deb
+Size: 171048
+MD5sum: 1e5bd820a2aeba517147fca49db73745
+SHA1: 21087b88ac0ef896ee7ed8fd25721295ede0bfcf
+SHA256: a173c1656b19369c28e336b40404bc26e068d3e4c8ae07bcb79c3fa610c9eaa9
+Section: 嗨-系统
+Description: 后台切换下拉应用卡片关闭所有后台，支持iOS11~13，已自带汉化包。
+Author: cemck
+Name: KillX Pro 一键后台(CN)
+
+Package: com.hk.killxpro.cn
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: Ball <ball@hackcn.net>
+Depends: mobilesubstrate
+Filename: rootful/KillXPro_CN.deb
+Size: 2468
+MD5sum: 0b1b4e6ddb390ae38fcc70b223eaf6b9
+SHA1: d8c212465a3b40d4ad852265fee6bdcec9dae485
+SHA256: 60ef73b66ede99438c95239a80e90b6880d1e9cb659439f86817304c47f58c64
+Section: 嗨-汉化
+Description: KillX Pro 中文修复包。修复插件自带的残缺中文。
+Author: Ball <ball@hackcn.net>
+Name: KillX Pro 中文修复包
+
 Package: com.hk.kleanhsls.cn
 Version: 1.0
 Architecture: iphoneos-arm
@@ -4249,6 +5992,21 @@ Section: 嗨-汉化
 Description: Konban 简体中文包。
 Author: Sandy0
 Name: Konban 简体中文包
+
+Package: com.hk.laetus.cn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Laetus_CN.deb
+Size: 2200
+MD5sum: 10c6bb73b4ebb4231ee1cbaf632bd8e8
+SHA1: ca1eb344970cba09dfd39365d8fb7f96a740aae1
+SHA256: cb76a9e868f2ac93976c04f50843396b4a0d7f44bafcb9059b69e2380c6b77c3
+Section: 嗨-汉化
+Description: Laetus 简体中文包。
+Author: Mo
+Name: Laetus 简体中文包
 
 Package: com.hk.lastlook.cn
 Version: 3.6.3
@@ -4295,6 +6053,23 @@ Section: 嗨-工具
 Description: 越狱屏蔽。已汉化。
 Author: Ryley Angus
 Name: Liberty Lite (Beta)
+
+Package: com.hk.liddell
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 672
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, dev.traurige.libkitten (>= 1.3.3), com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: rootful/Liddell.deb
+Size: 91968
+MD5sum: 783cdd47923a2b1d5cc3ad4193aecec2
+SHA1: 5985292741422f1770556bd0bf8d3fb6ab5fc86f
+SHA256: 6909c01ceab5ea2cd170df1f2f26237781fb5ff02683ba3a31481df41c25aeec
+Section: 嗨-工具
+Description: 适用于iOS14~15的小横幅插件，源内有汉化包。
+Author: Traurige <hello@traurige.dev>
+Name: Liddell(小横幅)
 
 Package: com.hk.liddell.cn
 Version: 1.4.1
@@ -4358,6 +6133,22 @@ Section: 嗨-汉化
 Description: Lisa 简体中文！Lisa 介绍: 定制您的锁屏消息。
 Author: Ball
 Name: Lisa 简体中文包
+
+Package: com.hk.litten.copypasta
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: Litten
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.mrgcgamer.libgcuniversal, com.spark.libsparkapplist
+Conflicts: love.litten.copypasta, com.hk.copypasta.cn
+Filename: rootful/Copypasta_ZH.deb
+Size: 213904
+MD5sum: c736aab6f9d2e1869cb4ae5272e51250
+SHA1: 4e2ddf614327968609b8dcab6cd630710b533e3c
+SHA256: b463de00540784455c7ac085ff7a9afe47f68b7829dac9ccfaffa0ab91209553
+Section: 嗨-工具
+Description: 剪贴板管理器，原作者Nepeta，这是Litten接手更新维护的版本。支持iOS13-14，依赖在https://repo.packix.com/，已加入Hi客源汉化包。
+Author: Nepeta & Litten
+Name: Copypasta 剪切板管理
 
 Package: com.hk.litten.rose
 Version: 1.0.9
@@ -4449,6 +6240,37 @@ Description: LockPlus Pro 简体中文包。
 Author: Sandy0
 Name: LockPlus Pro 简体中文包
 
+Package: com.hk.lottienotifications.cn
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate
+Filename: rootful/LottieNotifications_CN.deb
+Size: 4896
+MD5sum: 42b86b731db7b65bc51c7515c20166ad
+SHA1: 2f1d74bef1fcd8e4d40d6f46b602759b0777c94b
+SHA256: a0994bcc292943ffc5ce7371b2872df5b692ad3a578876d1495d0b1c5d050d24
+Section: 嗨-汉化
+Description: LottieNotifications 简体中文包。LottieNotifications插件介绍：为你的通知横幅带来炫酷的动画
+Author: Ball
+Name: LottieNotifications 简体中文包
+
+Package: com.hk.lynx-2
+Version: 2.0.5
+Architecture: iphoneos-arm
+Maintainer: MTAC <mtactheming@gmail.com>
+Depends: mobilesubstrate, firmware (>= 14.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader (>= 2.2.3), ws.hbang.common
+Conflicts: com.hk.lynx2.cn, com.crak.lynx2.cn, com.twickd.mtac.lynx-2
+Filename: rootful/Lynx2.0.5_ZH.deb
+Size: 1198968
+MD5sum: b770f4f6c415731657e78d11e1d6c1ab
+SHA1: 3861682e37ca487cf97a142078bc62c7b14f6264
+SHA256: e2944e0753ecfad1c8dec39aae45aad39ca75c4e7714b3165d8d5c8b6099b0fd
+Section: 嗨-系统
+Description: 适用于iOS 14+的军刀工具，包含了汉化包。为啥上架这个老版本？新版作者全改了字符，需要整个重新汉化，不打算汉化新版。
+Author: MTAC <mtactheming@gmail.com>
+Name: Lynx 2 汉化版
+
 Package: com.hk.lynx2.cn
 Version: 2.4.5-1
 Architecture: iphoneos-arm
@@ -4494,6 +6316,20 @@ Description: Magma Evo 简体中文包。
 Author: 妖刀
 Name: Magma Evo 简体中文包
 
+Package: com.hk.magmapro.cn
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Ball <ball@hackcn.net>
+Filename: rootful/MagmaPro_CN.deb
+Size: 3192
+MD5sum: 7d612873403a7eab823999a156959b53
+SHA1: d59bda32e1ecfb87586c53150afa793cfacceec7
+SHA256: afb58ba02bc80f29ba524955d92dd02df12569b60109564cecabef558bea046d
+Section: 嗨-汉化
+Description: Magma Pro 简体中文！Magma Pro 介绍: 自定义控制中心各种模块切换颜色！
+Author: Ball <ball@hackcn.net>
+Name: Magma Pro 简体中文包
+
 Package: com.hk.magsafe
 Version: 1.0.8-1
 Architecture: iphoneos-arm
@@ -4523,6 +6359,38 @@ Section: 嗨-汉化
 Description: Manta 简体中文包。
 Author: Ball <ball@hackcn.net>
 Name: Manta 简体中文包
+
+Package: com.hk.mcpatch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: rootful/MCPatch.deb
+Size: 2672
+MD5sum: a61901e52356418e3354f44d1a764293
+SHA1: 5e93a2ead508de4739956a811a782df5edff9117
+SHA256: a996f621a38dc053b5eea9a317d95cb3101800d841715ba57705e9c301f64ad2
+Section: 嗨-工具
+Description: 允许iOS安装苹果官方屏蔽掉的描述文件(如iOS设备安装屏蔽更新的描述文件)。安装完补丁后，装好描述文件，补丁可卸载，只要描述文件不删除都有效。兼容iOS12.4~13.3，其余系统自测。
+Author: XsF1re
+Name: MCPatch(描述文件补丁)
+
+Package: com.hk.midevice.new
+Version: 2.0.0-2
+Architecture: iphoneos-arm
+Maintainer: DODGraphics
+Installed-Size: 740
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, org.thebigboss.libcolorpicker, applist
+Filename: rootful/MiDevice.deb
+Size: 190308
+MD5sum: dc6fa68d0e8d097bdc33a79776edb517
+SHA1: db365455175761a1785f5d7db6979da2c55c503b
+SHA256: 3a4d3d13c31e52e1f1e56c12a5c47cc9c4626e56961fb0d74ad6451f641f4d75
+Section: 嗨-工具
+Description: MiDevice 军刀工具，支持A12，支持iOS13，源内有汉化包。
+Author: DODGraphics
+Name: MiDevice 军刀
 
 Package: com.hk.milkyway2
 Version: 0.2.0-alpha
@@ -4586,6 +6454,20 @@ Description: MilkyWay3 简体中文包，桌面图标菜单选项已汉化。Mil
 Author: Ball
 Name: MilkyWay3 简体中文包
 
+Package: com.hk.minixs.cn
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: null
+Filename: rootful/MiniXS_CN.deb
+Size: 1416
+MD5sum: ac24b390052d99381b22dfd6a68a3a84
+SHA1: bb4ab14bc86e6b26e4c454da34f2216afc1c9dc2
+SHA256: 4173ff5432823670ffbfea98fc7ed92f5247806ee9bd960c3d8d9d1486f57471
+Section: 嗨-汉化
+Description: MiniXS 简体中文包！
+Author: Ball <ball@hackcn.net>
+Name: MiniXS 简体中文包
+
 Package: com.hk.missioncontrol.cn
 Version: 1.1
 Architecture: iphoneos-arm
@@ -4599,6 +6481,20 @@ Section: 嗨-汉化
 Description: MissionControl 简体中文！MissionControl 介绍： 在控制中心添加你喜欢应用程序！并在控制中心以小窗口的形式打开！
 Author: Ball <ball@hackcn.net>
 Name: MissionControl 简体中文包
+
+Package: com.hk.mitsuhaxi.cn
+Version: 0.5.5
+Architecture: iphoneos-arm
+Maintainer: Ball
+Filename: rootful/MitsuhaXI_CN.deb
+Size: 2260
+MD5sum: b698e87abed0de55e11471597c3153bc
+SHA1: 651d4749050bd9b1ceb98255178fedbbd3fc29d4
+SHA256: b024303d4f3706517de0f9cfc6c610c9af979f32d82a4356a1e6e1d1adf9ae6f
+Section: 嗨-汉化
+Description: MitsuhaXI 简体中文包
+Author: Sandy0
+Name: MitsuhaXI 简体中文包
 
 Package: com.hk.mochi.cn
 Version: 0.0.3
@@ -4693,6 +6589,40 @@ Description: 现代样式设置界面(iOS15样式边框圆角设置界面，包�
 Author: Netskao
 Name: 摩登设置
 
+Package: com.hk.mterminal
+Version: 1.4-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 312
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (>= 10.0), coreutils, com.linusyang.localeutf8 | gettext-localizations, system-cmds, bash | zsh
+Conflicts: com.officialscheduler.mterminal
+Filename: rootful/MTerminal.deb
+Size: 89780
+MD5sum: 40463f4e9b40e16a3379593c79e32eea
+SHA1: 24941c1190c9b0ae9640e6c06dfe4dc0fbfd4c62
+SHA256: 3b3bc27e224433f156013d760a0585bae20acb9571d76e2cecf989ea10bfbf63
+Section: 嗨-工具
+Description: Netskao大佬修改的简易终端，界面简单。
+Author: lordscotland&netskao
+Name: MTerminal 终端
+
+Package: com.hk.multipla.cn
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Ball & 妖刀
+Depends: mobilesubstrate
+Filename: rootful/Multipla_CN.deb
+Size: 7600
+MD5sum: b12a10285d9890e4d5ee778a51ce00f7
+SHA1: a2b58169d1ff9bec9bf34c6cac0fec3d3dfaa0ec
+SHA256: 948046326d9c22c029a7dd19da77d56a45a73d57dfe4ca7433f6729433431ef2
+Section: 嗨-汉化
+Description: Multipla 简体中文包。
+Author: Ball & 妖刀
+Name: Multipla 简体中文包
+Sponsor: Ball & 妖刀
+
 Package: com.hk.mybar.cn
 Version: 1.0
 Architecture: iphoneos-arm
@@ -4722,6 +6652,21 @@ Description: Myriad 简体中文包。
 Author: Sandy0
 Name: Myriad 简体中文包
 
+Package: com.hk.mywall.cn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/MyWall_CN.deb
+Size: 3028
+MD5sum: 263270729d90ed28e38fa97ba80c41d0
+SHA1: 10ae6f8fef771a31fef4b96098b5abb89ecd4865
+SHA256: 426652bc5cb7f6c7057f9bbf31fea6a80f0b83f5a441321aa55d9898a05884a8
+Section: 嗨-汉化
+Description: MyWall 简体中文包。
+Author: 妖刀
+Name: MyWall 简体中文包
+
 Package: com.hk.nanobanners.cn
 Version: 0.1.8
 Architecture: iphoneos-arm
@@ -4750,6 +6695,20 @@ Section: 嗨-汉化
 Description: Navale 简体中文！ Navale 介绍: 在您的Dock栏添加渐变...
 Author: Ball <ball@hackcn.net>
 Name: Navale 简体中文包
+
+Package: com.hk.nereid.cn
+Version: 0.1.6
+Architecture: iphoneos-arm
+Maintainer: Ball <ball@hackcn.net>
+Filename: rootful/Nereid_CN.deb
+Size: 2332
+MD5sum: d95772b5dc6ccc1cf2dce661711bc4d4
+SHA1: b151d207c6952b11e80170c45b8a0cd6ab0c0116
+SHA256: f37af6267c97f37899c174204b062368622a8f1c218151dd92d5eaede6cb622a
+Section: 嗨-汉化
+Description: Nereid 简体中文！Nereid 介绍： 重新设计播放音乐时锁屏界面的音乐控件Ui
+Author: Ball <ball@hackcn.net>
+Name: Nereid 简体中文包
 
 Package: com.hk.networkspeed13
 Version: 2.5
@@ -4817,6 +6776,21 @@ Description: NFCWriter XS汉化包。大概能汉化的都汉化了。
 Author: Ball
 Name: NFCWriter XS 简体中文包
 
+Package: com.hk.noclutter.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/NoClutter_CN.deb
+Size: 2472
+MD5sum: fafcd17e88f5bbde8597a933a55a9b9e
+SHA1: c3752175bf2bf4da9380d1e543acb234f7023514
+SHA256: cba6d4cf2b651372caddb9b4de8cfdba464b11f73f3d347afe11d9a74e47da46
+Section: 嗨-汉化
+Description: NoClutter 简体中文包。
+Author: 妖刀
+Name: NoClutter 简体中文包
+
 Package: com.hk.nocshare
 Version: 1.1.2
 Architecture: iphoneos-arm
@@ -4832,6 +6806,22 @@ Section: 嗨-工具
 Description: 分享菜单中删除烦人的投送和联系人。i_82大佬修复支持iOS15，支持Xina1越狱。
 Author: Devvix
 Name: NoCShare(iOS13-15)
+
+Package: com.hk.noctisnwo.cn
+Version: 1.0-7
+Architecture: iphoneos-arm
+Maintainer: Ball
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: rootful/NoctisNeo_CN.deb
+Size: 5508
+MD5sum: 75f45157f97efa1c61d4f8cb9a72b36e
+SHA1: f9c4e7e711bd86fe8364fec684485abd8361551a
+SHA256: 17d1bd2932a48443c051495a6a24ec29b0668ce96837c10446d9fbe844780d48
+Section: 嗨-汉化
+Description: Noctis Neo 简体中文包
+Author: Ball
+Name: Noctis Neo 简体中文包
 
 Package: com.hk.nosourceerrors
 Version: 1.0
@@ -4879,6 +6869,55 @@ Description: NotifierDots 简体中文包
 Author: Sandy0
 Name: NotifierDots 简体中文包
 
+Package: com.hk.notifyheaders.cn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: shepgoba
+Installed-Size: 196
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: rootful/NotifyHeaders_CN.deb
+Size: 1184
+MD5sum: 5c49bee25280101fa5a2937106c6bd11
+SHA1: a24e7113e3d730808ad4936c4b848d9e81985740
+SHA256: ab63b85ea3dc9a88c99f8cd4944a70b05cb6364e027a3937145dc123e14ab547
+Section: 嗨-汉化
+Description: NotifyHeaders 简体中文包。
+Author: shepgoba
+Name: NotifyHeaders 简体中文包
+
+Package: com.hk.notix
+Version: 2.6.1
+Architecture: iphoneos-arm
+Maintainer: EVAN <215288968@qq.com>
+Installed-Size: 3396
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, com.spark.libsparkcolourpicker
+Conflicts: fun.yfyf.beta.notix, fun.yfyf.bigboss.notix, fun.yfyf.notix
+Filename: rootful/NotiX.deb
+Size: 578732
+MD5sum: b282537e76c4c5d838e4e4ca6cd96599
+SHA1: 1228dec2c5120639f67a663be273738e859017fb
+SHA256: 1919e1f55dcd33b061ab4b684a2cf4deb6d75db3eb564bd0b51cf898cd1377de
+Section: 嗨-工具
+Description: 对通知功能进行细分，通过特定条件及黑白名单进行通知过滤，过滤后的通知由专门的APP保存，并提供通知替换功能(通知伪装)。插件系付费插件，安装后自行按照插件内索引购买，本源仅作转载。
+Author: EVAN <215288968@qq.com>
+Name: NotiX 通知过滤/伪装
+Sponsor: EVAN <215288968@qq.com>
+
+Package: com.hk.npf.cn
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 8.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/NPF_CN.deb
+Size: 1556
+MD5sum: b688a41c19e74ead4bca3aee795f3a0f
+SHA1: 0bcdeb0e33c056da72e745e0accf9f77209e7161
+SHA256: 6fab3e25d60cd4b62f21a2cde8753e731650691e96ecaeb5c1ae3ba0211ecc84
+Section: 嗨-汉化
+Description: NPF 简体中文包。
+Author: 妖刀
+Name: NPF 简体中文包
+
 Package: com.hk.npurge.cn
 Version: 1.0.4
 Architecture: iphoneos-arm
@@ -4892,6 +6931,22 @@ Section: 嗨-汉化
 Description: NPurge 简体中文！NPurge 介绍:通知中心/锁屏界面下拉快速清除所有通知！
 Author: Ball <ball@hackcn.net>
 Name: NPurge 简体中文包
+
+Package: com.hk.onenotify
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Menushka Weeratunga
+Depends: mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader
+Conflicts: ca.menushka.menushkaprefs, ca.menushka.onenotify
+Filename: rootful/OneNotify_ZH.deb
+Size: 77368
+MD5sum: eb74a16e232f7995def0fb88ca0a2333
+SHA1: 2fa017b5628d426bb466674847ccdabab6d27326
+SHA256: 3a0a8423c16627ac78e39905d21a33db7defa78bedb01ffb4c98e77fdefef774
+Section: 嗨-工具
+Description: 锁屏界面一键下拉清除所有通知消息，已包含依赖MenushkaPrefs，完整汉化。支持A12/13，支持iOS12~13。
+Author: Menushka Weeratunga
+Name: OneNotify 下拉清除(CN)
 
 Package: com.hk.onesettings.cn
 Version: 2.0
@@ -5058,6 +7113,21 @@ Description: Pluto 简体中文包！ Pluto 介绍： 轻松禁用通知，并�
 Author: Ball <ball@hackcn.net>
 Name: Pluto 简体中文包
 
+Package: com.hk.popthat.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/PopThat_CN.deb
+Size: 2168
+MD5sum: a31fb4c4ce89e6cb14309f9caf5b4fdb
+SHA1: fabe2ffbbb8a1f3069d22e36be8905f212265d7c
+SHA256: 1f00e1b20717c1289b7a03e179065c9d1427772dd2016c46711b6f2f4f2d0e07
+Section: 嗨-汉化
+Description: PopThat 简体中文包。
+Author: 妖刀
+Name: PopThat 简体中文包
+
 Package: com.hk.powermenux.cn
 Version: 1.5.1
 Architecture: iphoneos-arm
@@ -5118,6 +7188,38 @@ Description: Printemps 简体中文包。
 Author: 妖刀
 Name: Printemps 简体中文包
 
+Package: com.hk.priorityhub.cn
+Version: 2.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Installed-Size: 504
+Depends: firmware (>= 10), mobilesubstrate
+Filename: rootful/PriorityHub2_CN.deb
+Size: 3636
+MD5sum: 12fe03c4f503592ab338b834b5986106
+SHA1: 07972bf3ab7c3d2f52f1595b1d55b9e0dcef52d0
+SHA256: 0e2e8b7e12b6bde6b58306da1e6700523995d807f820046595da8cdb1fdd9105
+Section: 嗨-汉化
+Description: Priority Hub 2 简体中文包，此汉化目前在2.0-2+debug上面修改部分原文件，插件更新后如果没有增加新选项可通用使用。
+Author: Sandy0
+Name: Priority Hub 2 简体中文包
+
+Package: com.hk.priorityhub1.cn
+Version: 1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Installed-Size: 504
+Depends: firmware (>= 9), mobilesubstrate
+Filename: rootful/PriorityHub_CN.deb
+Size: 3584
+MD5sum: 918be1ff77bc9c2ef5c163e54056aba3
+SHA1: f0ae9d63a59404aab5242430c4e40da73f6ae1aa
+SHA256: 7735a95fddf4012f6a5ff4c6c20e9ec55926a99a0f471b3cce65d6fa374c6212
+Section: 嗨-汉化
+Description: Priority Hub 简体中文包，此汉化目前在1-1+debug上面修改部分原文件，插件更新后如果没有增加新选项可通用使用。
+Author: Sandy0
+Name: Priority Hub 简体中文包
+
 Package: com.hk.prowerselector.cn
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -5133,6 +7235,22 @@ Section: 嗨-汉化
 Description: PowerSelector 简体中文包，仅限已购买AppTools的用户使用，未购买AppTools插件的用户无效！
 Author: aReo
 Name: PowerSelector 简体中文包
+
+Package: com.hk.pulandres.bettercciconspro
+Version: 1.7.3
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Conflicts: com.yourepo.dev4i.bettercciconslite
+Filename: rootful/BetterCCIconsProCrack.deb
+Size: 114372
+MD5sum: 9d4ba427e67d56757f6bbecd5ea3e024
+SHA1: 0e81840bb554a79489685c0b524dad87ae55bcfe
+SHA256: 4544003d175fc5e70611dd5111a2b424a845629e973d869c4535d12de2343806
+Section: 嗨-破解
+Description: 允许自定义控制中心连接图标颜色和位置/仅字形模式等。 与Glacier兼容。源内有汉化包。
+Author: dev4i <chrisink22@gmail.com>
+Name: BetterCCIconsPro Crack
 
 Package: com.hk.pullclearnc
 Version: 1.1-8
@@ -5150,6 +7268,22 @@ Section: 嗨-工具
 Description: 轻量级下拉清理通知，通知栏快速下拉即可清理，并显示清理成功几条，禁用iOS15通知页面下拉搜索。
 Author: Netskao
 Name: PullClearNC(下拉清通知)
+
+Package: com.hk.pulloverpro.cn
+Version: 2.1.1-1
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Depends: mobilesubstrate
+Conflicts: com.hk.pulloverlocalizer
+Filename: rootful/PullOverPro_CN.deb
+Size: 5308
+MD5sum: 9f18c4df0b7f992aaa9adc7fb3d5b538
+SHA1: c50181164ffc821f3d6167ef36bd066a84c36595
+SHA256: a8c493a9cb101761856ca87d4ced06e7fb189ac893d37a7c01eaf0e4defb3253
+Section: 嗨-汉化
+Description: PullOver Pro 简体中文包。
+Author: Sandy0
+Name: PullOver Pro 简体中文包
 
 Package: com.hk.qqcancelgrpat
 Version: 1.0
@@ -5180,6 +7314,21 @@ Section: 嗨-汉化
 Description: QuitAll 简体中文包。
 Author: 妖刀
 Name: QuitAll 简体中文包
+
+Package: com.hk.quorra.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Quorra_CN.deb
+Size: 1456
+MD5sum: 66dcaa5d0ee9bd04bffafe918e3976d8
+SHA1: 9ae4ab26060170125bdc7260dccdbfb0f2f82619
+SHA256: 645c77cef505f9d8f587fcb20a24ed1d6ff860decf7d25e8222cc4b047a146b7
+Section: 嗨-汉化
+Description: Quorra 仿14指示视图。
+Author: Mo
+Name: Quorra 简繁中文包
 
 Package: com.hk.reachIt.cn
 Version: 0.1.0
@@ -5321,6 +7470,49 @@ Description: SwitchAccounts 简体中文包。
 Author: 妖刀
 Name: SwitchAccounts 简体中文包
 
+Package: com.hk.safeshutdown.cn
+Version: 1.54
+Architecture: iphoneos-arm
+Maintainer: Ball <ball@hackcn.net>
+Filename: rootful/SafeShutdown.deb
+Size: 8672
+MD5sum: 72807ce01923795566c6085cd3044f7d
+SHA1: 2fcc6b6bee31bb6c76394d62c143622aed7479d7
+SHA256: 473741656b15fd1b5d1ed4fe6935846db24e64951b7b61faacff2401d2e0ef3a
+Section: 嗨-汉化
+Description: SafeShutdown 简体中文包！SafeShutdown 介绍：SafeShutdown旨在帮助您避免在设备电量耗尽后重新越狱。通过在电池达到你设定百分比时启动“假关闭”来实现。
+Author: Ball & 妖刀 <ball@hackcn.net>
+Name: SafeShutdown 简体中文包
+
+Package: com.hk.samgisaninja.SuccessionRestore
+Version: 1.4.16~b4
+Architecture: iphoneos-arm
+Maintainer: Samg_is_a_Ninja
+Depends: firmware-sbin, rsync
+Filename: rootful/Succession.deb
+Size: 1008948
+MD5sum: a2aa26b579c479d889eb7f416f69df3a
+SHA1: f635510800c10a02b56e5b28c4af6b471fe43f47
+SHA256: d3c74e82b13daf64ddd50fbf328e861f494e4dfe75e39a90c9c436255daa58ce
+Section: 嗨-系统
+Description: 利用固件来平刷的插件，有风险，操作需谨慎，提前备份重要资料防止出现意外，后果自负。具体使用教程自行去威锋。
+Author: Samg_is_a_Ninja
+Name: Succession(平刷)
+
+Package: com.hk.sareth.cn
+Version: 1.0.9-1
+Architecture: iphoneos-arm
+Maintainer: Ball <ball@hackcn.net>
+Filename: rootful/Sareth_CN.deb
+Size: 2936
+MD5sum: aba9f3d47f6e694a89ba54c8bce52d48
+SHA1: 84f57c67c3bb86b075826366251c2e0c8adf00e2
+SHA256: 9bc442879605c2c809b21ec77887249aa6fdbd7d3880b08b201c9727fed57d31
+Section: 嗨-汉化
+Description: Sareth 简体中文！Sareth 介绍:自定义控制中心的颜色和图片！
+Author: Ball <ball@hackcn.net>
+Name: Sareth 简体中文包
+
 Package: com.hk.saw.cn
 Version: 1.3.3
 Architecture: iphoneos-arm
@@ -5441,6 +7633,21 @@ Description: SettingsWidgets 简体中文包。SettingsWidgets介绍：在设置
 Author: Ball
 Name: SettingsWidgets 简体中文包
 
+Package: com.hk.shakeItOff.cn
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/ShakeItOff_CN.deb
+Size: 1792
+MD5sum: 394f9da5f104b15a6cc7b4720502a938
+SHA1: 7a5c8033e5f67a41e0355801f02b18dd1d5c7730
+SHA256: 4b59f05f435bc107ca8d2343e28dd11d31b485df19915ff3f8f4b12c3baff329
+Section: 嗨-汉化
+Description: ShakeItOff 简体中文包。插件在https://nahtedetihw.github.io/
+Author: 妖刀
+Name: ShakeItOff 简体中文包
+
 Package: com.hk.shortlock.cn
 Version: 1.0.10
 Architecture: iphoneos-arm
@@ -5471,6 +7678,21 @@ Description: ShortLook 简体中文包。仅仅适用于P佬破解版的汉化�
 Author: Sandy0
 Name: ShortLook P佬版汉化包
 
+Package: com.hk.shortmoji2.cn
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate
+Filename: rootful/Shortmoji_CN.deb
+Size: 8212
+MD5sum: d138a959f6db7e6fd9748c8d23451514
+SHA1: 3c1df68cb05fa12720a7cf7121ab09ff8ed88176
+SHA256: cb22ec4d435c9e1ffed3edc1a0d955437674d375412f60adefdced30e1ddf028
+Section: 嗨-汉化
+Description: Shortmoji 2 汉化补丁，最新版Shortmoji 2插件已经自带了汉化（大家更新Shortmoji 2最新版即可），本汉化只补翻译里的“语言”选项汉化。本汉化不再更新。
+Author: Ball
+Name: Shortmoji 2 汉化补丁
+
 Package: com.hk.shuffle
 Version: 1.3.4
 Architecture: iphoneos-arm
@@ -5488,6 +7710,21 @@ Section: 嗨-工具
 Description: 设置归类旧版本v1.3.4，没那些杂项功能，就只是归类，汉化包源内有。
 Author: CreatureSurvive <support@creaturecoding.com>
 Name: shuffle 旧版
+
+Package: com.hk.shuffle.xina134
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Conflicts: com.creaturecoding.libcspreferences, com.creaturecoding.shuffle, com.hk.ball.shuffle.cn, com.cpdigitaldarkroom.placeholder, com.hk.shuffle.xina, com.hk.shuffle
+Filename: rootful/Shuffle(XinaA15).deb
+Size: 900892
+MD5sum: 32295a20d5a1f189f2986bde463e882a
+SHA1: a72c33db51ab532ded1871faf267b64cce7e2ca0
+SHA256: 6572b84c0f9c0e6a616031778835cc7e347e8ca5d62081c27ff4983b8c05793f
+Section: 嗨-工具
+Description: 设置收纳，XinaA15越狱专用版，已包含所需要的依赖和中文包，采用shuffle v1.3.4制作，比凑合版(v1.6.1)舒服。卸载以往安装的凑合版和其他版本的shuffle和及其依赖，再安装本版。目前很多设置不起作用，分类标题你改成想要的中文后，直接回车，然后杀掉设置后台，也就生效了，虽然再进shuffle看依旧是英文。等shuffle作者更新适配iOS15。
+Author: CreatureSurvive/妖刀
+Name: Shuffle(XinaA15专版)-临时版
 
 Package: com.hk.signe.cn
 Version: 0.3.2
@@ -5546,6 +7783,36 @@ Section: 嗨-汉化
 Description: Slices 3 简体中文！Slices 3 介绍：允许您为单个应用程序具有多个设置和数据。
 Author: Ball <ball@hackcn.net>
 Name: Slices 3 简体中文包
+
+Package: com.hk.smallsiri.cn
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/SmallSiri_CN.deb
+Size: 1276
+MD5sum: 58870abdbe6eb9d198a3f9e8d83bafb0
+SHA1: b623c36df7f56cc1ff733cd3b41e0220fa430ead
+SHA256: f3eb3d0ee01d2d3545380da1e7a22fff05e2dfe79f4f09ee791ee130d47ca746
+Section: 嗨-汉化
+Description: SmallSiri 简体中文包。
+Author: 妖刀
+Name: SmallSiri 简体中文包
+
+Package: com.hk.smarterlpm.cn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/SmarterLPM_CN.deb
+Size: 1712
+MD5sum: 1793cdef70ba897508b6f6ea1417be55
+SHA1: 659be9432aeac4382954d21409285518af8dac7c
+SHA256: 2630668146c60ca231efa9fcc91b68c54a705af765ecd5b8038913e46cf69348
+Section: 嗨-汉化
+Description: SmarterLPM 简体中文包。
+Author: 妖刀
+Name: SmarterLPM 简体中文包
 
 Package: com.hk.smartnetwork.cn
 Version: 1.0.5
@@ -5639,6 +7906,36 @@ Description: Snapper 2快捷截屏，已修复/增补/优化简体中文翻译�
 Author: Jonathan Winger-lang
 Name: Snapper2 截屏
 
+Package: com.hk.snoverlay2.cn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Snoverlay2_CN.deb
+Size: 1272
+MD5sum: 560f7ccbc136cea6c7ffc307493f3aa1
+SHA1: 913c0c1dc7082f56aef7f2efbdd2d1f5d091452e
+SHA256: fa6229d979686d627944e4a05eb04d20d4adc34eafd9ce664d77ed40320189d6
+Section: 嗨-汉化
+Description: Snoverlay 2 简体中文包。
+Author: 妖刀
+Name: Snoverlay 2 简体中文包
+
+Package: com.hk.snowboardapplication.cn
+Version: 1.0.3~beta2
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/SnowBoardApplication_CN.deb
+Size: 2944
+MD5sum: 5f8344ced7bce6a2feae54ac43a94a8a
+SHA1: 797b5c8f0309bc1170b37ef531b4941f55cc262e
+SHA256: 7db793d8f7107bd2f3d40c69d4e117a9f8dc529ca96c5344f70eb4210b674cdb
+Section: 嗨-汉化
+Description: SnowBoard Application 简体中文包。
+Author: 妖刀
+Name: SnowBoard Application 简体中文包
+
 Package: com.hk.snowboarddock.cn
 Version: 1.0.17~beta3
 Architecture: iphoneos-arm
@@ -5711,6 +8008,21 @@ Section: 嗨-汉化
 Description: Sonus12 简体中文包，修复遗漏的一段汉化。
 Author: Sandy0
 Name: Sonus12 简体中文包
+
+Package: com.hk.sonus13.cn
+Version: 1.0.4-1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Sonus13_CN.deb
+Size: 3732
+MD5sum: 22fc4bf44fabe7ce3d72656534eb3396
+SHA1: 4ae474011a4da4cc008a42631348d3d152fb3250
+SHA256: 1b591fc1a7ceee71c984bf12b7341143fb72d74421f4d49adb1f2c34457ba67d
+Section: 嗨-汉化
+Description: Sonus13 简体中文包。
+Author: 妖刀
+Name: Sonus13 简体中文包
 
 Package: com.hk.soundlock.cn
 Version: 1.0
@@ -5877,6 +8189,23 @@ Description: StrongerFi12 简体中文包。StrongerFi12 介绍：WiFi增强工�
 Author: Ball & 妖刀
 Name: StrongerFi12 简体中文包
 
+Package: com.hk.substitute.cn
+Version: 2.1.0-1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 104
+Depends: mobilesubstrate
+Conflicts: com.alucard.substitute.cn
+Filename: rootful/Substitute_CN.deb
+Size: 5208
+MD5sum: 4f2b62be616e7cb1d17663381d06d64e
+SHA1: 50a26ef811663714505744fea191c3e4d9071e28
+SHA256: 6caa552312c3308fa48e3baf21ef4fe38ed8012d3f8bb537c29eab61ec50087d
+Section: 嗨-汉化
+Description: Substitute 简体中文包。仅用于设置中Substitute选项的简单汉化，由于限制，Substitute桌面选项无法汉化。
+Author: 妖刀
+Name: Substitute 简体中文包
+
 Package: com.hk.suimitsuto.cn
 Version: 0.0.3
 Architecture: iphoneos-arm
@@ -5891,6 +8220,21 @@ Section: 嗨-汉化
 Description: Suimitsuto 简体中文包。又一款小横幅插件，作者源https://sugiuta.github.io/repo/
 Author: 妖刀
 Name: Suimitsuto 简体中文包
+
+Package: com.hk.sunset.cn
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate
+Filename: rootful/Sunset_CN.deb
+Size: 8752
+MD5sum: c5a7cdaa030b0d1f3a516916c56d438e
+SHA1: 2dcea6e7cae94f6d94254d58b6794ff4ac55ebb7
+SHA256: b891ad81cbfcfae9d8e99186fd114ce9d1af2ea3135e47f61a552ca5ded30291
+Section: 嗨-汉化
+Description: Sunset 简体中文包。Sunset 介绍：将您最喜爱的联系人添加到卡片中，并在您需要拨打电话或撰写短信/电子邮件时随时访问
+Author: Ball
+Name: Sunset 简体中文包
 
 Package: com.hk.swipeextenderx.cn
 Version: 1.5.3-1
@@ -5908,6 +8252,69 @@ Description: SwipeExtenderX 简体中文包。编译汉化，不影响插件设�
 Author: Ball
 Name: SwipeExtenderX 简体中文包
 
+Package: com.hk.swipeselection.cn
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: Ball
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: rootful/SwipeSelection_CN.deb
+Size: 8392
+MD5sum: 56acde9d6ff515357a418e6976e6f420
+SHA1: 4b94a3eb1b258279720bf5deaac2777b4373d03b
+SHA256: f0969f8062331e18aee84ccc0949537776d9365cc411dc9dffdc134891bdfdb7
+Section: 嗨-汉化
+Description: SwipeSelection 简体中文包
+Author: Ball
+Name: SwipeSelection 简体中文包
+
+Package: com.hk.switchconfirm.cn
+Version: 1.0-1
+Architecture: iphoneos-arm
+Maintainer: Ball
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: rootful/SwitchConfirm_CN.deb
+Size: 3852
+MD5sum: 099ac61e7a8ade0d3aaa0e1000f4ca71
+SHA1: eeeb32214b0fcecc57bb5b8eb5ac6d964b462f79
+SHA256: 51f7741a10ad3d8909f7dd3dfa0a32c2f16f8570f740f206c1576463cf355f22
+Section: 嗨-汉化
+Description: SwitchConfirm 简体中文包
+Author: Ball
+Name: SwitchConfirm 简体中文包
+
+Package: com.hk.switcher.cn
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/Switcher_CN.deb
+Size: 1700
+MD5sum: 56dfd01d8913a87258f8388f6d280870
+SHA1: 1df1253997815ab50e3d8e0df408c61434dff02f
+SHA256: b8371f72c8d5fe341d139b5b8bc4e0ed8f00787ca2594dbe9c7be35322ca3eb0
+Section: 嗨-汉化
+Description: Switcher 简体中文包。
+Author: 妖刀
+Name: Switcher 简体中文包
+
+Package: com.hk.sylph.cn
+Version: 1.1~Beta.1
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Installed-Size: 388
+Depends: mobilesubstrate
+Filename: rootful/Sylph_CN.deb
+Size: 1444
+MD5sum: f820cf08fb79b52c15366df69e85c433
+SHA1: 6167940f11240b0e1c90afab77869ed2de88831e
+SHA256: 3c4edcd9d64b512c689866535bb6a06f851928c97d4e6fdf90e0226ef7526ffa
+Section: 嗨-汉化
+Description: Sylph 简体中文包。
+Author: Sandy0
+Name: Sylph 简体中文包
+
 Package: com.hk.tako.cn
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -5923,6 +8330,21 @@ Description: Tako 简体中文包。一款通知分组聚合插件，类似Axon�
 Author: 妖刀
 Name: Tako 简体中文包
 
+Package: com.hk.taptaplock.cn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/TapTapLock_CN.deb
+Size: 1524
+MD5sum: 496d1c1ba55220c3c23bd8e45808882b
+SHA1: 2dac8fd5b072dd5e397da3e4717ca5e29c3d97de
+SHA256: 7e7b7264e532c50746f22035e2b88be3e8befd851dfc80dc4cec9c9b26574289
+Section: 嗨-汉化
+Description: Tap Tap Lock 简体中文包。
+Author: 妖刀
+Name: Tap Tap Lock 简体中文包
+
 Package: com.hk.textyle.cn
 Version: 1.4.1
 Architecture: iphoneos-arm
@@ -5936,6 +8358,20 @@ Section: 嗨-汉化
 Description: Textyle 简体中文！Textyle 介绍：自定义任何文本的样式。
 Author: Ball <ball@hackcn.net>
 Name: Textyle 简体中文包
+
+Package: com.hk.tinybanners2.cn
+Version: 1.0.4-3
+Architecture: iphoneos-arm
+Maintainer: 妖刀&Ball
+Filename: rootful/TinyBanners2_CN.deb
+Size: 3180
+MD5sum: a9cab9b9c4d4cb0dcbe0086063bc40e4
+SHA1: 1cfc152b364764e3330655a9bfc2b1e9ffeebec7
+SHA256: e19e64d72029403d44a10ada9d45b6a150afa808827468655ed5452b69303c90
+Section: 嗨-汉化
+Description: TinyBanners 2 简体中文包，TinyBanners 2 介绍：不显眼但有用的通知横幅（迷你横幅）。
+Author: 妖刀&Ball
+Name: TinyBanners 2 简体中文包
 
 Package: com.hk.titan.cn
 Version: 1.0.2
@@ -5951,6 +8387,22 @@ Section: 嗨-汉化
 Description: Titan 简体中文包。
 Author: 妖刀
 Name: Titan 简体中文包
+
+Package: com.hk.togglow.cn
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Maintainer: Ball
+Filename: rootful/Togglow_CN.deb
+Size: 3028
+MD5sum: 739179da9c1b7dd4435537dd311cad26
+SHA1: 33fac1b5f35251bf68e32adb6a45e417e6e075bf
+SHA256: dbfffee2caa64af9823b78e1595836c129720dc5aa950ede9f51eed598d63993
+Section: 嗨-汉化
+Priority: standard
+Description: Togglow 简体中文包。
+Author: Sandy0
+Name: Togglow 简体中文包
+Sponsor: Sandy0
 
 Package: com.hk.touchFlow.cn
 Version: 1.0.6-2
@@ -6014,6 +8466,22 @@ Description: TrollStore 简体中文包。
 Author: 妖刀
 Name: TrollStore 简体中文包
 
+Package: com.hk.tsss.cn
+Version: 2.0.5-1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: rootful/TSSSaver_CN.deb
+Size: 4264
+MD5sum: f879b04ff05c9fcc0162aa9dd2e9c974
+SHA1: 8cec49ae5960b15a9949c2e53c118de8bbcc5468
+SHA256: 778ecc00d60f0b3c45dfb00c72f682692f6d10c1a3ee11116f28689503ccdaef
+Section: 嗨-汉化
+Description: TSSSaver 简体中文包。备份shsh2的工具，插件源：https://repo.1conan.com/。
+Author: 妖刀
+Name: TSSSaver 简体中文包
+
 Package: com.hk.tweaksmanager.cn
 Version: 1.1
 Architecture: iphoneos-arm
@@ -6044,6 +8512,22 @@ Section: 嗨-工具
 Description: 修复u0/Xina越狱上的验证码自动填充问题。
 Author: Baw Appie <pp121324@gmail.com>
 Name: u0/XinaSMSCompleteFix(修复自动填充)
+
+Package: com.hk.unsub
+Version: 0.1.9
+Architecture: iphoneos-arm
+Maintainer: Nepeta <ominousness@protonmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), applist, firmware (>= 9.0)
+Conflicts: co.vexation.nosubstitute, com.opa334.nosubstitute12, com.crak.unsub.cn, com.hk.unsub.cn
+Filename: rootful/UnSub_ZH.deb
+Size: 47536
+MD5sum: 14cef2d637c210152bdbde315fc79a5b
+SHA1: 4ff72d4d3523d236c612f18e9df3ca79013ca725
+SHA256: 1a71f33a4d8cb11c7eca6e8143fc5c5e68d65e02ebc34b5769303d7b1622a0ca
+Section: 嗨-系统
+Description: 完整汉化版，强大的绕过越狱检测与禁用插件注入（Substrate/Substitute)，可自由选择你要禁用注入或者你要屏蔽越狱的应用程序！
+Author: Nepeta <ominousness@protonmail.com>
+Name: UnSub 汉化版
 
 Package: com.hk.unsub.cn
 Version: 0.1.6
@@ -6150,6 +8634,65 @@ Section: 嗨-汉化
 Description: Vinculum 简体中文！Vinculum 介绍：上滑Dock栏打开应用抽屉！
 Author: Ball <ball@hackcn.net>
 Name: Vinculum 简体中文包
+
+Package: com.hk.vinyl.cn
+Version: 1.0.9.3.1-1
+Architecture: iphoneos-arm
+Maintainer: Ball
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Vinyl_CN.deb
+Size: 1724
+MD5sum: 508feb63c90c32958d599ac915c795ef
+SHA1: 2d90db3ff07fa6a97e7646141308a6551eabfc9d
+SHA256: 368b1ac5ea74347b9408411684cacd9b5d499aac61901d7b6a6792eee6fd340d
+Section: 嗨-汉化
+Description: Vinyl 简体中文包。Vinyl插件介绍：简化你的锁屏音乐播放器控件外观！
+Author: Ball
+Name: Vinyl 简体中文包
+
+Package: com.hk.vocito.cn
+Version: 0.2b1
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 12.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Vocito_CN.deb
+Size: 1524
+MD5sum: dda4662d63104bc42891244d7378faf2
+SHA1: 4cc3209c948210d674a20123c1cd3c287493f76f
+SHA256: 56f525e3febef61c554fe182c36fd462db621e6071b473a507b2426139b00348
+Section: 嗨-汉化
+Description: Vocito 简体中文包。
+Author: 妖刀
+Name: Vocito 简体中文包
+
+Package: com.hk.volbratexi.cn
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate
+Filename: rootful/VolbrateXI_CN.deb
+Size: 1636
+MD5sum: 7e37c041e51043509f68b335ba7fda7a
+SHA1: 139aad363341a5507dba25c330830ef9297a9974
+SHA256: 8c0343d6e10571f17e1b4d06653c7eb58883a3718d64c1860e9418a058bc145e
+Section: 嗨-汉化
+Description: VolbrateXI 简体中文包。
+Author: 妖刀
+Name: VolbrateXI 简体中文包
+
+Package: com.hk.volhud.cn
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: Ball <ball@hackcn.net>
+Filename: rootful/VolHUD_CN.deb
+Size: 1552
+MD5sum: f2df23f9c6c22839dbfa383df1aac608
+SHA1: df1d8035db42d46610c25b583b2488e354ae401e
+SHA256: 2bbe42bfd5c9d9acbca389c7370939e868675a17443f58313bba29ad95a219ec
+Section: 嗨-汉化
+Description: VolHUD 简体中文！VolHUD 介绍：又是一款仿iOS 13音量框插件！！！
+Author: Ball <ball@hackcn.net>
+Name: VolHUD 简体中文包
 
 Package: com.hk.wfloggerfix
 Version: 0.0.3
@@ -6278,6 +8821,23 @@ Description: Filza破解补丁，搭配官方版使用。若发现Filza激活状
 Author: xia0z
 Name: Filza Crack
 
+Package: com.hk.xybp888.MyTweaK
+Version: 1.3-0
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: rootful/DHZS_Old.deb
+Size: 151200
+MD5sum: 171848020dba9937fd4a2d19b1564754
+SHA1: 985dde623a43bf60cc8a03fa1e5d3a9691037b92
+SHA256: 94d6a07697f51de971cc0a2634b4a5fdff0f04d6215447acc0eef1400ff3225c
+Section: 嗨-系统
+Priority: optional
+Description: 电话助手老版本，很多ios10的机友在找，所以上架！
+Author: xybp888 <8657156@qq.com>
+Icon: 插件.png
+Name: 电话助手[老版]
+
 Package: com.hk.xybp888.lockbutton
 Version: 1.0-3
 Architecture: iphoneos-arm
@@ -6308,6 +8868,21 @@ Description: ChromaHomeBarX 简体中文包。
 Author: 妖刀
 Name: ChromaHomeBarX 简体中文包
 
+Package: com.hk.yaodao.colorbadges.cn
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 7.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/ColorBadges_CN.deb
+Size: 1992
+MD5sum: 2bed04fcfe1d4a477135cbf60c3641b3
+SHA1: 184d71f9e14a8308ce1a7e687f64c0b7f7828ff7
+SHA256: 6ff645fcc09ed26aeb48ec5be680d73efc2af523054d6acf2203efc5cc5338d2
+Section: 嗨-汉化
+Description: ColorBadges 简体中文包。
+Author: 妖刀
+Name: ColorBadges 简体中文包
+
 Package: com.hk.yaodao.dleasy.cn
 Version: 2.13.5
 Architecture: iphoneos-arm
@@ -6322,6 +8897,36 @@ Section: 嗨-汉化
 Description: DLEasy 简体中文包。
 Author: 妖刀
 Name: DLEasy 简体中文包
+
+Package: com.hk.yaodao.floatydock.cn
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootful/FloatyDock_CN.deb
+Size: 2888
+MD5sum: 309939c59c103958832c075bd84ae816
+SHA1: 456e1ab738d9511f1e5526e247c1cc5aaacb34fc
+SHA256: 58e564b3686bfc8c065f5abe5f70aa1cd54a96f1db14fc4cce732baa9f3a97d9
+Section: 嗨-汉化
+Description: FloatyDock 简体中文包。
+Author: 妖刀
+Name: FloatyDock 简体中文包
+
+Package: com.hk.yaodao.homegesture.cn
+Version: 1.8.2
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/HomeGesture_CN.deb
+Size: 2756
+MD5sum: e610ba14d9d2295e309f57bcd8c9071f
+SHA1: d6ad8f11c198209b86b866936944282c43de037a
+SHA256: 2692bf47fe52140fe9ea9016ff45dbf7cc5effe1843ae444339f5c0d1eba3c81
+Section: 嗨-汉化
+Description: HomeGesture 简体中文包。
+Author: 妖刀
+Name: HomeGesture 简体中文包
 
 Package: com.hk.yaodao.homegesture21.cn
 Version: 2.1-1
@@ -6352,6 +8957,21 @@ Section: 嗨-汉化
 Description: Jellyfish 简体中文包。
 Author: 妖刀
 Name: Jellyfish 简体中文包
+
+Package: com.hk.yaodao.latchkey.cn
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootful/LatchKey_CN.deb
+Size: 1740
+MD5sum: 9d26fe86a9517cd45cb676ce08cf3ad9
+SHA1: d7ed86e036cc3e7df6cbebc3258676c2ad58984d
+SHA256: 50131ba9651f4ca0eb7861369dec5601da949d0351fc7399c58f2627aa82fc2f
+Section: 嗨-汉化
+Description: LatchKey 简体中文包。作者源：https://repo.daus.ch/
+Author: 妖刀
+Name: LatchKey 简体中文包
 
 Package: com.hk.yaodao.tinybanners.cn
 Version: 0.5.3
@@ -6430,6 +9050,21 @@ Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投
 Author: dvntm
 Name: YTLite
 
+Package: com.hy.yaodao.photosize.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootful/PhotoSize_CN.deb
+Size: 1408
+MD5sum: fca1532a0d64cc9d325d7fc89071d8a3
+SHA1: f6212c0ad39d5f970c092f6b28224006b20c5fac
+SHA256: c4425460a8952d704b13281655035e5059773ccf721c0dc5112ebba1cbd822d0
+Section: 嗨-汉化
+Description: PhotoSize 简体中文包。
+Author: 妖刀
+Name: PhotoSize 简体中文包
+
 Package: com.ikilledappl3.malipo.cn
 Version: 1.0.2-1
 Architecture: iphoneos-arm
@@ -6444,6 +9079,37 @@ Section: 嗨-汉化
 Description: Malipo 简体中文包。
 Author: 妖刀
 Name: Malipo 简体中文包
+
+Package: com.imkpatil.colormybattery.cn
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/ColorMyBattery_CN.deb
+Size: 1408
+MD5sum: 3416afc7e5c4d98a5d366dd067c1cf6e
+SHA1: 06b555b39cf2c45fce6ef6a66f7ca931aa7f5413
+SHA256: 4023cb5c1a0e170c55fbb438c12fe9dbc26daa6c2ddf2f060f9b765fd37368b0
+Section: 嗨-汉化
+Description: ColorMyBattery 简体中文包。
+Author: 妖刀
+Name: ColorMyBattery 简体中文包
+
+Package: com.sandy0.bazzi.cn
+Version: 2.0.5
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: rootful/Bazzi_CN.deb
+Size: 1580
+MD5sum: f941abc888f016bc99fc7dfeb303ce78
+SHA1: edb2e82307f368dcc22506fe3e25e53a35c855f2
+SHA256: 2fd568ebc5d836ab3f3424f9c79218d94c7b0a7a65454b8b6f8699076cf295d1
+Section: 嗨-汉化
+Priority: optional
+Description: Bazzi 简体中文包。
+Author: Sandy0
+Name: Bazzi 简体中文包
 
 Package: com.sandy0.litttex.cn
 Version: 1.3.7
@@ -6475,6 +9141,22 @@ Description: Melior 简体中文包。
 Author: Sandy0
 Name: Melior 简体中文包
 
+Package: com.sandy0.notchless.cn
+Version: 2.0.9-1
+Architecture: iphoneos-arm
+Maintainer: Sandy0
+Installed-Size: 416
+Depends: mobilesubstrate
+Filename: rootful/Notchless_CN.deb
+Size: 1440
+MD5sum: ffc85d47b70f9f80b4fd3e31c132a113
+SHA1: d276e303823e006e88d9814596d2f76764071163
+SHA256: ad24a2c8bfc9230af59bac1cd4bac561a3d0599d1502d5e10084dff6f9fd2d3b
+Section: 嗨-汉化
+Description: Notchless 简体中文包。
+Author: Sandy0
+Name: Notchless 简体中文包
+
 Package: com.sandy0.palette.cn
 Version: 1.1.1
 Architecture: iphoneos-arm
@@ -6505,6 +9187,21 @@ Section: 嗨-汉化
 Description: Speak Notification 简体中文包。
 Author: Sandy0
 Name: Speak Notification 简体中文包
+
+Package: com.xiaodiaoming.Moveable9.ZH.CN
+Version: 1.0.0~beta29-28
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 11.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/Moveadle9_CN.deb
+Size: 3292
+MD5sum: ab1119c318508b1b5360d857f028312f
+SHA1: 3639a72be61a56c45e90726899a92970ef163aba
+SHA256: 669d8bf0aab03cf1350b1c6f43bdf180a618731bd63bfc554943571782a1b7c5
+Section: 嗨-汉化
+Description: Moveable9 简体中文包。
+Author: Ball
+Name: Moveadle 9 简体中文包
 
 Package: com.xiaodiaoming.VoiceChangerX.ZH.CN
 Version: 0.1-38
@@ -6550,6 +9247,21 @@ Section: 嗨-美化
 Description: 状态栏封包直装版,自动判别iOS10/11,自动安装.iOS11用8P-11.3底包制作,iOS10用6S-10.2底包制作,也就是说11支持5.5寸机器,10支持4.7寸机器.安装前先卸载已安装的直装版状态栏封包,自动备份原机状态栏(iOS10备份:/var/mobile/Documents/Assets.car.10bak 、iOS11备份:/var/mobile/Documents/Assets.car.11bak),卸载插件还原.
 Author: 妖刀
 Name: 状态栏-玫瑰信号(10&11)
+
+Package: com.yaodao.bar.wifi
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: null
+Depends: firmware (>= 10.0),mobilesubstrate (>= 0.9.5000)
+Filename: rootful/ShuZiWiFi.deb
+Size: 1553224
+MD5sum: 2b73c7dcc1eb3255e0925f9eb72a4e9f
+SHA1: c22622638f134d9fc13531e31ef4a5040bc0d773
+SHA256: b4c64b0e84a79e2ff23e6f514c647d58e710b22228472ffd363a04cc081647df
+Section: 嗨-美化
+Description: 状态栏封包直装版，用7P-11.3.1底包制作。安装前先卸载已安装的直装版状态栏封包，自动备份原机状态栏（iOS10的备份：/var/mobile/Documents/Assets.car.10bak ，iOS11的备份：/var/mobile/Documents/Assets.car.11bak），卸载插件还原。
+Author: 妖刀
+Name: 状态栏-数字WiFi(11)
 
 Package: com.yaodao.bar.yugu
 Version: 1.0.0
