@@ -1441,6 +1441,21 @@ Description: MilkyWay3 简体中文包，桌面图标菜单选项已汉化。Mil
 Author: Ball
 Name: MilkyWay3 简体中文包
 
+Package: com.hk.mochi15.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootful/Mochi15_CN.deb
+Size: 4648
+MD5sum: e2211da9e9e3b9bb5612dd0ec6ab6e13
+SHA1: b27518fd899f80dd791dd5ab28e47713913d8660
+SHA256: bd86c443a79b3bc411f282c544ca9d037486684f0b9ad44e94d75ac1a0fe1a0c
+Section: 嗨-汉化
+Description: Mochi15 简体中文包。
+Author: 妖刀
+Name: Mochi15 简体中文包
+
 Package: com.hk.moderndepictions.cn
 Version: 0.3-20
 Architecture: iphoneos-arm
@@ -3318,6 +3333,21 @@ Section: 嗨-汉化
 Description: MilkyWay4 简体中文包(rootless)。
 Author: 妖刀
 Name: MilkyWay4 简体中文包(rootless)
+
+Package: com.hk.mochi15.cn.rl
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Mochi15 简体中文包(rootless).deb
+Size: 4736
+MD5sum: 88c5b74b19aa868acadf4b860c55cef5
+SHA1: 352c0e07a26b8b14dae83005c5ed79a9d812357c
+SHA256: 7fa331383c8564c7d82d9f6ed944893a84fbf848913acc3aa96c0682f3783bba
+Section: 嗨-汉化
+Description: Mochi15 简体中文包(rootless)。
+Author: 妖刀
+Name: Mochi15 简体中文包(rootless)
 
 Package: com.hk.nebula.ding
 Version: 2.0
