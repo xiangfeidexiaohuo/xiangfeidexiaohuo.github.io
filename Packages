@@ -4556,6 +4556,21 @@ Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截
 Author: Jonathan Winger-lang
 Name: BigShot 长截图
 
+Package: com.hk.bigsur.cn
+Version: 1.4.4
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootful/BigSurCenter 简体中文包.deb
+Size: 7548
+MD5sum: bdadfd8dee468ec89967519fb3d8076d
+SHA1: f1bed8e984560f3e06d39927e373f76256e2f91e
+SHA256: f6a8013606b0cb8333c251c1d078ff89c6e4876f2535cadbb2985171afa1a64c
+Section: 嗨-汉化
+Description: BigSurCenter 简体中文包。
+Author: 妖刀
+Name: BigSurCenter 简体中文包
+
 Package: com.hk.bioprotectxs.new.cn
 Version: 4.6
 Architecture: iphoneos-arm
@@ -11862,16 +11877,16 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版(rootless)
 
 Package: com.dao.lynxtwo
-Version: 2.4.5
+Version: 2.4.6
 Architecture: iphoneos-arm64
 Maintainer: MTAC
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Conflicts: com.mtac.lynxtwo
 Filename: rootless/Lynx 2(rootless).deb
-Size: 508004
-MD5sum: b974444e71cbdd7a1c787c82409c9995
-SHA1: d05d1fb8f36c071f7b45385e1cf6a961c1236f98
-SHA256: beeabc224a213484c2f15f67fefc3c0da829d50b5ef5a049ee27b64b3837c690
+Size: 515824
+MD5sum: 6fd010f3a123f91109692a1799d32959
+SHA1: ca754309527162067ab20820d7c68bc80e715a12
+SHA256: bd58fde3e9fb641012892918fe079344779de29223f3cfe833cf3945bc50a0cd
 Section: 嗨-工具
 Description: 适用于iOS14+的军刀类多功能插件，汉化包在源内。
 Author: MTAC
@@ -12403,15 +12418,15 @@ Author: 妖刀
 Name: BHInsta 简体中文包(rootless)
 
 Package: com.hk.bigsur.cn.rl
-Version: 1.4.2
+Version: 1.4.4
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/BigSurCenter 简体中文包(rootless).deb
-Size: 7712
-MD5sum: fa7004c0e260064874a4d2baefa6081a
-SHA1: c00a076ecf634c074d3b5b65cd9c0eeddf78ea41
-SHA256: 5fcd1f05234fd81d40eb1daf96e2fda8409d61c76d1f84705c7c70758fff0f86
+Size: 7624
+MD5sum: 88fb21628cf7f3be7bf0fa5c4bf8cb41
+SHA1: 639cecfbbf2d48bae4c1233195799e7014adc1dc
+SHA256: b9f75be91308a1542392f1b282d8183e7e78d58c97c8bd1fecfefaba9fdeb39b
 Section: 嗨-汉化
 Description: BigSurCenter 简体中文包(rootless)。
 Author: 妖刀
