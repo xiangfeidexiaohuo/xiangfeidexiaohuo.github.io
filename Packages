@@ -10389,17 +10389,17 @@ Description: Translomatic 中文修复包。
 Author: 妖刀
 Name: Translomatic 中文修复包
 
-Package: com.hk.trollnonce.cn.rl
+Package: com.hk.trollnonce.cn
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: rootful/TrollNonce_CN.deb
-Size: 4664
-MD5sum: 45e09e8f76694d2dc53a9009872e11fe
-SHA1: 7a6e3fa56b6a7e52a5b9cf1b17eddc5bbddd5f7e
-SHA256: e2d68802569b3db4fb42f516005f701f701ddae8e97b62651ad4fe70c7342aa9
+Size: 4668
+MD5sum: 9e1c98daef0eb61c3b7a549e34f4346c
+SHA1: d508a8c0d7771e5930e6dc9114c65dc723e63152
+SHA256: 3047956275fc5a4ff5cad55675366c95395321e82710593487059cd7444baad6
 Section: 嗨-汉化
 Description: TrollNonce 简体中文包。
 Author: 妖刀
