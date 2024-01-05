@@ -2486,6 +2486,23 @@ Description: 剪切板插件，直接替代听写键。基于原作者重构的2
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版
 
+Package: com.dao.kayoko
+Version: 2.0.2.2
+Architecture: iphoneos-arm
+Maintainer: zp & 妖刀
+Installed-Size: 996
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
+Filename: rootful/Kayoko_ZH_2.0.2.2.deb
+Size: 90000
+MD5sum: 5225deb7fee97a3a9e073fa87b0d8791
+SHA1: 37395c0b10da4b029d894b89388cab2a61cd8921
+SHA256: f71b6629fa9f246c1e51a2a4359138b3b55ad4c51666dca62ba70b794f8e5b84
+Section: 嗨-工具
+Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了听写键图标，去除无用的翻译，收藏的心图标换成星图标)，基本保持了原滋原味。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko 中文版
+
 Package: com.dao.noline
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -11911,6 +11928,23 @@ Description: 剪切板插件，直接替代听写键。基于原作者重构的2
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版(rootless)
 
+Package: com.dao.kayoko
+Version: 2.0.2.2
+Architecture: iphoneos-arm64
+Maintainer: zp & 妖刀
+Installed-Size: 996
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
+Filename: rootless/Kayoko 中文版(rootless)_2.0.2.2.deb
+Size: 89976
+MD5sum: d734a499e09cc9311417089b69822a55
+SHA1: c3a7222a790bd0bbad99776a855254a8d942b832
+SHA256: cfed18a36c7e98778af1984f5ca114ccd94e0dfb069516e4f2431b224c6639c5
+Section: 嗨-工具
+Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了听写键图标，去除无用的翻译)，基本保持了原滋原味。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko 中文版(rootless)
+
 Package: com.dao.lynxtwo
 Version: 2.4.6
 Architecture: iphoneos-arm64
@@ -13653,6 +13687,23 @@ SHA1: 95f1468d2232f1bf77807cc6b726c74b61b18a9e
 SHA256: ca300172d204dee6f01265694eab32578001d2fbb9ee919569a54306db45d714
 Section: 嗨-工具
 Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了听写键图标，去除无用的翻译)，基本保持了原滋原味。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko 中文版(RootHide)
+
+Package: com.dao.kayoko
+Version: 2.0.2.2
+Architecture: iphoneos-arm64e
+Maintainer: zp & 妖刀
+Installed-Size: 996
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
+Filename: roothide/Kayoko 中文版(RootHide)_2.0.2.2.deb
+Size: 90016
+MD5sum: e1f00050b33bb17d708488156b4bf560
+SHA1: 4a281379483be802e05b271f122eba81deb121af
+SHA256: 3493a70a75f0a1e8e3db3a81ba87d6de7c3c8403df7f7cc639a54847f0773b13
+Section: 嗨-工具
+Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了听写键图标，去除无用的翻译，收藏的心图标换成星图标)，基本保持了原滋原味。
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版(RootHide)
 
