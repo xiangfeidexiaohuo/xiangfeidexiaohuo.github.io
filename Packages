@@ -12790,15 +12790,15 @@ Author: Mo/妖刀/Alucard
 Name: Filza 中文增补包(rootless)
 
 Package: com.hk.floatingdock16.cn.rl
-Version: 1.3
+Version: 1.8
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/FloatingDockXVI 简体中文包(rootless).deb
-Size: 1240
-MD5sum: 6fa5b14cef3ea5907b63f27cddd0004c
-SHA1: a028bad9a9b4874689128eb344095e20461eee28
-SHA256: 115646552b2583693c1bd7ff9ab3a6b25d68ee805de1b032f85e1d220e04dc65
+Size: 1300
+MD5sum: d6b9680adbfb23b00e34db44b1805cfd
+SHA1: 1fe17eddcd78054dd360d014f63923fbc2ad283b
+SHA256: 568b99ce1c23c4f57e831e2e35131b77022f88ff745ed370afac6a7645ef827a
 Section: 嗨-汉化
 Description: FloatingDockXVI 简体中文包(rootless)。
 Author: 妖刀
@@ -13301,15 +13301,15 @@ Author: 妖刀
 Name: SwipeExtenderX 简体中文包(rootless)
 
 Package: com.hk.shuffle.cn.rl
-Version: 1.6.2
+Version: 1.6.2-1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Shuffle 简体中文包(rootless).deb
-Size: 11056
-MD5sum: de7ac53666120955729cecaa222a8c09
-SHA1: 50649dde17f9f186ae46c8e1ee50373a879c307e
-SHA256: d7bd38f1a1c2d74fadd4e43d5e50417c1fcbff07ff3ec9a0c1aedb1dc05d9ed4
+Size: 10844
+MD5sum: 755b3e359243ff3add87ea5c6fff5859
+SHA1: 3c4a063709b907fcf6625cfedd7974932ea7cb82
+SHA256: 13d7e1bb5ab756d2e4e92bd42608e0b9c2cce1f4b963033d9448cce657f85813
 Section: 嗨-汉化
 Description: Shuffle 简体中文包(rootless)。
 Author: 妖刀
@@ -13970,6 +13970,21 @@ Description: Filza 中文增补包(RootHide)。
 Author: Mo/妖刀/Alucard
 Name: Filza 中文增补包(RootHide)
 
+Package: com.hk.floatingdock16.cn.rl
+Version: 1.8
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/FloatingDockXVI 简体中文包(RootHide).deb
+Size: 1276
+MD5sum: 5640337c5b271ff23719cbcb52ad94af
+SHA1: e7ccbb48db02b880bc36a4b9da2c2875a989d694
+SHA256: 6c084841d68a9d707df5471dfacd2e78b7c064504b73391a2039b9d56a692211
+Section: 嗨-汉化
+Description: FloatingDockXVI 简体中文包(RootHide)。
+Author: 妖刀
+Name: FloatingDockXVI 简体中文包(RootHide)
+
 Package: com.hk.kbapp.cn.rl
 Version: 1.5-1
 Architecture: iphoneos-arm64e
@@ -13984,6 +13999,21 @@ Section: 嗨-汉化
 Description: KBApp 简体中文包(RootHide)。
 Author: 妖刀
 Name: KBApp 简体中文包(RootHide)
+
+Package: com.hk.lynx2.cn.rl
+Version: 2.4.6
+Architecture: iphoneos-arm64e
+Maintainer: M哥 & 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Lynx 2 简体中文包(RootHide).deb
+Size: 23364
+MD5sum: 900b29d827639ba528a36b97fe9e07f5
+SHA1: 421f77baf9b3694dda06aaf17c3dd742929c5ba2
+SHA256: 50389ce2bb433c969da295d95526c56d541d7e4cc80b7601c9038e89c17c1d36
+Section: 嗨-汉化
+Description: Lynx 2 简体中文包(RootHide)。
+Author: M哥 & 妖刀
+Name: Lynx 2 简体中文包(RootHide)
 
 Package: com.hk.milkway4.cn.rl
 Version: 0.1.1
@@ -14106,6 +14136,21 @@ Section: 嗨-汉化
 Description: SwipeExtenderX 简体中文包(RootHide)。此插件装了汉化包，无法自定义编辑键位功能，这是插件的遗留bug。
 Author: 妖刀
 Name: SwipeExtenderX 简体中文包(RootHide)
+
+Package: com.hk.shuffle.cn.rl
+Version: 1.6.2
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Shuffle 简体中文包(RootHide).deb
+Size: 10828
+MD5sum: c54978a019016e7291da93e3857de1c9
+SHA1: 7bbf8f7d28b5a264d02f87b3a696bf4c619a715e
+SHA256: 6fa4f1dfb3f1902633d7265570923c0b16d201cb596da570713cec94d3db004d
+Section: 嗨-汉化
+Description: Shuffle 简体中文包(RootHide)。
+Author: 妖刀
+Name: Shuffle 简体中文包(RootHide)
 
 Package: com.hk.snowboard.cn.rl
 Version: 1.5.13
