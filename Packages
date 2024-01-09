@@ -3461,10 +3461,10 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Atria_CN.deb
-Size: 8488
-MD5sum: c1e9988138c468e7f81dfc177c5e3621
-SHA1: 22f905b110cb2268d6cde7c49e27ec601eebfe1c
-SHA256: daef7c1b63edbf1a7cb4cf8e6871fd42f2daf7d7eb560e3665d17c6f1a9c2a9b
+Size: 8652
+MD5sum: b91a7b09b9c13eda1aecf059f6ec0df3
+SHA1: 4cc0c88337c7b6d13d7228db936447242071a392
+SHA256: 874faf12520c9e72a3261f3ae9632a4b789522074cef6bd23047d86ac10100d1
 Section: 嗨-汉化
 Description: Atria 简体中文包。
 Author: Alucard/妖刀
@@ -12434,10 +12434,10 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Atria 简体中文包(rootless).deb
-Size: 8576
-MD5sum: 4effa78d2cdb10df01ee5b2538db16d3
-SHA1: 4ebaba374c861657e053647fb717ac16d895f8d2
-SHA256: ab6959ba319dce9896e948a52c20a56b0baa22320f10b5d362d83276e37bc470
+Size: 8736
+MD5sum: f064621b5b414af6cc4df0d3e107c538
+SHA1: a5a5797c0f05939158d8f2c3e457a7916b3ff10f
+SHA256: eca043e7f3c18525f6eb28a2c8af5b12919e1e2918e90c3c62af0c9891b6fe63
 Section: 嗨-汉化
 Description: Atria 简体中文包(rootless)。
 Author: Alucard/妖刀
@@ -13794,10 +13794,10 @@ Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Atria 简体中文包(RootHide).deb
-Size: 8536
-MD5sum: a3bd7f0d166c0b257d238286ef609075
-SHA1: bc499a05da3593968da7d5270f7d459c53e70d96
-SHA256: d4f8bd6a1a53c88f39bee75a584bdc86bab205d0c170bfbfe584cb24b229c002
+Size: 8708
+MD5sum: 5f9d8fd5dd8a43b71cd695dbee5be1d3
+SHA1: cf3f4b2ec3c68a2cee6a8a393b3ced74ee2d546c
+SHA256: d5e07b0f0e48d14681194aed33a8168148f7061b277e299c0e26f128b9881bd4
 Section: 嗨-汉化
 Description: Atria 简体中文包(RootHide)。
 Author: Alucard/妖刀
