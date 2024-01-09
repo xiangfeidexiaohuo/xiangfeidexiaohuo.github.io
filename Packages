@@ -13788,6 +13788,21 @@ Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中�
 Author: Lillie
 Name: YTR 中文版(RootHide)
 
+Package: com.hk.ampere.cn.rl
+Version: 1.4
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Ampere 简体中文包(RootHide).deb
+Size: 6028
+MD5sum: ebb84c0398bc102aaba6ce91a78db07e
+SHA1: 89dc9ec059b663b7449b93f2a0bf3e21581b42d6
+SHA256: 398d29cdc6bb7f59eb7e3b559fe7e238b4ea640085585797b238904bedd9b2e5
+Section: 嗨-汉化
+Description: Ampere 简体中文包(RootHide)。
+Author: 妖刀
+Name: Ampere 简体中文包(RootHide)
+
 Package: com.hk.atria.cn.rl
 Version: 1.4.1
 Architecture: iphoneos-arm64e
@@ -13802,6 +13817,158 @@ Section: 嗨-汉化
 Description: Atria 简体中文包(RootHide)。
 Author: Alucard/妖刀
 Name: Atria 简体中文包(RootHide)
+
+Package: com.hk.bhinsta.cn.rl
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: roothide/BHInsta 简体中文包(RootHide).deb
+Size: 5220
+MD5sum: 67d56ed0310a62985b5a8d768f325ee7
+SHA1: 5ee1a942b9b3396e42f89e6667acf7de811d534d
+SHA256: cf63aa9c9ac1bdb44499bac20b12ffcfd3bc91ddf106083eaac3651b57d0cc06
+Section: 嗨-汉化
+Description: BHInsta 简体中文包(RootHide)。
+Author: 妖刀
+Name: BHInsta 简体中文包(RootHide)
+
+Package: com.hk.bigsur.cn.rl
+Version: 1.4.4
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/BigSurCenter 简体中文包(RootHide).deb
+Size: 7584
+MD5sum: 155802888a80ea932acf492c5e34d8b4
+SHA1: 450ef0238a5fda1da84aae540d1cdc1f06654f84
+SHA256: 77db084a2366d33477024cf3e4f1281fe9f068b790841263d887d6377e1d8b23
+Section: 嗨-汉化
+Description: BigSurCenter 简体中文包(RootHide)。
+Author: 妖刀
+Name: BigSurCenter 简体中文包(RootHide)
+
+Package: com.hk.copylog.cn.rl
+Version: 1.5.6-3
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/CopyLog 简体中文包(RootHide).deb
+Size: 6464
+MD5sum: a949408d780ccd3aa8948a8ecc294e33
+SHA1: 4d32326099ef2a33e9877f636dd2d24d96a9bf85
+SHA256: e0686e3fc5cce4f8b3feacfdb562780c258d9e26679e426b3579e45b74137ec3
+Section: 嗨-汉化
+Description: CopyLog 简体中文包(RootHide)。
+Author: Hi客源
+Name: CopyLog 简体中文包(RootHide)
+
+Package: com.hk.filza.cn.rl
+Version: 4.0-2
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/Filza 中文增补包(RootHide).deb
+Size: 13788
+MD5sum: 2619cd7878896a2f724fca24c26910f9
+SHA1: 042499ba946192718a3dcbcabad3cdd4490dd12d
+SHA256: f0f5871d71e14503618cdd631b2ed8666b7600736f92961d8eb9910f7a1e84bb
+Section: 嗨-汉化
+Description: Filza 中文增补包(RootHide)。
+Author: Mo/妖刀/Alucard
+Name: Filza 中文增补包(RootHide)
+
+Package: com.hk.kbapp.cn.rl
+Version: 1.5-1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/KBApp 简体中文包(RootHide).deb
+Size: 5736
+MD5sum: 7750f424caa48ff7ecd6bfd8ca40fcc9
+SHA1: 097c2712861e63945b72a53b2de9f34fdcd65750
+SHA256: 5ca63c60d8d1a3aa00b4f0da17ca58274203e7a642823f05913a40bb6bbbf953
+Section: 嗨-汉化
+Description: KBApp 简体中文包(RootHide)。
+Author: 妖刀
+Name: KBApp 简体中文包(RootHide)
+
+Package: com.hk.onesettings.cn.rl
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/OneSettings 简体中文包(RootHide).deb
+Size: 11624
+MD5sum: 4b29f4a21eba827f2e1caed634eaaab2
+SHA1: 0997bca7a86dda1a3c1c7e728e6224e6a9cb32f5
+SHA256: d4568d51a0f7f61a184235232e72e5d719f22060afe37907bfe1b95d2b7bccaf
+Section: 嗨-汉化
+Description: OneSettings 简体中文包(RootHide)。
+Author: 妖刀
+Name: OneSettings 简体中文包(RootHide)
+
+Package: com.hk.pf2.cn.rl
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: roothide/PrimalFolder2 简体中文包(RootHide).deb
+Size: 5274
+MD5sum: f350e57dc90e7fc068aa3fca929065b5
+SHA1: 5dc9ca58ecacdae6c9cdc9e7aa510ae5ca581cf2
+SHA256: 7caf845fe9d78b9627b0b0ca360aa7f53586ae87324995fd3488231a2b9a343b
+Section: 嗨-汉化
+Description: PrimalFolder2 简体中文包(RootHide)。
+Author: 妖刀
+Name: PrimalFolder2 简体中文包(RootHide)
+
+Package: com.hk.rune.cn.rl
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Rune 简体中文包(RootHide).deb
+Size: 6472
+MD5sum: f0ac496f71d872b480f0fdd5b7ef14a6
+SHA1: 660b0ff721e069677fdb7edcbbc87464ce79683a
+SHA256: fd92a469d90d0f8fe21e33f90c0caa8c0aa298efa2845707075c73db732e3892
+Section: 嗨-汉化
+Description: Rune 简体中文包(RootHide)。
+Author: 妖刀
+Name: Rune 简体中文包(RootHide)
+
+Package: com.hk.settingsrevamp.cn.rl
+Version: 2.1.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/SettingsRevamp 简体中文包(RootHide).deb
+Size: 7264
+MD5sum: bea7026426349128840e121f5e19e4c6
+SHA1: ce11e39611df0028c96c9d06187a9747fa120c8c
+SHA256: b45db9f7fbef978f08e34a5f0b35ea67e9b082caa98e88796f37bce29b90478c
+Section: 嗨-汉化
+Description: SettingsRevamp 简体中文包(RootHide)。
+Author: 妖刀
+Name: SettingsRevamp 简体中文包(RootHide)
+
+Package: com.hk.sex.cn.rl
+Version: 1.6
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/SwipeExtenderX 简体中文包(RootHide).deb
+Size: 8188
+MD5sum: 66872f2cce5a53ad28d56cd105e10c06
+SHA1: 9b0f54da3960c7801c87a58058cea3260c2713e7
+SHA256: 52851178cfe889136651317772f13fb866f219c2b3879bb089f26d8e519c0165
+Section: 嗨-汉化
+Description: SwipeExtenderX 简体中文包(RootHide)。此插件装了汉化包，无法自定义编辑键位功能，这是插件的遗留bug。
+Author: 妖刀
+Name: SwipeExtenderX 简体中文包(RootHide)
 
 Package: com.hk.trollnonce.cn.rl
 Version: 1.0.1
@@ -13851,6 +14018,21 @@ Section: 嗨-汉化
 Description: uYou 简体中文包(RootHide)。
 Author: 妖刀
 Name: uYou 简体中文包(RootHide)
+
+Package: com.hk.zetsu.cn.rl
+Version: 1.2-1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Zetsu 简体中文包(RootHide).deb
+Size: 6552
+MD5sum: eedc0dd2e53963d1cce76f7b33521d27
+SHA1: ba6defaa11096a3750ae8bf5ad28d8d048c84e8f
+SHA256: 0d310328de37ab39b971aba2f0266de7f3aae6d67db604ffbc23c814b84565a4
+Section: 嗨-汉化
+Description: Zetsu 简体中文包(RootHide)。
+Author: 妖刀
+Name: Zetsu 简体中文包(RootHide)
 
 Package: com.qms.cpudasher
 Version: 1.1
