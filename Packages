@@ -13755,6 +13755,22 @@ Description: 自由的休眠设备来节省电量。
 Author: Paisseon
 Name: Reverie 中文版(RootHide)
 
+Package: com.dao.sugarcane
+Version: 1.2.2
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Conflicts: com.ioscreatix.sugarcane
+Filename: roothide/SugarCane(RootHide).deb
+Size: 5988
+MD5sum: b0c8bc6878da34fb5e9c9d7bc6649a29
+SHA1: 8131f651ec5fb7ae5b516ce064e997417da1e996
+SHA256: 553bc3a9f466421c9a7c8999a2efa9eb003530508d93c4c035c9c3af3b0bd314
+Section: 嗨-工具
+Description: 为控制中心音量/亮度模块添加百分比。
+Author: iOS Creatix, kasiimh1
+Name: SugarCane(RootHide)
+
 Package: com.dao.velvet2
 Version: 2.2
 Architecture: iphoneos-arm64e
@@ -13849,6 +13865,21 @@ Description: BigSurCenter 简体中文包(RootHide)。
 Author: 妖刀
 Name: BigSurCenter 简体中文包(RootHide)
 
+Package: com.hk.bioprotect.cn.rl
+Version: 4.6-31
+Architecture: iphoneos-arm64e
+Maintainer: Sandy0 & Ball
+Depends: mobilesubstrate
+Filename: roothide/BioProtect 简体中文包(RootHide).deb
+Size: 12864
+MD5sum: 9a2d8a37b9d93583434e4a885477f20f
+SHA1: 30382688d02f4cd17afee2e4b12d3a92b5351d4b
+SHA256: 65d7ab688a04b060fa0272e5ba818024fb3fb588328981f181796743a6bbca3b
+Section: 嗨-汉化
+Description: BioProtect 简体中文包(RootHide)。
+Author: Sandy0 & Ball
+Name: BioProtect 简体中文包(RootHide)
+
 Package: com.hk.copylog.cn.rl
 Version: 1.5.6-3
 Architecture: iphoneos-arm64e
@@ -13863,6 +13894,21 @@ Section: 嗨-汉化
 Description: CopyLog 简体中文包(RootHide)。
 Author: Hi客源
 Name: CopyLog 简体中文包(RootHide)
+
+Package: com.hk.crane.cn.rl
+Version: 1.3.9-1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Crane 中文修复包(RootHide).deb
+Size: 11528
+MD5sum: cfd986277edf9abe7413ab3eb207308f
+SHA1: 2e9fdcad5a561420cfad736aedc705c1627adc9e
+SHA256: 579d72bf726c86a1a3deb3d5562b4b149e5596400f62b4a617bdeaf2985458c5
+Section: 嗨-汉化
+Description: Crane 中文修复包(RootHide)。
+Author: 妖刀
+Name: Crane 中文修复包(RootHide)
 
 Package: com.hk.filza.cn.rl
 Version: 4.0-2
@@ -13893,6 +13939,37 @@ Section: 嗨-汉化
 Description: KBApp 简体中文包(RootHide)。
 Author: 妖刀
 Name: KBApp 简体中文包(RootHide)
+
+Package: com.hk.milkway4.cn.rl
+Version: 0.1.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/MilkyWay4 简体中文包(RootHide).deb
+Size: 3992
+MD5sum: 773ad71fe209a9a98d2fc370dd50e132
+SHA1: 8ba21a0642403d5e6a55b3f428b08773140b52d4
+SHA256: 1da8478cbe4e5970eb916becba77adec36a77788f5d8047ac70e832e5ba07505
+Section: 嗨-汉化
+Description: MilkyWay4 简体中文包(RootHide)。
+Author: 妖刀
+Name: MilkyWay4 简体中文包(RootHide)
+
+Package: com.hk.nfcwriterxs.cn.rl
+Version: 4.0
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: roothide/NFCWriter XS 简体中文包(RootHide).deb
+Size: 10354
+MD5sum: cbd60f4dfe176f3fe3ae2e5756709dd8
+SHA1: 522d6df161115e488d93feac37775ffa04389eb1
+SHA256: 533e2f98e695a63c568afbbd484bee306879f55a36eac69a8e5d9425203bac1d
+Section: 嗨-汉化
+Description: NFCWriter XS 简体中文包(RootHide)。
+Author: Ball
+Name: NFCWriter XS 简体中文包(RootHide)
 
 Package: com.hk.onesettings.cn.rl
 Version: 2.0
@@ -13970,6 +14047,21 @@ Description: SwipeExtenderX 简体中文包(RootHide)。此插件装了汉化包
 Author: 妖刀
 Name: SwipeExtenderX 简体中文包(RootHide)
 
+Package: com.hk.snowboard.cn.rl
+Version: 1.5.13
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Snowboard 中文修正包(RootHide).deb
+Size: 3420
+MD5sum: 625d010c7464532e748436359726b6e1
+SHA1: bec97f876a13bdc05698cf9b784d4589b5345341
+SHA256: 4928673dac5345ade16f7bcca98094e2ce1652393588ba9d2af79ab93ddbaf97
+Section: 嗨-汉化
+Description: Snowboard 中文修正包(RootHide)。
+Author: 妖刀
+Name: Snowboard 中文修正包(RootHide)
+
 Package: com.hk.trollnonce.cn.rl
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -14002,6 +14094,21 @@ Section: 嗨-汉化
 Description: TrollStore 简体中文包(RootHide)。
 Author: 妖刀
 Name: TrollStore 简体中文包(RootHide)
+
+Package: com.hk.underdock.cn
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/UnderDock 简体中文包(RootHide).deb
+Size: 4804
+MD5sum: 0d69066a5acee00e3a780e0fd8911851
+SHA1: c51206fdc5dd19fc0973296335a50520b186b726
+SHA256: ab87926593eb1d91bceca14b448cde838600f4bcc0629e140070a7935f70bb3c
+Section: 嗨-汉化
+Description: UnderDock 简体中文包(RootHide)。
+Author: 妖刀
+Name: UnderDock 简体中文包(RootHide)
 
 Package: com.hk.uyou.cn.rl
 Version: 3.0.1
