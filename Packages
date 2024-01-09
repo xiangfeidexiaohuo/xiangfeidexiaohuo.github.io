@@ -13804,6 +13804,36 @@ Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中�
 Author: Lillie
 Name: YTR 中文版(RootHide)
 
+Package: com.hk.akara.cn.rl
+Version: 2.0.0
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Akara 简体中文包(RootHide).deb
+Size: 6796
+MD5sum: f25824c7cf65bfe0ea4e06db219b79e6
+SHA1: 4b7a3329236bb3754ea068d1b916464a65496597
+SHA256: b8f194871eea0cae1040060f29c1db80e082003ee9ba802cbf51d5fb0485e1be
+Section: 嗨-汉化
+Description: Akara 简体中文包(RootHide)。
+Author: 妖刀
+Name: Akara 简体中文包(RootHide)
+
+Package: com.hk.alpine.cn.rl
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Alpine 简体中文包(RootHide).deb
+Size: 5360
+MD5sum: a3136a5923144dcfb1cd14d774549b32
+SHA1: 85be8faa13a17f0c7ae1266f452e1b85168b0d13
+SHA256: 4bd0288b5052ddecf100ba92b8821c685d4a5ec28331b533435f8210f47ad1a8
+Section: 嗨-汉化
+Description: Alpine 简体中文包(RootHide)。
+Author: 妖刀
+Name: Alpine 简体中文包(RootHide)
+
 Package: com.hk.ampere.cn.rl
 Version: 1.4
 Architecture: iphoneos-arm64e
@@ -13910,6 +13940,21 @@ Description: Crane 中文修复包(RootHide)。
 Author: 妖刀
 Name: Crane 中文修复包(RootHide)
 
+Package: com.hk.dynamicstage.cn.rl
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/DynamicStage 简体中文包(RootHide).deb
+Size: 6116
+MD5sum: 28da6ddb2cd0cb865bb634bb9c8d99da
+SHA1: c7aec2dcebadc9e9b652cec8d8fe07bfcf3e248f
+SHA256: 28d69c8d93b8d52c914fa9d23c4e2d58b9a9ccd1fef3711b8f10e9c8f415924c
+Section: 嗨-汉化
+Description: DynamicStage 简体中文包(RootHide)。
+Author: 妖刀
+Name: DynamicStage 简体中文包(RootHide)
+
 Package: com.hk.filza.cn.rl
 Version: 4.0-2
 Architecture: iphoneos-arm64e
@@ -13954,6 +13999,21 @@ Section: 嗨-汉化
 Description: MilkyWay4 简体中文包(RootHide)。
 Author: 妖刀
 Name: MilkyWay4 简体中文包(RootHide)
+
+Package: com.hk.mochi15.cn.rl
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Mochi15 简体中文包(RootHide).deb
+Size: 4692
+MD5sum: ccb0d5241d38b45dd76490f5822d50f6
+SHA1: 62ee6479930020ef6fa4ed65696b7c593d63ea0d
+SHA256: 027982b7dc0845ba7b8ad653e72c89cf056dec038e06bf61d71c03eb750f19e0
+Section: 嗨-汉化
+Description: Mochi15 简体中文包(RootHide)。
+Author: 妖刀
+Name: Mochi15 简体中文包(RootHide)
 
 Package: com.hk.nfcwriterxs.cn.rl
 Version: 4.0
