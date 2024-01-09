@@ -3456,19 +3456,18 @@ Author: 妖刀
 Name: Atlas 简体中文包
 
 Package: com.hk.atria.cn
-Version: 1.3.3-1
+Version: 1.4.1
 Architecture: iphoneos-arm
-Maintainer: Hi 客
-Installed-Size: 104
+Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Atria_CN.deb
-Size: 9016
-MD5sum: 89e7e58fb7930703da3f6f27c5cda4c9
-SHA1: 0ec5a21559d5d74c84199dec11f26cf4eceee970
-SHA256: 0846f0cd1278d32817ff777578fcb0791c31a42c1548a09769761daaa65e9e91
+Size: 8488
+MD5sum: c1e9988138c468e7f81dfc177c5e3621
+SHA1: 22f905b110cb2268d6cde7c49e27ec601eebfe1c
+SHA256: daef7c1b63edbf1a7cb4cf8e6871fd42f2daf7d7eb560e3665d17c6f1a9c2a9b
 Section: 嗨-汉化
-Description: Atria 简体中文包。官方源：https://repo.chariz.com/
-Author: Alucard
+Description: Atria 简体中文包。
+Author: Alucard/妖刀
 Name: Atria 简体中文包
 
 Package: com.hk.audio.6s120
@@ -12429,6 +12428,21 @@ Description: AppTools for iOS15 Rootless，强大的App类辅助插件，可以�
 Author: aReo
 Name: AppTools15(rootless)
 
+Package: com.hk.atria.cn.rl
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Atria 简体中文包(rootless).deb
+Size: 8576
+MD5sum: 4effa78d2cdb10df01ee5b2538db16d3
+SHA1: 4ebaba374c861657e053647fb717ac16d895f8d2
+SHA256: ab6959ba319dce9896e948a52c20a56b0baa22320f10b5d362d83276e37bc470
+Section: 嗨-汉化
+Description: Atria 简体中文包(rootless)。
+Author: Alucard/妖刀
+Name: Atria 简体中文包(rootless)
+
 Package: com.hk.audiorecorderxs.cn.rl
 Version: 5.0-3
 Architecture: iphoneos-arm64
@@ -13773,6 +13787,21 @@ Section: 嗨-工具
 Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
 Author: Lillie
 Name: YTR 中文版(RootHide)
+
+Package: com.hk.atria.cn.rl
+Version: 1.4.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Atria 简体中文包(RootHide).deb
+Size: 8536
+MD5sum: a3bd7f0d166c0b257d238286ef609075
+SHA1: bc499a05da3593968da7d5270f7d459c53e70d96
+SHA256: d4f8bd6a1a53c88f39bee75a584bdc86bab205d0c170bfbfe584cb24b229c002
+Section: 嗨-汉化
+Description: Atria 简体中文包(RootHide)。
+Author: Alucard/妖刀
+Name: Atria 简体中文包(RootHide)
 
 Package: com.hk.trollnonce.cn.rl
 Version: 1.0.1
