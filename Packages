@@ -2605,16 +2605,16 @@ Author: NoisyFlake
 Name: Velvet 2 中文版
 
 Package: com.dao.youtubereborn
-Version: 4.1.2
+Version: 4.1.2-1
 Architecture: iphoneos-arm
 Maintainer: Lillie & 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
-Filename: rootful/YTR_ZH.deb
-Size: 9042608
-MD5sum: 8a859067bc4cd5262bb45a7d78dd390a
-SHA1: ac610eb4ea7c02306ffa3679cd194820ea062479
-SHA256: db3514fde63f2f5f8ca9ca6c5e2e08773014f59b3ce097a38901e54300bca32d
+Filename: rootful/YTR_ZH_4.1.2.deb
+Size: 9045196
+MD5sum: 7ce87d6ec6d195abf09f4ab6a6c7977f
+SHA1: a81b3d1903f02e1c880a7701948416479f597ad4
+SHA256: 09cdd3fbb6b5094f1b7ad6ba96d659e492805905ffc50f84ea38239d2d72616c
 Section: 嗨-工具
 Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
 Author: Lillie
@@ -12159,17 +12159,17 @@ Author: NoisyFlake
 Name: Velvet 2 中文版(rootless)
 
 Package: com.dao.youtubereborn
-Version: 4.1.2
+Version: 4.1.2-1
 Architecture: iphoneos-arm64
 Maintainer: Lillie & 妖刀
 Installed-Size: 24784
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
-Filename: rootless/YTR 中文版(rootless).deb
-Size: 9029666
-MD5sum: 2d9bf9036b35741da267e58792dbc7ba
-SHA1: c80a2143fe2dcd218023cae039af985d1f5e2e7b
-SHA256: f4f554973f9ae5c597ae6d3e372521be9e179a8b9d74e6f61a761ce487baf030
+Filename: rootless/YTR 中文版(rootless)_4.1.2.deb
+Size: 9026626
+MD5sum: 0cdb9e29968496a922a1d2ed7d50ba27
+SHA1: 90bada938f67b4129c410e6f8201ed269651f57f
+SHA256: 432f7c0bf7a6ac54d1f4fe5d97dcd3772f63015027cd626cf76b6c9f2cffe5ed
 Section: 嗨-工具
 Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
 Author: Lillie
@@ -13789,16 +13789,16 @@ Author: NoisyFlake
 Name: Velvet 2 中文版(RootHide)
 
 Package: com.dao.youtubereborn
-Version: 4.1.2
+Version: 4.1.2-1
 Architecture: iphoneos-arm64e
 Maintainer: Lillie & 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
-Filename: roothide/YTR 中文版(RootHide).deb
-Size: 9040720
-MD5sum: fdd74e9398e05070f7bdf779974254ad
-SHA1: a914865c6b4ec484fea61df5f3c0e211c2b48653
-SHA256: f4509be6bddd029154b7e08d2e4d9e4eb38c625946cf8c9aa2cf35cfe8b40831
+Filename: roothide/YTR 中文版(RootHide)_4.1.2.deb
+Size: 9043708
+MD5sum: 882a75d7bcdab22bfd76bd62cd60f39d
+SHA1: f74a2e04b85c1ac080e4c3515408a63d34d6be98
+SHA256: 9ed1adcd127bfdf0c74d7dcae2faddfd9569878060499abb80b9089d1f5088cb
 Section: 嗨-工具
 Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
 Author: Lillie
