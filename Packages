@@ -9743,17 +9743,17 @@ Author: 妖刀
 Name: SmoothLockX 简体中文包
 
 Package: com.hk.snap3.cn
-Version: 1.2
+Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Snapper3_CN.deb
-Size: 5592
-MD5sum: 0ddd6307ba3da6e46e9e20b9d0af1e7c
-SHA1: 11dbf274603e339b73ec7027bd74c44755a3edbc
-SHA256: 580c888c8b6b85a55410fe2b0f9596b2cd457479d3cb484da1da9aee621bbf77
+Size: 5720
+MD5sum: 715da8b154304c7ef3222c85a54c1304
+SHA1: f34036892a2c5273e186f0780fdcbf057e5257e6
+SHA256: 8943ef178829bd0986f0504fedc832e83fb7dc96bb2f02191beb83ed2d64c8a6
 Section: 嗨-汉化
-Description: Snapper 3 简体中文包，连同控制中心Snapper3模块也一起汉化了。
+Description: Snapper 3 个人自用简体中文包，连同控制中心Snapper3模块也一起汉化了。
 Author: 妖刀
 Name: Snapper 3 简体中文包
 
@@ -13361,17 +13361,17 @@ Author: 妖刀
 Name: Snapper2 中文增补包(rootless)
 
 Package: com.hk.snapper3.cn.rl
-Version: 1.2
+Version: 1.2.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Snapper3 简体中文包(rootless).deb
-Size: 5812
-MD5sum: f233abac32ea7f297340b836b7a44161
-SHA1: 42d22d9b26a7475336c4a38180df2a2089facb7b
-SHA256: e948652209f8380475468c8cfcc92ad0907d275f2bb7bdbcda5ebed0ec88e8ab
+Size: 5740
+MD5sum: d73f8ad9fbdb47920930b9f296b7952e
+SHA1: 8bc6151ce354006ba7e9fb1fbfad773527a806aa
+SHA256: 89525b691ab7f9788ea97a9e509d7cef4e07bcd4afd186118aba74289348efa0
 Section: 嗨-汉化
-Description: Snapper3 简体中文包(rootless)，连同控制中心Snapper3模块也一起汉化了。
+Description: Snapper3 个人自用简体中文包(rootless)，连同控制中心Snapper3模块也一起汉化了。
 Author: 妖刀
 Name: Snapper3 简体中文包(rootless)
 
@@ -14151,6 +14151,36 @@ Section: 嗨-汉化
 Description: Shuffle 简体中文包(RootHide)。
 Author: 妖刀
 Name: Shuffle 简体中文包(RootHide)
+
+Package: com.hk.snapper2.cn.rl
+Version: 2.7.0
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Snapper2 中文增补包(RootHide).deb
+Size: 7364
+MD5sum: 061bafd555b9f65156f1f60d330e9db9
+SHA1: b01d0c4e7662e1faf03c6613fffc5898b2828bda
+SHA256: 5a1a96657e1816d09965fbb6bd4d8b19b5c03aae4adcba2672174eb6248a20b2
+Section: 嗨-汉化
+Description: Snapper2 中文增补包(RootHide)。
+Author: 妖刀
+Name: Snapper2 中文增补包(RootHide)
+
+Package: com.hk.snapper3.cn.rl
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Snapper3 简体中文包(RootHide).deb
+Size: 5708
+MD5sum: be58662c7ba7bfcf5ab69536e3c9fce5
+SHA1: 86d263b84a62a9da876917e50124b1ccb0463658
+SHA256: d59a2e4b449f5e61aaed705dc43668b8f3da1c9dfd8714787ffc74667f398273
+Section: 嗨-汉化
+Description: Snapper3 个人自用简体中文包(RootHide)，连同控制中心Snapper3模块也一起汉化了。
+Author: 妖刀
+Name: Snapper3 简体中文包(RootHide)
 
 Package: com.hk.snowboard.cn.rl
 Version: 1.5.13
