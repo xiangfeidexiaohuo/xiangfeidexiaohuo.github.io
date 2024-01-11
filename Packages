@@ -2620,6 +2620,23 @@ Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中�
 Author: Lillie
 Name: YTR 中文版
 
+Package: com.daodao.goodwifi
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
+Filename: rootful/GoodWiFi_ZH.deb
+Size: 34364
+MD5sum: 575d8286566a2868e7ed1574051a67ab
+SHA1: 02e8a4cf11769872ede7602f539277443cc36a01
+SHA256: 387e51b04d8f502660b8fd6de921958542388dc15e66bbb99e04a15f2a97c3ba
+Section: 嗨-工具
+Description: 更好的WiFi配置，简体中文版。
+Author: julioverne
+Name: GoodWiFi中文版
+
 Package: com.eclipsex.cn
 Version: 5.0.9-1
 Architecture: iphoneos-arm
@@ -6571,23 +6588,6 @@ Section: 嗨-汉化
 Description: Glow 简体中文包。
 Author: Sandy0
 Name: Glow 简体中文包
-
-Package: com.hk.goodwifi
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: julioverne
-Installed-Size: 368
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.julioverne.goodwifi
-Filename: rootful/GoodWiFi_ZH.deb
-Size: 34378
-MD5sum: 7887be6cec7b7953b22a5a988c1fef35
-SHA1: 21bfd1595f321bce4af66d030324cc3ba55efc11
-SHA256: dbb5a3feb1f220f4ac544c56a93329da5af91c5e364b448a9e933771c4fd17cd
-Section: 嗨-工具
-Description: 更好的WiFi配置，简体中文版。
-Author: julioverne
-Name: GoodWiFi中文版
 
 Package: com.hk.gradi.cn
 Version: 1.2
@@ -12208,17 +12208,17 @@ Author: Traurige <hello@traurige.dev>
 Name: Kayoko魔改版(rootless)
 
 Package: com.daodao.goodwifi
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
-Maintainer: julioverne
+Maintainer: 妖刀
 Installed-Size: 368
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.goodwifi
 Filename: rootless/GoodWiFi中文版(rootless).deb
-Size: 34406
-MD5sum: ee5bd365e395e38c43f91eaaeb5cd24e
-SHA1: c6d4135da85f8810a6c4606b738da37d1b330907
-SHA256: 1995e0f8627a9f5fe5af95c1ea285673f3c7d704485a2a6e62c0c48a577c43cb
+Size: 34276
+MD5sum: 598f62f075485cf469137429c9dc20fb
+SHA1: 8af6dbf224ef7ae75c04d20c3b075732c2e8c711
+SHA256: 793c0b5ed55ab346fab19f24b989786bd4dbf9ee8657de56a058e4c0a2856631
 Section: 嗨-工具
 Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
@@ -13804,6 +13804,23 @@ Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中�
 Author: Lillie
 Name: YTR 中文版(RootHide)
 
+Package: com.daodao.goodwifi
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
+Filename: roothide/GoodWiFi中文版(RootHide).deb
+Size: 34580
+MD5sum: 5f9e14d6afcd7032e5789690658d15d4
+SHA1: 1fd946a9e3dee3b96130592d5a75eadc6872bab5
+SHA256: 20706be4653404ac45cacc2452ba78de80cf608fb2bb4dda7a9ce01beefe7289
+Section: 嗨-工具
+Description: 更好的WiFi配置，简体中文版。
+Author: julioverne
+Name: GoodWiFi中文版(RootHide)
+
 Package: com.hk.akara.cn.rl
 Version: 2.0.0
 Architecture: iphoneos-arm64e
@@ -14291,23 +14308,6 @@ Section: 嗨-工具
 Description: CPUDasher破解VIP。
 Author: lw
 Name: CPUDasher 破解VIP(RootHide)
-
-Package: com.qms.goodwifi
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: julioverne
-Installed-Size: 368
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.julioverne.goodwifi
-Filename: roothide/GoodWiFi中文版(RootHide).deb
-Size: 34370
-MD5sum: 583036051c54f079157e43e8a357aa50
-SHA1: e53b140eaf70e3f420506736a6fefa3202217a7c
-SHA256: 9eb2b78435a3693460e88ac9cde51b95cdab67075fe0620f6010a28e256ce8d8
-Section: 嗨-工具
-Description: 更好的WiFi配置，简体中文版。
-Author: julioverne
-Name: GoodWiFi中文版(RootHide)
 
 Package: cpm.qms.storeswitcher
 Version: 1.2
