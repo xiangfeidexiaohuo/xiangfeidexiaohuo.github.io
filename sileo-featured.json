@@ -1,0 +1,19 @@
+{
+ "class": "FeaturedBannersView",
+ "itemSize": "{263, 148}",
+ "itemCornerRadius": 10,
+ "banners": [
+  {
+   "url": "https://xiangfeidexiaohuo.github.io/images/ytr.png",
+   "title": "YouTube Reborn",
+   "package": "com.dao.youtubereborn",
+   "hideShadow": false
+  },
+  {
+   "url": "https://xiangfeidexiaohuo.github.io/images/line.png",
+   "title": "PurifyLine",
+   "package": "com.dao.noline",
+   "hideShadow": false
+  }
+ ]
+}
