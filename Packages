@@ -13812,10 +13812,10 @@ Installed-Size: 368
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
 Filename: roothide/GoodWiFi中文版(RootHide).deb
-Size: 34580
-MD5sum: 5f9e14d6afcd7032e5789690658d15d4
-SHA1: 1fd946a9e3dee3b96130592d5a75eadc6872bab5
-SHA256: 20706be4653404ac45cacc2452ba78de80cf608fb2bb4dda7a9ce01beefe7289
+Size: 34396
+MD5sum: 039fd8797c6f6edd0fad21b116b40f14
+SHA1: b56860eef720b51dffde885af79f7bcedb5aa2cb
+SHA256: 3cbc308e6804de1d1287e0570c699385ec03ed04796eba02f56285e8b033fa7d
 Section: 嗨-工具
 Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
