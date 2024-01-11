@@ -26,7 +26,13 @@
    "title": "GoodWiFi",
    "package": "com.daodao.goodwifi",
    "hideShadow": false
-  },  
+  },
+  {
+   "url": "https://xiangfeidexiaohuo.github.io/images/axon.png",
+   "title": "Axon",
+   "package": "com.dao.axon",
+   "hideShadow": false
+  },
   {
    "url": "https://xiangfeidexiaohuo.github.io/images/velvet2.png",
    "title": "Velvet 2",
