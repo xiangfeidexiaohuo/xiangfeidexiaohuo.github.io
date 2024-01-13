@@ -2834,21 +2834,6 @@ Description: Vibin 简体中文包。
 Author: Mo
 Name: Vibin 简体中文包
 
-Package: com.hk.Zetsu.cn
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: null
-Depends: mobilesubstrate
-Filename: rootful/Zetsu_CN.deb
-Size: 2908
-MD5sum: f79802b7b47a70b44d438ed2b08cdcb1
-SHA1: b73ab05fcaace23ea0e7a1e899e942a76c39a336
-SHA256: f02f84512cccb9426bcfa7d0150f263beae1bb0fee7f2be059d8bada845a258a
-Section: 嗨-汉化
-Description: Zetsu 简体中文包。
-Author: Mo
-Name: Zetsu 简体中文包
-
 Package: com.hk.abypass.cn
 Version: 1.5.7
 Architecture: iphoneos-arm
@@ -3801,6 +3786,21 @@ Section: 嗨-系统
 Description: iOS在13上削弱了音质，通过替换iOS12的音效相关文件，达到提升的目的。此安装包适用于国行的XSM替换iOS12.4.1的音效文件，自动备份本机音效文件，卸载即可还原。换音效版本，必须卸载之前的安装的。音效文件来自威锋@chenyingkeng帖子，感谢！
 Author: 佚名
 Name: 提升音质(国行XsMax-12.4.1)
+
+Package: com.hk.audiorecorderxs.cn
+Version: 5.0-3
+Architecture: iphoneos-arm64e
+Maintainer: Sandy0 & 妖刀
+Depends: mobilesubstrate
+Filename: rootful/AudioRecorderXS_CN.deb
+Size: 11848
+MD5sum: c5231d41fbba70ffad350ddf043fd38a
+SHA1: 44edf466b7dae13ffd34825a82c61259cc99f6ad
+SHA256: 68ab57ef63165ec89bce1bc977a91702c1c18e6803c782730142d6f96ad2f811
+Section: 嗨-汉化
+Description: AudioRecorder XS 简体中文包。
+Author: Sandy0 & 妖刀
+Name: AudioRecorder XS 简体中文包
 
 Package: com.hk.autofaceunlock
 Version: 1.0-1
@@ -10456,17 +10456,17 @@ Author: 妖刀
 Name: TrollNonce 简体中文包
 
 Package: com.hk.trollstore.cn
-Version: 2.0.2
+Version: 2.0.8
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Conflicts: com.qms.trollstore.cn
 Filename: rootful/TrollStore_CN.deb
-Size: 12218
-MD5sum: f55ea5c0182eeddffc3a19c878a4f565
-SHA1: af23855ce656bf6fcce913cc92b65822e82163dc
-SHA256: 02c409c95b9bce024db43c327e436766e7801ec9cadced2875f3ecf7c196d17e
+Size: 13216
+MD5sum: ad531823e871494dfd3f9f99b6cd5908
+SHA1: ffb19b824965e1e73eda2dbb496f82015b61cc91
+SHA256: e0abf6af188d4ecd7da8ea16bf15d49777df422d356408a6771b25341a74b286
 Section: 嗨-汉化
 Description: TrollStore 简体中文包。
 Author: 妖刀
@@ -11276,6 +11276,21 @@ Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
 Name: YTLite
+
+Package: com.hk.zetsu.cn
+Version: 1.2-2
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootful/Zetsu_CN.deb
+Size: 6876
+MD5sum: 0d207536c18675d7d4d5331d730a085b
+SHA1: aae4927e0bf8e3f8c93d5834e2543868e25307a7
+SHA256: fb040b1084bb2d5af08eb4b5bfa0508b3ed88349cee075485262b0316260923f
+Section: 嗨-汉化
+Description: Zetsu 简体中文包。
+Author: 妖刀
+Name: Zetsu 简体中文包
 
 Package: com.hk.zlxdike.GestureX
 Version: 1.0.4
@@ -13498,17 +13513,17 @@ Author: 妖刀
 Name: TrollNonce 简体中文包(rootless)
 
 Package: com.hk.trollstore.cn.rl
-Version: 2.0.2
+Version: 2.0.8
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Conflicts: com.qms.trollstore.cn
 Filename: rootless/TrollStore 简体中文包(rootless).deb
-Size: 12266
-MD5sum: f864b7337a4e49b00a874e2f236ddf2f
-SHA1: c8e04ec80a98be031e48f073040b511d961a6dba
-SHA256: 459eb3ab2e823f96b42998ead461ffcfef6f52d763e81888fa79b94f5fdbc945
+Size: 13374
+MD5sum: 0f96b0e915daf563b31b336f57221fb4
+SHA1: 1d7900ee4994c328bf99a246af7faf34087676fb
+SHA256: 7f7501224544d663e837dd1dde67afe413fe942bc6d80120f5d8935fa72fd36d
 Section: 嗨-汉化
 Description: TrollStore 简体中文包(rootless)。
 Author: 妖刀
@@ -13591,15 +13606,15 @@ Author: 妖刀
 Name: YTHoldForSpeed 简体中文包(rootless)
 
 Package: com.hk.zetsu.cn.rl
-Version: 1.2-1
+Version: 1.2-2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Zetsu 简体中文包(rootless).deb
-Size: 6904
-MD5sum: 5fd69d6298d858e352f1171ea8226dca
-SHA1: 87b8ddf5937bceb7eacb47ec1ffaf69f72f094f8
-SHA256: 76d7a0736375014e0352599340537695e47ba28c78f25c3541e6daa1f44d1991
+Size: 6940
+MD5sum: 12c94d1ce526a5e685a0ab7a1f61d2f9
+SHA1: 2f998f7740357c844f35f2a7bb2fd51e4c140749
+SHA256: 95c5ee3bfee33a4783df6568bd304b9698b25e856faf625b7063da6085fa1c9d
 Section: 嗨-汉化
 Description: Zetsu 简体中文包(rootless)。
 Author: 妖刀
@@ -13897,6 +13912,21 @@ Section: 嗨-汉化
 Description: Atria 简体中文包(RootHide)。
 Author: Alucard/妖刀
 Name: Atria 简体中文包(RootHide)
+
+Package: com.hk.audiorecorderxs.cn.rl
+Version: 5.0-3
+Architecture: iphoneos-arm64e
+Maintainer: Sandy0 & 妖刀
+Depends: mobilesubstrate
+Filename: roothide/AudioRecorder XS 简体中文包(RootHide).deb
+Size: 11892
+MD5sum: 9a21461b28a94a7a117e929b28446863
+SHA1: 2dc6d945fe56b735f30d1290e4218a2fceac11a4
+SHA256: 2e34cede5017eceee0d44815c7640321754e6d1256843feb8de2f46fa48b62b1
+Section: 嗨-汉化
+Description: AudioRecorder XS 简体中文包(RootHide)。
+Author: Sandy0 & 妖刀
+Name: AudioRecorder XS 简体中文包(RootHide)
 
 Package: com.hk.bhinsta.cn.rl
 Version: 0.0.1
@@ -14248,17 +14278,17 @@ Author: 妖刀
 Name: TrollNonce 简体中文包(RootHide)
 
 Package: com.hk.trollstore.cn.rl
-Version: 2.0.2
+Version: 2.0.8
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Conflicts: com.qms.trollstore.cn
 Filename: roothide/TrollStore 简体中文包(RootHide).deb
-Size: 12228
-MD5sum: 80d6a878bc49a5edb2838c1f458f86f8
-SHA1: d3b0ca6bad6ac2ab681ab16749caa7bb38ea00cd
-SHA256: 74214d63da105a1bfaafac7953ff959aa4f666b058d089ef945c6551519fe1c1
+Size: 13234
+MD5sum: 34d838ab4095bce701d86059017df9f9
+SHA1: 13fece4e3110bad05f5f5343224eb2685da59013
+SHA256: 45ced5ff10b158b8c621b4359242cfe5b14f0534e761615d3b188d0a136008b0
 Section: 嗨-汉化
 Description: TrollStore 简体中文包(RootHide)。
 Author: 妖刀
@@ -14296,15 +14326,15 @@ Author: 妖刀
 Name: uYou 简体中文包(RootHide)
 
 Package: com.hk.zetsu.cn.rl
-Version: 1.2-1
+Version: 1.2-2
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Zetsu 简体中文包(RootHide).deb
-Size: 6552
-MD5sum: eedc0dd2e53963d1cce76f7b33521d27
-SHA1: ba6defaa11096a3750ae8bf5ad28d8d048c84e8f
-SHA256: 0d310328de37ab39b971aba2f0266de7f3aae6d67db604ffbc23c814b84565a4
+Size: 6892
+MD5sum: e992999f2522c1f251d726442b567ee8
+SHA1: 986f17ef11e9377af4ef4c4f901cabaf95a0b514
+SHA256: 986f96774a31ef15bc49e72aad59aef6529961238b9cb77bdb15323b12deeb59
 Section: 嗨-汉化
 Description: Zetsu 简体中文包(RootHide)。
 Author: 妖刀
