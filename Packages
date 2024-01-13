@@ -3463,10 +3463,10 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Atria_CN.deb
-Size: 8652
-MD5sum: b91a7b09b9c13eda1aecf059f6ec0df3
-SHA1: 4cc0c88337c7b6d13d7228db936447242071a392
-SHA256: 874faf12520c9e72a3261f3ae9632a4b789522074cef6bd23047d86ac10100d1
+Size: 8680
+MD5sum: e061995db97d16273551f432d0680acc
+SHA1: 03686a97c4f3c5bfb0b9dfced5e41baaa53b4fd1
+SHA256: 11876789839235ffcf4f4be6d35413a1d3820a83f8ec639a27d4bccbcf791dbb
 Section: 嗨-汉化
 Description: Atria 简体中文包。
 Author: Alucard/妖刀
@@ -6745,6 +6745,22 @@ Section: 嗨-工具
 Description: 屏蔽越狱工具HideJB的Lite版本，汉化版。
 Author: TTJB Team <admin@thuthuatjb.com>
 Name: HideJB Lite (CN)
+
+Package: com.hk.hidenumber.cn
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootful/HideSerialNumber_CN.deb
+Size: 4688
+MD5sum: 145b2947875927651976172b2113dd12
+SHA1: 111f94929b380b854cb1fcc69f90459e80a6c7fd
+SHA256: 835f98ed03b187d091742c4998b57da41f6c82b40a69cca384049caa639d9574
+Section: 嗨-汉化
+Description: HideSerialNumber 简体中文包。
+Author: 妖刀
+Name: HideSerialNumber 简体中文包
 
 Package: com.hk.hidespotlight13
 Version: 1.0-1
@@ -12449,10 +12465,10 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Atria 简体中文包(rootless).deb
-Size: 8736
-MD5sum: f064621b5b414af6cc4df0d3e107c538
-SHA1: a5a5797c0f05939158d8f2c3e457a7916b3ff10f
-SHA256: eca043e7f3c18525f6eb28a2c8af5b12919e1e2918e90c3c62af0c9891b6fe63
+Size: 8744
+MD5sum: 50242ad82a9aae478d5de601b3ea91d7
+SHA1: fee52cd3ae7786468feaadee69f2cde007bb2642
+SHA256: 462ab2919e64227ef0a6699fd52f74af1b56da02b037fc4e2b82bcf28e7be677
 Section: 嗨-汉化
 Description: Atria 简体中文包(rootless)。
 Author: Alucard/妖刀
@@ -12818,6 +12834,22 @@ Section: 嗨-汉化
 Description: FloatingDockXVI 简体中文包(rootless)。
 Author: 妖刀
 Name: FloatingDockXVI 简体中文包(rootless)
+
+Package: com.hk.hidenumber.cn.rl
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/HideSerialNumber 简体中文包(rootless).deb
+Size: 4766
+MD5sum: 98a4eafa31666a622130bbcac8b55e09
+SHA1: c0a61f364a6be241dc083e6bebae65d648973c71
+SHA256: 1827134798264f4d119a4643f6ed83f0beb5f23ba4f31757bf99509731fe9dd4
+Section: 嗨-汉化
+Description: HideSerialNumber 简体中文包(rootless)。
+Author: 妖刀
+Name: HideSerialNumber 简体中文包(rootless)
 
 Package: com.hk.hsqa.cn.rl
 Version: 1.6.5
@@ -13904,10 +13936,10 @@ Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Atria 简体中文包(RootHide).deb
-Size: 8708
-MD5sum: 5f9d8fd5dd8a43b71cd695dbee5be1d3
-SHA1: cf3f4b2ec3c68a2cee6a8a393b3ced74ee2d546c
-SHA256: d5e07b0f0e48d14681194aed33a8168148f7061b277e299c0e26f128b9881bd4
+Size: 8720
+MD5sum: 0e7acbded73e79e64a3442ed2c6af4ed
+SHA1: 6421e5a3497b48999d26a6a210516184d4f27831
+SHA256: b42936db14a14fee832ce533979311220e01e3272d4972b99b73dfcd4a4c1ac2
 Section: 嗨-汉化
 Description: Atria 简体中文包(RootHide)。
 Author: Alucard/妖刀
@@ -14048,6 +14080,22 @@ Section: 嗨-汉化
 Description: FloatingDockXVI 简体中文包(RootHide)。
 Author: 妖刀
 Name: FloatingDockXVI 简体中文包(RootHide)
+
+Package: com.hk.hidenumber.cn.rl
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: roothide/HideSerialNumber 简体中文包(RootHide).deb
+Size: 4718
+MD5sum: af9d36bb1081d408243a012b84da54bf
+SHA1: acb681c5f4e49262797def0cd0cf3f4d037f4e7a
+SHA256: 76094f9318bb11abffc8dc27144d70c64b27bc47edc1e084f989153c15a25e06
+Section: 嗨-汉化
+Description: HideSerialNumber 简体中文包(RootHide)。
+Author: 妖刀
+Name: HideSerialNumber 简体中文包(RootHide)
 
 Package: com.hk.kbapp.cn.rl
 Version: 1.5-1
