@@ -2571,6 +2571,21 @@ Description: 自由的休眠设备来节省电量。
 Author: Paisseon
 Name: Reverie 中文版
 
+Package: com.dao.senri.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootful/Senri_CN.deb
+Size: 4248
+MD5sum: 492b5f115f0833de41d09a9b39eb1dd8
+SHA1: 0f1627ddb137936aa85160bc83bdab6ed48845c9
+SHA256: e5fb3198cc1278a001270b2559911bbb1e8b75782547fa39f703719a990a3f4e
+Section: 嗨-汉化
+Description: Senri 简体中文包。
+Author: 妖刀
+Name: Senri 简体中文包
+
 Package: com.dao.souvenir.cn
 Version: 1.25
 Architecture: iphoneos-arm
@@ -12124,6 +12139,21 @@ Description: 自由的休眠设备来节省电量。
 Author: Paisseon
 Name: Reverie 中文版(rootless)
 
+Package: com.dao.senri.cn
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Senri 简体中文包(rootless).deb
+Size: 4300
+MD5sum: 9f8cc0871c8b993bc5591d3489ec789e
+SHA1: 364e41382cc3eae71ddbca72a060444ae31d280f
+SHA256: 4cc4de7387bbbe6a38e9e10a8d79603747297bc0d4de831dcda3aefd1ec5c6fd
+Section: 嗨-汉化
+Description: Senri 简体中文包(rootless)。
+Author: 妖刀
+Name: Senri 简体中文包(rootless)
+
 Package: com.dao.settingsrevamp
 Version: 2.1.1
 Architecture: iphoneos-arm64
@@ -13818,6 +13848,21 @@ Section: 嗨-工具
 Description: 自由的休眠设备来节省电量。
 Author: Paisseon
 Name: Reverie 中文版(RootHide)
+
+Package: com.dao.senri.cn
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Senri 简体中文包(RootHide).deb
+Size: 4260
+MD5sum: ecf4da8428d75fc781066859690d05a9
+SHA1: c9ef1dfe9d22d6417cd4133e7b31711b96e5b4d8
+SHA256: 7e25e1e07e49a45a1901fa279f1781a66dc458494372953f29d1c513e7a4cc6c
+Section: 嗨-汉化
+Description: Senri 简体中文包(RootHide)。
+Author: 妖刀
+Name: Senri 简体中文包(RootHide)
 
 Package: com.dao.sugarcane
 Version: 1.2.2
