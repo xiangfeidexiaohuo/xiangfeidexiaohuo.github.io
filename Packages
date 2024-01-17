@@ -11892,6 +11892,22 @@ Description: 控制中心调整背景和边框等，已包含简体中文。小�
 Author: alias20
 Name: CoolCC(rootless)
 
+Package: com.dao.designer
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: JunesiPhone
+Depends: mobilesubstrate, preferenceloader
+Conflicts: xyz.cypwn.designer
+Filename: rootless/Designer(rootless).deb
+Size: 11004392
+MD5sum: 27ad5f3f5733fb01c9390a851689fb51
+SHA1: 03e9d26d9bc1a63fff7804f14f8139f5bfcf031e
+SHA256: 83c2a831a4358466b2e88382cb09b37ed73a613b29d9e294c80e9eaa622902e5
+Section: 嗨-工具
+Description: 一款锁屏和主屏幕的主题布局插件。
+Author: JunesiPhone
+Name: Designer(rootless)
+
 Package: com.dao.fuckthermal
 Version: 1.2-38
 Architecture: iphoneos-arm64
@@ -11907,6 +11923,22 @@ Section: 嗨-工具
 Description: 去你X的温控，测试支持iOS15.1.1及以下，其他系统版本自测。
 Author: Shadow-
 Name: 去你X的温控iOS15(rootless)
+
+Package: com.dao.hideserialnumber
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.hideserialnumber
+Filename: rootless/HideSerialNumber(rootless).deb
+Size: 47020
+MD5sum: 6cb35668c6ca30d44863bfece70d54f8
+SHA1: 2846f5bdac2c47de5f6ab854b52693cb6902d49a
+SHA256: 59099706a3aec7931c0f9ee7f2cc4ca0fadc874697f215e8b818c7e9a34a20be
+Section: 嗨-工具
+Description: 在“设置关于”页面中隐藏/伪装序列号等相关信息，源内有汉化包。
+Author: ichitaso
+Name: HideSerialNumber(rootless)
 
 Package: com.dao.icleanerpro
 Version: 7.10.0
@@ -12760,6 +12792,21 @@ Description: CylinderReborn 中文修复包(rootless)。
 Author: 妖刀
 Name: CylinderReborn 中文修复包(rootless)
 
+Package: com.hk.designer.cn.rl
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Designer 简体中文包(rootless).deb
+Size: 5164
+MD5sum: a9e413651b280510dc735e20a322d948
+SHA1: ef43137de474fb40743d713750ef0eddd8f89261
+SHA256: 0aee668e08f6edfde9d93e70274f7764ee9aeb0ab4fd7247434a40b4e219dc7e
+Section: 嗨-汉化
+Description: Designer 简体中文包(rootless)。
+Author: 妖刀
+Name: Designer 简体中文包(rootless)
+
 Package: com.hk.dleasy.cn.rl
 Version: 2.13.5
 Architecture: iphoneos-arm64
@@ -12864,6 +12911,21 @@ Section: 嗨-汉化
 Description: FloatingDockXVI 简体中文包(rootless)。
 Author: 妖刀
 Name: FloatingDockXVI 简体中文包(rootless)
+
+Package: com.hk.halo.cn.rl
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: P神
+Depends: mobilesubstrate
+Filename: rootless/Halo 简体中文包(rootless).deb
+Size: 2624
+MD5sum: fc31aef36ae5f5de5444905ccf569236
+SHA1: d3fb0790ff12095aa9d8bca056f2ca470e15cd5b
+SHA256: 6b8e5709d62ba800c2737d7b55ec125ca69bc3702098530a7b74888220bfd61a
+Section: 嗨-汉化
+Description: Halo 简体中文包(rootless)。
+Author: P神
+Name: Halo 简体中文包(rootless)
 
 Package: com.hk.hidenumber.cn.rl
 Version: 0.0.3
@@ -13651,21 +13713,6 @@ Section: 嗨-汉化
 Description: Velvet 2 简体中文包(rootless)。
 Author: 妖刀
 Name: Velvet 2 简体中文包(rootless)
-
-Package: com.hk.yth.cn.rl
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: rootless/YTHoldForSpeed 简体中文包(rootless).deb
-Size: 1804
-MD5sum: 6b73225ace3db41740a78e020866bed0
-SHA1: 8fd1479ffb18ee24a40367cc6302440eb3ba42ff
-SHA256: df16a16d685a43fc0ca08fca9a8b8ce6a98fc78f8291dbad9285341a5b2014b1
-Section: 嗨-汉化
-Description: YTHoldForSpeed 简体中文包(rootless)。
-Author: 妖刀
-Name: YTHoldForSpeed 简体中文包(rootless)
 
 Package: com.hk.zetsu.cn.rl
 Version: 1.2-2
