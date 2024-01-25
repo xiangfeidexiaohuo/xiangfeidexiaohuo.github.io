@@ -13079,6 +13079,21 @@ Description: Liddell 简体中文包(rootless)。
 Author: 妖刀
 Name: Liddell 简体中文包(rootless)
 
+Package: com.hk.lockmaster.cn
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/Lock Master 简体中文包(rootless).deb
+Size: 1624
+MD5sum: 25b49c3576bfe7e58782638c196bc4e0
+SHA1: b5041d7cc1756fcbab96cea9c84db44a0e3e28fa
+SHA256: 244bbb6898872934cee6f5f0d89982ddc9681917552eb5eb6071073f9a1869cc
+Section: 嗨-汉化
+Description: Lock Master 简体中文包(rootless)。
+Author: 妖刀
+Name: Lock Master 简体中文包(rootless)
+
 Package: com.hk.lynx2.cn.rl
 Version: 2.4.6
 Architecture: iphoneos-arm64
