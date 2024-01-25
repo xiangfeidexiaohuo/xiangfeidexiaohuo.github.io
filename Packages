@@ -5516,6 +5516,21 @@ Description: Delta iOS 13 简体中文包。Delta插件介绍：一款游戏模�
 Author: Alucard
 Name: Delta iOS 13 简体中文包
 
+Package: com.hk.designer.cn
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootful/Designer_CN.deb
+Size: 5128
+MD5sum: 484e858aa0b386ebc557acbb60a19b40
+SHA1: a28b39fc4b38bab40f67770dfd8ed954982f02a4
+SHA256: 3ad431b1ca765265149ce20855f9b1fedd7a407197ab149bff9530feb508c755
+Section: 嗨-汉化
+Description: Designer 简体中文包。
+Author: 妖刀
+Name: Designer 简体中文包
+
 Package: com.hk.digitalbattery13.cn
 Version: 1.1.0
 Architecture: iphoneos-arm
@@ -6696,6 +6711,21 @@ Section: 嗨-工具
 Description: HalFiPad：苹果11手势/相机、悬浮Dock栏、可自定义单个程序底部抬高等，支持iOS12~14，汉化版。
 Author: Hius/妖刀
 Name: HalFiPad 手势(CN)
+
+Package: com.hk.halo.cn
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: P神
+Depends: mobilesubstrate
+Filename: rootful/Halo_CN.deb
+Size: 2596
+MD5sum: a4c11de54cda94b05a6b4263054f6c40
+SHA1: 05eec9b752d65e09d827f254231cd9aed8303c06
+SHA256: 3a7e21621bbd5f2d3bdb868048021304e2cc24206c5e6c461d840abe5f912a33
+Section: 嗨-汉化
+Description: Halo 简体中文包。
+Author: P神
+Name: Halo 简体中文包
 
 Package: com.hk.hapticKeys.cn
 Version: 1.8
@@ -11293,18 +11323,18 @@ Author: 妖刀
 Name: YouTube Reborn v4 简体中文包
 
 Package: com.hk.ytlite
-Version: 2.4
+Version: 2.4.1
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootful/YTLite.deb
-Size: 55432
-MD5sum: e1a1060bfcaae2e9b15fb597d0edbbba
-SHA1: e620e797a7ee4f2da1072c1203ce3145abf0f644
-SHA256: 91d4d51c96db88087dd438fc2df56dcb47c093f43ce6669504460c0d3eecda67
+Size: 51900
+MD5sum: 57cf265ee68f32d2d91daf1a352257ff
+SHA1: b050e875b2805b7470062863c28c13a9d2410bdb
+SHA256: 95654996ae5e877921a4f41baf9dd3ac23310578e82200cf43d39af7a5d0c914
 Section: 嗨-工具
-Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
+Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。v2.4.1：修复油管19.03.2设置闪退问题。
 Author: dvntm
 Name: YTLite
 
@@ -12269,18 +12299,18 @@ Author: Lillie
 Name: YTR 中文版(rootless)
 
 Package: com.dao.ytlite
-Version: 2.4
+Version: 2.4.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 55428
-MD5sum: be2f44d0e489b3933786bfad10e854e7
-SHA1: 7b23b8d22264c5a8f4df8f82b05b802559bd9464
-SHA256: 3fc0ae5825c5c54e363f5e9d82c779c70acbe2f844b67d5e9efb817172f9035e
+Size: 51964
+MD5sum: 562e7578a7ee64d972586b0724483d9e
+SHA1: 10e016264219fad1b6d8bdb8113fcabbf007f6e8
+SHA256: 3a759cf0f7c879d0a2a13135bba5395731b0744db6a4b55ebcc91fefff71dd66
 Section: 嗨-工具
-Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
+Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。v2.4.1：修复油管19.03.2设置闪退问题。
 Author: dvntm
 Name: YTLite(rootless)
 
@@ -13960,6 +13990,22 @@ Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中�
 Author: Lillie
 Name: YTR 中文版(RootHide)
 
+Package: com.dao.ytlite
+Version: 2.4.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite
+Filename: roothide/YTLite(RootHide).deb
+Size: 51864
+MD5sum: 9229d1adc50f3623b5747915098a2fc4
+SHA1: 25b12b87aa2c9fe9dffca36bd9b2d02993046de6
+SHA256: 394a0471479dbcaf6baccfcafcebc9c99358997df437830bf4c77d9de43bdd11
+Section: 嗨-工具
+Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。v2.4.1：修复油管19.03.2设置闪退问题。
+Author: dvntm
+Name: YTLite(RootHide)
+
 Package: com.daodao.goodwifi
 Version: 1.0.1
 Architecture: iphoneos-arm64e
@@ -14128,6 +14174,21 @@ Description: Crane 中文修复包(RootHide)。
 Author: 妖刀
 Name: Crane 中文修复包(RootHide)
 
+Package: com.hk.designer.cn.rl
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Designer 简体中文包(RootHide).deb
+Size: 5144
+MD5sum: 1d271c6a0a70dab345484d62de7c4d91
+SHA1: e504eeb34aa922e18e628d6128b8375a72762197
+SHA256: 46129394d8882a1992e9339ef329e22a1e657c92080cd7f436a9c51034a9dace
+Section: 嗨-汉化
+Description: Designer 简体中文包(RootHide)。
+Author: 妖刀
+Name: Designer 简体中文包(RootHide)
+
 Package: com.hk.dynamicstage.cn.rl
 Version: 1.0.2
 Architecture: iphoneos-arm64e
@@ -14172,6 +14233,21 @@ Section: 嗨-汉化
 Description: FloatingDockXVI 简体中文包(RootHide)。
 Author: 妖刀
 Name: FloatingDockXVI 简体中文包(RootHide)
+
+Package: com.hk.halo.cn.rl
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: P神
+Depends: mobilesubstrate
+Filename: roothide/Halo 简体中文包(RootHide).deb
+Size: 2612
+MD5sum: 9f71450036c4ca4743e5737e18994d4b
+SHA1: 3dd05148a1dcf1ab59797f9e404de0ccf5c56d16
+SHA256: a14bdc5a47116f94c54e0b199ada5ccf6bbbe0854be7d24c1d8298acb79df703
+Section: 嗨-汉化
+Description: Halo 简体中文包(RootHide)。
+Author: P神
+Name: Halo 简体中文包(RootHide)
 
 Package: com.hk.hidenumber.cn.rl
 Version: 0.0.3
