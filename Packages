@@ -11339,15 +11339,15 @@ Author: dvntm
 Name: YTLite
 
 Package: com.hk.zetsu.cn
-Version: 1.2-2
+Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Zetsu_CN.deb
-Size: 6876
-MD5sum: 0d207536c18675d7d4d5331d730a085b
-SHA1: aae4927e0bf8e3f8c93d5834e2543868e25307a7
-SHA256: fb040b1084bb2d5af08eb4b5bfa0508b3ed88349cee075485262b0316260923f
+Size: 8824
+MD5sum: 8c1b91c9ddb310004068a38b9949a7e4
+SHA1: e0f3d62510a55733c1129575ae102103dbb5cf8e
+SHA256: b987287f87fa20e6d076d2e4d5ec544e09c0c96bdbcbd8d7c5062817676f096a
 Section: 嗨-汉化
 Description: Zetsu 简体中文包。
 Author: 妖刀
@@ -13760,15 +13760,15 @@ Author: 妖刀
 Name: Velvet 2 简体中文包(rootless)
 
 Package: com.hk.zetsu.cn.rl
-Version: 1.2-2
+Version: 1.5
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Zetsu 简体中文包(rootless).deb
-Size: 6940
-MD5sum: 12c94d1ce526a5e685a0ab7a1f61d2f9
-SHA1: 2f998f7740357c844f35f2a7bb2fd51e4c140749
-SHA256: 95c5ee3bfee33a4783df6568bd304b9698b25e856faf625b7063da6085fa1c9d
+Size: 8904
+MD5sum: 6a1f954f2ceed0a22bdf9a66b1bfc46f
+SHA1: f744c078a8abad65e296d9bce12135e3958189f4
+SHA256: 915b136e1c44d67c33cbc047f9b130425cf9aeb0a3d2acdd17d44ed8b5bcf25e
 Section: 嗨-汉化
 Description: Zetsu 简体中文包(rootless)。
 Author: 妖刀
@@ -14557,15 +14557,15 @@ Author: 妖刀
 Name: uYou 简体中文包(RootHide)
 
 Package: com.hk.zetsu.cn.rl
-Version: 1.2-2
+Version: 1.5
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Zetsu 简体中文包(RootHide).deb
-Size: 6892
-MD5sum: e992999f2522c1f251d726442b567ee8
-SHA1: 986f17ef11e9377af4ef4c4f901cabaf95a0b514
-SHA256: 986f96774a31ef15bc49e72aad59aef6529961238b9cb77bdb15323b12deeb59
+Size: 8852
+MD5sum: d638c0ba08c561f352c145d54897b5a7
+SHA1: 5a9016ce8d4cfeaf79e01da1327cf2689d990377
+SHA256: 663c47c8879ec7d3b727329bf6376e422357ffb159ccae49e96f7eb9dbf8035c
 Section: 嗨-汉化
 Description: Zetsu 简体中文包(RootHide)。
 Author: 妖刀
