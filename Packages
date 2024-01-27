@@ -2572,15 +2572,15 @@ Author: Paisseon
 Name: Reverie 中文版
 
 Package: com.dao.senri.cn
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Senri_CN.deb
-Size: 4276
-MD5sum: 15ed9a575688bef1f2929d4cbce2aca9
-SHA1: cf964b898f7e901cfdd240cb28fa4341f296a69a
-SHA256: aca2b4d7f78507ba95b0f9a73d76d088b355d814b69f0c469183fbf7a00bf068
+Size: 5056
+MD5sum: 9ec9adacdb8f0a5780b4585a79d2fadf
+SHA1: 1b51d6913b8fd4a638a233e520518e9aa513d3ae
+SHA256: 80b6f0ff415e83b9258ca34738865aa1c44e5964a56a58d7bb3ed7252f91bc18
 Section: 嗨-汉化
 Description: Senri 简体中文包。
 Author: 妖刀
@@ -12202,15 +12202,15 @@ Author: Paisseon
 Name: Reverie 中文版(rootless)
 
 Package: com.dao.senri.cn
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Senri 简体中文包(rootless).deb
-Size: 4336
-MD5sum: eb2390d8f60f426f9398dd7662edd2d6
-SHA1: 19cf841ba659e28994c9152cde704b45fa13ec6c
-SHA256: 5893d7ef387c1f6f43c02b7259644c8076557c547e4b4bc2f3d5ee34688060f7
+Size: 5128
+MD5sum: c4556c8978ffda721e82a5c16b6ab5db
+SHA1: 846b123c7040acc73a8f9d4c83305ddb18b4bff5
+SHA256: fe150d37be95c73edbe679b09253e66ac7d99df86205da804f7ffcc851201ddb
 Section: 嗨-汉化
 Description: Senri 简体中文包(rootless)。
 Author: 妖刀
@@ -13942,15 +13942,15 @@ Author: Paisseon
 Name: Reverie 中文版(RootHide)
 
 Package: com.dao.senri.cn
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Senri 简体中文包(RootHide).deb
-Size: 4296
-MD5sum: 4032d8241e326dfb8cd8fa979eedb609
-SHA1: 60c7eb7e3974a9b19e8bfa665bb0cfdd85104412
-SHA256: 4b328607027301432839eeb617fb692f8498179880f652ca7802bfe4e0400b6a
+Size: 5100
+MD5sum: f555afce6c39302c70d1d0600935c55b
+SHA1: 65e7d79bf6cc751e37820f61909cf62c17560dac
+SHA256: 948a38ab97bc7a9bee4e9d965aae77b673e76295b440e3c6ff8fb3a88f6740a3
 Section: 嗨-汉化
 Description: Senri 简体中文包(RootHide)。
 Author: 妖刀
