@@ -2419,20 +2419,20 @@ Author: Luki
 Name: April 中文版
 
 Package: com.dao.axon
-Version: 1.5.1
+Version: 1.5.2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 648
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
 Filename: rootful/Axon_ZH.deb
-Size: 141336
-MD5sum: f46ff4aae215d940d70cf09296e4f6a7
-SHA1: d2ddcf028ba7a483866b8a7bd72da872ee730103
-SHA256: fbb7834945b3d1edf036ad9fda41732bbe3977f5682545a186e56ee02dac2564
+Size: 141898
+MD5sum: 2c6da8576b27cc20a845fda045ae8f1d
+SHA1: 4bbe241753c6dd1cf89ecedf4b26add50f9ce9f5
+SHA256: 157cb0fef042bd9eb231cf1a9197c13c3b0bc4967512c621410cf993bf95cdfe
 Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。
-Author: Nepeta & Baw Appie & alias
+Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：参考dakota1337x代码，优化支持iOS16/17。
+Author: Nepeta
 Name: Axon 中文版
 
 Package: com.dao.betteralarm
@@ -2517,6 +2517,23 @@ SHA1: 4085122efbb61869f3378b914425523cc345b951
 SHA256: 2ef57637c8e1fd1acb227aa5bb6129926a3928b043349e74eac8a1a273596ed1
 Section: 嗨-工具
 Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，去除无用的翻译，收藏的心图标换成星图标)，基本保持了原滋原味。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko 中文版
+
+Package: com.dao.kayoko
+Version: 2.0.3
+Architecture: iphoneos-arm
+Maintainer: zp & 妖刀
+Installed-Size: 932
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
+Filename: rootful/Kayoko_ZH.deb
+Size: 78030
+MD5sum: c3d5fa82cb6c9d316ce62408eb17d14b
+SHA1: ae32fa38af3aeee1bd5435ac0705cc61852e3b11
+SHA256: b2fe2a99da47240317bd963f702ea0732348a8e09de2977a55aea30f0f6e0ad5
+Section: 嗨-工具
+Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，收藏的心图标换成星图标)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版
 
@@ -11815,7 +11832,7 @@ Maintainer: 妖刀
 Installed-Size: 648
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootless/Axon 中文版(rootless).deb
+Filename: rootless/Axon 中文版(rootless)_1.5.1.deb
 Size: 141610
 MD5sum: 6de964749d9c9ce191f7fbad00f9840b
 SHA1: c0935651b3eed78101fcb31af4aaa236dbf48cb5
@@ -11823,6 +11840,23 @@ SHA256: d777e2725dd6ed0e1e16be35f91a11560070f8d598ce35db9e6a4164c00bcf45
 Section: 嗨-工具
 Description: 锁屏通知聚合插件，根据开源编译/汉化。
 Author: Nepeta & Baw Appie & alias
+Name: Axon 中文版(rootless)
+
+Package: com.dao.axon
+Version: 1.5.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 648
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: rootless/Axon 中文版(rootless).deb
+Size: 142468
+MD5sum: abe60995f58e927a87dcf414e5bd460e
+SHA1: c4a2ff0897f87ff58c3f494c94e6f21a3447123e
+SHA256: 4a7dded7461d9ccea69c425755902ae5dcfea3b3c4363ced49a1505c570402c6
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：参考dakota1337x代码，优化支持iOS16/17。
+Author: Nepeta
 Name: Axon 中文版(rootless)
 
 Package: com.dao.betteralarm
@@ -12083,6 +12117,23 @@ SHA1: 0e6ef0f607f2134b7c0b5db492802c184fbc4aee
 SHA256: 5f3195ec31e25df8990b4c8906aa7d8c9e0f41d35ee4f7764d563fe8de623ca3
 Section: 嗨-工具
 Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，去除无用的翻译，收藏的心图标换成星图标)，基本保持了原滋原味。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko 中文版(rootless)
+
+Package: com.dao.kayoko
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: zp & 妖刀
+Installed-Size: 932
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
+Filename: rootless/Kayoko 中文版(rootless).deb
+Size: 78082
+MD5sum: 242c2e756a39edc5da9a79a67217aedc
+SHA1: 38c6d37836f386d270ae633d92fea191eca1fd70
+SHA256: fbfa88a73b6ef97d16a37bcbdb8a6c1ecf6044958d6dfc2182b513bc8c81c33c
+Section: 嗨-工具
+Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，收藏的心图标换成星图标)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版(rootless)
 
@@ -13840,20 +13891,20 @@ Author: Luki
 Name: April 中文版(RootHide)
 
 Package: com.dao.axon
-Version: 1.5.1
+Version: 1.5.2
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Installed-Size: 648
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
 Filename: roothide/Axon 中文版(RootHide).deb
-Size: 141374
-MD5sum: e168a4846eb4ae52b9a7a1ad014cf566
-SHA1: 0615fb8fff02c1a36e3a08e8c3c484218c71b4e3
-SHA256: 585465e6ac223bf33e3c3f3d16897062bdce4dec48e53057d15144d25562a25c
+Size: 141906
+MD5sum: 90e47e1ecd805de772680118fdf5a41d
+SHA1: e4033b0548b6b155386d927d4ee119b17852768c
+SHA256: 39fa2d890ceb595ae44f7c481e9f51c015f9e994fcbab305881d12dbcb333bc8
 Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。
-Author: Nepeta & Baw Appie & alias
+Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：参考dakota1337x代码，优化支持iOS16/17。
+Author: Nepeta
 Name: Axon 中文版(RootHide)
 
 Package: com.dao.betteralarm
