@@ -11361,10 +11361,10 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Zetsu_CN.deb
-Size: 8824
-MD5sum: 8c1b91c9ddb310004068a38b9949a7e4
-SHA1: e0f3d62510a55733c1129575ae102103dbb5cf8e
-SHA256: b987287f87fa20e6d076d2e4d5ec544e09c0c96bdbcbd8d7c5062817676f096a
+Size: 8860
+MD5sum: ba8eb8e98139fcd7c33f3dc6ce7c0667
+SHA1: 31cef802f62c87c4b1203caca714003b72c5acf9
+SHA256: 2f03fbcf87617a1e1fd5c7f12964df5d74edc2124bb19d8b8c8a4d3f6e7d9c87
 Section: 嗨-汉化
 Description: Zetsu 简体中文包。
 Author: 妖刀
@@ -13816,10 +13816,10 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Zetsu 简体中文包(rootless).deb
-Size: 8904
-MD5sum: 6a1f954f2ceed0a22bdf9a66b1bfc46f
-SHA1: f744c078a8abad65e296d9bce12135e3958189f4
-SHA256: 915b136e1c44d67c33cbc047f9b130425cf9aeb0a3d2acdd17d44ed8b5bcf25e
+Size: 8932
+MD5sum: 6303c2ef951d0ee386c5cc9ac47321e8
+SHA1: a8b6653ffd79adbbc3ba2369ccf592678513d0d3
+SHA256: 7384722022da2e7c751cdb1a64ca8035eae7d487db17ca05e27728f164e8ba6c
 Section: 嗨-汉化
 Description: Zetsu 简体中文包(rootless)。
 Author: 妖刀
@@ -14613,10 +14613,10 @@ Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Zetsu 简体中文包(RootHide).deb
-Size: 8852
-MD5sum: d638c0ba08c561f352c145d54897b5a7
-SHA1: 5a9016ce8d4cfeaf79e01da1327cf2689d990377
-SHA256: 663c47c8879ec7d3b727329bf6376e422357ffb159ccae49e96f7eb9dbf8035c
+Size: 8888
+MD5sum: b8da295f7a6a986b2c3b31d2fe8e620e
+SHA1: 501e8338a429689553cd781f76e2f7feecc15bfe
+SHA256: d2f72a662d87820d8717fa3536b249c4211026f33fd8406b1e8f11432f8b29b3
 Section: 嗨-汉化
 Description: Zetsu 简体中文包(RootHide)。
 Author: 妖刀
