@@ -2425,7 +2425,7 @@ Maintainer: 妖刀
 Installed-Size: 648
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootful/Axon_ZH.deb
+Filename: rootful/Axon_ZH_1.5.2.deb
 Size: 141898
 MD5sum: 2c6da8576b27cc20a845fda045ae8f1d
 SHA1: 4bbe241753c6dd1cf89ecedf4b26add50f9ce9f5
@@ -2751,10 +2751,10 @@ Maintainer: BandarHL
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtwitter
 Filename: rootful/BHTwitter_ZH.deb
-Size: 7611668
-MD5sum: 1bdf0ce298f4d2f0c3187adf15520e59
-SHA1: 038a0737a49805c2d5a960e10c7fea2efbd0b577
-SHA256: a4ca435f85981906e4657e535a55b5e992b05fa3de3ad612911d00bec25a01c1
+Size: 7613544
+MD5sum: cd91b30f52e933baa42573464bc8f739
+SHA1: b230fb775a120e665b3a1e85272b971fae8f5237
+SHA256: dc4abc1172c503ea57932137c2e97291babeba2aa18df46f6119ab20eb3dfaf2
 Section: 嗨-工具
 Priority: optional
 Description: BHTwitter中文修复版，推特的功能性插件，设置就在推特本身设置里。
@@ -7887,15 +7887,15 @@ Author: 妖刀/Sky丶Pain
 Name: Lynx 简体中文包
 
 Package: com.hk.lynx2.cn
-Version: 2.4.6
+Version: 2.4.7
 Architecture: iphoneos-arm
 Maintainer: M哥 & 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Lynx2_CN.deb
-Size: 23492
-MD5sum: 22e1fbca19d832deaf073bf72fccc11a
-SHA1: 912d26ebd313551c4ba55e3aa40634ae86cf67ab
-SHA256: a4d71c5fc62f4679c9573cffee9c87747ff65c5ca17c66b83048ff7ebf500c1b
+Size: 24360
+MD5sum: d3f95fbab021a94e2af723b6e6b29e4e
+SHA1: 7fd9bbbcd3cbadc3874cd39e9ced12b7ccccb549
+SHA256: 95b2f7dfbcf1d7e4ff43d437e89bb283fc95fd46f1a57ca229ac4e1f71e02c83
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包。
 Author: M哥 & 妖刀
@@ -11857,30 +11857,13 @@ Author: Luki
 Name: April 中文版(rootless)
 
 Package: com.dao.axon
-Version: 1.5.1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 648
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootless/Axon 中文版(rootless)_1.5.1.deb
-Size: 141610
-MD5sum: 6de964749d9c9ce191f7fbad00f9840b
-SHA1: c0935651b3eed78101fcb31af4aaa236dbf48cb5
-SHA256: d777e2725dd6ed0e1e16be35f91a11560070f8d598ce35db9e6a4164c00bcf45
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。
-Author: Nepeta & Baw Appie & alias
-Name: Axon 中文版(rootless)
-
-Package: com.dao.axon
 Version: 1.5.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 648
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootless/Axon 中文版(rootless).deb
+Filename: rootless/Axon 中文版(rootless)_1.5.2.deb
 Size: 142468
 MD5sum: abe60995f58e927a87dcf414e5bd460e
 SHA1: c4a2ff0897f87ff58c3f494c94e6f21a3447123e
@@ -12484,10 +12467,10 @@ Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter
 Filename: rootless/BHTwitter 中文修复版(rootless).deb
-Size: 7617660
-MD5sum: 5ce988e952f1e51b857dd5082413cb41
-SHA1: 5957e33a0cfc67d3b0c7bc0fe5355fa4b8eaa2f7
-SHA256: 99128b8a4e0bf70b2891a1159bb5d5632709a3adff5c074fb50cf0a3e288dd03
+Size: 7612312
+MD5sum: 78678b240c9f678a913cff2f8f29930f
+SHA1: b24dac98c6e4140bba132de13fc354c11923a740
+SHA256: 1381d2c6f97aec62ff2790524dfda6043deba5c142b9ac4d84c070de8d8ae608
 Section: 嗨-工具
 Description: BHTwitter中文修复版，推特的功能性插件，设置就在推特本身设置里。
 Author: Bandar Alruwaili
@@ -13193,15 +13176,15 @@ Author: 妖刀
 Name: Lock Master 简体中文包(rootless)
 
 Package: com.hk.lynx2.cn.rl
-Version: 2.4.6
+Version: 2.4.7
 Architecture: iphoneos-arm64
 Maintainer: M哥 & 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Lynx 2 简体中文包(rootless).deb
-Size: 23772
-MD5sum: a9acc6679839d80d610e5f3ab26823cf
-SHA1: 35925bd087cd5fcb7e91f8b5dd1c7f8a0804c627
-SHA256: fa6908c258637ca607775c2053f132c9c88b5e3a54e63e50553173184dd636db
+Size: 24444
+MD5sum: 3e7b8c3ebed48ee4b9b504a88da05b9a
+SHA1: 982e6d149bdc4dc2116b8a03c2a5ec8ddfdf66d3
+SHA256: b39f839391fe7a1aefd5fd1b8ad107be2c7e2b0f997fa1bf948efbc33c69874e
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包(rootless)。
 Author: M哥 & 妖刀
@@ -13944,7 +13927,7 @@ Maintainer: 妖刀
 Installed-Size: 648
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: roothide/Axon 中文版(RootHide).deb
+Filename: roothide/Axon 中文版(RootHide)_1.5.2.deb
 Size: 141906
 MD5sum: 90e47e1ecd805de772680118fdf5a41d
 SHA1: e4033b0548b6b155386d927d4ee119b17852768c
@@ -14394,15 +14377,15 @@ Author: 妖刀
 Name: KBApp 简体中文包(RootHide)
 
 Package: com.hk.lynx2.cn.rl
-Version: 2.4.6
+Version: 2.4.7
 Architecture: iphoneos-arm64e
 Maintainer: M哥 & 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Lynx 2 简体中文包(RootHide).deb
-Size: 23364
-MD5sum: 900b29d827639ba528a36b97fe9e07f5
-SHA1: 421f77baf9b3694dda06aaf17c3dd742929c5ba2
-SHA256: 50389ce2bb433c969da295d95526c56d541d7e4cc80b7601c9038e89c17c1d36
+Size: 24404
+MD5sum: eaca13de4f64f5d8d1ef6f87309ead1f
+SHA1: 22f08e205cfca0ce1a04b574834ebf62691268c4
+SHA256: bfb32bcc3d2f543b096119c655a9d736d68778381051e717fc0b7ee7662d79b4
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包(RootHide)。
 Author: M哥 & 妖刀
