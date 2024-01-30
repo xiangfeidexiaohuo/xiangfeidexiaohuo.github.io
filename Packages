@@ -2435,6 +2435,23 @@ Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：参
 Author: Nepeta
 Name: Axon 中文版
 
+Package: com.dao.axon
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 692
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: rootful/Axon_ZH.deb
+Size: 144108
+MD5sum: 9505908128ebdb21a3527d8288060376
+SHA1: ae1a4870c871aa02450d08bd9ec081a7e5dcc871
+SHA256: 11bf757ffe87ee6d4ee775359ed9c52251fb7c29461391f6c91420f0c0172707
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
+Author: Nepeta
+Name: Axon 中文版
+
 Package: com.dao.betteralarm
 Version: 1.5
 Architecture: iphoneos-arm
@@ -11873,6 +11890,23 @@ Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：参
 Author: Nepeta
 Name: Axon 中文版(rootless)
 
+Package: com.dao.axon
+Version: 1.5.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 692
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: rootless/Axon 中文版(rootless).deb
+Size: 144426
+MD5sum: 7aea54d0439ea10f1af7d63005fae6f0
+SHA1: 53e907d9aad1f327f7e2ccb7bf4fe58f52f9f60f
+SHA256: fc371305d227c42518c69fd1dffc76fff5f56d7f6f171c6e3636834e721cb94d
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
+Author: Nepeta
+Name: Axon 中文版(rootless)
+
 Package: com.dao.betteralarm
 Version: 1.5
 Architecture: iphoneos-arm64
@@ -13934,6 +13968,23 @@ SHA1: e4033b0548b6b155386d927d4ee119b17852768c
 SHA256: 39fa2d890ceb595ae44f7c481e9f51c015f9e994fcbab305881d12dbcb333bc8
 Section: 嗨-工具
 Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：参考dakota1337x代码，优化支持iOS16/17。
+Author: Nepeta
+Name: Axon 中文版(RootHide)
+
+Package: com.dao.axon
+Version: 1.5.3
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 692
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: roothide/Axon 中文版(RootHide).deb
+Size: 144248
+MD5sum: 0c2b199f50d8a4ae550f6444046059f3
+SHA1: 0e2bc7b77aec6fb43b0c70ea1710cfa307fb65c1
+SHA256: f4bf63a33068c68849cc15636c9ed6ea62d061a395516a5686f68c94a17d7c0f
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
 Author: Nepeta
 Name: Axon 中文版(RootHide)
 
