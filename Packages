@@ -6746,15 +6746,15 @@ Author: Hius/妖刀
 Name: HalFiPad 手势(CN)
 
 Package: com.hk.halo.cn
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: P神
 Depends: mobilesubstrate
 Filename: rootful/Halo_CN.deb
-Size: 2596
-MD5sum: a4c11de54cda94b05a6b4263054f6c40
-SHA1: 05eec9b752d65e09d827f254231cd9aed8303c06
-SHA256: 3a7e21621bbd5f2d3bdb868048021304e2cc24206c5e6c461d840abe5f912a33
+Size: 2676
+MD5sum: 2129d64af0ac7439ac319e3e5e08f509
+SHA1: 23b31527c1d6e83875d64cff8bfd97d750d79f7d
+SHA256: c3c7a2b3ee13618a95e91040c7aecbedcaac5acde4d3e68db90e62eb28fe2c90
 Section: 嗨-汉化
 Description: Halo 简体中文包。
 Author: P神
@@ -12185,16 +12185,16 @@ Author: lemin
 Name: Lock Master(rootless)
 
 Package: com.dao.lynxtwo
-Version: 2.4.6
+Version: 2.4.7
 Architecture: iphoneos-arm64
 Maintainer: MTAC
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Conflicts: com.mtac.lynxtwo
 Filename: rootless/Lynx 2(rootless).deb
-Size: 515824
-MD5sum: 6fd010f3a123f91109692a1799d32959
-SHA1: ca754309527162067ab20820d7c68bc80e715a12
-SHA256: bd58fde3e9fb641012892918fe079344779de29223f3cfe833cf3945bc50a0cd
+Size: 533240
+MD5sum: c224955b07b92dc8b8a808964483051c
+SHA1: 408edb76a3d68ca45be3c7ebea41658fe6a46388
+SHA256: 664c7dc687f5dab0b92bd62e233a4afec35c2efafee4bbbde2dc4f5226b16f14
 Section: 嗨-工具
 Description: 适用于iOS14+的军刀类多功能插件，汉化包在源内。
 Author: MTAC
@@ -13041,15 +13041,15 @@ Author: 妖刀
 Name: FloatingDockXVI 简体中文包(rootless)
 
 Package: com.hk.halo.cn.rl
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm64
 Maintainer: P神
 Depends: mobilesubstrate
 Filename: rootless/Halo 简体中文包(rootless).deb
-Size: 2624
-MD5sum: fc31aef36ae5f5de5444905ccf569236
-SHA1: d3fb0790ff12095aa9d8bca056f2ca470e15cd5b
-SHA256: 6b8e5709d62ba800c2737d7b55ec125ca69bc3702098530a7b74888220bfd61a
+Size: 2708
+MD5sum: 3275bae2698203fa3b0e8797db3d0355
+SHA1: 4afded65283518a9ac0e56bf1a6119ddfe34516c
+SHA256: fd4b72e14ed823e0aafb2e4d73e24720378a47aef962fde3b6d074d2c2ea389e
 Section: 嗨-汉化
 Description: Halo 简体中文包(rootless)。
 Author: P神
@@ -14348,15 +14348,15 @@ Author: 妖刀
 Name: FloatingDockXVI 简体中文包(RootHide)
 
 Package: com.hk.halo.cn.rl
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm64e
 Maintainer: P神
 Depends: mobilesubstrate
 Filename: roothide/Halo 简体中文包(RootHide).deb
-Size: 2612
-MD5sum: 9f71450036c4ca4743e5737e18994d4b
-SHA1: 3dd05148a1dcf1ab59797f9e404de0ccf5c56d16
-SHA256: a14bdc5a47116f94c54e0b199ada5ccf6bbbe0854be7d24c1d8298acb79df703
+Size: 2684
+MD5sum: c94cae5509806519f9c5a1848f949bce
+SHA1: 598b22e9ea6f7dcda00b2cf3c37334a47288d793
+SHA256: 7a70519b62e55effa31e0fbfe783d662b4b8d4d06a51e216808503cf862c70ea
 Section: 嗨-汉化
 Description: Halo 简体中文包(RootHide)。
 Author: P神
