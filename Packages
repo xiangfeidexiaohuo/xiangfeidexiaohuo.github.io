@@ -2658,10 +2658,10 @@ Maintainer: Lillie & 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
 Filename: rootful/YTR_ZH_4.1.3.deb
-Size: 9040352
-MD5sum: 6491f992cccb98b0584ea834d1d0004b
-SHA1: 963edb2ffda7143706619acce2d43bf75a5446bf
-SHA256: 4696b1e2a02275579ac8f00da4d0a66b95d441443565b94dbf424dd00771a8bd
+Size: 9036552
+MD5sum: 83324b469c91ca465713e66c36d30943
+SHA1: 53f338bf3f91d1652185088110b8d8f73d059121
+SHA256: 825e841eb0fa362680f93f795aa22912b921b3d1c3d26d4c8afa35f37da42720
 Section: 嗨-工具
 Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
 Author: Lillie
@@ -12369,10 +12369,10 @@ Installed-Size: 24784
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
 Filename: rootless/YTR 中文版(rootless)_4.1.3.deb
-Size: 9029426
-MD5sum: a03de2de9ab713ea221023c25eaf9d5f
-SHA1: 607a358094e456492747286bf78eaad245240cc5
-SHA256: 207d8640971a08f2960e27eb030239f7cfe3496bda31a66fe03661f99a23ecbe
+Size: 9024700
+MD5sum: e84d1888a9e01c349b45cd66ff352cf5
+SHA1: acf12f90d5d24f04000ac3a1ca1835f8d02e8fce
+SHA256: 013c456f15a0affe930bb99da05f2ddd797642a660dd09a05f4dbd9931502c1a
 Section: 嗨-工具
 Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
 Author: Lillie
@@ -14127,10 +14127,10 @@ Maintainer: Lillie & 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
 Filename: roothide/YTR 中文版(RootHide)_4.1.3.deb
-Size: 9040756
-MD5sum: df0f07eff3cac9fdaf98ea352642a979
-SHA1: 1161d249747f73c00f3897dc272e1be67394cb1a
-SHA256: 55e050047b968f8374d3d38fb206a90a8e9d3018089ec20ce496b3e13fa0e137
+Size: 9040664
+MD5sum: 432a33345163b96b95a7c45ad9cdbd09
+SHA1: d55eb2d29c6e8a7627a4872ec5db4730db7413e8
+SHA256: 32f30bfa54262b6411734b293610e9a8cdce9972bb943835339f9fb50ca5f5a1
 Section: 嗨-工具
 Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
 Author: Lillie
