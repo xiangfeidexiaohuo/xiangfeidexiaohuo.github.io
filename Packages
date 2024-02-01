@@ -14137,6 +14137,23 @@ Description: 为控制中心音量/亮度模块添加百分比。
 Author: iOS Creatix, kasiimh1
 Name: SugarCane(RootHide)
 
+Package: com.dao.ve
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: Alexandra Aurora Göttlicher
+Installed-Size: 684
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: codes.aurora.ve
+Filename: roothide/Vē 通知记录(RootHide).deb
+Size: 63934
+MD5sum: 13c4e6d358ab8c1a79eea5770f8a7aad
+SHA1: 4e1ae06c7e0b423c54b450c941e1dd879c45e693
+SHA256: c755e47df18b0b0c5418e90a346ac9871189d2164eb9a28f85bc8de2b3fbeb9e
+Section: 嗨-工具
+Description: 通知记录器，记录设备收到的所有通知。基于Alexandra Aurora Göttlicher的开源源码制作，完善中文翻译。
+Author: Alexandra Aurora Göttlicher, 74k1_
+Name: Vē 通知记录(RootHide)
+
 Package: com.dao.velvet2
 Version: 2.2
 Architecture: iphoneos-arm64e
