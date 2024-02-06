@@ -7108,16 +7108,16 @@ Author: Ball
 Name: Indy 简体中文包
 
 Package: com.hk.infuseplus
-Version: 1.1.2
+Version: 1.1.3
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootful/InfusePlus.deb
-Size: 115588
-MD5sum: f0164daf61ea3a74946aa7bc46b47764
-SHA1: b9104b97b56e5ff1d5b98d8a115556702acc9849
-SHA256: 50ddbe633059c51473512b2cd765ec04f936ab06a8cad7eab42803648afffb74
+Size: 115512
+MD5sum: ffc98681425f1599c7d544abd8fb30cf
+SHA1: 404d1bb695dc0f2fae174d0559ade41eccfb1d03
+SHA256: 84f60cf20a971cbb3f1546e0af4f638939ffed1bf91b682f5e7009240946294c
 Section: 嗨-工具
 Description: Infuse的破解/增强插件。
 Author: dvntm
@@ -12051,16 +12051,16 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Name: iCleaner Pro(rootless)
 
 Package: com.dao.infuseplus
-Version: 1.1.2
+Version: 1.1.3
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootless/Infuse Plus(rootless).deb
-Size: 115620
-MD5sum: e23fe25643b6116f153afb3e0025e3c7
-SHA1: 681869c2ea33aa1bc34ce138213df4d128b2d5e9
-SHA256: d8ed4a6ca5c13acdfaebd02c3272d4cafcaac2f31da73328d7981bd9ceceb3bf
+Size: 115548
+MD5sum: 540a8d42e226a265c2f263194db275f1
+SHA1: 1a193549f9bd71c03c78862cfa18f31844196b7b
+SHA256: 31e2ca0a8b625896ecdf028ed8713187887f071417e6e6c0b9eacbe750abe82e
 Section: 嗨-工具
 Description: Infuse的破解/增强插件。
 Author: dvntm
