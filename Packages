@@ -2520,22 +2520,6 @@ Description: 剪切板插件，直接替代听写键。基于原作者重构的2
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版(rootless)
 
-Package: com.dao.lockmaster
-Version: 1.1.0
-Architecture: iphoneos-arm
-Maintainer: lemin
-Depends: mobilesubstrate (>= 0.9.5000), com.hk.lockmaster.cn
-Conflicts: com.leemin.lockmaster
-Filename: rootful/LockMaster.deb
-Size: 75580
-MD5sum: e4ba5c95de5dc5b9ea943fd2f0fde0f1
-SHA1: 7bd2b6b72163af194eca0103bef93254d8c862cb
-SHA256: 4badec276eb6afd3ed93619c547e30a1ee79b5e3dd38545886c3c53349fd3772
-Section: 嗨-工具
-Description: 自定义锁屏动画/声音。
-Author: lemin
-Name: Lock Master
-
 Package: com.dao.noline
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -7108,16 +7092,16 @@ Author: Ball
 Name: Indy 简体中文包
 
 Package: com.hk.infuseplus
-Version: 1.1.3
+Version: 1.1.4
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootful/InfusePlus.deb
-Size: 115512
-MD5sum: ffc98681425f1599c7d544abd8fb30cf
-SHA1: 404d1bb695dc0f2fae174d0559ade41eccfb1d03
-SHA256: 84f60cf20a971cbb3f1546e0af4f638939ffed1bf91b682f5e7009240946294c
+Size: 169884
+MD5sum: 6a142824b810a282905fdab3029e3aeb
+SHA1: 1c6e9b5fd56ae3114a8e6050f78e47c3bf453794
+SHA256: 025b1f28e5651d21bdad5405b517040e51f9efb532e17eef9e6bf589d6de8078
 Section: 嗨-工具
 Description: Infuse的破解/增强插件。
 Author: dvntm
@@ -12051,16 +12035,16 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Name: iCleaner Pro(rootless)
 
 Package: com.dao.infuseplus
-Version: 1.1.3
+Version: 1.1.4
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootless/Infuse Plus(rootless).deb
-Size: 115548
-MD5sum: 540a8d42e226a265c2f263194db275f1
-SHA1: 1a193549f9bd71c03c78862cfa18f31844196b7b
-SHA256: 31e2ca0a8b625896ecdf028ed8713187887f071417e6e6c0b9eacbe750abe82e
+Size: 169896
+MD5sum: 1e9796dcae6a1e7f49ff2b46eb108793
+SHA1: e020988425588c165f9713439cff412040fd3705
+SHA256: 91933484ce49b19885f134f19d331ae212d07e9a0ac059aae7b40a76c4de2889
 Section: 嗨-工具
 Description: Infuse的破解/增强插件。
 Author: dvntm
@@ -12132,22 +12116,6 @@ Section: 嗨-工具
 Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版(rootless)
-
-Package: com.dao.lockmaster
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: lemin
-Depends: mobilesubstrate (>= 0.9.5000), com.hk.lockmaster.cn
-Conflicts: com.leemin.lockmaster
-Filename: rootless/Lock Master(rootless).deb
-Size: 75792
-MD5sum: 31c84e0b1aa00fd932bab596436559b4
-SHA1: 0624a2c8c60a0ddce3a3b31549b880323005d20d
-SHA256: c1815b88330ee0186e2078a69a6d863fbcb0f9d5fbe9370e900d233d7feb3799
-Section: 嗨-工具
-Description: 自定义锁屏动画/声音。
-Author: lemin
-Name: Lock Master(rootless)
 
 Package: com.dao.lynxtwo
 Version: 2.4.7
@@ -12326,6 +12294,22 @@ Section: 嗨-工具
 Description: Souvenir 简体中文包(rootless)。
 Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
+
+Package: com.dao.tako
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.mrgcgamer.libgcuniversal
+Conflicts: xyz.cypwn.tako, com.xyaman.tako
+Filename: rootless/Tako(rootless).deb
+Size: 85000
+MD5sum: 5e2806b6b9d36fb816e2d715ef3b6c2a
+SHA1: 2fdbbc81f6c25ed4d1a428477266d7d2494c04ad
+SHA256: ecfb0d2ab4ae375780f8444c09b06bc8358be5f2b5c3a9582331f08d5720d741
+Section: 嗨-工具
+Description: 通知优先级聚合，类似Axon，整理您的锁屏通知。
+Author: Xyaman
+Name: Tako(rootless)
 
 Package: com.dao.ve
 Version: 2.0
@@ -13714,6 +13698,21 @@ Section: 嗨-工具
 Description: 冷冷雨基于开源编译适配rootless，AppStore帐户页面中快速切换账号。
 Author: subdiox
 Name: StoreSwitcher2(rootless)
+
+Package: com.hk.tako.cn.rl
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Tako 简体中文包(rootless).deb
+Size: 2408
+MD5sum: 26b0c565d4a01d8e2d1c488b1dab52a5
+SHA1: fa014904c46f53f625ea0fc59213e0a25ed40f6f
+SHA256: a13b73fdcd61bcbcf2c8f2b696253d6a894b208726c8e0d51380d59011f1a1ca
+Section: 嗨-汉化
+Description: Tako 简体中文包(rootless)。
+Author: 妖刀
+Name: Tako 简体中文包(rootless)
 
 Package: com.hk.tempdrop.cn.rl
 Version: 1.0
