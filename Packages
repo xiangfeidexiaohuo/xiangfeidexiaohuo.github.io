@@ -12311,22 +12311,6 @@ Description: 通知优先级聚合，类似Axon，整理您的锁屏通知。
 Author: Xyaman
 Name: Tako(rootless)
 
-Package: com.dao.tako
-Version: 0.7.0
-Architecture: iphoneos-arm64
-Maintainer: b4db1r3
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.mrgcgamer.libgcuniversal
-Conflicts: xyz.cypwn.tako, com.xyaman.tako
-Filename: rootless/Tako(rootless).deb
-Size: 90444
-MD5sum: 01490dadb7faf66faeaf1dba6d676883
-SHA1: 657a50beecf5df6067909301fb4e9c3d4d12953d
-SHA256: bb5f63b39679944240120a9f0c3d2185633087c9901e7a9ee07606938f09a1c0
-Section: 嗨-工具
-Description: 通知优先级聚合，类似Axon，b4db1r3优化修改版。
-Author: Xyaman
-Name: Tako(rootless)
-
 Package: com.dao.ve
 Version: 2.0
 Architecture: iphoneos-arm64
