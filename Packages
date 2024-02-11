@@ -2728,16 +2728,16 @@ Author: 妖刀
 Name: 3DTools 简体中文包
 
 Package: com.hk.BHTwitter.cn
-Version: 4.2-1
+Version: 4.3
 Architecture: iphoneos-arm
 Maintainer: BandarHL
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhtwitter
 Filename: rootful/BHTwitter_ZH.deb
-Size: 7613544
-MD5sum: cd91b30f52e933baa42573464bc8f739
-SHA1: b230fb775a120e665b3a1e85272b971fae8f5237
-SHA256: dc4abc1172c503ea57932137c2e97291babeba2aa18df46f6119ab20eb3dfaf2
+Size: 7617520
+MD5sum: e743268317c2858decb7bfd4f30e1e75
+SHA1: f08097e46e617e7e747c4de620014e636e93a83c
+SHA256: 32579ecd5b4fcce460a1288d2c25bc24871b8303557cfd5cdfbaff9519594da3
 Section: 嗨-工具
 Priority: optional
 Description: BHTwitter中文修复版，推特的功能性插件，设置就在推特本身设置里。
@@ -10398,17 +10398,17 @@ Author: ARX8x
 Name: System Info 系统信息(CN)
 
 Package: com.hk.tako.cn
-Version: 0.0.1
+Version: 0.0.3
 Architecture: iphoneos-arm
-Maintainer: null
+Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Tako_CN.deb
-Size: 2532
-MD5sum: 320c4e3b95dcf328f9512af3fd59ec56
-SHA1: d8a0c34c08ef0f69814cb32696d8fd16e478dee6
-SHA256: dd6328286c59f88d8d3036240ad0cb733035db4005681c0e4c0face0a2320f9a
+Size: 2468
+MD5sum: f3980139f5f195fe088e4702bec3e6fb
+SHA1: a6893a67816253fc29fbaa331b124af7a23a79f9
+SHA256: 5bf1c74b152a66b5e5cb101e172b7b6c17ab420708c6085df60c99d6414a92d9
 Section: 嗨-汉化
-Description: Tako 简体中文包。一款通知分组聚合插件，类似Axon，插件源：https://repo.xyaman.xyz/。
+Description: Tako 简体中文包。
 Author: 妖刀
 Name: Tako 简体中文包
 
@@ -12301,13 +12301,29 @@ Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.mrgcgamer.libgcuniversal
 Conflicts: xyz.cypwn.tako, com.xyaman.tako
-Filename: rootless/Tako(rootless).deb
+Filename: rootless/Tako(rootless)_0.0.3.deb
 Size: 85000
 MD5sum: 5e2806b6b9d36fb816e2d715ef3b6c2a
 SHA1: 2fdbbc81f6c25ed4d1a428477266d7d2494c04ad
 SHA256: ecfb0d2ab4ae375780f8444c09b06bc8358be5f2b5c3a9582331f08d5720d741
 Section: 嗨-工具
 Description: 通知优先级聚合，类似Axon，整理您的锁屏通知。
+Author: Xyaman
+Name: Tako(rootless)
+
+Package: com.dao.tako
+Version: 0.7.0
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.mrgcgamer.libgcuniversal
+Conflicts: xyz.cypwn.tako, com.xyaman.tako
+Filename: rootless/Tako(rootless).deb
+Size: 90444
+MD5sum: 01490dadb7faf66faeaf1dba6d676883
+SHA1: 657a50beecf5df6067909301fb4e9c3d4d12953d
+SHA256: bb5f63b39679944240120a9f0c3d2185633087c9901e7a9ee07606938f09a1c0
+Section: 嗨-工具
+Description: 通知优先级聚合，类似Axon，b4db1r3优化修改版。
 Author: Xyaman
 Name: Tako(rootless)
 
@@ -12444,16 +12460,16 @@ Author: c1d3r
 Name: PullOver Pro(rootless)-Netskao
 
 Package: com.daodao.rootless.bhtwitter
-Version: 4.2-1
+Version: 4.3
 Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter
 Filename: rootless/BHTwitter 中文修复版(rootless).deb
-Size: 7612312
-MD5sum: 78678b240c9f678a913cff2f8f29930f
-SHA1: b24dac98c6e4140bba132de13fc354c11923a740
-SHA256: 1381d2c6f97aec62ff2790524dfda6043deba5c142b9ac4d84c070de8d8ae608
+Size: 7618644
+MD5sum: 5d24fb2f8537110e2719036410507a33
+SHA1: 91108293a032e77e2812702927d442aabcbd3a27
+SHA256: 53db87a244a3a32ab7a42f46cb2fff2ac047a32fec4a1ab3860011466d6f724e
 Section: 嗨-工具
 Description: BHTwitter中文修复版，推特的功能性插件，设置就在推特本身设置里。
 Author: Bandar Alruwaili
@@ -13705,10 +13721,10 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Tako 简体中文包(rootless).deb
-Size: 2408
-MD5sum: 26b0c565d4a01d8e2d1c488b1dab52a5
-SHA1: fa014904c46f53f625ea0fc59213e0a25ed40f6f
-SHA256: a13b73fdcd61bcbcf2c8f2b696253d6a894b208726c8e0d51380d59011f1a1ca
+Size: 2516
+MD5sum: b2b58f859f976bdc00df1b51c07fc967
+SHA1: 4ba15eab83169cb7845721c0c35de98cfcb9d3cf
+SHA256: 8ac5088c9e019ca3be4238db9a20da62fe3643f7c540244054c9e0b09e18825a
 Section: 嗨-汉化
 Description: Tako 简体中文包(rootless)。
 Author: 妖刀
