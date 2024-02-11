@@ -10403,10 +10403,10 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Tako_CN.deb
-Size: 2468
-MD5sum: f3980139f5f195fe088e4702bec3e6fb
-SHA1: a6893a67816253fc29fbaa331b124af7a23a79f9
-SHA256: 5bf1c74b152a66b5e5cb101e172b7b6c17ab420708c6085df60c99d6414a92d9
+Size: 2456
+MD5sum: 25c913b50a6b41c5b7261c9de4ee39cd
+SHA1: 28081f66748a5ff8ffbf01eb742fa4847bec5734
+SHA256: 223d141de50422ac0040fb79434363d2a8f1c7a525a2a41e2fa9d84df95ac175
 Section: 嗨-汉化
 Description: Tako 简体中文包。
 Author: 妖刀
@@ -13705,10 +13705,10 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Tako 简体中文包(rootless).deb
-Size: 2516
-MD5sum: b2b58f859f976bdc00df1b51c07fc967
-SHA1: 4ba15eab83169cb7845721c0c35de98cfcb9d3cf
-SHA256: 8ac5088c9e019ca3be4238db9a20da62fe3643f7c540244054c9e0b09e18825a
+Size: 2508
+MD5sum: 1d749a15016ae18a2977d4dff6af14c2
+SHA1: 9a4253c522dfdfd7ea7f9b9b0fb729855a995926
+SHA256: 43d3dc03c2c8a3f2d77e90f854652a099f36d471ab8e412d6c9a14a3ced81cb3
 Section: 嗨-汉化
 Description: Tako 简体中文包(rootless)。
 Author: 妖刀
