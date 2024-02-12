@@ -7870,15 +7870,15 @@ Author: 妖刀/Sky丶Pain
 Name: Lynx 简体中文包
 
 Package: com.hk.lynx2.cn
-Version: 2.4.7
+Version: 2.4.8
 Architecture: iphoneos-arm
-Maintainer: M哥 & 妖刀
+Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Lynx2_CN.deb
-Size: 24360
-MD5sum: d3f95fbab021a94e2af723b6e6b29e4e
-SHA1: 7fd9bbbcd3cbadc3874cd39e9ced12b7ccccb549
-SHA256: 95b2f7dfbcf1d7e4ff43d437e89bb283fc95fd46f1a57ca229ac4e1f71e02c83
+Size: 24904
+MD5sum: f65cba66cfdfdb46376b4f37f9cadf64
+SHA1: 9efb0cb7fb3e83e88ec89168b2ab379fd04447b0
+SHA256: 7b1bbe39b8da9b0fa78aacf8d456b0620607b45958a9ac5fd03c398bdacb6abc
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包。
 Author: M哥 & 妖刀
@@ -12118,16 +12118,16 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版(rootless)
 
 Package: com.dao.lynxtwo
-Version: 2.4.7
+Version: 2.4.8
 Architecture: iphoneos-arm64
 Maintainer: MTAC
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Conflicts: com.mtac.lynxtwo
 Filename: rootless/Lynx 2(rootless).deb
-Size: 533240
-MD5sum: c224955b07b92dc8b8a808964483051c
-SHA1: 408edb76a3d68ca45be3c7ebea41658fe6a46388
-SHA256: 664c7dc687f5dab0b92bd62e233a4afec35c2efafee4bbbde2dc4f5226b16f14
+Size: 541592
+MD5sum: 8c1f54da379cf7ca811c4a55d5a29d58
+SHA1: 28a803bf24d88a0f68ad6bc8ef4d592a3c007862
+SHA256: a8cd430c5d283372a8be1f127cc269033c5eb38c9cb4e30c0110abafae0077dc
 Section: 嗨-工具
 Description: 适用于iOS14+的军刀类多功能插件，汉化包在源内。
 Author: MTAC
@@ -13159,15 +13159,15 @@ Author: 妖刀
 Name: Lock Master 简体中文包(rootless)
 
 Package: com.hk.lynx2.cn.rl
-Version: 2.4.7
+Version: 2.4.8
 Architecture: iphoneos-arm64
-Maintainer: M哥 & 妖刀
+Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Lynx 2 简体中文包(rootless).deb
-Size: 24444
-MD5sum: 3e7b8c3ebed48ee4b9b504a88da05b9a
-SHA1: 982e6d149bdc4dc2116b8a03c2a5ec8ddfdf66d3
-SHA256: b39f839391fe7a1aefd5fd1b8ad107be2c7e2b0f997fa1bf948efbc33c69874e
+Size: 25016
+MD5sum: d7d537847ee83f62508f7bd614882d79
+SHA1: 3bef5c0090da541eaf39e9340aa76f85e588b8f1
+SHA256: 975de8139469c2bc4ab8f2e067d8187ac07a975c79caf2eacddd52f6b2cb4822
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包(rootless)。
 Author: M哥 & 妖刀
