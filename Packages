@@ -11806,22 +11806,6 @@ Description: Ultrasound 简体中文包(rootless)。
 Author: Ball <ball@hackcn.net>
 Name: Ultrasound 简体中文包(rootless)
 
-Package: com.dao.airdrop16
-Version: 1.0.3k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, com.dao.snail
-Conflicts: com.snail.airdrop16.global, com.snail.airdrop16
-Filename: rootless/AirDrop16 开心版(rootless).deb
-Size: 199088
-MD5sum: 817874bbfcac0d083c57def8f9b8ce1c
-SHA1: 063d7a33fb035bb351ecd86e03828aa178dadeb8
-SHA256: 62c2a4e87b17dc51e180e6570ff46840a3c7bdaaae3b0feb4ebca59cea9b98c9
-Section: 嗨-工具
-Description: 为AirDrop的“任何人”模式设置时间限制，类似于iOS16，但更灵活。CBZ提供的开心版！
-Author: Snail
-Name: AirDrop16 开心版(rootless)
-
 Package: com.dao.akara
 Version: 2.0.0
 Architecture: iphoneos-arm64
@@ -11837,22 +11821,6 @@ Section: 嗨-工具
 Description: 不可思议的简约控制中心，源内有汉化包。
 Author: Tr1Fecta & Kennyroo
 Name: Akara(rootless)
-
-Package: com.dao.always120
-Version: 1.1.3k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.dao.snail
-Conflicts: com.snail.always120.global, com.snail.always120
-Filename: rootless/Always120 开心版(rootless).deb
-Size: 161528
-MD5sum: 891e464054a49c7d15e156fae4fa1ca1
-SHA1: dc8226a0ea83b067a2ae0179d08d7c0e68d443eb
-SHA256: e552c7f9fc2caa39bf1c9efc08e71d04c2a1849258c8e943bfddafbe96364472
-Section: 嗨-工具
-Description: 使高刷设备自动适应/达到120Hz。CBZ提供的开心版！
-Author: Snail
-Name: Always120 开心版(rootless)
 
 Package: com.dao.april
 Version: 3.1
@@ -11985,22 +11953,6 @@ Section: 嗨-工具
 Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用(没提示)。
 Author: Jonathan Winger-lang
 Name: BigShot 长截图(rootless)
-
-Package: com.dao.callsilent
-Version: 1.0.3k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, com.dao.snail
-Conflicts: com.snail.callsilent, com.snail.callsilent.global
-Filename: rootless/CallSilent 开心版(rootless).deb
-Size: 182180
-MD5sum: 4bd545d7658d84c516447256d368b184
-SHA1: 6dd34d23dc2bac940bdb287959abb7b7a6fc42af
-SHA256: 82cb3dd48854326fa1a4c9ef830427ecc02e7a0640cfe12853149e7274afe0da
-Section: 嗨-工具
-Description: 翻转静音和拒绝通话，CBZ提供的开心版！
-Author: Snail
-Name: CallSilent 开心版(rootless)
 
 Package: com.dao.coolcc
 Version: 2.0-1
@@ -12164,22 +12116,6 @@ Section: 嗨-工具
 Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版(rootless)
-
-Package: com.dao.killyourapps
-Version: 1.0.1k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.dao.snail
-Conflicts: com.snail.killyourapps.global, com.snail.killyourapps
-Filename: rootless/KillYourApps 开心版(rootless).deb
-Size: 152316
-MD5sum: 42a1b72364cd2cf2cce2c30a99f36915
-SHA1: 76cde4cfb0586da3b85fa00b7baa796444ad0c0a
-SHA256: 42c37543d628314d64ad7b5c931f322181e6b561e1f2ac7b4b236b6b30401145
-Section: 嗨-工具
-Description: 随心所欲地xx你的应用程序，保持后台干净，包括定时杀死、立即杀死和屏幕锁定杀死。CBZ提供的开心版！
-Author: Snail
-Name: KillYourApps 开心版(rootless)
 
 Package: com.dao.lynxtwo
 Version: 2.4.8
@@ -13948,6 +13884,70 @@ Description: 某大佬古老的今日头条系列去广告插件，无设置。�
 Author: 佚名
 Name: 头条NoAds(rootless)
 Sponsor: 佚名
+
+Package: com.snail.airdrop16
+Version: 1.0.3k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, com.dao.snail
+Conflicts: com.snail.airdrop16.global
+Filename: rootless/AirDrop16 开心版(rootless).deb
+Size: 199084
+MD5sum: 593b7738e004e9b8dd25f8a18e0e92aa
+SHA1: 7c4b51d8ddbfefda524911338bc3007617aec7ce
+SHA256: 09e12221e437c9b0f1b945d75a7301fb34b7e1770522a5e73b558b02c0c412da
+Section: 嗨-工具
+Description: 为AirDrop的“任何人”模式设置时间限制，类似于iOS16，但更灵活。CBZ提供的开心版！
+Author: Snail
+Name: AirDrop16 开心版(rootless)
+
+Package: com.snail.always120
+Version: 1.1.3k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.dao.snail
+Conflicts: com.snail.always120.global
+Filename: rootless/Always120 开心版(rootless).deb
+Size: 161524
+MD5sum: a946bd13a3bd54888bbc1fe697cec435
+SHA1: 0d12b2c93504ec6be1dad53a3d4c4e335f496bb4
+SHA256: 5f266aa629072e84082cad4a70bbe6dad0ffe9c09d87843898f7390373f24739
+Section: 嗨-工具
+Description: 使高刷设备自动适应/达到120Hz。CBZ提供的开心版！
+Author: Snail
+Name: Always120 开心版(rootless)
+
+Package: com.snail.callsilent
+Version: 1.0.3k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, com.dao.snail
+Conflicts: com.snail.callsilent.global
+Filename: rootless/CallSilent 开心版(rootless).deb
+Size: 182172
+MD5sum: 47ce51304ef993080418c46b52f5c3a5
+SHA1: 227f5afdc7df6b6384ae4146c6f0fb8badc200dd
+SHA256: 8810bf568ac3f49d8b2b8bfb158c27250cc28f8b990a12cd0e32d9c45b84508f
+Section: 嗨-工具
+Description: 翻转静音和拒绝通话，CBZ提供的开心版！
+Author: Snail
+Name: CallSilent 开心版(rootless)
+
+Package: com.snail.killyourapps
+Version: 1.0.1k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.dao.snail
+Conflicts: com.snail.killyourapps.global
+Filename: rootless/KillYourApps 开心版(rootless).deb
+Size: 152312
+MD5sum: d88b7e83f6289c879f6ce569fb54f3e2
+SHA1: d62843ce9b7f6832e1cfd2b5abfeda2e5755b1db
+SHA256: 8626c9d7b974f899e82ef8a07b4d308c6f36358056c42373ff9f6c041aabef55
+Section: 嗨-工具
+Description: 随心所欲地xx你的应用程序，保持后台干净，包括定时杀死、立即杀死和屏幕锁定杀死。CBZ提供的开心版！
+Author: Snail
+Name: KillYourApps 开心版(rootless)
 
 Package: dev.traurige.libkitten
 Version: 1.4.1
