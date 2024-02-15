@@ -3819,15 +3819,15 @@ Author: 佚名
 Name: 提升音质(国行XsMax-12.4.1)
 
 Package: com.hk.audiorecorderxs.cn
-Version: 5.0-5
+Version: 5.0-6
 Architecture: iphoneos-arm64e
 Maintainer: Sandy0 & 妖刀
 Depends: mobilesubstrate
 Filename: rootful/AudioRecorderXS_CN.deb
-Size: 12808
-MD5sum: 1a25cbca768354ddd18369b8b6ab6272
-SHA1: 4a96872e0e753734e789281a1ac4501cfed50e6e
-SHA256: 916426a97a348079ef3e7bfa3d4ce86a39c198dc50351b06b98465539952e826
+Size: 13600
+MD5sum: 248bea6aee42486a4ccd90dcb6fc6946
+SHA1: 01e0204224f30e20930f08f1601e8508076bec04
+SHA256: 782733f3c5e2d6ba1fc572d9f9e4c3e4a4ecab99e470b4ce4edf11b12f243469
 Section: 嗨-汉化
 Description: AudioRecorder XS 简体中文包。
 Author: Sandy0 & 妖刀
@@ -12631,15 +12631,15 @@ Author: Alucard/妖刀
 Name: Atria 简体中文包(rootless)
 
 Package: com.hk.audiorecorderxs.cn.rl
-Version: 5.0-5
+Version: 5.0-6
 Architecture: iphoneos-arm64
 Maintainer: Sandy0 & 妖刀
 Depends: mobilesubstrate
 Filename: rootless/AudioRecorder XS 简体中文包(rootless).deb
-Size: 12872
-MD5sum: 71a24af5141196929e908ec6a04741b0
-SHA1: a4892af03a431054be9023da5c5f7850bef2726d
-SHA256: 4a450f38d24f23ca25aa9a9c7573bf6a2d89fa864c3a75e5bc7888323134c798
+Size: 13664
+MD5sum: c5ca8e64f98c7aa6cba35166ec57aeda
+SHA1: e3a4b3d2111bf18192287ccde09c94e443c76225
+SHA256: 6113e0dd8c56d824c2c547d798d6ca6e0f3b6e1208087f832840696e9c0030ff
 Section: 嗨-汉化
 Description: AudioRecorder XS 简体中文包(rootless)。
 Author: Sandy0 & 妖刀
@@ -14293,15 +14293,15 @@ Author: Alucard/妖刀
 Name: Atria 简体中文包(RootHide)
 
 Package: com.hk.audiorecorderxs.cn.rl
-Version: 5.0-5
+Version: 5.0-6
 Architecture: iphoneos-arm64e
 Maintainer: Sandy0 & 妖刀
 Depends: mobilesubstrate
 Filename: roothide/AudioRecorder XS 简体中文包(RootHide).deb
-Size: 12832
-MD5sum: 221a349dd0ec845192adc07b831fbbe1
-SHA1: e0b6d6f382f2e795bae76957314bd6f39d8bf297
-SHA256: bb2d6ded8ac88c0c62a5d191998022ee1d48008df98907db0053275164cf29f7
+Size: 13668
+MD5sum: caab11d97434c96600e3f308bf1a24b8
+SHA1: bb0de8f4b1cc80e76bfa25ecd618f8efc986e6dc
+SHA256: e41d6ce817e9c20e367300adcc2e4bcb4c0e46277eb8a3b6496c0bf1fc74c725
 Section: 嗨-汉化
 Description: AudioRecorder XS 简体中文包(RootHide)。
 Author: Sandy0 & 妖刀
