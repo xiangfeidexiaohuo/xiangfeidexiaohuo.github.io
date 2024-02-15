@@ -3819,15 +3819,15 @@ Author: 佚名
 Name: 提升音质(国行XsMax-12.4.1)
 
 Package: com.hk.audiorecorderxs.cn
-Version: 5.0-3
+Version: 5.0-5
 Architecture: iphoneos-arm64e
 Maintainer: Sandy0 & 妖刀
 Depends: mobilesubstrate
 Filename: rootful/AudioRecorderXS_CN.deb
-Size: 11848
-MD5sum: c5231d41fbba70ffad350ddf043fd38a
-SHA1: 44edf466b7dae13ffd34825a82c61259cc99f6ad
-SHA256: 68ab57ef63165ec89bce1bc977a91702c1c18e6803c782730142d6f96ad2f811
+Size: 12808
+MD5sum: 1a25cbca768354ddd18369b8b6ab6272
+SHA1: 4a96872e0e753734e789281a1ac4501cfed50e6e
+SHA256: 916426a97a348079ef3e7bfa3d4ce86a39c198dc50351b06b98465539952e826
 Section: 嗨-汉化
 Description: AudioRecorder XS 简体中文包。
 Author: Sandy0 & 妖刀
@@ -12311,22 +12311,6 @@ Description: Souvenir 简体中文包(rootless)。
 Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
-Package: com.dao.tako
-Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.mrgcgamer.libgcuniversal
-Conflicts: xyz.cypwn.tako, com.xyaman.tako
-Filename: rootless/Tako(rootless)_0.0.3.deb
-Size: 85000
-MD5sum: 5e2806b6b9d36fb816e2d715ef3b6c2a
-SHA1: 2fdbbc81f6c25ed4d1a428477266d7d2494c04ad
-SHA256: ecfb0d2ab4ae375780f8444c09b06bc8358be5f2b5c3a9582331f08d5720d741
-Section: 嗨-工具
-Description: 通知优先级聚合，类似Axon，整理您的锁屏通知。
-Author: Xyaman
-Name: Tako(rootless)
-
 Package: com.dao.ve
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -12647,15 +12631,15 @@ Author: Alucard/妖刀
 Name: Atria 简体中文包(rootless)
 
 Package: com.hk.audiorecorderxs.cn.rl
-Version: 5.0-3
+Version: 5.0-5
 Architecture: iphoneos-arm64
 Maintainer: Sandy0 & 妖刀
 Depends: mobilesubstrate
 Filename: rootless/AudioRecorder XS 简体中文包(rootless).deb
-Size: 12144
-MD5sum: 74ff3979d1a1df608ad52752da330a8f
-SHA1: 33564ef98c48b4181c2f504c331629d252081abf
-SHA256: a48dbe95cdb16e35c761a59adee003ef4e75b24de26d72407e25501a18137da2
+Size: 12872
+MD5sum: 71a24af5141196929e908ec6a04741b0
+SHA1: a4892af03a431054be9023da5c5f7850bef2726d
+SHA256: 4a450f38d24f23ca25aa9a9c7573bf6a2d89fa864c3a75e5bc7888323134c798
 Section: 嗨-汉化
 Description: AudioRecorder XS 简体中文包(rootless)。
 Author: Sandy0 & 妖刀
@@ -14309,15 +14293,15 @@ Author: Alucard/妖刀
 Name: Atria 简体中文包(RootHide)
 
 Package: com.hk.audiorecorderxs.cn.rl
-Version: 5.0-3
+Version: 5.0-5
 Architecture: iphoneos-arm64e
 Maintainer: Sandy0 & 妖刀
 Depends: mobilesubstrate
 Filename: roothide/AudioRecorder XS 简体中文包(RootHide).deb
-Size: 11892
-MD5sum: 9a21461b28a94a7a117e929b28446863
-SHA1: 2dc6d945fe56b735f30d1290e4218a2fceac11a4
-SHA256: 2e34cede5017eceee0d44815c7640321754e6d1256843feb8de2f46fa48b62b1
+Size: 12832
+MD5sum: 221a349dd0ec845192adc07b831fbbe1
+SHA1: e0b6d6f382f2e795bae76957314bd6f39d8bf297
+SHA256: bb2d6ded8ac88c0c62a5d191998022ee1d48008df98907db0053275164cf29f7
 Section: 嗨-汉化
 Description: AudioRecorder XS 简体中文包(RootHide)。
 Author: Sandy0 & 妖刀
