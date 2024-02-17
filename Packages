@@ -9223,15 +9223,15 @@ Author: Ball
 Name: Riveria 简体中文包
 
 Package: com.hk.rune.cn
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Rune_CN.deb
-Size: 6432
-MD5sum: 7367f948852fdef59d09feb331caf73f
-SHA1: 124cc666e79f69b8ec20c874ac66b59f8a32b898
-SHA256: 31e633fcf7a7ca9c2777c240c24cacbed8628ddb20fbc06b15d79153b151b037
+Size: 6552
+MD5sum: 4bb7d8bae8c61f8141ebcd5b6f1e7925
+SHA1: d66525d991c034df7e44194438439aa3c281e386
+SHA256: c55f5df50987eb82b7a11118cd7ddd5a70da9902539eb52d254a427f5867293d
 Section: 嗨-汉化
 Description: Rune 简体中文包。
 Author: 妖刀
@@ -11354,18 +11354,18 @@ Author: 妖刀
 Name: YouTube Reborn v4 简体中文包
 
 Package: com.hk.ytlite
-Version: 2.4.1
+Version: 2.5
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootful/YTLite.deb
-Size: 51900
-MD5sum: 57cf265ee68f32d2d91daf1a352257ff
-SHA1: b050e875b2805b7470062863c28c13a9d2410bdb
-SHA256: 95654996ae5e877921a4f41baf9dd3ac23310578e82200cf43d39af7a5d0c914
+Size: 60916
+MD5sum: 55c6f40a38c7baa626ff94dfc7baa751
+SHA1: e152af6e0e6c92a2585c52b5a55cc7c3449a8708
+SHA256: 73069895de2fbcdf4e15ecf0c81b3efe4a5ae282d342dfe913e16a788634a1a3
 Section: 嗨-工具
-Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。v2.4.1：修复油管19.03.2设置闪退问题。
+Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
 Name: YTLite
 
@@ -12363,18 +12363,18 @@ Author: Lillie
 Name: YTR 中文版(rootless)
 
 Package: com.dao.ytlite
-Version: 2.4.1
+Version: 2.5
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 51964
-MD5sum: 562e7578a7ee64d972586b0724483d9e
-SHA1: 10e016264219fad1b6d8bdb8113fcabbf007f6e8
-SHA256: 3a759cf0f7c879d0a2a13135bba5395731b0744db6a4b55ebcc91fefff71dd66
+Size: 61040
+MD5sum: f16dcd2c7538448bb797a9ec667b049b
+SHA1: 0ce856305abd2ffb8c2df459f2011fb5a7ed1803
+SHA256: 6858008d4907474a152879b71dc6932c802221ef50a8f024b2cb0af17d273148
 Section: 嗨-工具
-Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。v2.4.1：修复油管19.03.2设置闪退问题。
+Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
 Name: YTLite(rootless)
 
@@ -13488,15 +13488,15 @@ Description: 完全可自由定制的通知横幅，源内安装汉化包。
 Name: Velvet 2(rootless)
 
 Package: com.hk.rune.cn.rl
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Rune 简体中文包(rootless).deb
-Size: 6500
-MD5sum: b15714e39709d8e619e6aafd29e38bc8
-SHA1: ab593ee4382f2d47f2022401259eaa8bb4355e4f
-SHA256: ccd6896656eeeeacf5381737e817878dc5958aaf60f489d35eb3844f279f770a
+Size: 6628
+MD5sum: f03daa0ae4d080a5b2eb47a17dec774f
+SHA1: d64222194151f7b4bfcb89b5fe0962b4f26e259f
+SHA256: fca31a79a7a4bd097254708df0442c11a0374463894f5053ee3effe956c6de51
 Section: 嗨-汉化
 Description: Rune 简体中文包(rootless)。
 Author: 妖刀
@@ -14582,15 +14582,15 @@ Author: 妖刀
 Name: PrimalFolder2 简体中文包(RootHide)
 
 Package: com.hk.rune.cn.rl
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Rune 简体中文包(RootHide).deb
-Size: 6472
-MD5sum: f0ac496f71d872b480f0fdd5b7ef14a6
-SHA1: 660b0ff721e069677fdb7edcbbc87464ce79683a
-SHA256: fd92a469d90d0f8fe21e33f90c0caa8c0aa298efa2845707075c73db732e3892
+Size: 6592
+MD5sum: b7ce68e4fc4e7169dd131e008eae2207
+SHA1: a1a43ce7e22f8fb3c2121a6d09ebc1dd2ea00d2e
+SHA256: 93bf4780de36cdf63d1066ad46ec7cf8a6f62038d5b4af639756cd58134adc13
 Section: 嗨-汉化
 Description: Rune 简体中文包(RootHide)。
 Author: 妖刀
