@@ -13902,16 +13902,16 @@ Author: Snail
 Name: Always120 开心版(rootless)
 
 Package: com.snail.callsilent
-Version: 1.0.4k
+Version: 1.0.3k
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate, com.dao.snail
 Conflicts: com.snail.callsilent.global
 Filename: rootless/CallSilent 开心版(rootless).deb
-Size: 191036
-MD5sum: 08563d51ff4ff4968be1749f235944c4
-SHA1: ed9932dc4f5b06f893c06d5846bf172f0af69f14
-SHA256: 76c3e698b4486e429bb922258e7372a837201f1f9cfdbd3f77d27f27ac79ea2e
+Size: 182172
+MD5sum: 47ce51304ef993080418c46b52f5c3a5
+SHA1: 227f5afdc7df6b6384ae4146c6f0fb8badc200dd
+SHA256: 8810bf568ac3f49d8b2b8bfb158c27250cc28f8b990a12cd0e32d9c45b84508f
 Section: 嗨-工具
 Description: 翻转静音和拒绝通话，CBZ提供的开心版！
 Author: Snail
