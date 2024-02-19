@@ -11354,16 +11354,16 @@ Author: 妖刀
 Name: YouTube Reborn v4 简体中文包
 
 Package: com.hk.ytlite
-Version: 2.5
+Version: 2.6
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootful/YTLite.deb
-Size: 60916
-MD5sum: 55c6f40a38c7baa626ff94dfc7baa751
-SHA1: e152af6e0e6c92a2585c52b5a55cc7c3449a8708
-SHA256: 73069895de2fbcdf4e15ecf0c81b3efe4a5ae282d342dfe913e16a788634a1a3
+Size: 66572
+MD5sum: e5d0d9e5de946f1edb73d7ca91f93ace
+SHA1: 1500c38d2e6a46ef2a0f3939bc062a9ceb7158c1
+SHA256: fef421ac0a15bed06a5bd2ce345a375f4e47820eccf146e673dc2e59f5dd4ede
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -12363,16 +12363,16 @@ Author: Lillie
 Name: YTR 中文版(rootless)
 
 Package: com.dao.ytlite
-Version: 2.5
+Version: 2.6
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 61040
-MD5sum: f16dcd2c7538448bb797a9ec667b049b
-SHA1: 0ce856305abd2ffb8c2df459f2011fb5a7ed1803
-SHA256: 6858008d4907474a152879b71dc6932c802221ef50a8f024b2cb0af17d273148
+Size: 66584
+MD5sum: 0621940034d67de215bc78abdc5b3687
+SHA1: 3defcb728a24ea640aaa0e32c3c19c42fa42404c
+SHA256: 286fa28e7c9e6f91e63dc511a3856fab2a71721d349fe18a02b07a5e8272b103
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -13377,18 +13377,18 @@ Author: 妖刀
 Name: CCLess++(rootless)
 
 Package: com.hk.rootless.cc
-Version: 1.8.2
+Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate, com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules
 Filename: rootless/CCLess++(rootless).deb
-Size: 399024
-MD5sum: dc14b7185b20d4083f7303e18b88bb9f
-SHA1: 304892c785f18eb9dd678e1b296705a674dbceb1
-SHA256: 85a59f2eaccf33835c9e57c93b0b086edbfeb3c6db373b7bd4b2241bd058d905
+Size: 460364
+MD5sum: e953e4b0c5b1b406e2cf0abd10422259
+SHA1: e80458f0162b42906c82ee2ff2c427c82282a675
+SHA256: 414823a518ed29fa3209fcb433b9bd9403bb5bd38fbcb067fe5dba8b5e1b8b2e
 Section: 嗨-工具
-Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏等模块来自skypain。一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX等模块来自Netskao。实时CPU使用率模块来自SOPPPra。系统运行时间模块来自MTAC。Snapper2切换开关来自P2KDev。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev等各位大佬！！！
+Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks等各位大佬！！！
 Author: 妖刀
 Name: CCLess++(rootless)
 
@@ -13902,16 +13902,16 @@ Author: Snail
 Name: Always120 开心版(rootless)
 
 Package: com.snail.callsilent
-Version: 1.0.3k
+Version: 1.0.4k
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate, com.dao.snail
 Conflicts: com.snail.callsilent.global
 Filename: rootless/CallSilent 开心版(rootless).deb
-Size: 182172
-MD5sum: 47ce51304ef993080418c46b52f5c3a5
-SHA1: 227f5afdc7df6b6384ae4146c6f0fb8badc200dd
-SHA256: 8810bf568ac3f49d8b2b8bfb158c27250cc28f8b990a12cd0e32d9c45b84508f
+Size: 191036
+MD5sum: 08563d51ff4ff4968be1749f235944c4
+SHA1: ed9932dc4f5b06f893c06d5846bf172f0af69f14
+SHA256: 76c3e698b4486e429bb922258e7372a837201f1f9cfdbd3f77d27f27ac79ea2e
 Section: 嗨-工具
 Description: 翻转静音和拒绝通话，CBZ提供的开心版！
 Author: Snail
