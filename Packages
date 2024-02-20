@@ -11955,18 +11955,19 @@ Author: Jonathan Winger-lang
 Name: BigShot 长截图(rootless)
 
 Package: com.dao.coolcc
-Version: 2.0-1
+Version: 2.0.1
 Architecture: iphoneos-arm64
 Maintainer: alias20
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
+Installed-Size: 376
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis
 Conflicts: alias20.coolcc, com.hk.coolcc.cn.rl
 Filename: rootless/CoolCC(rootless).deb
-Size: 25240
-MD5sum: 51464c8b1c1955fb2f98f1d13359c142
-SHA1: 0afbee35d332c772287ee6f311a69e21fd6e6370
-SHA256: 20ac3f5f8527f651fe31daed9fc6534882d5edfb282b207038e4aa7bf109cbfd
+Size: 25222
+MD5sum: b02fab8d0bca2c39694a60df3463c486
+SHA1: c5a2201c74abe3ca1c9dc5d5bb35b1036c7be7f1
+SHA256: 201e991b9befa4ee78a29fdf0aa62c5ab0c4047209d04c5a2440b811e429c634
 Section: 嗨-工具
-Description: 控制中心调整背景和边框等，已包含简体中文。小弟来了和乌大佬修复alias20版的一些bug。
+Description: 控制中心调整背景和边框等，已包含简体中文。laileld和乌贼力量修复alias20版的一些bug，优化支持iOS16音量框。
 Author: alias20
 Name: CoolCC(rootless)
 
