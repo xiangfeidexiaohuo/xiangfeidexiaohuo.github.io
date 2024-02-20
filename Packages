@@ -2554,6 +2554,22 @@ Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff
 
+Package: com.dao.purifycallkit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 刀刀
+Installed-Size: 168
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: rootful/WeChat-CallKit.deb
+Size: 3134
+MD5sum: 4d97d8ca27592b505c6521bb64002bf4
+SHA1: 2031511570750ed836b5445aec9323b2e6d20b47
+SHA256: f1c353ff1c0cae4cba926dcce9c74de327b3544510b25d4ac888893fa1b6b0cb
+Section: 嗨-工具
+Description: 微信开启CallKit，无开关。
+Author: 秋名山
+Name: WeChat-CallKit
+
 Package: com.dao.reverie
 Version: 0.6
 Architecture: iphoneos-arm
@@ -11354,16 +11370,16 @@ Author: 妖刀
 Name: YouTube Reborn v4 简体中文包
 
 Package: com.hk.ytlite
-Version: 2.6
+Version: 2.6.1
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootful/YTLite.deb
-Size: 66572
-MD5sum: e5d0d9e5de946f1edb73d7ca91f93ace
-SHA1: 1500c38d2e6a46ef2a0f3939bc062a9ceb7158c1
-SHA256: fef421ac0a15bed06a5bd2ce345a375f4e47820eccf146e673dc2e59f5dd4ede
+Size: 70236
+MD5sum: e54f17b6f07885802389fec471de29ec
+SHA1: f103e8ea5c1311765eaf3b505bbbcfb7c73e1391
+SHA256: 8c89d5a7f53fff769203aa20d42bc1e418a659619a540b85231dcf1dfd2ce950
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -12216,6 +12232,22 @@ Description: 将文件夹显示为图标等多功能文件夹，源内有中文�
 Author: ichitaso
 Name: PrimalFolder2(rootless)
 
+Package: com.dao.purifycallkit
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 刀刀
+Installed-Size: 168
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: rootless/WeChat-CallKit(rootless).deb
+Size: 3202
+MD5sum: 4d8feb91225ec923bbcfc9d65bd67ca1
+SHA1: 269ee5f704227cee7f414fa6ec929c29c12aca0c
+SHA256: 984365d73a8c20b17c00c24c05ed9030c80138e87e73fa9e84b22d5749bd4acd
+Section: 嗨-工具
+Description: 微信开启CallKit，无开关。
+Author: 秋名山
+Name: WeChat-CallKit(rootless)
+
 Package: com.dao.reverie
 Version: 0.6
 Architecture: iphoneos-arm64
@@ -12364,16 +12396,16 @@ Author: Lillie
 Name: YTR 中文版(rootless)
 
 Package: com.dao.ytlite
-Version: 2.6
+Version: 2.6.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 66584
-MD5sum: 0621940034d67de215bc78abdc5b3687
-SHA1: 3defcb728a24ea640aaa0e32c3c19c42fa42404c
-SHA256: 286fa28e7c9e6f91e63dc511a3856fab2a71721d349fe18a02b07a5e8272b103
+Size: 70256
+MD5sum: d253ad721aaac08947e32c0fd08e1cdb
+SHA1: 8286ad9e73ded3ef918bf66be48d8da9f1e22376
+SHA256: 71807e909ace62bfadbd875f8134f53c08292670acac614638f9e6962d010968
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -14101,6 +14133,22 @@ Section: 嗨-工具
 Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff(RootHide)
+
+Package: com.dao.purifycallkit
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Installed-Size: 168
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: roothide/WeChat-CallKit(RootHide).deb
+Size: 3164
+MD5sum: e51062a7b9b54d3265742858cd09fb11
+SHA1: 8012490f60ad83671ea5a889754b8643c5201e51
+SHA256: 310140e332b4e9e205a9ec76160c0cb45df35b4d170f0b3c920dd2add2254d8c
+Section: 嗨-工具
+Description: 微信开启CallKit，无开关。
+Author: 秋名山
+Name: WeChat-CallKit(RootHide)
 
 Package: com.dao.reverie
 Version: 0.6
