@@ -11370,16 +11370,16 @@ Author: 妖刀
 Name: YouTube Reborn v4 简体中文包
 
 Package: com.hk.ytlite
-Version: 2.6.1
+Version: 2.6.2
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootful/YTLite.deb
-Size: 70236
-MD5sum: e54f17b6f07885802389fec471de29ec
-SHA1: f103e8ea5c1311765eaf3b505bbbcfb7c73e1391
-SHA256: 8c89d5a7f53fff769203aa20d42bc1e418a659619a540b85231dcf1dfd2ce950
+Size: 72828
+MD5sum: 2dc32b9cd236e18b7708e4a29a060531
+SHA1: 3fed75b37f463371265114c7051ae8a0bae502ff
+SHA256: 2039b29f520702705f237c483bb2e0533eb2fc2f1a0ef1e1c17f29dc6004adf4
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -11821,6 +11821,23 @@ Section: 嗨-汉化
 Description: Ultrasound 简体中文包(rootless)。
 Author: Ball <ball@hackcn.net>
 Name: Ultrasound 简体中文包(rootless)
+
+Package: com.dao.3dbadgeclear
+Version: 1.6.8.1
+Architecture: iphoneos-arm64
+Maintainer: isklikas
+Installed-Size: 192
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
+Filename: rootless/3DBadgeClear(rootless).deb
+Size: 17720
+MD5sum: 86dbc084bb24a4864a7617a2b2647619
+SHA1: 861e19f934f18e9f99e8ba2b5067c3c7fb5f4245
+SHA256: 8f898212d0aa61cd5e7fe0c3d11a73b596ec8ea396fd575b2a0a3ec76ad0952d
+Section: 嗨-工具
+Description: 在有通知角标的程序图标的“长按/3D Touch”菜单上出现“清除角标”，可一键清除此程序的所有通知角标。
+Author: isklikas
+Name: 3DBadgeClear(rootless)
 
 Package: com.dao.akara
 Version: 2.0.0
@@ -12380,16 +12397,16 @@ Author: Lillie
 Name: YTR 中文版(rootless)
 
 Package: com.dao.ytlite
-Version: 2.6.1
+Version: 2.6.2
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 70256
-MD5sum: d253ad721aaac08947e32c0fd08e1cdb
-SHA1: 8286ad9e73ded3ef918bf66be48d8da9f1e22376
-SHA256: 71807e909ace62bfadbd875f8134f53c08292670acac614638f9e6962d010968
+Size: 72924
+MD5sum: 054513f4b47393785b32889ae3d6640e
+SHA1: f7457c8ca0e5f0b658e41ff79fc92973c46e30d8
+SHA256: 477955f9347b44bab3f461be48f13897a6ffb6f7700ac6ea41c4efde64f850f8
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -13400,12 +13417,12 @@ Maintainer: 妖刀
 Depends: mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules
 Filename: rootless/CCLess++(rootless).deb
-Size: 460364
-MD5sum: e953e4b0c5b1b406e2cf0abd10422259
-SHA1: e80458f0162b42906c82ee2ff2c427c82282a675
-SHA256: 414823a518ed29fa3209fcb433b9bd9403bb5bd38fbcb067fe5dba8b5e1b8b2e
+Size: 460384
+MD5sum: d66813f5c476d36fe3842c4f5a89179f
+SHA1: ee601cbf5c5c02543de6e6d968a43c252745e852
+SHA256: 10d35acd0011b5cdf05d681eb26bc3a05b853ff1e938e2d051a08204dba73cf4
 Section: 嗨-工具
-Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks等各位大佬！！！
+Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标(目前不支持iOS16)、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks等各位大佬！！！
 Author: 妖刀
 Name: CCLess++(rootless)
 
