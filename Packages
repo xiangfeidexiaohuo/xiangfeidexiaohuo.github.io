@@ -2469,6 +2469,23 @@ Description: 漂亮的定时器和闹钟提醒，根据开源编译。
 Author: NoisyFlake
 Name: BetterAlarm中文版
 
+Package: com.dao.blurrybadges
+Version: 1.5.2.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 444
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.blurrybadges, com.spicat.blurrybadges, com.ps.blurrybadges, com.hk.rootless.blurrybadges
+Filename: rootful/BlurryBadges_ZH.deb
+Size: 47768
+MD5sum: 131f851cbdde02f7a7ae84a2fe0f3867
+SHA1: bbc0c5267b1aded3c8679f67372f369bfcee8782
+SHA256: 0dd74a346bbffe1dfc4cd4930c1662262ed7dc830e6bb167a6f7124ac4e1c983
+Section: 嗨-工具
+Description: 自定义程序通知角标的边框颜色和透明度，基于PoomSmart的开源直接编译汉化。
+Author: PoomSmart
+Name: BlurryBadges 中文版
+
 Package: com.dao.kayoko
 Version: 2.0.2.1
 Architecture: iphoneos-arm
@@ -6637,18 +6654,18 @@ Author: 妖刀
 Name: Glance 简体中文包
 
 Package: com.hk.glow.cn
-Version: 0.4-45
+Version: 0.6
 Architecture: iphoneos-arm
-Maintainer: Sandy0
+Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Glow_CN.deb
-Size: 6520
-MD5sum: b1cfbc9a2ff4588c1b226073ed71c379
-SHA1: d3b74e489625d07730618a5fc73b857f82b05662
-SHA256: 3717d39f69b6e3a03b8627995712fe921d9307ef5b1b316af312f2169355e103
+Size: 7548
+MD5sum: fbf64b6fe5999062a78818275fd0d697
+SHA1: 0efd77e9c9a327bbb28606512d8f10fb6ab80f67
+SHA256: 7946f51f1c6d85a3997ed4ef4a862d6dd84cbf334b471949a532431c43c89317
 Section: 嗨-汉化
 Description: Glow 简体中文包。
-Author: Sandy0
+Author: Sandy0/妖刀
 Name: Glow 简体中文包
 
 Package: com.hk.gradi.cn
@@ -7794,15 +7811,15 @@ Author: Sandy0
 Name: LockDock 简体中文包
 
 Package: com.hk.lockmaster.cn
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootful/LockMaster_CN.deb
-Size: 2012
-MD5sum: 7061a6d996f4ce76cd05bbbc3942838e
-SHA1: 285e45db7d503249dae6d05ea5be4d315582fb20
-SHA256: 5dbcedea8ad3d3e13690b200d9d627f4c550b8b1c9a5fe232bc764056f5bf436
+Size: 2064
+MD5sum: 78ee4b2cb1fd5edced0a539cf3114dcb
+SHA1: f0ef9a64c12294a665dbdb6c52903b87c7937812
+SHA256: 09ed879bc6d21f5c9988470b15702e8bfd0d98964ed31a75d139273a9ce8cbc2
 Section: 嗨-汉化
 Description: Lock Master 简体中文包。
 Author: 妖刀
@@ -11987,6 +12004,23 @@ Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截
 Author: Jonathan Winger-lang
 Name: BigShot 长截图(rootless)
 
+Package: com.dao.blurrybadges
+Version: 1.5.2.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 444
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.blurrybadges, com.spicat.blurrybadges, com.ps.blurrybadges, com.hk.rootless.blurrybadges
+Filename: rootless/BlurryBadges 中文版(rootless).deb
+Size: 47832
+MD5sum: 61ede334d8b054924ffe71b335226d79
+SHA1: 21b9986099cd3b105f061f594ecc72ff6f66f282
+SHA256: 36cd763764c4c5d488f83de231c37e808016b9f07e47073ecd2bca6f56b89b70
+Section: 嗨-工具
+Description: 自定义程序通知角标的边框颜色和透明度，基于PoomSmart的开源直接编译汉化。
+Author: PoomSmart
+Name: BlurryBadges 中文版(rootless)
+
 Package: com.dao.coolcc
 Version: 2.0.1
 Architecture: iphoneos-arm64
@@ -13040,6 +13074,21 @@ Description: FloatingDockXVI 简体中文包(rootless)。
 Author: 妖刀
 Name: FloatingDockXVI 简体中文包(rootless)
 
+Package: com.hk.glow.cn.rl
+Version: 0.6
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Glow 简体中文包(rootless).deb
+Size: 7600
+MD5sum: 25fb9301e192f0ab37efe8498807553c
+SHA1: 3e25ac937e3fc26bd1450712af18ee32c31375e0
+SHA256: 13d9f736d19988ede521610c294dc53085dda1673bee9bf61e90134353e1a378
+Section: 嗨-汉化
+Description: Glow 简体中文包(rootless)。
+Author: Sandy0/妖刀
+Name: Glow 简体中文包(rootless)
+
 Package: com.hk.halo.cn.rl
 Version: 2.2
 Architecture: iphoneos-arm64
@@ -13178,15 +13227,15 @@ Author: 妖刀
 Name: Liddell 简体中文包(rootless)
 
 Package: com.hk.lockmaster.cn
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/Lock Master 简体中文包(rootless).deb
-Size: 2048
-MD5sum: 3e7824e43df558b71f51b766e3e2436e
-SHA1: 2d1ec3b08633b7bc08cacd91a086366af121517f
-SHA256: 7f1f4618f5b541099273eb4188d2451b516690a63ff0d94afd4804b725964875
+Size: 2096
+MD5sum: 6f12f4dd0affff27e3a475f394db8e4f
+SHA1: 5c036a493e4ab809e5475f7f79aedb00d1b1fa95
+SHA256: 85cf072ad62bd42a59f161958bfd163b5b75dc58282ec63906c50a31989c4e83
 Section: 嗨-汉化
 Description: Lock Master 简体中文包(rootless)。
 Author: 妖刀
@@ -14003,6 +14052,23 @@ Description: 漂亮的定时器和闹钟提醒，根据开源编译。
 Author: NoisyFlake
 Name: BetterAlarm中文版(RootHide)
 
+Package: com.dao.blurrybadges
+Version: 1.5.2.1
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 444
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: org.thebigboss.blurrybadges, com.spicat.blurrybadges, com.ps.blurrybadges, com.hk.rootless.blurrybadges
+Filename: roothide/BlurryBadges 中文版(RootHide).deb
+Size: 47788
+MD5sum: a5ec46832479ac61f729e7be2e7a7cfb
+SHA1: 27e8189f1ee4bf1ca15241dd0273f3a52ec7fe3d
+SHA256: 63b8560ad2fc0872ffcdab9f9540fc3980019452b22e4124bd2530db4a608c63
+Section: 嗨-工具
+Description: 自定义程序通知角标的边框颜色和透明度，基于PoomSmart的开源直接编译汉化。
+Author: PoomSmart
+Name: BlurryBadges 中文版(RootHide)
+
 Package: com.dao.kayoko
 Version: 2.0.2.3
 Architecture: iphoneos-arm64e
@@ -14428,6 +14494,21 @@ Section: 嗨-汉化
 Description: FloatingDockXVI 简体中文包(RootHide)。
 Author: 妖刀
 Name: FloatingDockXVI 简体中文包(RootHide)
+
+Package: com.hk.glow.cn.rl
+Version: 0.6
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Glow 简体中文包(RootHide).deb
+Size: 7580
+MD5sum: c5bea36ab5dd62bf203841d4c7edcbc2
+SHA1: 02bc5bf0f48b8c04b8f0d3d223c7765b71c302bb
+SHA256: d4808d77b3579cf36f4a7a58f246d9d6b871b46eef63d284848581258284d03f
+Section: 嗨-汉化
+Description: Glow 简体中文包(RootHide)。
+Author: Sandy0/妖刀
+Name: Glow 简体中文包(RootHide)
 
 Package: com.hk.halo.cn.rl
 Version: 2.2
