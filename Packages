@@ -9256,15 +9256,15 @@ Author: Ball
 Name: Riveria 简体中文包
 
 Package: com.hk.rune.cn
-Version: 1.1
+Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Rune_CN.deb
-Size: 6552
-MD5sum: 4bb7d8bae8c61f8141ebcd5b6f1e7925
-SHA1: d66525d991c034df7e44194438439aa3c281e386
-SHA256: c55f5df50987eb82b7a11118cd7ddd5a70da9902539eb52d254a427f5867293d
+Size: 6848
+MD5sum: 0f0021ed8277b9f5492f3f650069d12b
+SHA1: 5cfc4b1cde52a7618509e099d5b5e6381d54650b
+SHA256: 769a738a9d5ae9f5eeeaec2e91e46326337e8ed1a282350c485f2b9819ee92cb
 Section: 嗨-汉化
 Description: Rune 简体中文包。
 Author: 妖刀
@@ -13571,15 +13571,15 @@ Description: 完全可自由定制的通知横幅，源内安装汉化包。
 Name: Velvet 2(rootless)
 
 Package: com.hk.rune.cn.rl
-Version: 1.1
+Version: 1.2.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Rune 简体中文包(rootless).deb
-Size: 6628
-MD5sum: f03daa0ae4d080a5b2eb47a17dec774f
-SHA1: d64222194151f7b4bfcb89b5fe0962b4f26e259f
-SHA256: fca31a79a7a4bd097254708df0442c11a0374463894f5053ee3effe956c6de51
+Size: 6904
+MD5sum: 546ced3d897379714460d071544b0d03
+SHA1: c74c2de5f9415252a31b4d416a2d7c9f989597b1
+SHA256: e496dee118208877a968c49115305681e45fed85f626392a320daa275af395c8
 Section: 嗨-汉化
 Description: Rune 简体中文包(rootless)。
 Author: 妖刀
@@ -13951,6 +13951,22 @@ Description: 某大佬古老的今日头条系列去广告插件，无设置。�
 Author: 佚名
 Name: 头条NoAds(rootless)
 Sponsor: 佚名
+
+Package: cpm.dao.tinge
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: P2KDev
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.p2kdev.tinge, byg.iosios.net.tinge.rootless
+Filename: rootless/Tinge(rootless).deb
+Size: 20296
+MD5sum: 363833a74321c5a3eb9ad3ce3245566b
+SHA1: 8f2a2404538d20ea099acd438714e898bb4eaca5
+SHA256: 262cd8297c6a5b481dcc9ab3d47484b42b2b7d236f1956cb2e375c7dfb9dcb49
+Section: 嗨-工具
+Description: 根据图标颜色，通知角标自动变色，无设置，安装后自动生效。
+Author: P2KDev
+Name: Tinge(rootless)
 
 Package: dev.traurige.libkitten
 Version: 1.4.1
@@ -14649,15 +14665,15 @@ Author: 妖刀
 Name: PrimalFolder2 简体中文包(RootHide)
 
 Package: com.hk.rune.cn.rl
-Version: 1.1
+Version: 1.2.1
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Rune 简体中文包(RootHide).deb
-Size: 6592
-MD5sum: b7ce68e4fc4e7169dd131e008eae2207
-SHA1: a1a43ce7e22f8fb3c2121a6d09ebc1dd2ea00d2e
-SHA256: 93bf4780de36cdf63d1066ad46ec7cf8a6f62038d5b4af639756cd58134adc13
+Size: 6876
+MD5sum: d0a7f69c5fc6567160fe966824f094aa
+SHA1: ebaa2714a1f2bdf3119b28702d258677b6cef51e
+SHA256: 9913e17ad333f57cc99f97c80d6262f34dcfadd914f69298f619ee515ed7e9df
 Section: 嗨-汉化
 Description: Rune 简体中文包(RootHide)。
 Author: 妖刀
