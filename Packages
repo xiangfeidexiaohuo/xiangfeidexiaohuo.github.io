@@ -3049,15 +3049,15 @@ Author: 妖刀
 Name: AJB 简体中文包
 
 Package: com.hk.akara.cn
-Version: 2.0
+Version: 2.0.2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Akara_CN.deb
-Size: 6776
-MD5sum: 4762599649ee0cf628b9bcae738bb614
-SHA1: fb9097f16508d90076e82bb66d0d65867fea7677
-SHA256: efd011d8cdbdb126e87f50c260f0aee66a917abf795ed6540640bffd8d583a69
+Size: 7028
+MD5sum: 998331ba8e2df6944bdc9eeff9bfecc1
+SHA1: 9640763f4258f1d517cf140c0748c5dd66a83f4d
+SHA256: c69863a6fe2fa58c9c287461662229a316029d5ba5fbb0a09d91d30e19131008
 Section: 嗨-汉化
 Description: Akara 简体中文包。
 Author: 妖刀
@@ -3852,15 +3852,15 @@ Author: 佚名
 Name: 提升音质(国行XsMax-12.4.1)
 
 Package: com.hk.audiorecorderxs.cn
-Version: 5.0-6
+Version: 5.0-7
 Architecture: iphoneos-arm64e
 Maintainer: Sandy0 & 妖刀
 Depends: mobilesubstrate
 Filename: rootful/AudioRecorderXS_CN.deb
-Size: 13600
-MD5sum: 248bea6aee42486a4ccd90dcb6fc6946
-SHA1: 01e0204224f30e20930f08f1601e8508076bec04
-SHA256: 782733f3c5e2d6ba1fc572d9f9e4c3e4a4ecab99e470b4ce4edf11b12f243469
+Size: 13700
+MD5sum: af09071c9443a274bad818fd350d9667
+SHA1: 538ee2a71df3690858107d4473f589c2e9494d3f
+SHA256: 945704bc41e1c6eea3b0842651951a35dbd32412d91cf4f6e03239631c76868e
 Section: 嗨-汉化
 Description: AudioRecorder XS 简体中文包。
 Author: Sandy0 & 妖刀
@@ -7903,15 +7903,15 @@ Author: 妖刀/Sky丶Pain
 Name: Lynx 简体中文包
 
 Package: com.hk.lynx2.cn
-Version: 2.4.8
+Version: 2.4.10
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Lynx2_CN.deb
-Size: 24904
-MD5sum: f65cba66cfdfdb46376b4f37f9cadf64
-SHA1: 9efb0cb7fb3e83e88ec89168b2ab379fd04447b0
-SHA256: 7b1bbe39b8da9b0fa78aacf8d456b0620607b45958a9ac5fd03c398bdacb6abc
+Size: 25716
+MD5sum: 49257f3cab94d8dbb4f2fbba5e7ccfcd
+SHA1: eab23933f8a4658e0c42736a3f2107dbb3ad7ac8
+SHA256: 97e11041a48302c3e70998f801879f8aa37909f55fb7492deb559933d84ff078
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包。
 Author: M哥 & 妖刀
@@ -12186,16 +12186,16 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版(rootless)
 
 Package: com.dao.lynxtwo
-Version: 2.4.8
+Version: 2.4.10
 Architecture: iphoneos-arm64
 Maintainer: MTAC
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Conflicts: com.mtac.lynxtwo
 Filename: rootless/Lynx 2(rootless).deb
-Size: 541592
-MD5sum: 8c1f54da379cf7ca811c4a55d5a29d58
-SHA1: 28a803bf24d88a0f68ad6bc8ef4d592a3c007862
-SHA256: a8cd430c5d283372a8be1f127cc269033c5eb38c9cb4e30c0110abafae0077dc
+Size: 556620
+MD5sum: eca26c76fec2070d5a2c306ebee42204
+SHA1: 3bdab6f995e0128610e5e6798bdd2ea26f6169e1
+SHA256: 5a93917dfe5bc37d76b3b3285b653e7fe52c03b1818ff5b7512524506248bb2b
 Section: 嗨-工具
 Description: 适用于iOS14+的军刀类多功能插件，汉化包在源内。
 Author: MTAC
@@ -12607,15 +12607,15 @@ Author: 妖刀
 Name: A-Font 简体中文包(rootless)
 
 Package: com.hk.akara.cn.rl
-Version: 2.0.0
+Version: 2.0.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Akara 简体中文包(rootless).deb
-Size: 6860
-MD5sum: 30de1691dc1ecac0639d5ba27cc685b0
-SHA1: 20fef3433b47df6202e85540788ff974560f052b
-SHA256: f5d01db41033f204d53809d85d309429f0ecf941d2243ac1f54c64eae9267f61
+Size: 7140
+MD5sum: f61aecea3ffe6bcbbfd339a9cf53dd84
+SHA1: b6abe2c496592dd498918ac13ddf698225dc8d26
+SHA256: 1ac07b756a99922f4e41a362232869253de9fd3c7431fec27caaf28d80180fa2
 Section: 嗨-汉化
 Description: Akara 简体中文包(rootless)。
 Author: 妖刀
@@ -12699,15 +12699,15 @@ Author: Alucard/妖刀
 Name: Atria 简体中文包(rootless)
 
 Package: com.hk.audiorecorderxs.cn.rl
-Version: 5.0-6
+Version: 5.0-7
 Architecture: iphoneos-arm64
 Maintainer: Sandy0 & 妖刀
 Depends: mobilesubstrate
 Filename: rootless/AudioRecorder XS 简体中文包(rootless).deb
-Size: 13664
-MD5sum: c5ca8e64f98c7aa6cba35166ec57aeda
-SHA1: e3a4b3d2111bf18192287ccde09c94e443c76225
-SHA256: 6113e0dd8c56d824c2c547d798d6ca6e0f3b6e1208087f832840696e9c0030ff
+Size: 13756
+MD5sum: c048f9f3e7e2a1ad6f267f40bd5c92d4
+SHA1: 26cb9b9d4caf4bc1ae4cc681cabf95f65367d58f
+SHA256: 7b76900cefac421df2a09551d388506d96b02015254e9133ca2e8c2ddfb6d859
 Section: 嗨-汉化
 Description: AudioRecorder XS 简体中文包(rootless)。
 Author: Sandy0 & 妖刀
@@ -13242,15 +13242,15 @@ Author: 妖刀
 Name: Lock Master 简体中文包(rootless)
 
 Package: com.hk.lynx2.cn.rl
-Version: 2.4.8
+Version: 2.4.10
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Lynx 2 简体中文包(rootless).deb
-Size: 25016
-MD5sum: d7d537847ee83f62508f7bd614882d79
-SHA1: 3bef5c0090da541eaf39e9340aa76f85e588b8f1
-SHA256: 975de8139469c2bc4ab8f2e067d8187ac07a975c79caf2eacddd52f6b2cb4822
+Size: 25712
+MD5sum: 93afa49607c2de0821b612e66e88b514
+SHA1: 01dc4e1f94b72b09f2a22be8020b6a926060d48b
+SHA256: 619c69dc91e62474eceba68c884d7296573d01359f18546fd182afdb908df142
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包(rootless)。
 Author: M哥 & 妖刀
@@ -14301,15 +14301,15 @@ Author: julioverne
 Name: GoodWiFi中文版(RootHide)
 
 Package: com.hk.akara.cn.rl
-Version: 2.0.0
+Version: 2.0.2
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Akara 简体中文包(RootHide).deb
-Size: 6796
-MD5sum: f25824c7cf65bfe0ea4e06db219b79e6
-SHA1: 4b7a3329236bb3754ea068d1b916464a65496597
-SHA256: b8f194871eea0cae1040060f29c1db80e082003ee9ba802cbf51d5fb0485e1be
+Size: 7072
+MD5sum: bf105e808ed2c393f8e92fa7481daec7
+SHA1: ae225790e275f7322a69802b2292e11a069f4d74
+SHA256: 1c36c32aa26a7c9dab1d1aec890cacd0ec805b554089689fe170414361d41e60
 Section: 嗨-汉化
 Description: Akara 简体中文包(RootHide)。
 Author: 妖刀
@@ -14361,15 +14361,15 @@ Author: Alucard/妖刀
 Name: Atria 简体中文包(RootHide)
 
 Package: com.hk.audiorecorderxs.cn.rl
-Version: 5.0-6
+Version: 5.0-7
 Architecture: iphoneos-arm64e
 Maintainer: Sandy0 & 妖刀
 Depends: mobilesubstrate
 Filename: roothide/AudioRecorder XS 简体中文包(RootHide).deb
-Size: 13668
-MD5sum: caab11d97434c96600e3f308bf1a24b8
-SHA1: bb0de8f4b1cc80e76bfa25ecd618f8efc986e6dc
-SHA256: e41d6ce817e9c20e367300adcc2e4bcb4c0e46277eb8a3b6496c0bf1fc74c725
+Size: 13748
+MD5sum: a2d1a041f555e29221c414955f496949
+SHA1: bddb9a5335a91ed3ea9f7e8fbcd7f3ee7260379e
+SHA256: 5e4484772fda26a09dba06d0809e808cbc4325e97eab0a6232ffb55ebbbeddac
 Section: 嗨-汉化
 Description: AudioRecorder XS 简体中文包(RootHide)。
 Author: Sandy0 & 妖刀
@@ -14573,15 +14573,15 @@ Author: 妖刀
 Name: KBApp 简体中文包(RootHide)
 
 Package: com.hk.lynx2.cn.rl
-Version: 2.4.7
+Version: 2.4.10
 Architecture: iphoneos-arm64e
 Maintainer: M哥 & 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Lynx 2 简体中文包(RootHide).deb
-Size: 24404
-MD5sum: eaca13de4f64f5d8d1ef6f87309ead1f
-SHA1: 22f08e205cfca0ce1a04b574834ebf62691268c4
-SHA256: bfb32bcc3d2f543b096119c655a9d736d68778381051e717fc0b7ee7662d79b4
+Size: 25644
+MD5sum: 974fc3a109845355bfc11425a7fc8705
+SHA1: deec9bbce9ecac494c6385b64b7b9c6f6c7111ae
+SHA256: 00c5cd2ae28f19ac238332d4ede095c2638354fe265076cfc461eb78cd2efc67
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包(RootHide)。
 Author: M哥 & 妖刀
