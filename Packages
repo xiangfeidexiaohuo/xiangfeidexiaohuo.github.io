@@ -12337,15 +12337,15 @@ Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/SafariX 简体中文(rootless).deb
+Filename: rootless/SafariX 简体中文包(rootless).deb
 Size: 5852
-MD5sum: e25d7298d6beab2dc447c7ce2c6b1260
-SHA1: 5af771e04afca197f45fefa8d94cc19fd33e7719
-SHA256: 42556dcd9d02daa603f81802aec7ebb9f852f13bc7aaead5e127d8d919acaef5
+MD5sum: d877166d468bc4dfa604b2528cf78902
+SHA1: 2cebf2f65e9f36d64741fadc070073696e797f57
+SHA256: 19f422a7eac1599ff2ab9f102b77f2b152f292a7c086aae85032ed8906bd97bb
 Section: 嗨-汉化
-Description: SafariX 简体中文(rootless)。
+Description: SafariX 简体中文包(rootless)。
 Author: 妖刀
-Name: SafariX 简体中文(rootless)
+Name: SafariX 简体中文包(rootless)
 
 Package: com.dao.senri.cn
 Version: 1.1
