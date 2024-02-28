@@ -11387,16 +11387,16 @@ Author: 妖刀
 Name: YouTube Reborn v4 简体中文包
 
 Package: com.hk.ytlite
-Version: 2.6.2
+Version: 2.7
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootful/YTLite.deb
-Size: 72828
-MD5sum: 2dc32b9cd236e18b7708e4a29a060531
-SHA1: 3fed75b37f463371265114c7051ae8a0bae502ff
-SHA256: 2039b29f520702705f237c483bb2e0533eb2fc2f1a0ef1e1c17f29dc6004adf4
+Size: 98352
+MD5sum: 1715234ce9cfb2ca7c884a9fb7ccc848
+SHA1: a9e79698b448fc90345edbac987ffd4326d88419
+SHA256: b2c55fb43e976820f48071ae7245531ecc4e873257d5bba549cd9e71014cc7cc
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -12316,6 +12316,37 @@ Description: 自由的休眠设备来节省电量。
 Author: Paisseon
 Name: Reverie 中文版(rootless)
 
+Package: com.dao.safarix
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), com.dao.safarix.cn
+Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix
+Filename: rootless/SafariX(rootless).deb
+Size: 267612
+MD5sum: f3adc8c989993b1243e8e6da4593d669
+SHA1: dc896346348517655938edf69e53642251593a34
+SHA256: 09f1e9bd4d70b382f47d2f01d42d4d8a6dc078e72e0676c24e56912d40c6c112
+Section: 嗨-工具
+Description: Safari浏览器增强插件！
+Author: 0xkuj
+Name: SafariX(rootless)
+
+Package: com.dao.safarix.cn
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/SafariX 简体中文(rootless).deb
+Size: 5852
+MD5sum: e25d7298d6beab2dc447c7ce2c6b1260
+SHA1: 5af771e04afca197f45fefa8d94cc19fd33e7719
+SHA256: 42556dcd9d02daa603f81802aec7ebb9f852f13bc7aaead5e127d8d919acaef5
+Section: 嗨-汉化
+Description: SafariX 简体中文(rootless)。
+Author: 妖刀
+Name: SafariX 简体中文(rootless)
+
 Package: com.dao.senri.cn
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -12431,16 +12462,16 @@ Author: Lillie
 Name: YTR 中文版(rootless)
 
 Package: com.dao.ytlite
-Version: 2.6.2
+Version: 2.7
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 72924
-MD5sum: 054513f4b47393785b32889ae3d6640e
-SHA1: f7457c8ca0e5f0b658e41ff79fc92973c46e30d8
-SHA256: 477955f9347b44bab3f461be48f13897a6ffb6f7700ac6ea41c4efde64f850f8
+Size: 98332
+MD5sum: f8b25be1a72a8867ad62636c403db9eb
+SHA1: 50870f2d1e60fd124eafc536ef45fac9f35616fa
+SHA256: abaf488fe3a678ae52a8e7a78e26f83fd14a4f7fc8cdcaf9294d86fa20da3032
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
