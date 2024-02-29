@@ -12333,15 +12333,15 @@ Author: 0xkuj
 Name: SafariX(rootless)
 
 Package: com.dao.safarix.cn
-Version: 1.0.2
+Version: 1.0.2-1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/SafariX 简体中文包(rootless).deb
-Size: 5852
-MD5sum: d877166d468bc4dfa604b2528cf78902
-SHA1: 2cebf2f65e9f36d64741fadc070073696e797f57
-SHA256: 19f422a7eac1599ff2ab9f102b77f2b152f292a7c086aae85032ed8906bd97bb
+Size: 5924
+MD5sum: 8a1e879fe3e3cd76411c44487155ba26
+SHA1: 7bc3916246d0176bc11b96bfb39add2c5b40511b
+SHA256: f904e47f288649a906d0930f288640dee3ccb924b0c647b24fad427d622db11b
 Section: 嗨-汉化
 Description: SafariX 简体中文包(rootless)。
 Author: 妖刀
