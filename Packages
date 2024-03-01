@@ -12317,31 +12317,31 @@ Author: Paisseon
 Name: Reverie 中文版(rootless)
 
 Package: com.dao.safarix
-Version: 1.0.2
+Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), com.dao.safarix.cn
 Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix
 Filename: rootless/SafariX(rootless).deb
-Size: 267612
-MD5sum: f3adc8c989993b1243e8e6da4593d669
-SHA1: dc896346348517655938edf69e53642251593a34
-SHA256: 09f1e9bd4d70b382f47d2f01d42d4d8a6dc078e72e0676c24e56912d40c6c112
+Size: 268432
+MD5sum: 4c03e6cf6de3b91ec81b01188065ceb8
+SHA1: a191cf609925806cd84fbd1f5bb23721c94c641e
+SHA256: a7e3178c7d00d34eb549a76c6ebf2c35ac9e0e00140fed7fee867903d586ec5b
 Section: 嗨-工具
 Description: Safari浏览器增强插件！
 Author: 0xkuj
 Name: SafariX(rootless)
 
 Package: com.dao.safarix.cn
-Version: 1.0.2-1
+Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/SafariX 简体中文包(rootless).deb
-Size: 5924
-MD5sum: 8a1e879fe3e3cd76411c44487155ba26
-SHA1: 7bc3916246d0176bc11b96bfb39add2c5b40511b
-SHA256: f904e47f288649a906d0930f288640dee3ccb924b0c647b24fad427d622db11b
+Size: 6100
+MD5sum: 9b696e4f27401854e1a7cfe74c304d0a
+SHA1: b05abfcab913a9a0f08bda29b4972d68581f0687
+SHA256: b99f9d720c05f712efd71bc1cde90f29c5c2b55e4d9ecb15deca2131e2c1d448
 Section: 嗨-汉化
 Description: SafariX 简体中文包(rootless)。
 Author: 妖刀
