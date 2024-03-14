@@ -10121,15 +10121,15 @@ Author: Ball <ball@hackcn.net>
 Name: Speculum 简体中文包
 
 Package: com.hk.speedster.cn
-Version: 1.1.1
+Version: 2.0.0
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Speedster_CN.deb
-Size: 1416
-MD5sum: 12dd194fb69b0d7fa90e8a16e2188f87
-SHA1: 544625fbc49c2fea482becd909483507035f2377
-SHA256: 0a19f3a777cdcec779ed3161fdd9e93bf889eda786c663b614e3e863aeb00f65
+Size: 1580
+MD5sum: 53396cfd6c1bebda804218c681634154
+SHA1: 6920f44662d0a0419a2536be33b93be0aa5aafac
+SHA256: 75f3035d46a54b67e7ada0fa918425b15cb81c7e320f0e87498ac498dd9a7e82
 Section: 嗨-汉化
 Description: Speedster 简体中文包。
 Author: 妖刀
@@ -11387,16 +11387,16 @@ Author: 妖刀
 Name: YouTube Reborn v4 简体中文包
 
 Package: com.hk.ytlite
-Version: 2.7
+Version: 3.0.1
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootful/YTLite.deb
-Size: 98352
-MD5sum: 1715234ce9cfb2ca7c884a9fb7ccc848
-SHA1: a9e79698b448fc90345edbac987ffd4326d88419
-SHA256: b2c55fb43e976820f48071ae7245531ecc4e873257d5bba549cd9e71014cc7cc
+Size: 117204
+MD5sum: 9e188cf744fe2f24d1d19bfbc97eea37
+SHA1: d3f5b29fb367cf26f045afe69639e7f53f9991f0
+SHA256: ebe2c5f4e356d456ebf3f051b91ab709cd8f35711ef27bc3152cc0d8c94c3d78
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -12186,16 +12186,16 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko 中文版(rootless)
 
 Package: com.dao.lynxtwo
-Version: 2.4.10
+Version: 2.5
 Architecture: iphoneos-arm64
 Maintainer: MTAC
 Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
 Conflicts: com.mtac.lynxtwo
 Filename: rootless/Lynx 2(rootless).deb
-Size: 556620
-MD5sum: eca26c76fec2070d5a2c306ebee42204
-SHA1: 3bdab6f995e0128610e5e6798bdd2ea26f6169e1
-SHA256: 5a93917dfe5bc37d76b3b3285b653e7fe52c03b1818ff5b7512524506248bb2b
+Size: 567296
+MD5sum: d94a82d026ff175ed26cd47762e2ac29
+SHA1: 616cca1cf660884f2e51ea5188359a0ed4f17df4
+SHA256: d388336a637b6a80a7ad54a3497b70d0574b4e4573fb8cae659afa43fa7bb9c2
 Section: 嗨-工具
 Description: 适用于iOS14+的军刀类多功能插件，汉化包在源内。
 Author: MTAC
@@ -12462,16 +12462,16 @@ Author: Lillie
 Name: YTR 中文版(rootless)
 
 Package: com.dao.ytlite
-Version: 2.7
+Version: 3.0.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 98332
-MD5sum: f8b25be1a72a8867ad62636c403db9eb
-SHA1: 50870f2d1e60fd124eafc536ef45fac9f35616fa
-SHA256: abaf488fe3a678ae52a8e7a78e26f83fd14a4f7fc8cdcaf9294d86fa20da3032
+Size: 117328
+MD5sum: 618ecee99c499f13dfe496f7e3e484c7
+SHA1: 15eef191b3180400a24d64c7dafac3cd02a6991a
+SHA256: 6f5aab9332db3b75f0adfc4687397b21e9209d502fcd35632d148f4080c94dbb
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -13768,15 +13768,15 @@ Author: 妖刀
 Name: Spectrum 简体中文包(rootless)
 
 Package: com.hk.speedster.cn.rl
-Version: 1.1.1
+Version: 2.0.0
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Speedster 简体中文包(rootless).deb
-Size: 1456
-MD5sum: 994d3b67db23bb53e9f9235d474f39c9
-SHA1: e26e7a03fbe5bb5fe2ab7e9c48f5a81abbe24665
-SHA256: 541aa2d8bb74fddd527fd667258cda0b63125c59a3882c601b6daa5e85e9a409
+Size: 1624
+MD5sum: da7ca4368e38fd11949517708bd9474a
+SHA1: 66ebb507561333fa6c62a5f2d48a84f80fe2ddbb
+SHA256: 0339510ea85e38fe35a1743fcdcd13e93aa836883154925b8f66fda920de42a4
 Section: 嗨-汉化
 Description: Speedster 简体中文包(rootless)。
 Author: 妖刀
