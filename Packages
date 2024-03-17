@@ -7125,16 +7125,16 @@ Author: Ball
 Name: Indy 简体中文包
 
 Package: com.hk.infuseplus
-Version: 1.1.4
+Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootful/InfusePlus.deb
-Size: 169884
-MD5sum: 6a142824b810a282905fdab3029e3aeb
-SHA1: 1c6e9b5fd56ae3114a8e6050f78e47c3bf453794
-SHA256: 025b1f28e5651d21bdad5405b517040e51f9efb532e17eef9e6bf589d6de8078
+Size: 171428
+MD5sum: b3a9a8557d130a42e88c0c7b0e6babce
+SHA1: 259f59556a6f69ad18028fc3dd33a3b8c7ef05a3
+SHA256: 6947d1c61909c21c4e929fe61005c6a01172e5f8ed77d7f382511b136b774d8a
 Section: 嗨-工具
 Description: Infuse的破解/增强插件。
 Author: dvntm
@@ -7903,15 +7903,15 @@ Author: 妖刀/Sky丶Pain
 Name: Lynx 简体中文包
 
 Package: com.hk.lynx2.cn
-Version: 2.4.10
+Version: 2.5
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Lynx2_CN.deb
-Size: 25716
-MD5sum: 49257f3cab94d8dbb4f2fbba5e7ccfcd
-SHA1: eab23933f8a4658e0c42736a3f2107dbb3ad7ac8
-SHA256: 97e11041a48302c3e70998f801879f8aa37909f55fb7492deb559933d84ff078
+Size: 25804
+MD5sum: 64f55cf556bb0ce7734180313ec7703d
+SHA1: 43ae990a64bd11da741eded9099212931ba835c6
+SHA256: 4a77dd44384d5b29f95f5dced232be443fd23bad7654365f69ca1ff8e6de6f3c
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包。
 Author: M哥 & 妖刀
@@ -12103,16 +12103,16 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Name: iCleaner Pro(rootless)
 
 Package: com.dao.infuseplus
-Version: 1.1.4
+Version: 1.1.5
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootless/Infuse Plus(rootless).deb
-Size: 169896
-MD5sum: 1e9796dcae6a1e7f49ff2b46eb108793
-SHA1: e020988425588c165f9713439cff412040fd3705
-SHA256: 91933484ce49b19885f134f19d331ae212d07e9a0ac059aae7b40a76c4de2889
+Size: 171348
+MD5sum: de975e77820701e5eec82e97b9c009a6
+SHA1: 2bfeb87f7513fe63285f306720080e0288f9fed6
+SHA256: c8e9f7214951ac118a48b3ab72aabefa52e7ebcf7627a52716745ac5c6e2882f
 Section: 嗨-工具
 Description: Infuse的破解/增强插件。
 Author: dvntm
@@ -13273,15 +13273,15 @@ Author: 妖刀
 Name: Lock Master 简体中文包(rootless)
 
 Package: com.hk.lynx2.cn.rl
-Version: 2.4.10
+Version: 2.5
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Lynx 2 简体中文包(rootless).deb
-Size: 25712
-MD5sum: 93afa49607c2de0821b612e66e88b514
-SHA1: 01dc4e1f94b72b09f2a22be8020b6a926060d48b
-SHA256: 619c69dc91e62474eceba68c884d7296573d01359f18546fd182afdb908df142
+Size: 26080
+MD5sum: c5f5df3254a1697a36dc0a7fc093f300
+SHA1: 832aba288f840d742996c9c5547b09b7f74485aa
+SHA256: db753777209a1d112abc816acc1e55b94944e2fabb5ca3d0254947e4c3fc8547
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包(rootless)。
 Author: M哥 & 妖刀
@@ -14604,15 +14604,15 @@ Author: 妖刀
 Name: KBApp 简体中文包(RootHide)
 
 Package: com.hk.lynx2.cn.rl
-Version: 2.4.10
+Version: 2.5
 Architecture: iphoneos-arm64e
 Maintainer: M哥 & 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Lynx 2 简体中文包(RootHide).deb
-Size: 25644
-MD5sum: 974fc3a109845355bfc11425a7fc8705
-SHA1: deec9bbce9ecac494c6385b64b7b9c6f6c7111ae
-SHA256: 00c5cd2ae28f19ac238332d4ede095c2638354fe265076cfc461eb78cd2efc67
+Size: 25664
+MD5sum: bd0b35f26ffe279ac61f9738cf405ff0
+SHA1: 3ac7b93c272b8e6a450e83cbc9ec3c9ae3879d45
+SHA256: d1645db62c43a15cbffdb379872eae030e733ba398bb32eda9c79d92197de1e2
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包(RootHide)。
 Author: M哥 & 妖刀
