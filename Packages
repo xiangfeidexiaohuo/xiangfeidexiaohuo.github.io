@@ -10644,6 +10644,21 @@ Description: 修复u0/Xina越狱上的验证码自动填充问题。
 Author: Baw Appie <pp121324@gmail.com>
 Name: u0/XinaSMSCompleteFix(修复自动填充)
 
+Package: com.hk.umderdock.cn
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootful/UnderDock_CN.deb
+Size: 5024
+MD5sum: 46bff63fa345a544791a7f89f081d9ab
+SHA1: 77e4f8aafc1e2f4412668b37aad872aa33fa712e
+SHA256: 90dd6edf0a07e933785e2b72e23fa4e328e3f46dd7f5d7ad9498ee89bebbebf3
+Section: 嗨-工具
+Description: UnderDock 简体中文包。
+Author: 妖刀
+Name: UnderDock 简体中文包
+
 Package: com.hk.unityfpsindicator
 Version: 0.0.4.1
 Architecture: iphoneos-arm
@@ -12378,6 +12393,21 @@ Description: 设置自定义、归类插件，源内有汉化包。
 Author: SOPPPra
 Name: SettingsRevamp(rootless)
 
+Package: com.dao.sleeperx.cn
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/SleeperX 简体中文包(rootless).deb
+Size: 3508
+MD5sum: a5149e966d146ffbb89c2364db249eb8
+SHA1: 8046d4f1ca5ecd453ac49d04776e6ee2713237bb
+SHA256: de7ecef4480dbfd6f4318e8fc3a4197632646eb9587339ab2e2781bf9e0c8b25
+Section: 嗨-工具
+Description: SleeperX 简体中文包(rootless)。
+Author: 晴天
+Name: SleeperX 简体中文包(rootless)
+
 Package: com.dao.souvenir
 Version: 1.25
 Architecture: iphoneos-arm64
@@ -13907,15 +13937,15 @@ Author: 妖刀
 Name: UISpeed 简体中文包(rootless)
 
 Package: com.hk.underdock.cn
-Version: 1.0
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/UnderDock 简体中文包(rootless).deb
-Size: 4948
-MD5sum: b66ff9ae35201cda7151a40975ba4347
-SHA1: a188dfcf34536cda099ba0a1de1b413ad22c38b0
-SHA256: 77b57a1c4157fe1f82091d823ed9498bd58966d0186d73cb4df0066ada07a47c
+Size: 5116
+MD5sum: eaa90e71e9ec344ec992fbbff78d8d77
+SHA1: 75bce32e16bd19a2f55cd9dbf1d84c35c9009019
+SHA256: bb14ff5c694d5ce88808614087cf648ea81a8ea9b56c2f431a633e93246aa01e
 Section: 嗨-汉化
 Description: UnderDock 简体中文包(rootless)。
 Author: 妖刀
@@ -14834,15 +14864,15 @@ Author: 妖刀
 Name: TrollStore 简体中文包(RootHide)
 
 Package: com.hk.underdock.cn
-Version: 1.0
+Version: 1.2
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/UnderDock 简体中文包(RootHide).deb
-Size: 4804
-MD5sum: 0d69066a5acee00e3a780e0fd8911851
-SHA1: c51206fdc5dd19fc0973296335a50520b186b726
-SHA256: ab87926593eb1d91bceca14b448cde838600f4bcc0629e140070a7935f70bb3c
+Size: 5072
+MD5sum: dacd851e3d9e3aeb0f17d404f968473f
+SHA1: 74d6e31bbfbbe3b85f6354bf2e2704cc22167bda
+SHA256: 68f443962f382c196d84ce956c44a19b122eea88403c8baeb20a3779bb78baad
 Section: 嗨-汉化
 Description: UnderDock 简体中文包(RootHide)。
 Author: 妖刀
