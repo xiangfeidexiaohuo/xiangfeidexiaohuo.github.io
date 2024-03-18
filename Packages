@@ -2452,6 +2452,22 @@ Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优
 Author: Nepeta
 Name: Axon 中文版
 
+Package: com.dao.azule
+Version: 0.7.6
+Architecture: iphoneos-arm
+Maintainer: Alaise
+Depends: odcctools, bzip2, gzip, zstd, xz-utils, bash, jq, com.level3tjg.insert-dylib, plutil | com.bingner.plutil, ldid, coreutils, zip, unzip, sed, curl, me.alfhaily.opencli, com.linusyang.appinst
+Conflicts: com.alaise.azule
+Filename: rootful/Azule.deb
+Size: 624120
+MD5sum: 6f17200810cdf88408de9890d59c7de1
+SHA1: 19220e1f755e11fa4ac6aad55ffebe110f6656de
+SHA256: f1ac8be14aff9168aa45c5441a85dfb4a339f67460bf2004fd3a6bddb3aa0152
+Section: 嗨-工具
+Description: 一个自动化注入工具，为iOS应用程序注入插件。需要依赖插件比较多，请先添加以下的源：https://level3tjg.me/repo/、https://apt.alfhaily.me/、https://cydia.akemi.ai/。具体用法，自行科普azule -h。
+Author: Alaise
+Name: Azule 注入工具
+
 Package: com.dao.betteralarm
 Version: 1.5
 Architecture: iphoneos-arm
@@ -7908,10 +7924,10 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Lynx2_CN.deb
-Size: 25804
-MD5sum: 64f55cf556bb0ce7734180313ec7703d
-SHA1: 43ae990a64bd11da741eded9099212931ba835c6
-SHA256: 4a77dd44384d5b29f95f5dced232be443fd23bad7654365f69ca1ff8e6de6f3c
+Size: 25796
+MD5sum: 5fa975b2ae2122ea21a7e37a5a6785ff
+SHA1: d2b6a790e0d4ce44b8c5e64a2a678a8b0da60dcb
+SHA256: 2804a380caaa45787713b8d59cd8e95455e2d1e300a1e8a24693db93838f7db5
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包。
 Author: M哥 & 妖刀
@@ -11402,16 +11418,16 @@ Author: 妖刀
 Name: YouTube Reborn v4 简体中文包
 
 Package: com.hk.ytlite
-Version: 3.0.1
+Version: 3.0.2
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootful/YTLite.deb
-Size: 117204
-MD5sum: 9e188cf744fe2f24d1d19bfbc97eea37
-SHA1: d3f5b29fb367cf26f045afe69639e7f53f9991f0
-SHA256: ebe2c5f4e356d456ebf3f051b91ab709cd8f35711ef27bc3152cc0d8c94c3d78
+Size: 123792
+MD5sum: 883f2935ee674831ccd06ecb441632fe
+SHA1: 7df5d86d7f2cd0aa52becb64fb3703cef48885cf
+SHA256: fe2cf38e9124878df7226cff4a42cd874af42616b7418a9d20f0390e05936403
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -11938,6 +11954,22 @@ Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优
 Author: Nepeta
 Name: Axon 中文版(rootless)
 
+Package: com.dao.azule
+Version: 0.8.2
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: odcctools, bzip2, gzip, zstd, xz-utils, bash, jq, plutil, ldid, coreutils, zip, unzip, sed, curl, com.linusyang.appinst
+Conflicts: xyz.cypwn.azule
+Filename: rootless/Azule(rootless).deb
+Size: 2241412
+MD5sum: 8ad9cce216082e7e73a1171304601caf
+SHA1: c2633bafcbe4ce30b0cd1435e27bbeb566a64a5c
+SHA256: 8e0d02fc1fa0c4691d60e21932debac2c5cd64dc28399072ac38a172428532a0
+Section: 嗨-工具
+Description: 一个自动化注入工具，为iOS应用程序注入插件。具体用法，自行科普azule -h。
+Author: Alaise, Sudo
+Name: Azule(rootless)
+
 Package: com.dao.betteralarm
 Version: 1.5
 Architecture: iphoneos-arm64
@@ -12054,16 +12086,16 @@ Author: alias20
 Name: CoolCC(rootless)
 
 Package: com.dao.designer
-Version: 1.4
+Version: 1.4.5
 Architecture: iphoneos-arm64
 Maintainer: JunesiPhone
 Depends: mobilesubstrate, preferenceloader
-Conflicts: xyz.cypwn.designer
+Conflicts: xyz.cypwn.designer, com.junesiphone.designer
 Filename: rootless/Designer(rootless).deb
-Size: 11085036
-MD5sum: 7408cfa89378b4e4952739a9536a75f7
-SHA1: bc64f5eb6fea0c6f7c17c452078ab03a16ba3de2
-SHA256: f33af226f79922185b551079308a4f40357f2f2242ea1f1f055671aacff9e7e7
+Size: 11657972
+MD5sum: c6a6da9165be60d78ad95265a5d9909c
+SHA1: ca51c64bbe22a6f980610801adfc79b2138f1592
+SHA256: 6060095c38c996506b7882557ca7e05e7d44a299b5a2e8c3b120f9dcc9d6684a
 Section: 嗨-工具
 Description: 一款锁屏和主屏幕的主题布局插件。
 Author: JunesiPhone
@@ -12492,16 +12524,16 @@ Author: Lillie
 Name: YTR 中文版(rootless)
 
 Package: com.dao.ytlite
-Version: 3.0.1
+Version: 3.0.2
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 117328
-MD5sum: 618ecee99c499f13dfe496f7e3e484c7
-SHA1: 15eef191b3180400a24d64c7dafac3cd02a6991a
-SHA256: 6f5aab9332db3b75f0adfc4687397b21e9209d502fcd35632d148f4080c94dbb
+Size: 123580
+MD5sum: 76aa4be50a502a59e74fb732a0751a2c
+SHA1: b788a52a67a8e58817e42e1555ac93c2a9970c9b
+SHA256: 748138d00ec2e96e08aede93ad837ecadd7544043444f5f722cd9a17f5ae9613
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
 Author: dvntm
@@ -13016,17 +13048,17 @@ Author: 妖刀
 Name: CylinderReborn 中文修复包(rootless)
 
 Package: com.hk.designer.cn.rl
-Version: 1.4
+Version: 1.4.5
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Designer 简体中文包(rootless).deb
-Size: 5512
-MD5sum: 7e725131b82d8fd0c7a5812f5d6b11fc
-SHA1: 97e9f67c378635b8cc351dae062c1bd15c86e5bd
-SHA256: 43fd820f18f285dc6515e7a8ffcdf67721e91e5897b68f828ae46d1f0712a2c9
+Size: 7260
+MD5sum: 5d94e067b4c7e31f244ddbcb9d5a2770
+SHA1: a103ed07107a7e2062942747eadc1f69ffdc63d7
+SHA256: 71b9a2280528ef213aa0a92347bf956741df6eb026f656b14aaf5dfa9f0e3961
 Section: 嗨-汉化
-Description: Designer 简体中文包(rootless)。
+Description: Designer 简体中文包(rootless)。简单汉化下插件主设置，部分汉化。
 Author: 妖刀
 Name: Designer 简体中文包(rootless)
 
@@ -13308,10 +13340,10 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Lynx 2 简体中文包(rootless).deb
-Size: 26080
-MD5sum: c5f5df3254a1697a36dc0a7fc093f300
-SHA1: 832aba288f840d742996c9c5547b09b7f74485aa
-SHA256: db753777209a1d112abc816acc1e55b94944e2fabb5ca3d0254947e4c3fc8547
+Size: 25976
+MD5sum: 6c9efec49b1b6616f3dc4db9dc97e83c
+SHA1: 106402dc086ea1c229660cf16b832b32703ef3ce
+SHA256: 2da584e232c1064c2f2afbf29f379e2500a30a5d5630d4868de6b70f7857b4b7
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包(rootless)。
 Author: M哥 & 妖刀
@@ -14639,10 +14671,10 @@ Architecture: iphoneos-arm64e
 Maintainer: M哥 & 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Lynx 2 简体中文包(RootHide).deb
-Size: 25664
-MD5sum: bd0b35f26ffe279ac61f9738cf405ff0
-SHA1: 3ac7b93c272b8e6a450e83cbc9ec3c9ae3879d45
-SHA256: d1645db62c43a15cbffdb379872eae030e733ba398bb32eda9c79d92197de1e2
+Size: 25800
+MD5sum: 3e801cc988bfd4be5a8b1016c702dc84
+SHA1: 3f8b54963da7af2b61f7166dee53677c2b64630c
+SHA256: 700e64fcdc6c7789b0a1666f791f8695c6d4090583639ce149d268853b15152d
 Section: 嗨-汉化
 Description: Lynx 2 简体中文包(RootHide)。
 Author: M哥 & 妖刀
