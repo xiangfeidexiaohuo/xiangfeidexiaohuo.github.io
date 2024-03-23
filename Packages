@@ -7387,12 +7387,12 @@ Maintainer: Traurige <hello@traurige.dev>
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
 Conflicts: dev.traurige.kayoko, com.hk.traurige.kayoko, com.dao.kayoko
 Filename: rootful/Kayoko_Mod.deb
-Size: 121096
-MD5sum: f2fcfd90544426bd4d52ad129f110912
-SHA1: b2b3359a921a1263eed7e1456a563721d234bbc1
-SHA256: cbed7fa804ce152bc448468df0ac042419725d25e350749f3656a02679579c43
+Size: 121260
+MD5sum: fb36cecc2be488bcc1c3b92824bdb34c
+SHA1: 4a8fc7768887278648f3e72ea3f7ff4ce67030ec
+SHA256: b452c5985796647bea2559c48f0fe350fc700d7c83df6320b58275cbea03167b
 Section: 嗨-工具
-Description: 适用于iOS13~15的剪切板插件，剪切板里的英文可直接翻译等，汉化包在源内。v1.2x版本为某大佬修改编译版本，修改日志：1、加了个高度、音效、振动反馈；2、听写图标改成了剪贴板图标；3、按钮配色换了；4、修了个收藏夹切回来，原本内容无法正常显示的Bug；5、优化了条目删除或者移动时候的动画效果；6、修复了其他bug；7、修复了偶发粘贴失败的情况；8、加了个禁用粘贴浮动提示的功能；9、iOS14及以下不修改听写图标(修改会有问题)。
+Description: 剪切板插件，可选择听写键呼出剪切板，可粘贴复制，可直接跳转网页等，汉化包在源内。此版本为Lessica编译魔改版本，魔改日志：1、加了个高度、音效、振动反馈；2、听写图标改成了剪贴板图标；3、按钮配色换了；4、修了个收藏夹切回来，原本内容无法正常显示的Bug；5、优化了条目删除或者移动时候的动画效果；6、修复了其他bug；7、修复了偶发粘贴失败的情况；8、加了个禁用粘贴浮动提示的功能；9、iOS14及以下不修改听写图标(修改会有问题)。
 Author: Traurige <hello@traurige.dev>
 Name: Kayoko编译版
 
@@ -12578,11 +12578,11 @@ Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsa
 Conflicts: dev.traurige.kayoko, com.daodao.kayoko, com.skypain.kayoko, com.dao.kayoko, com.daodao.82.kayoko
 Filename: rootless/Kayoko魔改版(rootless).deb
 Size: 110884
-MD5sum: cf813f91df6b424e17a630a6b8766f94
-SHA1: 54892e808541b0500b36be92e3b7cb8f14d948ce
-SHA256: 476a2cbf59aaca70f00d807a9b231eda9b9e10c032241b95533a3104208b870c
+MD5sum: 5faa207aa3c3fac9aa605669456eca19
+SHA1: 8fef7d9a2b7878e1bd890cd9f7e006fff4fa1a93
+SHA256: 55824051003b72a451150f41340b072a4e7e1e6109e610c93a8fc0d7dfed11ee
 Section: 嗨-系统
-Description: 剪切板插件，直接替代听写键，可直接翻译剪切板里的英文等。Skypain大佬基于Traurige和Lessica的开源项目制作，魔改特性(可修改高度，音效、振动、文本筛选等)和一些优化修复等。Skypain同步最新的2.0源码，制作的魔改版，和之前的1.x系列不一样。
+Description: 剪切板插件，可选择听写键呼出剪切板，可粘贴复制，可直接跳转网页等。Skypain基于Traurige原版和Lessica魔改项目制作，魔改特性(可修改高度，音效、振动、文本筛选等)和一些优化修复等。Skypain同步最新2.0源码制作的魔改版，和之前的1.x系列不一样。
 Author: Traurige&Lessica
 Name: Kayoko魔改版(rootless)
 
