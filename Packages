@@ -13615,16 +13615,16 @@ Author: opa334
 Name: Crane(rootless)
 
 Package: com.hk.rootless.crane
-Version: 1.3.14
+Version: 1.3.14-4
 Architecture: iphoneos-arm64
 Maintainer: opa334
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
 Filename: rootless/Crane(rootless).deb
-Size: 560976
-MD5sum: 15921364c11770d1eabda11181f2bc37
-SHA1: 9eda30803231b32bba3fa45f44873347ec06451c
-SHA256: c93bd3516af976c1377aaf01bba649b1176316616190f5f9787bc4496aa36348
+Size: 561512
+MD5sum: fdee009ad3b54b218fd7248e418e06cb
+SHA1: e80e88de9abe3fbdd0ec924ea5fe3dc8505d5793
+SHA256: df5eb36195687a35a02fae327880052bff9f745f997e0f8e39b5614eb5caea0e
 Section: 嗨-系统
 Description: 为应用程序提供多个容器，账号多开神器。
 Author: opa334
