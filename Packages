@@ -10579,17 +10579,17 @@ Author: 妖刀
 Name: TrollNonce 简体中文包
 
 Package: com.hk.trollstore.cn
-Version: 2.0.13
+Version: 2.0.14
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Conflicts: com.qms.trollstore.cn
 Filename: rootful/TrollStore_CN.deb
-Size: 13768
-MD5sum: 16c9786e259104f60f8526f75d4bfccd
-SHA1: 263b48b6aa554fb12a35bb6e07aad4e2024bcbcc
-SHA256: dc2211c843652b9047e7628c4cb0df17a679ec320dd33efbf859f8818b4c72d0
+Size: 13754
+MD5sum: a7d4f987ccab9ace3750adb674d1e340
+SHA1: 3c284a0d56867227f1507fc58b00d65ddceb5d84
+SHA256: 32f4d5783f0b87e6cb0fa363afa98523f5dac8b48aa1bc621e9f3f5ba2d91124
 Section: 嗨-汉化
 Description: TrollStore 简体中文包。
 Author: 妖刀
@@ -13919,17 +13919,17 @@ Author: 妖刀
 Name: TrollNonce 简体中文包(rootless)
 
 Package: com.hk.trollstore.cn.rl
-Version: 2.0.13
+Version: 2.0.14
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Conflicts: com.qms.trollstore.cn
 Filename: rootless/TrollStore 简体中文包(rootless).deb
-Size: 13832
-MD5sum: 04a4b9a81a2bb195b6b5884920717e05
-SHA1: bcfd8677f2bcd90b2f3de08f686deb0151815612
-SHA256: 8405bb3588c45a8d4f8cf8581c8b11c1a671559c61f822ade9a925eb7bb84855
+Size: 13874
+MD5sum: 2fa5818ea1db2dab8a6eee9189b91e70
+SHA1: ee896a4b771d1b8dd44d322aca17f8926f3d700d
+SHA256: 7601c3ec6161b84ee46eff28e232ae41794ea13fcec8b19ac28d7ada6278b9d6
 Section: 嗨-汉化
 Description: TrollStore 简体中文包(rootless)。
 Author: 妖刀
@@ -14861,17 +14861,17 @@ Author: 妖刀
 Name: TrollNonce 简体中文包(RootHide)
 
 Package: com.hk.trollstore.cn.rl
-Version: 2.0.13
+Version: 2.0.14
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Conflicts: com.qms.trollstore.cn
 Filename: roothide/TrollStore 简体中文包(RootHide).deb
-Size: 13808
-MD5sum: 49db1535899e484ddf8126a869a373d3
-SHA1: 968a14d5264e5fbe0fc7c8bfcd073841804cf48e
-SHA256: 5b98abc8270200ab3e26e9fc232252226ca0ae80fc83cc903410490caea2e217
+Size: 13812
+MD5sum: c77a29b24a64707e70349bb38135a6f3
+SHA1: c98e8c9f503b57bad680a2522b488ee1ed8841d4
+SHA256: aa2a3a9a961551693aadd0132856f075dd3a2d4ad55baac09e41f8cf2fe0073e
 Section: 嗨-汉化
 Description: TrollStore 简体中文包(RootHide)。
 Author: 妖刀
