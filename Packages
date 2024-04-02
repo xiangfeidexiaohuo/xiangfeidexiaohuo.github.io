@@ -12217,18 +12217,18 @@ Package: com.dao.noline
 Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Installed-Size: 168
 Depends: mobilesubstrate
 Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
 Filename: rootless/PurifyLine(rootless).deb
-Size: 3672
-MD5sum: f961e3bec214078a6909885762a26e0a
-SHA1: 81513b26c2a7369e1aaeb7ec79f60e8d4a6731e9
-SHA256: 5bb93a8730aee84f8c9dcbaf37f7eb894b5d59dd9bc26af2049bac09818c3f61
+Size: 3780
+MD5sum: ec62a23aadc9e3cff89eb715017251ef
+SHA1: 44b6061dea3d22af5322fea44392fc2e8c4af2c6
+SHA256: b1901e512b196fd729764b79c55d56b0d7b9335062d54f4e0a574943f6fbb30f
 Section: 嗨-系统
 Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
 Author: 妖刀
 Name: PurifyLine(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
 Package: com.dao.ocd
 Version: 0.4-beta-1-Lite
@@ -12442,18 +12442,18 @@ Package: com.dao.velvet2
 Version: 2.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Installed-Size: 660
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
 Filename: rootless/Velvet 2 中文版(rootless).deb
-Size: 99758
-MD5sum: b779c978a4d87ac3ce898e9ed6485c0b
-SHA1: f9c4e0fa3e18ddedab864d6a3093c74e680ad2cf
-SHA256: adf98d4b5408ac8110b1ed855599e2812f2dd39df8d887dfe9487dc85a6baa70
+Size: 100220
+MD5sum: 4bd0a34fba04e31e2d8819ec9a744570
+SHA1: 17cf329ef494ae17de814ec5f37d3ed327bd85f0
+SHA256: 721cfc8fc9ad20c346a80a440ada19ff726e316e5eded1c43c13a312af6815c4
 Section: 嗨-工具
 Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
 Author: NoisyFlake
 Name: Velvet 2 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
 Package: com.dao.youtubereborn
 Version: 4.1.5
@@ -12509,18 +12509,18 @@ Package: com.daodao.goodwifi
 Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Installed-Size: 368
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.goodwifi
 Filename: rootless/GoodWiFi中文版(rootless).deb
-Size: 34276
-MD5sum: 598f62f075485cf469137429c9dc20fb
-SHA1: 8af6dbf224ef7ae75c04d20c3b075732c2e8c711
-SHA256: 793c0b5ed55ab346fab19f24b989786bd4dbf9ee8657de56a058e4c0a2856631
+Size: 34564
+MD5sum: 5b3194e0422804fa8f9d8ab7c07b7516
+SHA1: aee78ebd7e25563468a038ca8289d28b378dbe2a
+SHA256: 44e76479979539b06fabab35cdb9d45d7686afbc9e849aab1034db7a2f8ce98a
 Section: 嗨-工具
 Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
 Package: com.daodao.kayoko
 Version: 1.4.2-1
