@@ -19,7 +19,7 @@
                     "action":"https://hk.bjjii.com/?p=ae86_daodao",
                     "openExternal": 1,
                     "class":"DepictionTableButtonView"
-                }
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "锁屏通知聚合插件，根据开源编译/汉化。",
