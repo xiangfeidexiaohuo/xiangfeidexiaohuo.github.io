@@ -10,6 +10,7 @@
             "views": [
                 {
                     "title":"秋名山频道",
+                    "text":"秋名山频道",
                     "action":"https://t.me/ae86_ios",
                     "openExternal": 1,
                     "class":"DepictionButtonView"
@@ -22,9 +23,8 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "title": "锁屏通知聚合插件，根据开源编译/汉化。",
-                    "useBoldText": true,
-                    "useBottomMargin": false
+                    "markdown": "锁屏通知聚合插件，根据开源编译/汉化。",
+                    "useRawFormat": true,
                 },
                 {
                     "class": "DepictionScreenshotsView",
