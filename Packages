@@ -5835,15 +5835,15 @@ Author: 妖刀
 Name: DynamicPeninsula 简体中文包
 
 Package: com.hk.dynamicstage.cn
-Version: 1.0.2
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/DynamicStage_CN.deb
-Size: 6060
-MD5sum: efde29b12a459be4b7534cc478c75f0c
-SHA1: 275889327965ac17c3051f254e0b10f72a67e593
-SHA256: fc72714c75269e0313807b14bd894897d2554d34ef106b15f90c93b9529004f5
+Size: 6368
+MD5sum: 07f9505db15a98a93c1aa32f8b516c82
+SHA1: f6adbcebfcdfaaaf5d8b8db7dcac7dd05be13176
+SHA256: 5d6ceb1dc0d10c04d964682b65ff103e411293d35c3bcd92f6802f62723e1d59
 Section: 嗨-汉化
 Description: DynamicStage 简体中文包。
 Author: 妖刀
@@ -13074,15 +13074,15 @@ Author: 妖刀
 Name: DynamicPeninsula 简体中文包(rootless)
 
 Package: com.hk.dynamicstage.cn.rl
-Version: 1.0.2
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/DynamicStage 简体中文包(rootless).deb
-Size: 6124
-MD5sum: 47c22eaadc1cda66dc0f3ceabb914a05
-SHA1: 27dd8d82af67cdee5c9a37c9cfbd30fa5ccc2ffe
-SHA256: 718043f660766dbeac2e9383da1f3d819b103bbaf58c403927edb071efade8ad
+Size: 6424
+MD5sum: 4620f763305d221fd0c5f72a9ceea1f4
+SHA1: 21fff15f8c158b180c4f6df640b3d3c38ababb0f
+SHA256: b9f6adf47fb1e8eb17bceea05798fdd0590ac6f440d0198f54572e8edfc15c17
 Section: 嗨-汉化
 Description: DynamicStage 简体中文包(rootless)。
 Author: 妖刀
@@ -14541,15 +14541,15 @@ Author: 妖刀
 Name: Designer 简体中文包(RootHide)
 
 Package: com.hk.dynamicstage.cn.rl
-Version: 1.0.2
+Version: 1.1
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/DynamicStage 简体中文包(RootHide).deb
-Size: 6116
-MD5sum: 28da6ddb2cd0cb865bb634bb9c8d99da
-SHA1: c7aec2dcebadc9e9b652cec8d8fe07bfcf3e248f
-SHA256: 28d69c8d93b8d52c914fa9d23c4e2d58b9a9ccd1fef3711b8f10e9c8f415924c
+Size: 6400
+MD5sum: 1af58eb947039dd5bbba9a54851d2857
+SHA1: 4f521c5d2b20459dab4f790869da5a1977e5feee
+SHA256: 491a409cf663fcdf00556d919e24e9866df11b5f02a5826d34d52f98a12c54f5
 Section: 嗨-汉化
 Description: DynamicStage 简体中文包(RootHide)。
 Author: 妖刀
