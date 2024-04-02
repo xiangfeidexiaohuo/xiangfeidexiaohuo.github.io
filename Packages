@@ -11923,18 +11923,18 @@ Package: com.dao.axon
 Version: 1.5.3
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Installed-Size: 692
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
 Filename: rootless/Axon 中文版(rootless).deb
-Size: 144426
-MD5sum: 7aea54d0439ea10f1af7d63005fae6f0
-SHA1: 53e907d9aad1f327f7e2ccb7bf4fe58f52f9f60f
-SHA256: fc371305d227c42518c69fd1dffc76fff5f56d7f6f171c6e3636834e721cb94d
+Size: 144492
+MD5sum: 22990b44e6762d4561ca0b83e09c0edd
+SHA1: 9b25a6675ef68ade45df1f147a8bb922651e1a5d
+SHA256: 4cdce8f26daf1139e7e701022d85deac9d01e674d9b68de1a750091a61018775
 Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
+Description: 锁屏通知聚合插件，根据开源编译/汉化。
 Author: Nepeta
 Name: Axon 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.azule
 Version: 0.8.2
@@ -12479,14 +12479,15 @@ Maintainer: Lillie & 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
 Filename: rootless/YTR 中文版(rootless).deb
-Size: 9096400
-MD5sum: 157bf3cc309f0417b2181f1ce855fedc
-SHA1: f0dd96bff9ed11896adf1798d47f64e61e801d08
-SHA256: 6a517133a5ede984225d380f7eb162f9dd8bb2f834a54388a696f79d0778fd78
+Size: 9096720
+MD5sum: 8d691053cb8e37e293dbfb5309f638ae
+SHA1: 8efc6736f7ed30cada10c525515e50eb818201c3
+SHA256: 6a8fac106e1b61ebf7ab53315ce937288d2fd6c557e6bf6c660ff162ea1ca9a5
 Section: 嗨-工具
 Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
 Author: Lillie & arichornlover
 Name: YTR 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.ytlite
 Version: 3.0.2
