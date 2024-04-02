@@ -62,9 +62,14 @@
                     "spacing": 8
                 },
                 {
-                    "class": "DepictionMarkdownView",
+                    "class": "DepictionTableTextView",
                     "text": "Nepeta & 妖刀",
-                    "markdown": "作者"
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "妖刀",
+                    "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
