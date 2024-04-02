@@ -2439,18 +2439,18 @@ Package: com.dao.axon
 Version: 1.5.3
 Architecture: iphoneos-arm
 Maintainer: 妖刀
-Installed-Size: 692
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
 Filename: rootful/Axon_ZH.deb
-Size: 144108
-MD5sum: 9505908128ebdb21a3527d8288060376
-SHA1: ae1a4870c871aa02450d08bd9ec081a7e5dcc871
-SHA256: 11bf757ffe87ee6d4ee775359ed9c52251fb7c29461391f6c91420f0c0172707
+Size: 144164
+MD5sum: 75c1e68ea6b9d15d419fdee85af77b35
+SHA1: a0799cb9dfb9aa554c56bf9190e0617b08e968d8
+SHA256: 4d55b9a35eb30600d8caeda9e46770678cd93b19b51e9a2737d619530ef5c745
 Section: 嗨-工具
 Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
 Author: Nepeta
 Name: Axon 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.azule
 Version: 0.7.6
@@ -2539,18 +2539,18 @@ Package: com.dao.noline
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
-Installed-Size: 168
 Depends: mobilesubstrate
 Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
 Filename: rootful/PurifyLine.deb
-Size: 3588
-MD5sum: 3ed78db1cd0a377e485269b9b9d0e448
-SHA1: a6ebd3f9329d08af8b180bfb5f822731a5b022f6
-SHA256: 4de4505fe260db6b61a103cc88797a19c11292d9caa5694efdd6340ecc06e5bd
+Size: 3712
+MD5sum: f44a79949d1b8ce5ebb1a27487f7d07a
+SHA1: f057d8cc65b135a4923ae3bb6f310fcada206fa9
+SHA256: a235d148ddf108f0fd109cabd5260ec75eca6c147f0ff5c50f2f819226585eed
 Section: 嗨-系统
 Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
 Author: 妖刀
 Name: PurifyLine
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
 Package: com.dao.powercuff
 Version: 1.0.1
@@ -2637,18 +2637,18 @@ Package: com.dao.velvet2
 Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
-Installed-Size: 660
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
 Filename: rootful/Velvet2_ZH.deb
-Size: 99872
-MD5sum: 544a462250f74746e8db0962b8b83c9e
-SHA1: b5d77a99a6657c807abb1002aad8405dbc8f4339
-SHA256: 2076d9bf070877110531702c4e9a9afbb2a6e52cb6a5e87e88073b6edb18edd0
+Size: 100164
+MD5sum: 7bd1e7b3cc10616d0b938fd0b084faf5
+SHA1: 631ad7cbe8ca8645015346d818a16c47d011b13b
+SHA256: 19512f9535eabcef914c4051e0de688404c3cf5faa1b30eb1349e1b9f56dbbe7
 Section: 嗨-工具
 Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
 Author: NoisyFlake
 Name: Velvet 2 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
 Package: com.dao.youtubereborn
 Version: 4.1.5
@@ -2673,31 +2673,32 @@ Maintainer: Lillie & 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
 Filename: rootful/YTR_ZH.deb
-Size: 9094156
-MD5sum: 429a077333536e150a84e132667102a8
-SHA1: fb3f6ea9e0866ab73e9e9a64cc73fd56d7e277e1
-SHA256: 510b7940201e1547ddf9d54a909e2d93fc6b55777da7eabd069cf276d7ae1b9c
+Size: 9098884
+MD5sum: 242298ae543da3f7749504aaf2c5a9e2
+SHA1: 82fcf0840a707ff5a6fff726f8aa3bada2885b7e
+SHA256: db682e8aad94dcd7d991b27a038d3a36e209416c0e2be0a9945bfb95fc5d1617
 Section: 嗨-工具
 Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
 Author: Lillie & arichornlover
 Name: YTR 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.daodao.goodwifi
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
-Installed-Size: 368
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
 Filename: rootful/GoodWiFi_ZH.deb
-Size: 34364
-MD5sum: 575d8286566a2868e7ed1574051a67ab
-SHA1: 02e8a4cf11769872ede7602f539277443cc36a01
-SHA256: 387e51b04d8f502660b8fd6de921958542388dc15e66bbb99e04a15f2a97c3ba
+Size: 34504
+MD5sum: 6455274428209acbabd8d1030abab2d5
+SHA1: 7cba3b1457dd57f4ab8f7777861821a51b83baf6
+SHA256: 28623ba8d88654a441712df5ed86c539ba4a2088ab68ef870ee5efd1db76ccab
 Section: 嗨-工具
 Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
 Package: com.eclipsex.cn
 Version: 5.0.9-1
@@ -14113,18 +14114,18 @@ Package: com.dao.axon
 Version: 1.5.3
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
-Installed-Size: 692
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
 Filename: roothide/Axon 中文版(RootHide).deb
-Size: 144248
-MD5sum: 0c2b199f50d8a4ae550f6444046059f3
-SHA1: 0e2bc7b77aec6fb43b0c70ea1710cfa307fb65c1
-SHA256: f4bf63a33068c68849cc15636c9ed6ea62d061a395516a5686f68c94a17d7c0f
+Size: 144320
+MD5sum: 81ee3a4025491b33809c7072c8dc73a1
+SHA1: 262884387c9654306d65524b37ec7d6403f4d490
+SHA256: 2e6adaaead6fc5da85539a12c0f319978500ede7e52970b7ea3e1aa6c8b3435a
 Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
+Description: 锁屏通知聚合插件，根据开源编译/汉化。
 Author: Nepeta
 Name: Axon 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.betteralarm
 Version: 1.5
@@ -14198,18 +14199,18 @@ Package: com.dao.noline
 Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
-Installed-Size: 168
 Depends: mobilesubstrate
 Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
 Filename: roothide/PurifyLine(RootHide).deb
-Size: 3622
-MD5sum: e11dc62993425d66480eac1f1a1922f4
-SHA1: 17729cf339768574e7234b1ce162a7422aab4df9
-SHA256: 6e892fa982c31b27353afe3f89dc5c25614645a36901e66caee9c8750b43427e
+Size: 3744
+MD5sum: eebcd51a4bcaa381f9d697e0f67d7ea0
+SHA1: 137070dc68f2bf23ebc991dd510bf22642c3af81
+SHA256: 7b3ef8d8f3e8c01e764e248ca49f76e6ccf2e30233ce4f1d83aff1e4a5bff884
 Section: 嗨-系统
 Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
 Author: 妖刀
 Name: PurifyLine(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
 Package: com.dao.powercuff
 Version: 1.0.1
@@ -14297,18 +14298,18 @@ Package: com.dao.velvet2
 Version: 2.2
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
-Installed-Size: 660
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
 Filename: roothide/Velvet 2 中文版(RootHide).deb
-Size: 99876
-MD5sum: 763f44f173bee42d7b11a2d934e11b3c
-SHA1: 003cc9e20b49311105d246c7a3f0a6d5acaa4dd6
-SHA256: 967a1f53648c821d881ac4f4cb14873acb8ca18c872a755fcc833c605edadbf4
+Size: 99964
+MD5sum: 9c67a148a1c64c3c8c4ef60b99218c95
+SHA1: 939516e017409ac9d27782a504e6b07298731b52
+SHA256: 9aeb00fddadec46fa5e026e7e938d23a7469eed09656e0aa4ea5d3b3f3c94fb2
 Section: 嗨-工具
 Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
 Author: NoisyFlake
 Name: Velvet 2 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
 Package: com.dao.youtubereborn
 Version: 4.1.5
@@ -14333,14 +14334,15 @@ Maintainer: Lillie & 妖刀
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
 Filename: roothide/YTR 中文版(RootHide).deb
-Size: 9090656
-MD5sum: e574e6fba328e2d0cb8c0e4d45c618ef
-SHA1: 4e800faf444bc4dcbadca6a90fb3145b51833b05
-SHA256: d03d33262298105d1b158fe28c3bbf905059899052a8e656b513044e0c47c095
+Size: 9089964
+MD5sum: 02352be5c4a56087c0e5b41dd36b84e3
+SHA1: 2fa42c3de1e3cd243f94816e7a95479ff931af50
+SHA256: 0e3b828a2db69b6d604016dcf8be9b9a9d4dbec3445042b6d732b94a8bbd46f2
 Section: 嗨-工具
 Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
 Author: Lillie & arichornlover
 Name: YTR 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.ytlite
 Version: 2.4.1
@@ -14362,18 +14364,18 @@ Package: com.daodao.goodwifi
 Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
-Installed-Size: 368
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
 Filename: roothide/GoodWiFi中文版(RootHide).deb
-Size: 34396
-MD5sum: 039fd8797c6f6edd0fad21b116b40f14
-SHA1: b56860eef720b51dffde885af79f7bcedb5aa2cb
-SHA256: 3cbc308e6804de1d1287e0570c699385ec03ed04796eba02f56285e8b033fa7d
+Size: 34524
+MD5sum: 1a133e33722770dc6dc4b2935b2d9f48
+SHA1: b491712eab082cfa5e5c4a08c3b8b55ad6b3033f
+SHA256: b2e2d944ae6da9bce3a0145e0842b95e4a5fa4dbd07fe1bfe959494362a136e5
 Section: 嗨-工具
 Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
 Package: com.hk.akara.cn.rl
 Version: 2.0.2

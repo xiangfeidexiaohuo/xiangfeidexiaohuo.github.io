@@ -34,6 +34,12 @@
    "hideShadow": false
   },
   {
+   "url": "https://xiangfeidexiaohuo.github.io/images/reverie.png",
+   "title": "Reverie",
+   "package": "com.dao.reverie",
+   "hideShadow": false
+  },
+  {
    "url": "https://xiangfeidexiaohuo.github.io/images/april.png",
    "title": "April",
    "package": "com.dao.april",
