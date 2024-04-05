@@ -16,17 +16,24 @@
    "hideShadow": false
   },
   {
-   "url": "https://xiangfeidexiaohuo.github.io/images/line.png",
-   "title": "PurifyLine",
-   "package": "com.dao.noline",
+   "url": "https://xiangfeidexiaohuo.github.io/images/kayoko.png",
+   "title": "Kayoko",
+   "package": "com.dao.kayoko",
    "hideShadow": false
-  },
+  }, 
   {
    "url": "https://xiangfeidexiaohuo.github.io/images/goodwifi.png",
    "title": "GoodWiFi",
    "package": "com.daodao.goodwifi",
    "hideShadow": false
+  },  
+  {
+   "url": "https://xiangfeidexiaohuo.github.io/images/line.png",
+   "title": "PurifyLine",
+   "package": "com.dao.noline",
+   "hideShadow": false
   },
+
   {
    "url": "https://xiangfeidexiaohuo.github.io/images/velvet2.png",
    "title": "Velvet 2",
@@ -38,18 +45,7 @@
    "title": "Reverie",
    "package": "com.dao.reverie",
    "hideShadow": false
-  },
-  {
-   "url": "https://xiangfeidexiaohuo.github.io/images/april.png",
-   "title": "April",
-   "package": "com.dao.april",
-   "hideShadow": false
-  },
-  {
-   "url": "https://xiangfeidexiaohuo.github.io/images/betteralarm.png",
-   "title": "Better Alarm",
-   "package": "com.dao.betteralarm",
-   "hideShadow": false
-  }     
+  }
+
  ]
 }
