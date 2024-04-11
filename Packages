@@ -4483,20 +4483,20 @@ Description: BetterAlarm 简体中文包。
 Author: 妖刀
 Name: BetterAlarm 简体中文包
 
-Package: com.hk.bettercc.cn.rl
+Package: com.hk.bettercc.cn
 Version: 0.0.6
-Architecture: iphoneos-arm64
-Maintainer: Ball <434479917@qq.com>
+Architecture: iphoneos-arm
+Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/BetterCC_CN.deb
-Size: 6380
-MD5sum: 52e186ddd000e21f85b9a1d249dedc32
-SHA1: 4613a0eb5397955561a37234ebfc16b9d627f73e
-SHA256: 00ac80bc0f825011c6af12ded1ab84879747075e6b673210df01de091aec55a5
+Size: 6356
+MD5sum: 749f6814481757693e03d13fb30cbc62
+SHA1: 840fff8de4ba5bbdf10571312f0b4371a0e799cc
+SHA256: 310380a1400a2c8721b7db86e75d3234714e8d4a192303054e578ae90e7ba4b6
 Section: 嗨-汉化
 Description: BetterCC 简体中文包。
-Author: Ball <434479917@qq.com>
-Name: BetterCC 简体中文包(rootless)
+Author: Ball
+Name: BetterCC 简体中文包
 
 Package: com.hk.betterccIcons13.cn
 Version: 1.0.8
