@@ -11886,6 +11886,38 @@ Description: 不可思议的简约控制中心，源内有汉化包。
 Author: Tr1Fecta & Kennyroo
 Name: Akara(rootless)
 
+Package: com.dao.appprotectrootless
+Version: 1.8.5
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless
+Filename: rootless/AppProtect 隐私保护(rootless).deb
+Size: 155808
+MD5sum: 1e4165958382963442ada6b2c4541cab
+SHA1: 4866c861e1f2060a97c3b711263d3a8c85c6c30f
+SHA256: 45b9211569da6a1d8c798439dd4bc03d54c5a9b75312487c7b09842fd530ae48
+Section: 嗨-付费
+Description: 一款强大的App隐私保护插件，系付费插件，25元自行购买。和AppTools一起打包购买，40元。
+Author: aReo
+Name: AppProtect 隐私保护(rootless)
+
+Package: com.dao.apptools15rootless
+Version: 1.2.6
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless
+Filename: rootless/AppTools15-16(rootless).deb
+Size: 196060
+MD5sum: 2a01c49cc45e84b124f5b5ca841b2f81
+SHA1: bca8e354bb8d3ea412bc09a91d5d7d3a0d994c1d
+SHA256: f84d7bc9cecc2d5d3b89504f331228af72989077c96513f88d2fd1aaf9aee18f
+Section: 嗨-付费
+Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，25元自行购买。和AppProtect一起打包购买，40元。
+Author: aReo
+Name: AppTools15-16(rootless)
+
 Package: com.dao.april
 Version: 3.1
 Architecture: iphoneos-arm64
@@ -12742,38 +12774,6 @@ Section: 嗨-汉化
 Description: Ampere 简体中文包(rootless)。
 Author: 妖刀
 Name: Ampere 简体中文包(rootless)
-
-Package: com.hk.appprotectrootless
-Version: 1.8.4
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless
-Filename: rootless/AppProtect 隐私保护(rootless).deb
-Size: 161056
-MD5sum: 1d979347932c231e8f9de79fe246b6fb
-SHA1: 1ce72df4de0ee61dc288be78987275517d832d62
-SHA256: a6fe368f3d25f4cdc6597f3bcda597bd2eec246f510f440f8ed88d88dbe44eda
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，25元自行购买。和AppTools一起打包购买，40元。
-Author: aReo
-Name: AppProtect 隐私保护(rootless)
-
-Package: com.hk.apptools15rootless
-Version: 1.2.5
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15
-Filename: rootless/AppTools15(rootless).deb
-Size: 194828
-MD5sum: 2c4996f9554ae89568869899e93ed9f0
-SHA1: f650619eb912931dc60aea1e92e6c9e86ea74d92
-SHA256: 1295f381f1918148557650b16b3907f6ec5709ed0ba9620f90e97be994d3f6e0
-Section: 嗨-付费
-Description: AppTools for iOS15 Rootless，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，25元自行购买。和AppProtect一起打包购买，40元。
-Author: aReo
-Name: AppTools15(rootless)
 
 Package: com.hk.atria.cn.rl
 Version: 1.4.1
