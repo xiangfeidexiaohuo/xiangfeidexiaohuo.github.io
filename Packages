@@ -4483,21 +4483,20 @@ Description: BetterAlarm 简体中文包。
 Author: 妖刀
 Name: BetterAlarm 简体中文包
 
-Package: com.hk.bettercc.cn
-Version: 1.3
-Architecture: iphoneos-arm
+Package: com.hk.bettercc.cn.rl
+Version: 0.0.6
+Architecture: iphoneos-arm64
 Maintainer: Ball <434479917@qq.com>
 Depends: mobilesubstrate
 Filename: rootful/BetterCC_CN.deb
-Size: 6016
-MD5sum: 61026ff407cc569c10cfc0a15c9ced7c
-SHA1: 2f76030430a606521f6dd211452cd61e09b03cfb
-SHA256: f0a5f161e3e6780acc2d6f1ed3cfe720624c4b57529d7fdc4c7bddda93f9513d
+Size: 6380
+MD5sum: 52e186ddd000e21f85b9a1d249dedc32
+SHA1: 4613a0eb5397955561a37234ebfc16b9d627f73e
+SHA256: 00ac80bc0f825011c6af12ded1ab84879747075e6b673210df01de091aec55a5
 Section: 嗨-汉化
-Description: BetterCC简体中文包
+Description: BetterCC 简体中文包。
 Author: Ball <434479917@qq.com>
-Name: BetterCC 简体中文包
-Sponsor: Ball <434479917@qq.com>
+Name: BetterCC 简体中文包(rootless)
 
 Package: com.hk.betterccIcons13.cn
 Version: 1.0.8
@@ -12423,6 +12422,22 @@ Description: Souvenir 简体中文包(rootless)。
 Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
+Package: com.dao.storeswitcher2
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: firmware (>= 11), mobilesubstrate
+Conflicts: com.lenglengyu.storeswitcher2-rootless, com.yourepo.0xkuj.storeswitcher2rootless, com.hk.storeswitcher2.rl
+Filename: rootless/StoreSwitcher2(rootless).deb
+Size: 14416
+MD5sum: 8e6e8ace6b469eb90cf89a33031a8dbb
+SHA1: afb694e09d72f983737d19aa46728065e238a16a
+SHA256: 4e24158a43ebcdd41b03dc3d101493fdee7bc3d04ee2fd849a189e451ed21483
+Section: 嗨-工具
+Description: AppStore帐户页面(左上角图标)中快速切换账号。
+Author: subdiox
+Name: StoreSwitcher2(rootless)
+
 Package: com.dao.ve
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -12836,15 +12851,15 @@ Author: 妖刀
 Name: BetterAlarm 简体中文包(rootless)
 
 Package: com.hk.bettercc.cn.rl
-Version: 0.0.5.4
+Version: 0.0.6
 Architecture: iphoneos-arm64
 Maintainer: Ball <434479917@qq.com>
 Depends: mobilesubstrate
 Filename: rootless/BetterCC 简体中文包(rootless).deb
-Size: 5692
-MD5sum: ff202928575c8e996662906c03735c39
-SHA1: 2a743b7e9ada9745d0d4449ed1ba2ad0005b864d
-SHA256: 7e58151cea3a28262d85d204320af5cbe10ba04ea703ab2f82dafd91a685624e
+Size: 5740
+MD5sum: fc1d51455b5f4659fd0328ca392111d8
+SHA1: 2b3607f8c8154d3d826286c68b3fd92b44a612ac
+SHA256: 51c33267aeb7ff7614cdf74293ad466e7ef864ebc740f9a9f8240f864751ed74
 Section: 嗨-汉化
 Description: BetterCC 简体中文包(rootless)。
 Author: Ball <434479917@qq.com>
@@ -13842,22 +13857,6 @@ Section: 嗨-汉化
 Description: Speedy 简体中文包(rootless)。
 Author: 妖刀
 Name: Speedy 简体中文包(rootless)
-
-Package: com.hk.storeswitcher2.rl
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: subdiox
-Depends: firmware (>= 15), mobilesubstrate
-Conflicts: com.lenglengyu.storeswitcher2-rootless
-Filename: rootless/StoreSwitcher2(rootless).deb
-Size: 108452
-MD5sum: a5ef7f55dbb948029cf743d6607cf318
-SHA1: c2c186194ade6f9d7897ec4b3ab311d06671f7fa
-SHA256: 6cc642fc89622c3e3a9d48e5028f3fcd79a6ac82df44fbeb6be33aca4a63fa84
-Section: 嗨-工具
-Description: 冷冷雨基于开源编译适配rootless，AppStore帐户页面中快速切换账号。
-Author: subdiox
-Name: StoreSwitcher2(rootless)
 
 Package: com.hk.tako.cn.rl
 Version: 0.0.3
