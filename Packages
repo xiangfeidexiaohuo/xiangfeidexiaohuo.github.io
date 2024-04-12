@@ -11887,16 +11887,16 @@ Author: Tr1Fecta & Kennyroo
 Name: Akara(rootless)
 
 Package: com.dao.appprotectrootless
-Version: 1.8.5
+Version: 1.8.6
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Depends: mobilesubstrate,preferenceloader
 Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless
 Filename: rootless/AppProtect 隐私保护(rootless).deb
-Size: 155808
-MD5sum: 1e4165958382963442ada6b2c4541cab
-SHA1: 4866c861e1f2060a97c3b711263d3a8c85c6c30f
-SHA256: 45b9211569da6a1d8c798439dd4bc03d54c5a9b75312487c7b09842fd530ae48
+Size: 153416
+MD5sum: 8db24148e6bf4c06dcf95aa0b826735f
+SHA1: 43472e883029959ce4e7de5434ea858cd46cbcd8
+SHA256: 04277f45c56a2d406eeb23eeb099772fa70996f40549a00d75449298af6559d3
 Section: 嗨-付费
 Description: 一款强大的App隐私保护插件，系付费插件，25元自行购买。和AppTools一起打包购买，40元。
 Author: aReo
