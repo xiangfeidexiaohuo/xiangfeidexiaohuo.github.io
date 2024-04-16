@@ -2502,6 +2502,22 @@ Description: 自定义程序通知角标的边框颜色和透明度，基于Poom
 Author: PoomSmart
 Name: BlurryBadges 中文版
 
+Package: com.dao.iridium
+Version: 1.2.15-REL-1713273602
+Architecture: iphoneos-arm
+Maintainer: Lakr Aream <launchctl@outlook.com>
+Pre-Depends: firmware (>= 13.5)
+Conflicts: com.hk.iridium, wiki.qaq.iridium
+Filename: rootful/Iridium_ZH.deb
+Size: 5593552
+MD5sum: 4aa4cfd5857b1ad6c91318f9ed7e85d9
+SHA1: 1dccbb23442b594dbc7790d79173bfdff9ce67d7
+SHA256: 188a60069193eefd19bf8c572206494a147fb471081ade4387763d0f734e53c9
+Section: 嗨-工具
+Description: iOS应用解密砸壳工具，适用于iOS13.5-14.3，具体支持系统版本自测。
+Author: Lakr Aream <launchctl@outlook.com>
+Name: Iridium 砸壳
+
 Package: com.dao.kayoko
 Version: 2.0.2.3
 Architecture: iphoneos-arm
@@ -7226,22 +7242,6 @@ Section: 嗨-汉化
 Description: iPadStatusBar13 简体中文包。iPadStatusBar13 介绍：在所有iPhone设备上启用iOS 13 iPad状态栏，支持iOS 12-13！原插件安装源: https://repo.twickd.com/
 Author: Ball <ball@hackcn.net>
 Name: iPadStatusBar13 简体中文包
-
-Package: com.hk.iridium
-Version: 1.2.15-REL-1669371195
-Architecture: iphoneos-arm
-Maintainer: Lakr Aream <launchctl@outlook.com>
-Pre-Depends: firmware (>= 13.0)
-Conflicts: wiki.qaq.ir
-Filename: rootful/Iridium_ZH.deb
-Size: 5425300
-MD5sum: 241a702b876fab28465ce060c8f397eb
-SHA1: 3fc06056159624cf6bb478e1d4e885a700642776
-SHA256: 43e6f08f07e8d4b6351254e0bbc8e06ddfe8934db1c58a61757230ddc9982c2d
-Section: 嗨-工具
-Description: iOS应用解密砸壳工具，织词汉化。适用于iOS13.5-14.x，具体支持系统版本自测。
-Author: Lakr Aream <launchctl@outlook.com>
-Name: Iridium砸壳(汉化版)
 
 Package: com.hk.ithemer.cn
 Version: 2.0.0-2
