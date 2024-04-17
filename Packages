@@ -2503,16 +2503,16 @@ Author: PoomSmart
 Name: BlurryBadges 中文版
 
 Package: com.dao.iridium
-Version: 1.2.15-REL-1713273602
+Version: 1.2.15-REL-1713319636
 Architecture: iphoneos-arm
 Maintainer: Lakr Aream <launchctl@outlook.com>
 Pre-Depends: firmware (>= 13.5)
 Conflicts: com.hk.iridium, wiki.qaq.iridium
 Filename: rootful/Iridium_ZH.deb
-Size: 5593552
-MD5sum: 4aa4cfd5857b1ad6c91318f9ed7e85d9
-SHA1: 1dccbb23442b594dbc7790d79173bfdff9ce67d7
-SHA256: 188a60069193eefd19bf8c572206494a147fb471081ade4387763d0f734e53c9
+Size: 5596012
+MD5sum: 829ea065e9c853b60196b0de27b2c05f
+SHA1: 1d91886e115fabff73058d3d0e2a7e9c93079949
+SHA256: 441215f7c7cc5680ffb717daeb98ab6750cec20115a268afc3768037c42ec05d
 Section: 嗨-工具
 Description: iOS应用解密砸壳工具，适用于iOS13.5-14.3，具体支持系统版本自测。
 Author: Lakr Aream <launchctl@outlook.com>
