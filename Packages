@@ -10120,15 +10120,15 @@ Author: Ball <ball@hackcn.net>
 Name: Speculum 简体中文包
 
 Package: com.hk.speedster.cn
-Version: 2.0.0
+Version: 2.1.0
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Speedster_CN.deb
-Size: 1580
-MD5sum: 53396cfd6c1bebda804218c681634154
-SHA1: 6920f44662d0a0419a2536be33b93be0aa5aafac
-SHA256: 75f3035d46a54b67e7ada0fa918425b15cb81c7e320f0e87498ac498dd9a7e82
+Size: 1640
+MD5sum: c803fa89b891d662ae3269f3bb67f1c6
+SHA1: 45676adf57d1494f4481c9843287261f7e2db914
+SHA256: ad0cf386f84bc8b96e974c908920d77c934b98396e25b6d35a855308906039d8
 Section: 嗨-汉化
 Description: Speedster 简体中文包。
 Author: 妖刀
@@ -13829,15 +13829,15 @@ Author: 妖刀
 Name: Spectrum 简体中文包(rootless)
 
 Package: com.hk.speedster.cn.rl
-Version: 2.0.0
+Version: 2.1.0
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Speedster 简体中文包(rootless).deb
-Size: 1624
-MD5sum: da7ca4368e38fd11949517708bd9474a
-SHA1: 66ebb507561333fa6c62a5f2d48a84f80fe2ddbb
-SHA256: 0339510ea85e38fe35a1743fcdcd13e93aa836883154925b8f66fda920de42a4
+Size: 1692
+MD5sum: 48e2924e29db6de6afc123bff19ef407
+SHA1: bdf826eea953201efd28e1f17397e94dcce8eb2a
+SHA256: ebd8b7319e51e460c17aab616172cd7cae78ed00bea5ca2991e01e18d7f4569b
 Section: 嗨-汉化
 Description: Speedster 简体中文包(rootless)。
 Author: 妖刀
