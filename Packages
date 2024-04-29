@@ -12100,6 +12100,22 @@ Description: 控制中心调整背景和边框等，已包含简体中文。lail
 Author: alias20
 Name: CoolCC(rootless)
 
+Package: com.dao.copylogfix16
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: firmware (>= 16.0)
+Conflicts: com.0xkuj.copylogfix16
+Filename: rootless/CopyLogFix16(rootless).deb
+Size: 5556
+MD5sum: 950090bfb5f3d4c0089c4c8069ae591f
+SHA1: 46a11970aafe37bc793d14459799d91480095e14
+SHA256: 70689396af6771e8a913acc0431a69ac36a88742f4a16283bdd38f9c32a2215e
+Section: Tweaks
+Description: 修复CopyLog不能在iOS16上使用的问题，但听写键呼出是无效的，必须借助第三方插件(如：乌贼力量的DockX)呼出面板。具体行不行，自行测试。
+Author: 0xkuj
+Name: CopyLogFix16(rootless)
+
 Package: com.dao.designer
 Version: 1.4.5
 Architecture: iphoneos-arm64
