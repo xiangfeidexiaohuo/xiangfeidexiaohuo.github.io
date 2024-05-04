@@ -12486,6 +12486,21 @@ Description: AppStore帐户页面(左上角图标)中快速切换账号。
 Author: subdiox
 Name: StoreSwitcher2(rootless)
 
+Package: com.dao.tvlock.cn
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/TVLock 简体中文包(rootless).deb
+Size: 1472
+MD5sum: 47a7bee798ab51a315e51e13b69786d8
+SHA1: 38dae87d243454ebc62b86e804a6393a3ba091b8
+SHA256: 03168abf13e243e767e4b0f2156e2906676e19e4f3acb2964128ab1157138995
+Section: 嗨-汉化
+Description: TVLock 简体中文包(rootless)。
+Author: 妖刀
+Name: TVLock 简体中文包(rootless)
+
 Package: com.dao.ve
 Version: 2.0
 Architecture: iphoneos-arm64
