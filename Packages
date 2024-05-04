@@ -12492,10 +12492,10 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/TVLock 简体中文包(rootless).deb
-Size: 1472
-MD5sum: 47a7bee798ab51a315e51e13b69786d8
-SHA1: 38dae87d243454ebc62b86e804a6393a3ba091b8
-SHA256: 03168abf13e243e767e4b0f2156e2906676e19e4f3acb2964128ab1157138995
+Size: 1500
+MD5sum: 2f1b98df9c455164f20ffe3f4ed35665
+SHA1: 8e720be6ba2021d82ab168dc92ca1bea6aa9e19d
+SHA256: 1960371a57d3376720cdf0ccfece9c14c30db2453b5aec34b57cf93a203fe313
 Section: 嗨-汉化
 Description: TVLock 简体中文包(rootless)。
 Author: 妖刀
