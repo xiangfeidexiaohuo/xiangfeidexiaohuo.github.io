@@ -13602,17 +13602,18 @@ Package: com.hk.rootless.cc
 Version: 2.0.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
-Depends: mobilesubstrate, com.opa334.ccsupport
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear
 Filename: rootless/CCLess++(rootless).deb
-Size: 465524
-MD5sum: cb7a4e1de58d8252f007e69b1be0c193
-SHA1: cf37d1ed30654000321ffd92a0979e8d30bfe779
-SHA256: 91908d165b380a1fa5f02be25e275f457b549f0038ef756989dde1224debef92
+Size: 465588
+MD5sum: fe83c0dd7e6c2cb5a74a480917fdbe00
+SHA1: f1e9ca0697bdbe1e700d5aebb977826d7bcd6885
+SHA256: ef98c06c6aa3d764863675894d4246352b1f0b8783289ba90580e439b03be8bc
 Section: 嗨-工具
 Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2、微信/支付宝付款码等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等各位大佬！！！
 Author: 妖刀
 Name: CCLess++(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
 
 Package: com.hk.rootless.colorbadges
 Version: 1.5.0
