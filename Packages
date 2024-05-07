@@ -2502,6 +2502,23 @@ Description: 自定义程序通知角标的边框颜色和透明度，基于Poom
 Author: PoomSmart
 Name: BlurryBadges 中文版
 
+Package: com.dao.ccborder
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 404
+Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc
+Filename: rootful/CCBorder.deb
+Size: 28434
+MD5sum: 98ed46ba23aea83fd10aa0cd13aaf54d
+SHA1: 046427f2f9cd1c4e0255d249414e5643ec31ecac
+SHA256: 5398e501bf0f6c87c2ef62c56d02107e65d6b035374f393f72d22aa7cae595b9
+Section: 嗨-工具
+Description: 像CoolCC一样，删除控制中心模块背景并添加边框，基于p2kdev的开源分支定制。
+Author: fiore
+Name: CCBorder
+
 Package: com.dao.iridium
 Version: 1.2.15-REL-1713319636
 Architecture: iphoneos-arm
