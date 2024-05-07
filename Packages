@@ -2634,6 +2634,23 @@ Description: Souvenir 简体中文包。
 Author: 赵楠
 Name: Souvenir 简体中文包
 
+Package: com.dao.sugarcane
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 13.0)
+Conflicts: com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane
+Filename: rootful/SugarCane16.deb
+Size: 5840
+MD5sum: abc41566556a08b3f3876904b5dd9b70
+SHA1: fd007e54cdadc421e819a3133e7ddf9c90331494
+SHA256: 048ee641babd919b51b4a82786e67281249e578593d21929d4c1d98025aa00cc
+Section: 嗨-工具
+Description: 为iOS13～16的控制中心音量/亮度条添加数字百分比，无设置。
+Author: iOS Creatix, kasiimh1, p2kdev
+Name: SugarCane 16
+
 Package: com.dao.ve
 Version: 2.0
 Architecture: iphoneos-arm
@@ -10289,21 +10306,6 @@ Description: 控制中心音量/亮度滑块、侧边音量框滑块添加百分
 Author: iOS Creatix, Rafferty W
 Name: SugarCane
 
-Package: com.hk.sugarcane13
-Version: 1.2-3
-Architecture: iphoneos-arm
-Maintainer: iOS Creatix, kasiimh1, baptistecdr <kobebertels@icloud.com>
-Depends: firmware (>= 13.0),mobilesubstrate
-Filename: rootful/SugarCane14.deb
-Size: 5624
-MD5sum: 8a00bb291ae03ff90c087474d1b6bf8a
-SHA1: febed287acbc7dae67ab92ac1eb886e4d23d8112
-SHA256: 80460768f66ac5b2d9b35063182dc3ca4d74b660754877b41335a06be52d9de9
-Section: 嗨-工具
-Description: iOS13-15的控制中心音量/亮度滑块、侧边音量框滑块添加百分比，无设置。
-Author: iOS Creatix, kasiimh1, baptistecdr <kobebertels@icloud.com>
-Name: SugarCane14
-
 Package: com.hk.suimitsuto.cn
 Version: 0.0.3
 Architecture: iphoneos-arm
@@ -12502,6 +12504,23 @@ Description: AppStore帐户页面(左上角图标)中快速切换账号。
 Author: subdiox
 Name: StoreSwitcher2(rootless)
 
+Package: com.dao.sugarcane
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 13.0)
+Conflicts: com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane
+Filename: rootless/SugarCane 16(rootless).deb
+Size: 5916
+MD5sum: 035f0f4a8d7705990841682e36123ee0
+SHA1: e4c9022ab2393cfe8fafce05da5e1f8b8a508023
+SHA256: 231d527917b262969d2a19c58eebc767966294a1169d52c8dabe6a49dcd093af
+Section: 嗨-工具
+Description: 为iOS13～16的控制中心音量/亮度条添加数字百分比，无设置。
+Author: iOS Creatix, kasiimh1, p2kdev
+Name: SugarCane 16(rootless)
+
 Package: com.dao.tvlock.cn
 Version: 1.2.3
 Architecture: iphoneos-arm64
@@ -12729,22 +12748,6 @@ Section: 嗨-工具
 Description: 便捷截屏3，已由CBZ破解。已修正OCR，源内可安装中文包。
 Author: Jonathan Winger-lang
 Name: Snapper 3(rootless)
-
-Package: com.daodao.sugarcane
-Version: 1.2.4.2
-Architecture: iphoneos-arm64
-Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
-Depends: mobilesubstrate,firmware (>= 13.0)
-Conflicts: com.ioscreatix.sugarcane
-Filename: rootless/SugarCane 15(rootless).deb
-Size: 7928
-MD5sum: d544a59bd2a99c758b1a5575c69fe058
-SHA1: 36ead3f7a44db76e821d2fc451056cb37e9bcbb5
-SHA256: 1d7de01adf785d3336d434ff762430d83febf87225f2b18dbb367b9194d91b32
-Section: 嗨-工具
-Description: 控制中心音量/亮度条添加数字百分比。Skypain基于P2KDev大佬开源，调小百分比字体大小为12号。
-Author: iOS Creatix, kasiimh1, p2kdev
-Name: SugarCane 15(rootless)
 
 Package: com.daodao.wicellswitcher
 Version: 1.2
@@ -14311,20 +14314,21 @@ Author: 妖刀
 Name: Senri 简体中文包(RootHide)
 
 Package: com.dao.sugarcane
-Version: 1.2.2
+Version: 1.3
 Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Conflicts: com.ioscreatix.sugarcane
-Filename: roothide/SugarCane(RootHide).deb
-Size: 5988
-MD5sum: b0c8bc6878da34fb5e9c9d7bc6649a29
-SHA1: 8131f651ec5fb7ae5b516ce064e997417da1e996
-SHA256: 553bc3a9f466421c9a7c8999a2efa9eb003530508d93c4c035c9c3af3b0bd314
+Maintainer: iOS Creatix, kasiimh1, baptistecdr, p2kdev
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 13.0)
+Conflicts: com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane
+Filename: roothide/SugarCane 16(RootHide).deb
+Size: 5858
+MD5sum: 61fd5812af64ade383d9ebdf08092b7e
+SHA1: 0fcd227f74c2eac13673a75bf53fbe2f2ab5d517
+SHA256: 13ac10769e6db17d869545cda5876ccba7cf645d4963aca7cb8ff496934b0ada
 Section: 嗨-工具
-Description: 为控制中心音量/亮度模块添加百分比。
-Author: iOS Creatix, kasiimh1
-Name: SugarCane(RootHide)
+Description: 为iOS13～16的控制中心音量/亮度条添加数字百分比，无设置。
+Author: iOS Creatix, kasiimh1, p2kdev
+Name: SugarCane 16(RootHide)
 
 Package: com.dao.ve
 Version: 2.0
