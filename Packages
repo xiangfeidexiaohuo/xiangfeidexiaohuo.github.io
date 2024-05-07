@@ -12361,6 +12361,22 @@ Author: Paisseon
 Name: Reverie 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
+Package: com.dao.rocket.cn
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/Rocket 简体中文包(rootless).deb
+Size: 7110
+MD5sum: c6d3685db6a3fde26665bdfedf61a288
+SHA1: fc9a2346b371e05a39b63a1f47aad4bdde850b99
+SHA256: 6d2ad1a0bb3ae62ab1998ffd7aaca7a36160b9f8b6200f124bb0a4b7df581e01
+Section: 嗨-汉化
+Description: Rocket for Instagram 简体中文包(rootless)。
+Author: 妖刀
+Name: Rocket 简体中文包(rootless)
+
 Package: com.dao.safarix
 Version: 1.1.1
 Architecture: iphoneos-arm64
@@ -13583,18 +13599,18 @@ Author: 妖刀
 Name: CCLess++(rootless)
 
 Package: com.hk.rootless.cc
-Version: 2.0.1
+Version: 2.0.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate, com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear
 Filename: rootless/CCLess++(rootless).deb
-Size: 472384
-MD5sum: c292512c886bc516e7b1604da047cbec
-SHA1: ef8405ce5329c6cc48c8e0c843455a988f114c14
-SHA256: 0eb0ac6a37d28ef06f16fc7cd233cbf60dadb1eceda8f773645106fd33bb2ba3
+Size: 465524
+MD5sum: cb7a4e1de58d8252f007e69b1be0c193
+SHA1: cf37d1ed30654000321ffd92a0979e8d30bfe779
+SHA256: 91908d165b380a1fa5f02be25e275f457b549f0038ef756989dde1224debef92
 Section: 嗨-工具
-Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标(目前不支持iOS16)、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2、微信/支付宝付款码等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等各位大佬！！！
+Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2、微信/支付宝付款码等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等各位大佬！！！
 Author: 妖刀
 Name: CCLess++(rootless)
 
