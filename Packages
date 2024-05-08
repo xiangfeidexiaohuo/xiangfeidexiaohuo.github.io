@@ -12333,16 +12333,16 @@ Name: PurifyLine(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
 Package: com.dao.ocd
-Version: 4.0
+Version: 4.0-1
 Architecture: iphoneos-arm64
 Maintainer: b4db1r3 & 妖刀
 Depends: com.mrgcgamer.libgcuniversal, preferenceloader
 Conflicts: com.noisyflake.cozybadges, com.b4db1r3.ocd, com.dao.ocd.cn
 Filename: rootless/OCD Lite(rootless).deb
-Size: 109556
-MD5sum: 26253992f6cf3244dfdf0745f0afd2af
-SHA1: 3743e4188d273550c5a9b3c4a9a65d3de0ce6bc1
-SHA256: 71ab6be180afbeb95ab492d345f03e0475d4193455d3ee9598ac79a9e468acf6
+Size: 109620
+MD5sum: d630589d0d1f4e78fd5d727de7088de3
+SHA1: dd2e18c4553e9903dba10659f007b6132f8adcda
+SHA256: c11e0a24b3ce6327a1cec54b518b92e709aaf18b025c1fd857c76ec3ba3d73e4
 Section: 嗨-工具
 Description: 根据App图标颜色来自适应App名称和角标的颜色。替换插件图标且已经汉化，去掉一些效果不明显的选项。
 Author: b4db1r3
