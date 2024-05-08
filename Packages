@@ -12333,19 +12333,35 @@ Name: PurifyLine(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
 Package: com.dao.ocd
-Version: 0.4-beta-1-Lite
+Version: 4.0
 Architecture: iphoneos-arm64
-Maintainer: b4db1r3
-Conflicts: com.b4db1r3.ocd
-Filename: rootless/OCD(rootless).deb
-Size: 54500
-MD5sum: e52681056a9ce4c912af835abc31c956
-SHA1: bb6cc1ff3093d554bcc900e600772d633bc121e3
-SHA256: 962d2ce8d7054cb20c0fa032d64986a543d0ccec38c15be4a8b6f2a9037270aa
+Maintainer: b4db1r3 & 妖刀
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.noisyflake.cozybadges, com.b4db1r3.ocd, com.dao.ocd.cn
+Filename: rootless/OCD Lite(rootless).deb
+Size: 109556
+MD5sum: 26253992f6cf3244dfdf0745f0afd2af
+SHA1: 3743e4188d273550c5a9b3c4a9a65d3de0ce6bc1
+SHA256: 71ab6be180afbeb95ab492d345f03e0475d4193455d3ee9598ac79a9e468acf6
 Section: 嗨-工具
-Description: 根据App图标颜色来自适应改变App名称和角标的颜色。已汉化且补充插件缺失的设置图标。
+Description: 根据App图标颜色来自适应App名称和角标的颜色。替换插件图标且已经汉化，去掉一些效果不明显的选项。
 Author: b4db1r3
-Name: OCD(rootless)
+Name: OCD Lite(rootless)
+
+Package: com.dao.ocd.cn
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/OCD 简体中文包(rootless).deb
+Size: 5116
+MD5sum: b5bfc5db9245f17cb8ed310d1a27b323
+SHA1: 517c3825269a0aa40caf16395705c5d7ab2e74d6
+SHA256: 898c245017950dbafcc6edb330b5839554d679b34162d2d5c41efa734983c710
+Section: 嗨-汉化
+Description: OCD 简体中文包(rootless)。
+Author: 妖刀
+Name: OCD 简体中文包(rootless)
 
 Package: com.dao.onesettings
 Version: 2.0.3
