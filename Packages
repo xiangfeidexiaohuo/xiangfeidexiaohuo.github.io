@@ -2503,17 +2503,17 @@ Author: PoomSmart
 Name: BlurryBadges 中文版
 
 Package: com.dao.ccborder
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 404
 Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc
 Filename: rootful/CCBorder.deb
-Size: 28434
-MD5sum: 98ed46ba23aea83fd10aa0cd13aaf54d
-SHA1: 046427f2f9cd1c4e0255d249414e5643ec31ecac
-SHA256: 5398e501bf0f6c87c2ef62c56d02107e65d6b035374f393f72d22aa7cae595b9
+Size: 28226
+MD5sum: 7f9f8293f43d8b2e4e7531a4bd4855a6
+SHA1: 06c77435d5f5adbc412c8eeafd17838bfe33b98f
+SHA256: 32ec73f28e6b5965668ad7bc9b4d45235ecfd24f03e70413f06c54f3fde20d86
 Section: 嗨-工具
 Description: 像CoolCC一样，删除控制中心模块背景并添加边框，基于p2kdev的开源分支定制。
 Author: fiore
@@ -12103,21 +12103,38 @@ Author: PoomSmart
 Name: BlurryBadges 中文版(rootless)
 
 Package: com.dao.ccborder
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 404
 Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc
 Filename: rootless/CCBorder(rootless).deb
-Size: 28540
-MD5sum: 25350474bcedece48458794c7ff703da
-SHA1: 9b4e650c51025fd189ac7b41bdab069eb99b9b97
-SHA256: fdf8606a5622891ce3fcc13dfe3e138608862bd9a6b6d926cdbcb2949d9dee76
+Size: 28280
+MD5sum: 2018bef8bd093d7de9a615401fb769ec
+SHA1: 80ce2385be387194f63640f0728772cfbfade9d6
+SHA256: 47885f540147de426aed0ae2e8bd9569463829effa119e80cf68627a6fdca300
 Section: 嗨-工具
 Description: 像CoolCC一样，删除控制中心模块背景并添加边框，基于p2kdev的开源分支定制。
 Author: fiore
 Name: CCBorder(rootless)
+
+Package: com.dao.classicfolders3
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: CoolStar & Lizynz
+Installed-Size: 2456
+Depends: mobilesubstrate
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3
+Filename: rootless/ClassicFolders 3(rootless).deb
+Size: 1645150
+MD5sum: 6043033e5e8251f7c03594d60512600d
+SHA1: 810072903f57d0b8ba1bad61835b56bb7c632e08
+SHA256: 77f5acd5fdbe2d2bcb01c7aa5264dede751cd41d51c215e82b3d184d8f557dd6
+Section: 嗨-工具
+Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
+Author: CoolStar & Lizynz
+Name: ClassicFolders 3(rootless)
 
 Package: com.dao.coolcc
 Version: 2.0.1
@@ -13054,6 +13071,21 @@ Section: 嗨-汉化
 Description: Choicy 简体中文包(rootless)。
 Author: 妖刀
 Name: Choicy 简体中文包(rootless)
+
+Package: com.hk.classicfolders3.cn.rl
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/ClassicFolders 3 简体中文包(rootless).deb
+Size: 1744
+MD5sum: 5ee4e3068df741b431dc4b844fc21d6e
+SHA1: d1ad02f7c829b861b829f537794cb82999df83e0
+SHA256: 8b4ffe0a84985e15ea9501bb5fed18f673674970a42794bbcd6a88d775bc8f89
+Section: 嗨-汉化
+Description: ClassicFolders 3 简体中文包(rootless)。
+Author: 妖刀
+Name: ClassicFolders 3 简体中文包(rootless)
 
 Package: com.hk.coolcc.cn.rl
 Version: 2.0
@@ -14247,17 +14279,17 @@ Author: PoomSmart
 Name: BlurryBadges 中文版(RootHide)
 
 Package: com.dao.ccborder
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Installed-Size: 404
 Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc
 Filename: roothide/CCBorder(RootHide).deb
-Size: 28572
-MD5sum: d732740e73096310a3683ebfad30f64e
-SHA1: 2c456c11824e6fa52d3548051e18a46186174352
-SHA256: fa91afa9764af7fd29ad433a25895b385c5583d4c4e96ea6ece776ba5dc168f3
+Size: 28370
+MD5sum: 075c954f52a58cb1074ea59db541cfef
+SHA1: bc36d7e3c282a0430cd1b09a49139cdd80635898
+SHA256: 7b7133c7403729865f46d335a1799cc43558a3293e1b1d76c02d9b102792f554
 Section: 嗨-工具
 Description: 像CoolCC一样，删除控制中心模块背景并添加边框，基于p2kdev的开源分支定制。
 Author: fiore
