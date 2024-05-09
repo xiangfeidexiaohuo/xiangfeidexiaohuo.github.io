@@ -98,6 +98,17 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "3.0.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步Lizynz更新：1、修复主屏幕上的页面点的问题(仅在iOS16测试)；2、摩登风格自动支持深色主题(删除深色背景选项)。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "3.0.1.1",
                     "useBoldText": true,
                     "useBottomMargin": false
