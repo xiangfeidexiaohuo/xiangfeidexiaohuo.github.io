@@ -73,12 +73,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.1.1",
+                    "text": "3.0.2",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "14.0 - 16.5.1",
+                    "text": "13.0 - 16.5.1",
                     "title": "支持系统范围"
                 },
                 {
