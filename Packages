@@ -12523,6 +12523,20 @@ Description: SleeperX 简体中文包(rootless)。
 Author: 晴天
 Name: SleeperX 简体中文包(rootless)
 
+Package: com.dao.sneakycam.cn
+Version: 2.0.4
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Filename: rootless/SneakyCam 简体中文包(rootless).deb
+Size: 2128
+MD5sum: a2f28974018b6d2511b70c7c42a3307d
+SHA1: ffdec34f3255603b7ffc725e717d5ccfa40b51d7
+SHA256: c4c40908ae5046fe80287cf8c21357578c1a5824dc5bc27449ee44534cb78df5
+Section: 嗨-汉化
+Description: SneakyCam 简体中文包(rootless)。
+Author: Ball
+Name: SneakyCam 简体中文包(rootless)
+
 Package: com.dao.souvenir
 Version: 1.25
 Architecture: iphoneos-arm64
