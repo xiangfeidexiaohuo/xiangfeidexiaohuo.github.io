@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://xiangfeidexiaohuo.github.io/images/line.png",
+    "headerImage": "https://xiangfeidexiaohuo.github.io/images/cf3.png",
     "tintColor": "#1DBBFF",
     "minVersion": "0.3",
     "tabs": [
@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。",
+                    "markdown": "CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+，支持iOS13~16。当前还存在一些bug，某些bug是遗传bug，等待大佬修复！",
                     "useRawFormat": true,
                 },
                 {
@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Lizynz修复桌面翻页点相关问题。",
+                    "markdown": "重新编译，直接内置中文包！",
                     "useRawFormat": true
                 }
             ]
