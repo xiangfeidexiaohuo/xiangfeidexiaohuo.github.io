@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://xiangfeidexiaohuo.github.io/images/cf3.png",
+    "headerImage": "https://xiangfeidexiaohuo.github.io/images/kayokomod.png",
     "tintColor": "#1DBBFF",
     "minVersion": "0.3",
     "tabs": [
@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+，支持iOS13~16。</br> </br> 当前还存在一些bug，某些bug是遗传bug，等待大佬修复！",
+                    "markdown": "剪切板插件，可选择听写键呼出剪切板，可粘贴复制，可直接跳转网页等。基于Alexandra原版和Lessica魔改项目，同步最新2.0源码制作的魔改版，和之前的1.x系列不一样。</br> </br> 魔改特性：</br> 可修改高度，音效、振动、文本筛选等和一些优化修复等。</br> </br> 文本过滤功能请使用正则表达式</br> 最简单关键词过滤 例子: 关键词A|关键词B|关键词C</br> </br> 支持iOS14~15，iOS16目前使用有问题！",
                     "useRawFormat": true,
                 },
                 {
@@ -32,11 +32,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/Screenshot_01.png"
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/kayokomod/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/Screenshot_02.png"
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/kayokomod/Screenshot_02.png"
                         }
                     ]
                 },
@@ -63,27 +63,27 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "CoolStar & Lizynz",
+                    "text": "Alexandra & Lessica",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "CoolStar & Lizynz & 妖刀",
+                    "text": "Skypain",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.2.5",
+                    "text": "2.0.1",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "13.0 - 16.5.1",
+                    "text": "15.0 - 15.9",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 09 日",
+                    "text": "2024 年 03 月 24 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -98,35 +98,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "3.0.2.5",
+                    "title": "2.0.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1、刀刀增加点击文件夹内图标后自动关闭文件夹(默认开启，无设置)；</br> 2、同步Lizynz源码：壁纸模糊。",
+                    "markdown": "添加1.0版本的通知以便第三方插件调用，文本过滤功能调整，在设置对正则表达式进行校验。",
                     "useRawFormat": true
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "3.0.2",
+                    "title": "2.0.0",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步Lizynz更新：</br> 1、修复主屏幕上的页面点的问题(仅在iOS16测试)；</br> 2、摩登风格自动支持深色主题(删除深色背景选项)。",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "3.0.1.1",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "重新编译，直接内置中文包！",
+                    "markdown": "同步官方更新，添加文本过滤功能。",
                     "useRawFormat": true
                 }
             ]
