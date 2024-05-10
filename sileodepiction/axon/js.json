@@ -115,7 +115,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "优化支持iOS16/17",
+                    "markdown": "优化支持iOS16/17。",
                     "useRawFormat": true
                 }
             ]

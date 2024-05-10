@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。",
+                    "markdown": "YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。</br> </br> 油管高级自定义插件，可去广告、下载、画中画、改布局等。",
                     "useRawFormat": true,
                 },
                 {
