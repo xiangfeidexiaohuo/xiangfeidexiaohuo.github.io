@@ -13724,12 +13724,12 @@ Maintainer: 妖刀
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake
 Filename: rootless/CCLess++(rootless).deb
-Size: 479124
-MD5sum: 867ea8dd43f3b71f2bdf1c87b9f23a67
-SHA1: a54a403483d7b38d197c7c4f304a954871772cb9
-SHA256: 8f54998dbd7b3829510532da4a3da41e5a198f0ff45db1dcd34650e7bb8b01dc
+Size: 479136
+MD5sum: bab970c89c6b5c81706e020f033bf5a5
+SHA1: 408589f36c9a5c5fa2df97e174fd5df11652f1e2
+SHA256: cb9ee19eccd9cfaffaa01ace1c2f3865e741b8987175e1bcac2c75863d5bf77f
 Section: 嗨-工具
-Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2、微信/支付宝付款码等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等各位大佬！！！
+Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2、微信/支付宝付款码、抬起唤醒等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等各位大佬！！！
 Author: 妖刀
 Name: CCLess++(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
@@ -14976,6 +14976,23 @@ Section: 嗨-汉化
 Description: PrimalFolder2 简体中文包(RootHide)。
 Author: 妖刀
 Name: PrimalFolder2 简体中文包(RootHide)
+
+Package: com.hk.roothide.cc
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring,  com.skypain.ccvpn, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, com.ichitaso.ringertoggle, com.mtac.uptime
+Filename: roothide/CCHide++(RootHide).deb
+Size: 160676
+MD5sum: d15a039cbe5595fd31e52bf288deafdd
+SHA1: b61ad8fb80067ef9bf085d1aef72f52ff4134807
+SHA256: 2266f869f1da8f09ebcdde018f1ef7fc7b8c249b6935bb3666056a99649375e7
+Section: 嗨-工具
+Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、系统运行时间、静音等。感谢Skypain、ichitaso、MTAC等各位大佬！！！
+Author: 妖刀
+Name: CCHide++(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cchide/js.json
 
 Package: com.hk.rune.cn.rl
 Version: 1.2.1
