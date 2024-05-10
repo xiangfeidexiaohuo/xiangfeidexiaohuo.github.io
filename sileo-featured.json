@@ -16,6 +16,12 @@
    "hideShadow": false
   },
   {
+   "url": "https://xiangfeidexiaohuo.github.io/images/cf3.png",
+   "title": "ClassicFolders 3",
+   "package": "com.dao.classicfolders3",
+   "hideShadow": false
+  },   
+  {
    "url": "https://xiangfeidexiaohuo.github.io/images/kayoko.png",
    "title": "Kayoko中文版",
    "package": "com.dao.kayoko",
