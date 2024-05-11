@@ -2545,10 +2545,10 @@ Installed-Size: 4348
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn
 Filename: rootful/ClassicFolders3.deb
-Size: 3284976
-MD5sum: 8a610288c0a2b7b83826a3bddef8dfc1
-SHA1: 52bc84bec2edc0e0d8f1399825f8a3a7053aaea8
-SHA256: 2b42a2cf5e5729501ac1685ce93dc5b6c09647f12df9398badc8df23699a70b4
+Size: 3285550
+MD5sum: 05782f768b489385e5590da7a27c8ae6
+SHA1: 7a77387505c9655a5c7cc6bf093de707331746a3
+SHA256: 27dfc532be97f3887c49ad3451ec585eaeed0f9004f2a1aa84886e276d392f04
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -12196,10 +12196,10 @@ Installed-Size: 4348
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn
 Filename: rootless/ClassicFolders 3(rootless).deb
-Size: 3285324
-MD5sum: 630b8fa86af253dcc07f172e2bbb353c
-SHA1: f2715ab9972eec5ceddc62d1ad55beae5a8964db
-SHA256: 1bfb4f5fca114839220b3e1f9967d870c50d0e935260ed5613602c8854c3d2bc
+Size: 3285782
+MD5sum: 300060bd7eb916ef6db2b7bcc85cac19
+SHA1: 17cdf8974c2dac331d1db553211a98259d879ba1
+SHA256: aea33d56a8695c19ca44efc4669b8365ddf506e67be9c4c4fb3473f67df4013e
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -14440,10 +14440,10 @@ Installed-Size: 4348
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn
 Filename: roothide/ClassicFolders 3(RootHide).deb
-Size: 3285312
-MD5sum: b4e1dd31259adea785614e4c3eddda3b
-SHA1: e1ec3d5fce14a80ce247a776a2867e3dca43bde2
-SHA256: 1c24f6f016e0feaa28b38c1f9294f19cc5dd7b9a3ac6419623de7077c35bedcf
+Size: 3285568
+MD5sum: b9700c190956689e963b1ee1b3006f5b
+SHA1: d2c091fc2d4cf344cd16d36d0c8c0e85be0ee237
+SHA256: 60a85b6e9679b525268a4041ececd5a99b7e8ebbb5572f16d6c642a82a0e9127
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz

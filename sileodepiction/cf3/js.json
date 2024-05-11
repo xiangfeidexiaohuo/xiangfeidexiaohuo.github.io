@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "自动关闭文件夹变更为 Lizynz 源码：设置新增“自动关闭”开关，可自由控制点击图标自动关闭文件夹。",
+                    "markdown": "1、设置新增“自动关闭”开关，可自由控制点击图标自动关闭文件夹；</br> 2、修复解锁设备后间歇性动画问题。",
                     "useRawFormat": true
                 },
                 {
