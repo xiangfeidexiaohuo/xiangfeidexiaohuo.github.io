@@ -23,7 +23,7 @@
   },   
   {
    "url": "https://xiangfeidexiaohuo.github.io/images/kayoko.png",
-   "title": "Kayoko中文版",
+   "title": "Kayoko",
    "package": "com.dao.kayoko",
    "hideShadow": false
   }, 
@@ -52,6 +52,5 @@
    "package": "com.dao.reverie",
    "hideShadow": false
   }
-
  ]
 }
