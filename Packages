@@ -12173,18 +12173,18 @@ Author: alias20
 Name: CoolCC(rootless)
 
 Package: com.dao.copylogfix16
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Depends: firmware (>= 16.0)
 Conflicts: com.0xkuj.copylogfix16
 Filename: rootless/CopyLogFix16(rootless).deb
-Size: 5552
-MD5sum: 6f0ef83ee6e0a1827a3de171936f3502
-SHA1: f338fc0177526813728d3b860dc3281ee313061f
-SHA256: 4dcafcd76256a3070d5421c7f3d8f24ad92dfd76835b445fc4769be2b9a0f97b
+Size: 6528
+MD5sum: c0858fa1f15e9696cf96f5d457cd8ac1
+SHA1: 3f189feae8574690090924fb99d54fc13308bac7
+SHA256: 670ac01c3d2f00be3167ed8f1c2e42262caf156a32e4c1bf6b1b0167a8d4dc4e
 Section: 嗨-工具
-Description: 修复CopyLog不能在iOS16上使用的问题，但听写键呼出是无效的，必须借助第三方插件(如：乌贼力量的DockX)呼出面板。具体行不行，自行测试。
+Description: 修复CopyLog不能在iOS16上使用的问题，但听写键呼出是无效的，必须借助第三方插件(如：乌贼力量的DockX)呼出面板。v1.0.1：修复CopyLog在iOS16上听写键可用。
 Author: 0xkuj
 Name: CopyLogFix16(rootless)
 
