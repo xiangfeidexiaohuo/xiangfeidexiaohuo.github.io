@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "控制中心模块集合：</br> 定位、注销、设置、VPN、自动亮度、截屏、锁屏、系统运行时间、静音等。</br> </br> ——>>模块插件来源于Skypain、ichitaso、MTAC等，感谢各位大佬的付出！！！</br> </br> 当前支持roothide的模块不多~",
+                    "markdown": "控制中心模块集合：</br> 定位、注销、设置、VPN、自动亮度、截屏、锁屏、系统运行时间、静音等。</br> </br> ——>>模块插件来源于 Skypain、ichitaso、MTAC 等，感谢各位大佬的付出！！！</br> </br> 当前支持 roothide 的模块不多~",
                     "useRawFormat": true,
                 },
                 {
