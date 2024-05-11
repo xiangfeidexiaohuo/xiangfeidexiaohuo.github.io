@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+，支持iOS13~16。</br> </br> 当前还存在一些bug，某些bug是遗传bug，等待大佬修复！",
+                    "markdown": "CoolStar 的 ClassicFolders 3，Lizynz 基于 CoolStar 的开源修复优化支持 iOS15+，支持 iOS13~16。</br> </br> 当前还存在一些 bug，某些 bug 是遗传 bug，等待大佬修复！",
                     "useRawFormat": true,
                 },
                 {
@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步Lizynz源码：修复打开文件夹时的某些bug。",
+                    "markdown": "同步 Lizynz 源码：修复打开文件夹时的某些bug。",
                     "useRawFormat": true
                 },
                 {
@@ -115,7 +115,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1、刀刀增加点击文件夹内图标后自动关闭文件夹(默认开启，无设置)；</br> 2、同步Lizynz源码：壁纸模糊。",
+                    "markdown": "1、刀刀增加点击文件夹内图标后自动关闭文件夹(强制开启，无设置)</br> 2、同步 Lizynz 源码：壁纸模糊",
                     "useRawFormat": true
                 },
                 {
@@ -126,7 +126,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步Lizynz更新：</br> 1、修复主屏幕上的页面点的问题(仅在iOS16测试)；</br> 2、摩登风格自动支持深色主题(删除深色背景选项)。",
+                    "markdown": "同步 Lizynz 更新：</br> 1、修复主屏幕上的页面点的问题(仅在 iOS16 测试)</br> 2、摩登风格自动支持深色主题(删除深色背景选项)",
                     "useRawFormat": true
                 },
                 {
@@ -137,7 +137,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "重新编译，直接内置中文包！",
+                    "markdown": "重新编译，并加入中文包！",
                     "useRawFormat": true
                 }
             ]
