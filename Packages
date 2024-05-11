@@ -12368,17 +12368,17 @@ Author: b4db1r3
 Name: OCD Lite(rootless)
 
 Package: com.dao.ocd.cn
-Version: 4.0
+Version: 4.9.9
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/OCD 简体中文包(rootless).deb
-Size: 5116
-MD5sum: b5bfc5db9245f17cb8ed310d1a27b323
-SHA1: 517c3825269a0aa40caf16395705c5d7ab2e74d6
-SHA256: 898c245017950dbafcc6edb330b5839554d679b34162d2d5c41efa734983c710
+Size: 5704
+MD5sum: 8d8c74f7cd2e786d31143ff50d194a30
+SHA1: b9212f7b5ad46ba4e3ba414990762b1a4cf4d217
+SHA256: 6d3d7630e7017821245245cb77e342668782152e57f8206cfda925c2fb696cb6
 Section: 嗨-汉化
-Description: OCD 简体中文包(rootless)。
+Description: OCD4和OCD5的通用简体中文包(rootless)。
 Author: 妖刀
 Name: OCD 简体中文包(rootless)
 
