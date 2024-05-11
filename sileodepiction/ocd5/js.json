@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "根据App图标颜色来自适应App名称和角标的颜色，</br> </br> 5系列更多新功能，有类似dotto+插件的圆点/空心效果，精简无用文件，替换插件图标。",
+                    "markdown": "根据 App 图标颜色来自适应 App 名称和角标的颜色，</br> </br> 5 系列更多新功能，有类似 dotto+ 插件的圆点/空心效果，精简无用文件，替换插件图标。",
                     "useRawFormat": true,
                 },
                 {

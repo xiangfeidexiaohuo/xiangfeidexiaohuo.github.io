@@ -2526,11 +2526,29 @@ Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4352
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootful/ClassicFolders3.deb
+Filename: rootful/ClassicFolders3_3026.deb
 Size: 3284834
 MD5sum: e7f30c3a79364130ed8cadc6b6aa1fa1
 SHA1: 73e39416c89f2d33d6ce5cb47d813a80adecd23b
 SHA256: 9d844703a0821acbf6ac03e3f708b2d3e43b1b4d5424e4648f4a351645a03b7a
+Section: 嗨-工具
+Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
+Author: CoolStar & Lizynz
+Name: ClassicFolders 3
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
+
+Package: com.dao.classicfolders3
+Version: 3.0.3
+Architecture: iphoneos-arm
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4348
+Depends: mobilesubstrate
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn
+Filename: rootful/ClassicFolders3.deb
+Size: 3284976
+MD5sum: 8a610288c0a2b7b83826a3bddef8dfc1
+SHA1: 52bc84bec2edc0e0d8f1399825f8a3a7053aaea8
+SHA256: 2b42a2cf5e5729501ac1685ce93dc5b6c09647f12df9398badc8df23699a70b4
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -2603,6 +2621,21 @@ Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版
 Author: 妖刀
 Name: PurifyLine
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
+
+Package: com.dao.ocd.cn
+Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootful/OCD_CN.deb
+Size: 6052
+MD5sum: e785d92d07d9e8dd99c16bb87778e461
+SHA1: 25568cd7a3f5a6cf4b57c988fac03cd966698b37
+SHA256: 6bf087cf59e8358a51196eb704be1d987fabd4cb88f7c82b623c3b1d50dbe8c9
+Section: 嗨-汉化
+Description: OCD4和OCD5的通用简体中文包。
+Author: 妖刀
+Name: OCD 简体中文包
 
 Package: com.dao.powercuff
 Version: 1.0.1
@@ -5133,16 +5166,16 @@ Author: dunkston
 Name: Circle Icons 简体中文包
 
 Package: com.hk.classicfolders3.cn
-Version: 3.0.0
+Version: 3.0.3
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.carck.classicfolders2.cn
 Filename: rootful/ClassicFolders3_CN.deb
-Size: 1748
-MD5sum: bfd0bb78400c5149880a4b2e261f09b1
-SHA1: f20d14ec819e305fb4ef0bae3baac3c9198ab4c6
-SHA256: 8465a3d7f7730fee905ef333865f8c68e99b1085444ead09d6586f11e2a6d8a3
+Size: 1792
+MD5sum: 00b0b0c918a23c300ec25ee868ef8647
+SHA1: 3cf02059c944faf0b6712be79524dcdecd86564e
+SHA256: a209551f7fc0d5923f93b315764d95bf6f8af41113d8ea1313ca953aa2d5c757
 Section: 嗨-汉化
 Description: ClassicFolders 3 简体中文包。也兼容ClassicFolders2的汉化。
 Author: 妖刀
@@ -12144,11 +12177,29 @@ Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4352
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootless/ClassicFolders 3(rootless).deb
+Filename: rootless/ClassicFolders 3(rootless)_3026.deb
 Size: 3284942
 MD5sum: e8d50a75e4e2566dafdd81f37547eb1e
 SHA1: cf147082e1d6e9647f7e61d8817cee5ccaf8cf3e
 SHA256: b23da71721944fb42f45f0da2a7f56bb3a4f69e6a142feee4ddfc9a7930f8f35
+Section: 嗨-工具
+Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
+Author: CoolStar & Lizynz
+Name: ClassicFolders 3(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
+
+Package: com.dao.classicfolders3
+Version: 3.0.3
+Architecture: iphoneos-arm64
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4348
+Depends: mobilesubstrate
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn
+Filename: rootless/ClassicFolders 3(rootless).deb
+Size: 3285324
+MD5sum: 630b8fa86af253dcc07f172e2bbb353c
+SHA1: f2715ab9972eec5ceddc62d1ad55beae5a8964db
+SHA256: 1bfb4f5fca114839220b3e1f9967d870c50d0e935260ed5613602c8854c3d2bc
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -12352,16 +12403,16 @@ Name: PurifyLine(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
 Package: com.dao.ocd
-Version: 4.0-2
+Version: 4.0-3
 Architecture: iphoneos-arm64
 Maintainer: b4db1r3 & 妖刀
 Depends: com.mrgcgamer.libgcuniversal, preferenceloader
 Conflicts: com.noisyflake.cozybadges, com.b4db1r3.ocd, com.dao.ocd.cn, com.dao.ocd5
 Filename: rootless/OCD Lite(rootless).deb
-Size: 110148
-MD5sum: d5c30ad2ac6f1ac0b01c2566d6588df1
-SHA1: 49d9f303eac15ba1f61d4cc11da09230a80a74b7
-SHA256: 12926fec2cfb8ef21207ea49052b7f697909aec5e85efbab95875fb86c815d95
+Size: 110536
+MD5sum: 4657e271de5de812b18d604a9c818c04
+SHA1: e5020f9dd254fc77affc4bbe266e5c01deee452c
+SHA256: b1986f8a1b67504cda104c6ddd7fccbf9674621a7751edeef3d35ca34bd6c788
 Section: 嗨-工具
 Description: 根据App图标颜色来自适应App名称和角标的颜色。替换插件图标且已经汉化，去掉一些效果不明显的选项。
 Author: b4db1r3
@@ -12369,15 +12420,15 @@ Name: OCD Lite(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd/js.json
 
 Package: com.dao.ocd.cn
-Version: 4.9.9
+Version: 5.0
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/OCD 简体中文包(rootless).deb
-Size: 5732
-MD5sum: d7378ac5f7e8d5034964f6c38ef4a80a
-SHA1: 5ed6472eb6984470235cd748d2e11adf21ce4f4c
-SHA256: 54ad89da03c0aedba3a15e2cd620fcaa932b034bf78b7c32573186c096bd4388
+Size: 6124
+MD5sum: 7ff17b0962f7746b6b01527e2ede79c7
+SHA1: 47b8dc8c9d048a86e9ba3fad61f8650d0a9e8c2f
+SHA256: 40b4dd4fa34925934993c03f39577e13d0b5a153b72fe31ce8f03bae62fb5bdd
 Section: 嗨-汉化
 Description: OCD4和OCD5的通用简体中文包(rootless)。
 Author: 妖刀
@@ -13141,15 +13192,15 @@ Author: 妖刀
 Name: Choicy 简体中文包(rootless)
 
 Package: com.hk.classicfolders3.cn.rl
-Version: 3.0.0
+Version: 3.0.3
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/ClassicFolders 3 简体中文包(rootless).deb
-Size: 1744
-MD5sum: 5ee4e3068df741b431dc4b844fc21d6e
-SHA1: d1ad02f7c829b861b829f537794cb82999df83e0
-SHA256: 8b4ffe0a84985e15ea9501bb5fed18f673674970a42794bbcd6a88d775bc8f89
+Size: 1800
+MD5sum: ceda4d5b08baef3762192067f90822e4
+SHA1: 54b7ebb19f26324a2a4eefa5a7e321ccbc646965
+SHA256: 3ce78c80f7a4e807b5a4726521f304b7a0d40d63cd2985c1e451ca50b4d34622
 Section: 嗨-汉化
 Description: ClassicFolders 3 简体中文包(rootless)。
 Author: 妖刀
@@ -14370,11 +14421,29 @@ Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4352
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: roothide/ClassicFolders 3(RootHide).deb
+Filename: roothide/ClassicFolders 3(RootHide)_3026.deb
 Size: 3285242
 MD5sum: e33dfe2f3639ab82da0aed83b914eda1
 SHA1: 0fe43c8f3b6d65fa968436dcb2d7cbb7b2b05484
 SHA256: 381c4365716f05871c79723916dc16a2aa15ec710cbb48cddf0eaa345cf9502f
+Section: 嗨-工具
+Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
+Author: CoolStar & Lizynz
+Name: ClassicFolders 3(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
+
+Package: com.dao.classicfolders3
+Version: 3.0.3
+Architecture: iphoneos-arm64e
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4348
+Depends: mobilesubstrate
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn
+Filename: roothide/ClassicFolders 3(RootHide).deb
+Size: 3285312
+MD5sum: b4e1dd31259adea785614e4c3eddda3b
+SHA1: e1ec3d5fce14a80ce247a776a2867e3dca43bde2
+SHA256: 1c24f6f016e0feaa28b38c1f9294f19cc5dd7b9a3ac6419623de7077c35bedcf
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -14432,6 +14501,21 @@ Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版
 Author: 妖刀
 Name: PurifyLine(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
+
+Package: com.dao.ocd.cn
+Version: 5.0
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/OCD 简体中文包(RootHide).deb
+Size: 6084
+MD5sum: 6ed922d50b75595a7c3c6acbe2af5b3e
+SHA1: 592a97ebc7208d98b6a96549673d88a837750c3c
+SHA256: cacb4160d1930c89619ed329a4adad8915648ff561eaed469d119d250af9d8d2
+Section: 嗨-汉化
+Description: OCD4和OCD5的通用简体中文包(RootHide)。
+Author: 妖刀
+Name: OCD 简体中文包(RootHide)
 
 Package: com.dao.powercuff
 Version: 1.0.1
@@ -14736,6 +14820,22 @@ Section: 嗨-汉化
 Description: BioProtect 简体中文包(RootHide)。
 Author: Sandy0 & Ball
 Name: BioProtect 简体中文包(RootHide)
+
+Package: com.hk.classicfolders3.cn.rl
+Version: 3.0.3
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.carck.classicfolders2.cn
+Filename: roothide/ClassicFolders 3 简体中文包(RootHide).deb
+Size: 1788
+MD5sum: 55bb0030d643d9e59c81c523b63df2a4
+SHA1: 29a01a1d0c10a90e7ea1bbcc5965acc21469746d
+SHA256: bc68b2e68cdf0990d097a990eb80027b31c3ccc375f7f8c55b986ac871f8b644
+Section: 嗨-汉化
+Description: ClassicFolders 3 简体中文包(RootHide)。
+Author: 妖刀
+Name: ClassicFolders 3 简体中文包(RootHide)
 
 Package: com.hk.copylog.cn.rl
 Version: 1.5.6-3

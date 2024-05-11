@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "根据App图标颜色来自适应App名称和角标的颜色。</br> </br> 替换插件图标且已经汉化，去掉一些效果不明显的选项。",
+                    "markdown": "根据 App 图标颜色来自适应 App 名称和角标的颜色。</br> </br> 替换插件图标且已经汉化，去掉一些效果不明显的选项。",
                     "useRawFormat": true,
                 },
                 {
@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.0-2",
+                    "text": "4.0-3",
                     "title": "最新版本"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "4.0-3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步更新汉化。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "4.0-2",
