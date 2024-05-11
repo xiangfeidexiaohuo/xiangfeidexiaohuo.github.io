@@ -12352,16 +12352,16 @@ Name: PurifyLine(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
 Package: com.dao.ocd
-Version: 4.0-1
+Version: 4.0-2
 Architecture: iphoneos-arm64
 Maintainer: b4db1r3 & 妖刀
 Depends: com.mrgcgamer.libgcuniversal, preferenceloader
 Conflicts: com.noisyflake.cozybadges, com.b4db1r3.ocd, com.dao.ocd.cn
 Filename: rootless/OCD Lite(rootless).deb
-Size: 109620
-MD5sum: d630589d0d1f4e78fd5d727de7088de3
-SHA1: dd2e18c4553e9903dba10659f007b6132f8adcda
-SHA256: c11e0a24b3ce6327a1cec54b518b92e709aaf18b025c1fd857c76ec3ba3d73e4
+Size: 109792
+MD5sum: 07258e865133de58df76af55eff8dd77
+SHA1: cca7bb51c17433a77e4553d972d87c11d834ba50
+SHA256: 035145571fdeafb997da9edde704c53d0974ded6d43aa42e12a98857cc72ce33
 Section: 嗨-工具
 Description: 根据App图标颜色来自适应App名称和角标的颜色。替换插件图标且已经汉化，去掉一些效果不明显的选项。
 Author: b4db1r3
@@ -12381,6 +12381,22 @@ Section: 嗨-汉化
 Description: OCD 简体中文包(rootless)。
 Author: 妖刀
 Name: OCD 简体中文包(rootless)
+
+Package: com.dao.ocd5
+Version: 5.0
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3 <nfive060@gmail.com>
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis
+Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd
+Filename: rootless/OCD5(rootless).deb
+Size: 554672
+MD5sum: 53a6239cbc896575d201be37d93b73b2
+SHA1: 9c2e87845fa3d6f4233d4275fabdbf8d7f233f32
+SHA256: 6d1d81060e366adc81791fd21326fca20e1f3589949fa6e0f2caf9b199a89c7b
+Section: 嗨-工具
+Description: 根据App图标颜色来自适应App名称和角标的颜色，5系列更多新功能，有类似dotto+插件的圆点/空心效果。替换插件不好看的图标。
+Author: b4db1r3 <nfive060@gmail.com>
+Name: OCD5(rootless)
 
 Package: com.dao.onesettings
 Version: 2.0.3
