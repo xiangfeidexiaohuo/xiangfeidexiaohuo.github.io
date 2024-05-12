@@ -12690,6 +12690,22 @@ Description: 为iOS13～16的控制中心音量/亮度条添加数字百分比�
 Author: iOS Creatix, kasiimh1, p2kdev
 Name: SugarCane 16(rootless)
 
+Package: com.dao.tako
+Version: 3.3.1
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16),com.mrgcgamer.libgcuniversal, com.hk.tako.cn.rl
+Conflicts: com.xyaman.tako, com.dao.axon, com.hk.axon.cn.rl, com.b4db1r3.tako, me.nepeta.axon, xyz.cypwn.tako, xyz.cypwn.axon
+Filename: rootless/Tako(rootless).deb
+Size: 93956
+MD5sum: 913493c73bb4d676e056a504e5d6f8b6
+SHA1: 7bd020a20d69bc2b8a42fdadf08500df3efaf18a
+SHA256: ce0d182ffc5b1e1e372eaaf5e1ad1244c9f3ec5dbd9745e40d926a2754d03f89
+Section: 嗨-工具
+Description: 类似Group和Axon的通知聚合插件，b4db1r3优化编译版。
+Author: Xyaman & b4db1r3
+Name: Tako(rootless)
+
 Package: com.dao.tvlock.cn
 Version: 1.2.3
 Architecture: iphoneos-arm64
@@ -14095,15 +14111,15 @@ Author: 妖刀
 Name: Speedy 简体中文包(rootless)
 
 Package: com.hk.tako.cn.rl
-Version: 0.0.3
+Version: 3.0
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Tako 简体中文包(rootless).deb
-Size: 2508
-MD5sum: 1d749a15016ae18a2977d4dff6af14c2
-SHA1: 9a4253c522dfdfd7ea7f9b9b0fb729855a995926
-SHA256: 43d3dc03c2c8a3f2d77e90f854652a099f36d471ab8e412d6c9a14a3ced81cb3
+Size: 2836
+MD5sum: 3f9538013e7a4cd200cec7b7683c99b1
+SHA1: ba7a5ffceea05695392f944b079e1e124083d4f7
+SHA256: 79dbdeb39efaf3fdf552cf3109e761300200d369ec2b0f0b0a212ae023dce97b
 Section: 嗨-汉化
 Description: Tako 简体中文包(rootless)。
 Author: 妖刀
