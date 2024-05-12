@@ -104,8 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步 Lizynz 最新源码：</br> 1、修复了编辑文件夹时的错误
-</br> 2、支持 Bolders Reborn (仅限网格，最大 4x5)</br> </br> 刀刀更新：</br> 弃用 Lizynz 带开关的自动关闭文件夹，改用v3.0.2.5的自动关闭文件夹(强制开启，无设置)的方案。",
+                    "markdown": "同步 Lizynz 最新源码：</br> 1、修复了编辑文件夹时的错误</br> 2、支持 Bolders Reborn (仅限网格，最大 4x5)</br> </br> 刀刀更新：</br> 弃用 Lizynz 带开关的自动关闭文件夹，改用v3.0.2.5的自动关闭文件夹(强制开启，无设置)的方案。",
                     "useRawFormat": true
                 },
                 {
