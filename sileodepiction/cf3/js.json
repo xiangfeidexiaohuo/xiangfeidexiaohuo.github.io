@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修复解锁后第一次打开文件夹时位置错乱的Bug。",
+                    "markdown": "1、修复解锁后第一次打开文件夹时位置错乱的Bug</br> 2、修复点击文件夹图标时其他文件夹和小组件会闪的Bug",
                     "useRawFormat": true
                 },
                 {
