@@ -12697,10 +12697,10 @@ Maintainer: b4db1r3
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16),com.mrgcgamer.libgcuniversal, com.hk.tako.cn.rl
 Conflicts: com.xyaman.tako, com.dao.axon, com.hk.axon.cn.rl, com.b4db1r3.tako, me.nepeta.axon, xyz.cypwn.tako, xyz.cypwn.axon
 Filename: rootless/Tako(rootless).deb
-Size: 93956
-MD5sum: 913493c73bb4d676e056a504e5d6f8b6
-SHA1: 7bd020a20d69bc2b8a42fdadf08500df3efaf18a
-SHA256: ce0d182ffc5b1e1e372eaaf5e1ad1244c9f3ec5dbd9745e40d926a2754d03f89
+Size: 93960
+MD5sum: be653d597bb4f3254889f2a60c8e29c7
+SHA1: ea69fb3314c1195f94d9a23c260eb6e470b3d11a
+SHA256: 9ca7b07153da9f351eb7ac738f4ff56a0bd604d8dff537751a3b94fcb6e4315d
 Section: 嗨-工具
 Description: 类似Group和Axon的通知聚合插件，b4db1r3优化编译版。
 Author: Xyaman & b4db1r3
