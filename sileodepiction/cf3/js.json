@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.3-1",
+                    "text": "3.0.3.5",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 11 日",
+                    "text": "2024 年 05 月 12 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +96,18 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.0.3.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步 Lizynz 最新源码：</br> 1、修复了编辑文件夹时的错误
+</br> 2、支持 Bolders Reborn (仅限网格，最大 4x5)</br> </br> 刀刀更新：</br> 弃用 Lizynz 带开关的自动关闭文件夹，改用v3.0.2.5的自动关闭文件夹(强制开启，无设置)的方案。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "3.0.3-1",
