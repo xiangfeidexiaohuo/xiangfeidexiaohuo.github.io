@@ -12733,14 +12733,15 @@ Maintainer: b4db1r3
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16),com.mrgcgamer.libgcuniversal, com.hk.tako.cn.rl
 Conflicts: com.xyaman.tako, com.dao.axon, com.hk.axon.cn.rl, com.b4db1r3.tako, me.nepeta.axon, xyz.cypwn.tako, xyz.cypwn.axon
 Filename: rootless/Tako(rootless).deb
-Size: 90312
-MD5sum: 8ca90341c2682c1c797223ac638367d3
-SHA1: ce4fa9d38c68539cc8b5c7d81f7666cc85a926a1
-SHA256: c3f88aadf4d2e776b61da833b8af5cffbd8f83f3edb1f364f2b47b3c26f438fa
+Size: 90360
+MD5sum: 709a05122d916ecc135b3c09f3ba6943
+SHA1: 5009ea019e327503527440293c60f61330800e62
+SHA256: a7f05fcd1b460322eca75b04a59657b9fe32721a6f2a9d51ba152787f74e0d8b
 Section: 嗨-工具
 Description: 类似Group和Axon的通知聚合插件，b4db1r3优化编译版。
 Author: Xyaman & b4db1r3
 Name: Tako(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/tako/js.json
 
 Package: com.dao.tvlock.cn
 Version: 1.2.3
