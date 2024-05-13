@@ -2763,10 +2763,10 @@ Installed-Size: 412
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.wrp1002.tvlock, com.dao.tvlock.cn
 Filename: rootful/TVLock.deb
-Size: 34282
-MD5sum: 18aa4a72aca8dbd64492d4124d92befb
-SHA1: bce5bf6ee90d771776ed94dd315c383d04bdb91f
-SHA256: 612f178d0687f5f94bf62aa33bbc5c382965022edd5728f29715b3ec39b3deb8
+Size: 34332
+MD5sum: ed6d6a034bf5c3a9e21cfd30288c8b68
+SHA1: 6d4f2ec130f957a5113cbfb2c94918cc96c325c9
+SHA256: 3b931a2b2c673a70ae3d3f22902ba2c2c713c30e61e1bf57390703903949828e
 Section: 嗨-工具
 Description: 很棒的老电视关屏动画，根据开源编译，已内置简体中文。
 Author: Wes <wes.hamster@gmail.com>
@@ -2779,10 +2779,10 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootful/TVLock_CN.deb
-Size: 1540
-MD5sum: 224b81d40456fc4782f1e48cda300dfb
-SHA1: 4e2c726e0b3eb13d00e866831bdae4270ee02f11
-SHA256: ace14642c7e42b2f31327a4d0576205112ab09a51938de0751dce5abb2c69be5
+Size: 1652
+MD5sum: 341e7dc272071d2dc2a8a104c06c0838
+SHA1: 4d39235ca5d4262d23466e502dbfab4c5ced5245
+SHA256: 76ebf92c91e4649f2c64ae35d1295ed01d4788c3e2a25090c6fb08239eb78a92
 Section: 嗨-汉化
 Description: TVLock 简体中文包。
 Author: 妖刀
@@ -12819,10 +12819,10 @@ Maintainer: Wes <wes.hamster@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.wrp1002.tvlock, com.dao.tvlock.cn
 Filename: rootless/TVLock(rootless).deb
-Size: 34368
-MD5sum: cbd4049892e1a6a8d1cd7d896b4717f7
-SHA1: f78ea1d7c5ff060f96741e3c8c0b0a64a4754cb5
-SHA256: 14dd4c76f3ba0041e943be1ff067499562cc858b4c0c0720dcfe70a69e0da097
+Size: 34392
+MD5sum: 10e3938d26e3a231a17e192293d58e9b
+SHA1: 5726dbd84eacb4e63b7f7168cb169d345e278cc0
+SHA256: 197f9bd2b67e79032acb00c23a2dd1bce4f024fb181f6b21c1b2cbaec8f965d6
 Section: 嗨-工具
 Description: 很棒的老电视关屏动画，根据开源编译，已内置简体中文。
 Author: Wes <wes.hamster@gmail.com>
@@ -12835,10 +12835,10 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/TVLock 简体中文包(rootless).deb
-Size: 1576
-MD5sum: 01878a08de92b0cc8426c9c9c8007c2e
-SHA1: 2ed4b83e34cfdfbd16e2b7bd068dc4adde5ef74d
-SHA256: b1d2851cfcc273135bcf724f3144b886224a98707d171333da08e532df45e222
+Size: 1684
+MD5sum: d0332bfe95dbfa710add59632b2bebce
+SHA1: abef36410417ed09222d4af53b34fe4c66b1605b
+SHA256: 2304915973294246acb677547f06574b68e0bfb7a7007742e9ddb32a1ba5dc97
 Section: 嗨-汉化
 Description: TVLock 简体中文包(rootless)。
 Author: 妖刀
@@ -14765,10 +14765,10 @@ Maintainer: Wes <wes.hamster@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: com.wrp1002.tvlock, com.dao.tvlock.cn
 Filename: roothide/TVLock(RootHide).deb
-Size: 34344
-MD5sum: 7de92017ea2a6bc44e2565bb8df8d290
-SHA1: 5c83270a983bfe4814c990863b669554748f150e
-SHA256: ee4bc3243000db143d30b30e977a668f5132952bf90f1a24834c96614b780299
+Size: 34368
+MD5sum: 7118db3255c6bd9838c9fade6588fb34
+SHA1: 4a0006bb03db9f15c9be284d477669ecc634672b
+SHA256: 446c57a98eaefd25fa2c31f0f766fbdec879712b99c8622e2678f4ad8988deeb
 Section: 嗨-工具
 Description: 很棒的老电视关屏动画，根据开源编译，已内置简体中文。
 Author: Wes <wes.hamster@gmail.com>
@@ -14781,10 +14781,10 @@ Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/TVLock 简体中文包(RootHide).deb
-Size: 1556
-MD5sum: 13d821f7ee26a0009608b1fc28965672
-SHA1: 9feaf34923b1515196c163840c69a70ef7feb310
-SHA256: e7e22b5f963daae3b05fdedf397f0dd428049368d3243a358d867cbbc26e17e4
+Size: 1664
+MD5sum: ea72033dcb4ee0d194a08799244dfe9e
+SHA1: 9e29c00562daef0927aeb30aeb1554af11592b66
+SHA256: 414456e33bc7e3a3a9ad18b1bab10f796ed6a0f69d43ab7fedc576c3b4ac4fec
 Section: 嗨-汉化
 Description: TVLock 简体中文包(RootHide)。
 Author: 妖刀
