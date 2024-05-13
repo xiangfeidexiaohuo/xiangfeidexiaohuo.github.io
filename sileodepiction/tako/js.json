@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.4",
+                    "text": "3.5",
                     "title": "最新版本"
                 },
                 {
@@ -98,13 +98,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "3.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "调整编译的SDK版本",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "3.4",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修复优化",
+                    "markdown": "修复消失的问题</br> 修复视图的一些逻辑问题</br> 修复“完整图标(红色角标)”的一些问题",
                     "useRawFormat": true
                 },
                 {

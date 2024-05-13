@@ -2775,14 +2775,14 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/tvlock/js.jso
 
 Package: com.dao.tvlock.cn
 Version: 1.2.3
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootful/TVLock_CN.deb
-Size: 1544
-MD5sum: b75a8e52a9ae460cb7c36b28b4668a91
-SHA1: 6aff941ec4f1f4ccbf6895d9a471146fda8b50f2
-SHA256: 07d4faad8ab01ae12fe67c403a7daaa9ddacae6e2ca152bfa1702c69c8214724
+Size: 1540
+MD5sum: 224b81d40456fc4782f1e48cda300dfb
+SHA1: 4e2c726e0b3eb13d00e866831bdae4270ee02f11
+SHA256: ace14642c7e42b2f31327a4d0576205112ab09a51938de0751dce5abb2c69be5
 Section: 嗨-汉化
 Description: TVLock 简体中文包。
 Author: 妖刀
@@ -10569,15 +10569,15 @@ Author: ARX8x
 Name: System Info 系统信息(CN)
 
 Package: com.hk.tako.cn
-Version: 0.0.3
+Version: 3.0
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Tako_CN.deb
-Size: 2456
-MD5sum: 25c913b50a6b41c5b7261c9de4ee39cd
-SHA1: 28081f66748a5ff8ffbf01eb742fa4847bec5734
-SHA256: 223d141de50422ac0040fb79434363d2a8f1c7a525a2a41e2fa9d84df95ac175
+Size: 2792
+MD5sum: c160437749d291cd1bfccc3d226cf51f
+SHA1: b13268986cf56111c9a0a1a37203f14c10ac310c
+SHA256: 90c65f170a583b61ae8afe9a518f6954ff1449cbcf0874f91772809f05c3ddeb
 Section: 嗨-汉化
 Description: Tako 简体中文包。
 Author: 妖刀
@@ -12796,16 +12796,16 @@ Author: iOS Creatix, kasiimh1, p2kdev
 Name: SugarCane 16(rootless)
 
 Package: com.dao.tako
-Version: 3.4
+Version: 3.5
 Architecture: iphoneos-arm64
 Maintainer: b4db1r3
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16),com.mrgcgamer.libgcuniversal, com.hk.tako.cn.rl
 Conflicts: com.xyaman.tako, com.dao.axon, com.hk.axon.cn.rl, com.b4db1r3.tako, me.nepeta.axon, xyz.cypwn.tako, xyz.cypwn.axon
 Filename: rootless/Tako(rootless).deb
-Size: 90360
-MD5sum: 709a05122d916ecc135b3c09f3ba6943
-SHA1: 5009ea019e327503527440293c60f61330800e62
-SHA256: a7f05fcd1b460322eca75b04a59657b9fe32721a6f2a9d51ba152787f74e0d8b
+Size: 89988
+MD5sum: c834e4965b2e98c25fd681b6d4b02184
+SHA1: c52bbabc63e5ae246d92b288b6c4600e8cda95cf
+SHA256: 05ddbbbce053e4a1f4a57a5ebbaf2f49cff0f816906b6c69944fa1ff4a702df1
 Section: 嗨-工具
 Description: 类似Group和Axon的通知聚合插件，b4db1r3优化编译版。
 Author: Xyaman & b4db1r3
@@ -14775,6 +14775,21 @@ Author: Wes <wes.hamster@gmail.com>
 Name: TVLock(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/tvlock/js.json
 
+Package: com.dao.tvlock.cn
+Version: 1.2.3
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/TVLock 简体中文包(RootHide).deb
+Size: 1556
+MD5sum: 13d821f7ee26a0009608b1fc28965672
+SHA1: 9feaf34923b1515196c163840c69a70ef7feb310
+SHA256: e7e22b5f963daae3b05fdedf397f0dd428049368d3243a358d867cbbc26e17e4
+Section: 嗨-汉化
+Description: TVLock 简体中文包(RootHide)。
+Author: 妖刀
+Name: TVLock 简体中文包(RootHide)
+
 Package: com.dao.ve
 Version: 2.0
 Architecture: iphoneos-arm64e
@@ -15408,6 +15423,21 @@ Section: 嗨-汉化
 Description: Snowboard 中文修正包(RootHide)。
 Author: 妖刀
 Name: Snowboard 中文修正包(RootHide)
+
+Package: com.hk.tako.cn
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: roothide/Tako 简体中文包(RootHide).deb
+Size: 2804
+MD5sum: a05e5d4dc14b529925d4b4a3142494d9
+SHA1: bdccf82a2aafd9252f165aae33d4410e865103fd
+SHA256: 30297998217e4ca3bd27e8955871b1e1ee6d8c77dd0cc30bfeee7ec10b7c4d19
+Section: 嗨-汉化
+Description: Tako 简体中文包(RootHide)。
+Author: 妖刀
+Name: Tako 简体中文包(RootHide)
 
 Package: com.hk.trollnonce.cn.rl
 Version: 1.0.1
