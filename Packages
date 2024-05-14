@@ -10569,15 +10569,15 @@ Author: ARX8x
 Name: System Info 系统信息(CN)
 
 Package: com.hk.tako.cn
-Version: 3.0
+Version: 3.5
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Tako_CN.deb
 Size: 2792
-MD5sum: c160437749d291cd1bfccc3d226cf51f
-SHA1: b13268986cf56111c9a0a1a37203f14c10ac310c
-SHA256: 90c65f170a583b61ae8afe9a518f6954ff1449cbcf0874f91772809f05c3ddeb
+MD5sum: 7acd318e7f3a0ff5e52490cb879a4194
+SHA1: 730f6883286c6c596e0f5ab4292f8e5df22df3d3
+SHA256: a831c88b12cf306877587db7156e6133783f90ce4cff05ca750c3c53fa4fdc41
 Section: 嗨-汉化
 Description: Tako 简体中文包。
 Author: 妖刀
@@ -14234,15 +14234,15 @@ Author: 妖刀
 Name: Speedy 简体中文包(rootless)
 
 Package: com.hk.tako.cn.rl
-Version: 3.0
+Version: 3.5
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Tako 简体中文包(rootless).deb
-Size: 2836
-MD5sum: 3f9538013e7a4cd200cec7b7683c99b1
-SHA1: ba7a5ffceea05695392f944b079e1e124083d4f7
-SHA256: 79dbdeb39efaf3fdf552cf3109e761300200d369ec2b0f0b0a212ae023dce97b
+Size: 2828
+MD5sum: b031455db9e57937956f698239000490
+SHA1: de51210dd359adf83f02815d3e752480b6ebd410
+SHA256: 91c07839d132d47ff6bf93b1491484179499bf6158ff5085f95832a1f95eec3c
 Section: 嗨-汉化
 Description: Tako 简体中文包(rootless)。
 Author: 妖刀
@@ -15425,15 +15425,15 @@ Author: 妖刀
 Name: Snowboard 中文修正包(RootHide)
 
 Package: com.hk.tako.cn
-Version: 3.0
+Version: 3.5
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Tako 简体中文包(RootHide).deb
-Size: 2804
-MD5sum: a05e5d4dc14b529925d4b4a3142494d9
-SHA1: bdccf82a2aafd9252f165aae33d4410e865103fd
-SHA256: 30297998217e4ca3bd27e8955871b1e1ee6d8c77dd0cc30bfeee7ec10b7c4d19
+Size: 2800
+MD5sum: 54f3ed496255cef3bb9e9ac358270840
+SHA1: ff7bec30115b4fbbd7f967c5000015a2303e7eb6
+SHA256: 8f26795de705f225115f1ab789f87c5016a217774b4ed0466f45446c558dc7f1
 Section: 嗨-汉化
 Description: Tako 简体中文包(RootHide)。
 Author: 妖刀
