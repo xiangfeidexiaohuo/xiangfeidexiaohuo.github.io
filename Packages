@@ -12276,21 +12276,22 @@ Name: ClassicFolders 3(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.coolcc
-Version: 2.0.1
+Version: 2.0.2
 Architecture: iphoneos-arm64
-Maintainer: alias20
-Installed-Size: 376
+Maintainer: 妖刀
+Installed-Size: 400
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis
 Conflicts: alias20.coolcc, com.hk.coolcc.cn.rl
-Filename: rootless/CoolCC(rootless).deb
-Size: 25222
-MD5sum: b02fab8d0bca2c39694a60df3463c486
-SHA1: c5a2201c74abe3ca1c9dc5d5bb35b1036c7be7f1
-SHA256: 201e991b9befa4ee78a29fdf0aa62c5ab0c4047209d04c5a2440b811e429c634
+Filename: rootless/CoolCC Reborn(rootless).deb
+Size: 26110
+MD5sum: f2b1ed4cf8df371e2d88f3f26d43413e
+SHA1: 948dae509284193e62ddaad4084af92343390857
+SHA256: ca4214416db9bfb8c58867a0ab85c5e7312004d7191be4a57e18e5015fe7fe86
 Section: 嗨-工具
-Description: 控制中心调整背景和边框等，已包含简体中文。laileld和乌贼力量修复alias20版的一些bug，优化支持iOS16音量框。
+Description: 控制中心调整背景和边框等，基于alias20的CoolCC Reborn的开源编译，已包含简体中文。laileld和乌贼力量修复alias20版的一些bug，优化支持iOS16音量框。
 Author: alias20
-Name: CoolCC(rootless)
+Name: CoolCC Reborn(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
 
 Package: com.dao.copylogfix16
 Version: 1.0.1
