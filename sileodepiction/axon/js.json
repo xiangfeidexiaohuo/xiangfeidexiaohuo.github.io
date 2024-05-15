@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "优化编译，提升版本号，哈哈！",
+                    "markdown": "优化编译，提升版本号，哈哈！</br> 修复某些机器不生效的问题。",
                     "useRawFormat": true
                 },
                 {

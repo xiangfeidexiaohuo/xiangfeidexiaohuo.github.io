@@ -2419,23 +2419,6 @@ Author: Luki
 Name: April 中文版
 
 Package: com.dao.axon
-Version: 1.5.3
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootful/Axon_ZH_153.deb
-Size: 144164
-MD5sum: 75c1e68ea6b9d15d419fdee85af77b35
-SHA1: a0799cb9dfb9aa554c56bf9190e0617b08e968d8
-SHA256: 4d55b9a35eb30600d8caeda9e46770678cd93b19b51e9a2737d619530ef5c745
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
-Author: Nepeta
-Name: Axon 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
 Version: 1.5.5
 Architecture: iphoneos-arm
 Maintainer: 妖刀
@@ -2443,10 +2426,10 @@ Installed-Size: 692
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
 Filename: rootful/Axon_ZH.deb
-Size: 144256
-MD5sum: 1623c47a3f2cb482f3e65669de5a0bc1
-SHA1: ab74d24980c287f2b44e64292fd9bf8a18e11992
-SHA256: 1e7c1e23f6322b953333c42ffc4f9040bab27bfcfc1b416603bade0e65744990
+Size: 144216
+MD5sum: 27a7d46ffaf05ae1f0f1bf71afaa8b46
+SHA1: cb3ca77057a799efc61d97906045391bfc46953f
+SHA256: d06a9628935d57a0a46ddccc6fe7a2ce71c23924416f7bcc38bdfad1dfcd08e7
 Section: 嗨-工具
 Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
 Author: Nepeta
@@ -12076,23 +12059,6 @@ Author: Luki
 Name: April 中文版(rootless)
 
 Package: com.dao.axon
-Version: 1.5.3
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootless/Axon 中文版(rootless)_153.deb
-Size: 144492
-MD5sum: 22990b44e6762d4561ca0b83e09c0edd
-SHA1: 9b25a6675ef68ade45df1f147a8bb922651e1a5d
-SHA256: 4cdce8f26daf1139e7e701022d85deac9d01e674d9b68de1a750091a61018775
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。
-Author: Nepeta
-Name: Axon 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
 Version: 1.5.5
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
@@ -14489,23 +14455,6 @@ Author: Luki
 Name: April 中文版(RootHide)
 
 Package: com.dao.axon
-Version: 1.5.3
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: roothide/Axon 中文版(RootHide)_153.deb
-Size: 144320
-MD5sum: 81ee3a4025491b33809c7072c8dc73a1
-SHA1: 262884387c9654306d65524b37ec7d6403f4d490
-SHA256: 2e6adaaead6fc5da85539a12c0f319978500ede7e52970b7ea3e1aa6c8b3435a
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。
-Author: Nepeta
-Name: Axon 中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
 Version: 1.5.5
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
@@ -14513,10 +14462,10 @@ Installed-Size: 692
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
 Filename: roothide/Axon 中文版(RootHide).deb
-Size: 144316
-MD5sum: 6d849f8e04b8c9e403c89600c2b5c2e0
-SHA1: 5ba3d77e22e8f21e23cc228b84669d31784c1c54
-SHA256: 080ae118cf46a466f6498ff335a047e666853cdc53ab183f2b6ffb44bccb8863
+Size: 144356
+MD5sum: 3bb3c73486e25b0b2f70da4d2ad70914
+SHA1: dc3af4afe92f90754198fad9d2f90e26eed733fa
+SHA256: 0fae781269280ff1f97e5391f0716a11818773a8aa902ae5c002b5bcb2562e99
 Section: 嗨-工具
 Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
 Author: Nepeta
