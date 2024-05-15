@@ -115,7 +115,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "。laileld 和乌贼力量修复 alias20 版的一些问题，优化支持 iOS16 音量框。",
+                    "markdown": "laileld 和乌贼力量修复 alias20 版的一些问题，优化支持 iOS16 音量框。",
                     "useRawFormat": true
                 }
             ]
