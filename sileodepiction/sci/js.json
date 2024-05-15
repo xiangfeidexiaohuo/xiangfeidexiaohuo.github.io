@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://xiangfeidexiaohuo.github.io/images/axon.png",
+    "headerImage": "https://xiangfeidexiaohuo.github.io/images/sci.png",
     "tintColor": "#1DBBFF",
     "minVersion": "0.3",
     "tabs": [
@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "锁屏通知聚合插件，根据开源编译/汉化。",
+                    "markdown": "Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，刀刀根据开源直接编译的中文版。</br> </br> 长按主页面左上角“Instagram图标”进入插件设置！",
                     "useRawFormat": true,
                 },
                 {
@@ -32,11 +32,15 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/axon/Screenshot_01.png"
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/sci/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/axon/Screenshot_02.png"
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/sci/Screenshot_02.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/sci/Screenshot_03.png"
                         }
                     ]
                 },
@@ -63,22 +67,22 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "Nepeta & 妖刀",
+                    "text": "SoCuul",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "妖刀",
+                    "text": "SoCuul & 妖刀",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.5.5",
+                    "text": "0.4.1",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "14.0 - 16.5.1",
+                    "text": "13.0 - 16.5.1",
                     "title": "支持系统范围"
                 },
                 {
@@ -98,35 +102,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.5.5",
+                    "title": "0.4.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "优化编译，提升版本号，哈哈！",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.5.3",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "优化支持多语言，优化部分代码。",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.5.2",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "优化支持 iOS16/17。",
+                    "markdown": "根据SoCuul的开源，直接编译简体中文版。",
                     "useRawFormat": true
                 }
             ]

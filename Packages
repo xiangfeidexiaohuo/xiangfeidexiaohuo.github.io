@@ -2419,33 +2419,34 @@ Author: Luki
 Name: April 中文版
 
 Package: com.dao.axon
-Version: 1.5.2
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 648
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootful/Axon_ZH_1.5.2.deb
-Size: 141898
-MD5sum: 2c6da8576b27cc20a845fda045ae8f1d
-SHA1: 4bbe241753c6dd1cf89ecedf4b26add50f9ce9f5
-SHA256: 157cb0fef042bd9eb231cf1a9197c13c3b0bc4967512c621410cf993bf95cdfe
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：参考dakota1337x代码，优化支持iOS16/17。
-Author: Nepeta
-Name: Axon 中文版
-
-Package: com.dao.axon
 Version: 1.5.3
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootful/Axon_ZH.deb
+Filename: rootful/Axon_ZH_153.deb
 Size: 144164
 MD5sum: 75c1e68ea6b9d15d419fdee85af77b35
 SHA1: a0799cb9dfb9aa554c56bf9190e0617b08e968d8
 SHA256: 4d55b9a35eb30600d8caeda9e46770678cd93b19b51e9a2737d619530ef5c745
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
+Author: Nepeta
+Name: Axon 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Version: 1.5.5
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 692
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: rootful/Axon_ZH.deb
+Size: 144256
+MD5sum: 1623c47a3f2cb482f3e65669de5a0bc1
+SHA1: ab74d24980c287f2b44e64292fd9bf8a18e11992
+SHA256: 1e7c1e23f6322b953333c42ffc4f9040bab27bfcfc1b416603bade0e65744990
 Section: 嗨-工具
 Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
 Author: Nepeta
@@ -2688,6 +2689,24 @@ Description: 自由的休眠设备来节省电量。
 Author: Paisseon
 Name: Reverie 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
+
+Package: com.dao.scinsta
+Version: 0.4.1
+Architecture: iphoneos-arm
+Maintainer: SoCuul & 妖刀
+Installed-Size: 1904
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
+Filename: rootful/SCInsta_ZH.deb
+Size: 495260
+MD5sum: 20d1a6d9f90e4002e0990c4940ec983b
+SHA1: 4c04cc70b79f4c9a32ab6423a437e1ffc3daecaf
+SHA256: 2126ff12f56a1921d913d59e28b342e1aa5e5f4029ce5b56df1e29bc228ee50f
+Section: 嗨-功能
+Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
+Author: SoCuul
+Name: SCInsta 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/sci/js.json
 
 Package: com.dao.senri.cn
 Version: 1.1
@@ -12057,35 +12076,36 @@ Author: Luki
 Name: April 中文版(rootless)
 
 Package: com.dao.axon
-Version: 1.5.2
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 648
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootless/Axon 中文版(rootless)_1.5.2.deb
-Size: 142468
-MD5sum: abe60995f58e927a87dcf414e5bd460e
-SHA1: c4a2ff0897f87ff58c3f494c94e6f21a3447123e
-SHA256: 4a7dded7461d9ccea69c425755902ae5dcfea3b3c4363ced49a1505c570402c6
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：参考dakota1337x代码，优化支持iOS16/17。
-Author: Nepeta
-Name: Axon 中文版(rootless)
-
-Package: com.dao.axon
 Version: 1.5.3
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootless/Axon 中文版(rootless).deb
+Filename: rootless/Axon 中文版(rootless)_153.deb
 Size: 144492
 MD5sum: 22990b44e6762d4561ca0b83e09c0edd
 SHA1: 9b25a6675ef68ade45df1f147a8bb922651e1a5d
 SHA256: 4cdce8f26daf1139e7e701022d85deac9d01e674d9b68de1a750091a61018775
 Section: 嗨-工具
 Description: 锁屏通知聚合插件，根据开源编译/汉化。
+Author: Nepeta
+Name: Axon 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 692
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: rootless/Axon 中文版(rootless).deb
+Size: 144590
+MD5sum: 29683e4962b02240ad57f2cc3c25a673
+SHA1: 4ab5959d737a193df8062cc6403ea8fb85a54118
+SHA256: 6d561f9b1dce4d1fb1021374c6981397d959556a4a12c456073f2ed8adb1b57c
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
 Author: Nepeta
 Name: Axon 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
@@ -12650,6 +12670,24 @@ Section: 嗨-汉化
 Description: SafariX 简体中文包(rootless)。
 Author: 妖刀
 Name: SafariX 简体中文包(rootless)
+
+Package: com.dao.scinsta
+Version: 0.4.1
+Architecture: iphoneos-arm64
+Maintainer: SoCuul & 妖刀
+Installed-Size: 1904
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
+Filename: rootless/SCInsta 中文版(rootless).deb
+Size: 495462
+MD5sum: abcd21578fbb018fdbdd733ce8d28515
+SHA1: 91c70b974941d1341ec981d431eacaecb11f8615
+SHA256: 317b229d6aa220b16d0c9c6a105ab9e9c84308966e5bc870daa484afc7862619
+Section: 嗨-功能
+Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
+Author: SoCuul
+Name: SCInsta 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/sci/js.json
 
 Package: com.dao.senri.cn
 Version: 1.1
@@ -14450,35 +14488,36 @@ Author: Luki
 Name: April 中文版(RootHide)
 
 Package: com.dao.axon
-Version: 1.5.2
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 648
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: roothide/Axon 中文版(RootHide)_1.5.2.deb
-Size: 141906
-MD5sum: 90e47e1ecd805de772680118fdf5a41d
-SHA1: e4033b0548b6b155386d927d4ee119b17852768c
-SHA256: 39fa2d890ceb595ae44f7c481e9f51c015f9e994fcbab305881d12dbcb333bc8
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：参考dakota1337x代码，优化支持iOS16/17。
-Author: Nepeta
-Name: Axon 中文版(RootHide)
-
-Package: com.dao.axon
 Version: 1.5.3
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate, firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: roothide/Axon 中文版(RootHide).deb
+Filename: roothide/Axon 中文版(RootHide)_153.deb
 Size: 144320
 MD5sum: 81ee3a4025491b33809c7072c8dc73a1
 SHA1: 262884387c9654306d65524b37ec7d6403f4d490
 SHA256: 2e6adaaead6fc5da85539a12c0f319978500ede7e52970b7ea3e1aa6c8b3435a
 Section: 嗨-工具
 Description: 锁屏通知聚合插件，根据开源编译/汉化。
+Author: Nepeta
+Name: Axon 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Version: 1.5.5
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 692
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: roothide/Axon 中文版(RootHide).deb
+Size: 144316
+MD5sum: 6d849f8e04b8c9e403c89600c2b5c2e0
+SHA1: 5ba3d77e22e8f21e23cc228b84669d31784c1c54
+SHA256: 080ae118cf46a466f6498ff335a047e666853cdc53ab183f2b6ffb44bccb8863
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
 Author: Nepeta
 Name: Axon 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
@@ -14688,6 +14727,24 @@ Description: 自由的休眠设备来节省电量。
 Author: Paisseon
 Name: Reverie 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
+
+Package: com.dao.scinsta
+Version: 0.4.1
+Architecture: iphoneos-arm64e
+Maintainer: SoCuul & 妖刀
+Installed-Size: 1904
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
+Filename: roothide/SCInsta 中文版(RootHide).deb
+Size: 495534
+MD5sum: 0e8c42a3e7f91341eaa5bfa99d4a2065
+SHA1: 564498e9191085e47b6516b306f40115d612d5cd
+SHA256: cea093f384ff4eac3a5598b8b8dffa78bb5affe987788a6c4e751afef96e05e4
+Section: 嗨-功能
+Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
+Author: SoCuul
+Name: SCInsta 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/sci/js.json
 
 Package: com.dao.senri.cn
 Version: 1.1
