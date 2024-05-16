@@ -12311,6 +12311,22 @@ Description: 一款锁屏和主屏幕的主题布局插件。
 Author: JunesiPhone
 Name: Designer(rootless)
 
+Package: com.dao.filzacrack
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.filzacrack, netskao.filzacrack-rootless
+Filename: rootless/Filza Crack(rootless).deb
+Size: 4980
+MD5sum: 171786724de93e8ff00baf0bee56368b
+SHA1: f2e82c45d88b0068a5b474958bb888df0f5f9574
+SHA256: 15b341eae822c8061ad2044e026c8fb2523ec43b4085f11baab99cb5b6e2a401
+Section: 嗨-工具
+Description: Filza解锁全部功能，请在官方源安装Filza。Netskao新更的版本，上架备份。
+Author: Netskao
+Name: Filza Crack(rootless)
+
 Package: com.dao.fivecolumnscc
 Version: 1.0.b4
 Architecture: iphoneos-arm64
@@ -12326,6 +12342,22 @@ Section: 嗨-工具
 Description: 控制中心模块五列排布，容纳更多的模块。
 Author: 4nni3
 Name: CC5(rootless)
+
+Package: com.dao.flexlist
+Version: 1.4-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.flexlist, netskao.flexlist-rootless
+Filename: rootless/FLEXList(rootless).deb
+Size: 1320860
+MD5sum: c0f6bf24e7e6ec8898ebbb83272ab797
+SHA1: 59864e607105781af7f1e36ac00f78385fe04113
+SHA256: ea70390eb164f1c7d7f9ee536e96277b62d254a0cb3fba6143316719aaba0136
+Section: 嗨-工具
+Description: FLEX调试工具，Netskao新更的版本，上架备份。
+Author: Netskao
+Name: FLEXList(rootless)
 
 Package: com.dao.fuckthermal
 Version: 1.2-38
@@ -12573,6 +12605,22 @@ Description: 将文件夹显示为图标等多功能文件夹，源内有中文�
 Author: ichitaso
 Name: PrimalFolder2(rootless)
 
+Package: com.dao.pulloverpro
+Version: 2.1.6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.pulloverpro, netskao.pulloverpro, com.daodao.pulloverpro, com.c1d3r.pulloverpro
+Filename: rootless/PullOver Pro(rootless).deb
+Size: 696392
+MD5sum: 627dc08842c2d5273e0d3c24fe3fa3b2
+SHA1: c27ffa6616df375cdd5ba1c5fa720096867ae243
+SHA256: 781bba661215f3f459dab78d94e008262ab15cab06582856f47b8f204705147d
+Section: 嗨-工具
+Description: 更好的窗口多任务分屏，屏幕侧边呼出，由Netskao适配优化支持iOS15+。Netskao新更的版本，上架备份。
+Author: c1d3r
+Name: PullOver Pro(rootless)
+
 Package: com.dao.reverie
 Version: 0.6
 Architecture: iphoneos-arm64
@@ -12685,6 +12733,22 @@ Section: 嗨-工具
 Description: 设置自定义、归类插件，源内有汉化包。
 Author: SOPPPra
 Name: SettingsRevamp(rootless)
+
+Package: com.dao.showtouch
+Version: 1.0.4-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.showtouch, netskao.showtouch-rootless
+Filename: rootless/ShowTouch(rootless).deb
+Size: 376460
+MD5sum: 2943c078bc2c622536dabf0562475d31
+SHA1: de6917be8b102e23a08037672959182a12190f67
+SHA256: a5f0b3059d70f104562a8cf2fdc565ac9a16bc0c40040d2dfb5f31250a8b6972
+Section: 嗨-工具
+Description: 显示录屏时触摸屏幕的位置。Netskao新更的版本，上架备份。
+Author: LonestarX
+Name: ShowTouch(rootless)
 
 Package: com.dao.sleeperx.cn
 Version: 3.0.0
@@ -12978,22 +13042,6 @@ Section: 嗨-工具
 Description: 移除分享菜单中烦人的投送和联系人，基于i_82的源码修复支持16系统。
 Author: Devvix
 Name: NoCShare(rootless)
-
-Package: com.daodao.pulloverpro
-Version: 2.1.4-1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
-Filename: rootless/PullOver Pro(rootless)-Netskao.deb
-Size: 904236
-MD5sum: fb628ea69d4d56714a67fbe801995a1f
-SHA1: 749fed291c9b45c0beb13225413c56ded6706228
-SHA256: 5cdd2f14bb2bd7d7646b623549ea7000812b581e6ed32c8df5c90474357d7bae
-Section: 嗨-系统
-Description: 更好的窗口多任务分屏，屏幕侧边呼出。由Netskao适配支持iOS15/修复原版崩溃/键盘不显示等问题/另添加设置中完整语言接口支持等。
-Author: c1d3r
-Name: PullOver Pro(rootless)-Netskao
 
 Package: com.daodao.rootless.bhtwitter
 Version: 4.3
