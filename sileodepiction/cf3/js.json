@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.3.8",
+                    "text": "3.0.3.9",
                     "title": "最新版本"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.0.3.9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Lizynz 修复支持 iOS17</br> 用 iOS17 模拟器测试的？",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "3.0.3.8",
@@ -126,7 +137,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1、修复解锁后第一次打开文件夹时位置错乱的Bug</br> 2、修复点击文件夹图标时其他文件夹和小组件会闪的Bug",
+                    "markdown": "1、修复解锁后第一次打开文件夹时位置错乱的 Bug</br> 2、修复点击文件夹图标时其他文件夹和小组件会闪的 Bug",
                     "useRawFormat": true
                 },
                 {
@@ -137,7 +148,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步 Lizynz 最新源码：</br> 1、修复了编辑文件夹时的错误</br> 2、支持 Bolders Reborn (仅限网格，最大 4x5)</br> </br> 刀刀更新：</br> 弃用 Lizynz 带开关的自动关闭文件夹，改用v3.0.2.5的自动关闭文件夹(强制开启，无设置)的方案。",
+                    "markdown": "同步 Lizynz 最新源码：</br> 1、修复了编辑文件夹时的错误</br> 2、支持 Bolders Reborn (仅限网格，最大 4x5)</br> </br> 刀刀更新：</br> 弃用 Lizynz 带开关的自动关闭文件夹，改用 v3.0.2.5 的自动关闭文件夹(强制开启，无设置)的方案。",
                     "useRawFormat": true
                 },
                 {
@@ -170,7 +181,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步 Lizynz 源码：修复打开文件夹时的某些bug。",
+                    "markdown": "同步 Lizynz 源码：修复打开文件夹时的某些 bug。",
                     "useRawFormat": true
                 },
                 {
