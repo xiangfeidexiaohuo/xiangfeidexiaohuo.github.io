@@ -12009,6 +12009,22 @@ Description: 不可思议的简约控制中心，源内有汉化包。
 Author: Tr1Fecta & Kennyroo
 Name: Akara(rootless)
 
+Package: com.dao.appdata
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, netskao.appdata-rootless
+Filename: rootless/AppData(rootless).deb
+Size: 4647628
+MD5sum: aa2304e1ccae24f8dc8fc065fb45beab
+SHA1: 0d35e45e065ae5f9f845088134f66b5aea3c9abb
+SHA256: c858d4530f5162e2860d4b1aa3948c878e4848a5a02fc388d33aaff66b20efb2
+Section: 嗨-工具
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据的快捷工具。Netskao新更的版本，上架备份。
+Author: Fouad Raheb
+Name: AppData(rootless)
+
 Package: com.dao.appprotectrootless
 Version: 1.8.8
 Architecture: iphoneos-arm64
@@ -12260,6 +12276,22 @@ Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复�
 Author: CoolStar & Lizynz
 Name: ClassicFolders 3(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
+
+Package: com.dao.classickeyboardxs
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.classickeyboardxs, netskao.classickeyboardxs-rootless
+Filename: rootless/ClassicKeyboardXS(rootless).deb
+Size: 233456
+MD5sum: dde16102ed7b6536565a3c6ff437259e
+SHA1: c0b7d0086545087081ae06943e26b8db7e711fd1
+SHA256: 82a77be38fd3670b3b7236b1370dfe800077944263f07b082637774ce756738a
+Section: 嗨-工具
+Description: 自定义X键盘底部高度，地球底部高度等。Netskao新更的版本，上架备份。
+Author: Netskao
+Name: ClassicKeyboardXS(rootless)
 
 Package: com.dao.coolcc
 Version: 2.0.2
@@ -12621,6 +12653,22 @@ Description: 更好的窗口多任务分屏，屏幕侧边呼出，由Netskao适
 Author: c1d3r
 Name: PullOver Pro(rootless)
 
+Package: com.dao.qqnotiavatar
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Conflicts: com.netskao.qqnotiavatar, netskao.qqnotiavatar
+Filename: rootless/QQ 通知头像(rootless).deb
+Size: 49708
+MD5sum: ed68574a2fc10d2c5f92d0b7b66c92f0
+SHA1: 1c5e27f91af5431d802e400a1bfb56c5846eeb65
+SHA256: c4922feb90ec435d34cc13b3262bb00b571872f35755de2689db2fd4d8d3cd6f
+Section: 嗨-工具
+Description: 使用iOS15+API为QQ显示通知头像。Netskao新更的版本，上架备份。
+Author: Netskao
+Name: QQ 通知头像(rootless)
+
 Package: com.dao.reverie
 Version: 0.6
 Architecture: iphoneos-arm64
@@ -12811,6 +12859,22 @@ Description: Souvenir 简体中文包(rootless)。
 Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
+Package: com.dao.storeswitchaccounts
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.storeswitchaccounts, netskao.storeswitchaccounts-rootless
+Filename: rootless/StoreSwitchAccounts(rootless).deb
+Size: 102592
+MD5sum: 2510dfd66e2afbb5c48f67a543daef60
+SHA1: 079692832399b91e09fda2cbfd73971070c02e13
+SHA256: 82ff94bffcfcd43a6ececc69f53cd8ab6c5f4456a4998f026f1c91d0eab1c486
+Section: 嗨-工具
+Description: 长按桌面AppStore图标即可切换登录过的AppleID。Netskao新更的版本，上架备份。
+Author: Netskao
+Name: StoreSwitchAccounts(rootless)
+
 Package: com.dao.storeswitcher2
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -12926,6 +12990,22 @@ Description: 完全可自由定制的通知横幅变色，根据开源编译/优
 Author: NoisyFlake
 Name: Velvet 2 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
+
+Package: com.dao.wechatnotiavatar
+Version: 1.2-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Conflicts: com.netskao.wechatnotiavatar, netskao.wechatnotiavatar
+Filename: rootless/WeChat 通知头像(rootless).deb
+Size: 242604
+MD5sum: 4651c5fc459418f10d274253bccf8a5d
+SHA1: b6d80cb5a96c32aeaf0b557d730744888a806250
+SHA256: 4ce2b2d198ece7393e7b51eef78951aedaa48483ac2e82498b18b9c29d9b709a
+Section: 嗨-工具
+Description: 使用iOS15+API为微信显示通知头像。Netskao新更的版本，上架备份。
+Author: Netskao
+Name: WeChat 通知头像(rootless)
 
 Package: com.dao.youtubereborn
 Version: 4.1.5
