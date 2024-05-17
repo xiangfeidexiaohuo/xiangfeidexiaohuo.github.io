@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 04 月 02 日",
+                    "text": "2024 年 05 月 17 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步最新源码",
+                    "markdown": "同步各种油管编译库，重新编译适配。",
                     "useRawFormat": true
                 },
                 {
@@ -115,7 +115,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步源码",
+                    "markdown": "基于 arichornlover 优化版，制作中文版。",
                     "useRawFormat": true
                 }
             ]
