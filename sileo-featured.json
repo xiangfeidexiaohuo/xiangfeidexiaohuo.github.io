@@ -20,7 +20,13 @@
    "title": "ClassicFolders 3",
    "package": "com.dao.classicfolders3",
    "hideShadow": false
-  },   
+  }, 
+  {
+   "url": "https://xiangfeidexiaohuo.github.io/images/tvlock.png",
+   "title": "TVLock",
+   "package": "com.dao.tvlock",
+   "hideShadow": false
+  },
   {
    "url": "https://xiangfeidexiaohuo.github.io/images/kayoko.png",
    "title": "Kayoko",

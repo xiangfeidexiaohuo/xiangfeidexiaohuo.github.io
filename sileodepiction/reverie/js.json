@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "自由的休眠设备来节省电量。",
+                    "markdown": "自由的休眠设备来节省电量，支持 iOS13～15。</br> </br> iOS16 上无法完全休眠，类似“锁屏”效果。",
                     "useRawFormat": true,
                 },
                 {
@@ -78,12 +78,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "13.0 - 16.5.1",
+                    "text": "13.0 - 15.9",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 04 月 05 日",
+                    "text": "2024 年 05 月 17 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -98,13 +98,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "0.6",
+                    "title": "0.7",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "优化",
+                    "markdown": "重新编译，修复某些机器不生效的问题。",
                     "useRawFormat": true
                 }
             ]

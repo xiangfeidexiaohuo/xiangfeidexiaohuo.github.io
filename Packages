@@ -2657,16 +2657,17 @@ Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff
 
 Package: com.dao.reverie
-Version: 0.6
+Version: 0.7
 Architecture: iphoneos-arm
 Maintainer: 刀刀
+Installed-Size: 864
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
 Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
 Filename: rootful/Reverie_ZH.deb
-Size: 99676
-MD5sum: 90dd6ca2a06e4053c63caf65cf7c8a57
-SHA1: 8008a69982f38f32593c3dc1f0362f2ce59b8ef7
-SHA256: f816ca91f0d2603b9937679ec29f0d5bd7264dccc35161d983c3880e8f57e816
+Size: 99606
+MD5sum: 5b79096ac34ec6d02f621e60cdca71d9
+SHA1: 59379990e5d173cb76dbb7d9724bcddbe43ef75d
+SHA256: 5bbb6c973a6c4453e9fde9cf63ee452ea1187bb8fdefb84b489215e13bf4c67c
 Section: 嗨-工具
 Description: 自由的休眠设备来节省电量。
 Author: Paisseon
@@ -12671,16 +12672,17 @@ Author: Netskao
 Name: QQ 通知头像(rootless)
 
 Package: com.dao.reverie
-Version: 0.6
+Version: 0.7
 Architecture: iphoneos-arm64
 Maintainer: 刀刀
+Installed-Size: 864
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
 Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
 Filename: rootless/Reverie 中文版(rootless).deb
-Size: 99600
-MD5sum: b888d13010fb7329cf51d057ac80a104
-SHA1: 909336b5e073eccdd2bfd8f0da8f248d495b58b8
-SHA256: 6976d7be263c06c7d24f5b268ca4920f52e5978b912f596035e6bea7e5f86618
+Size: 99716
+MD5sum: cf746440314d1f1bb59b0ce6c420e2db
+SHA1: c0117af9c42813ab9da906780103a9e39c3df13b
+SHA256: 75dc8e95055d737c6b0d3c99f8ed528be3e1131dbfe75061f8c7ea3a42d18495
 Section: 嗨-工具
 Description: 自由的休眠设备来节省电量。
 Author: Paisseon
@@ -14707,6 +14709,24 @@ Author: CoolStar & Lizynz
 Name: ClassicFolders 3(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
+Package: com.dao.coolcc
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis
+Conflicts: alias20.coolcc, com.hk.coolcc.cn.rl
+Filename: roothide/CoolCC Reborn(RootHide).deb
+Size: 26176
+MD5sum: 9412215233fc76e2913b7de63934cbd0
+SHA1: c697454ad247bedacfa0bfca71af266255a33672
+SHA256: 005212f8755ea935b1ebf5887415be9fab296b25a244b0926cf5c84b9d40639a
+Section: 嗨-工具
+Description: 控制中心调整背景和边框等，基于alias20的CoolCC Reborn的开源编译，已包含简体中文。laileld和乌贼力量修复alias20版的一些bug，优化支持iOS16音量框。
+Author: alias20
+Name: CoolCC Reborn(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
+
 Package: com.dao.kayoko
 Version: 2.0.2.3
 Architecture: iphoneos-arm64e
@@ -14792,16 +14812,17 @@ Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff(RootHide)
 
 Package: com.dao.reverie
-Version: 0.6
+Version: 0.7
 Architecture: iphoneos-arm64e
 Maintainer: 刀刀
+Installed-Size: 864
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
 Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
 Filename: roothide/Reverie 中文版(RootHide).deb
-Size: 99588
-MD5sum: ef9031169d0ac644579d5b80ee352af4
-SHA1: d2b3b48d481427c9de0653c514c351cec4156edf
-SHA256: 2e15b01fa3e208db720bebf947acfeb80b2ca11d818f929bd70289d3ab94f32f
+Size: 99668
+MD5sum: 274c7b256111a41e5b29c0eea2aa52f9
+SHA1: 2d563669051e4e544b0b94f32ede1fc6644d892e
+SHA256: e2b804f7728aa8196f4bd05e411f924f14ab622cd8e1aeeead5c57d6b2a317e0
 Section: 嗨-工具
 Description: 自由的休眠设备来节省电量。
 Author: Paisseon
