@@ -2540,17 +2540,17 @@ Name: ClassicFolders 3
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
-Version: 3.0.3.11
+Version: 3.0.3.12
 Architecture: iphoneos-arm
 Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4348
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Filename: rootful/ClassicFolders3.deb
-Size: 3286538
-MD5sum: 42cdea21c1ce9cdd32097cdb873c2d6f
-SHA1: 68c0beaa828592d256b898b5f48228872e961199
-SHA256: f43cd32735d425b905779c1765515940913f7cdc332acbfe3b132e52a8e60ba6
+Size: 3286756
+MD5sum: 41eecb4f076a4662fde50766649bb537
+SHA1: e4ed4594df408fe0574117f0684b556d0fc26051
+SHA256: 0c15784feb9bafe85fedfafe13be1e2391777db75c5bb3c8a68761f7349bb3f3
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -12280,17 +12280,17 @@ Name: ClassicFolders 3(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
-Version: 3.0.3.11
+Version: 3.0.3.12
 Architecture: iphoneos-arm64
 Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4348
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Filename: rootless/ClassicFolders 3(rootless).deb
-Size: 3286548
-MD5sum: ed520e993b193b36420c9ffb1dfd954d
-SHA1: 7dbd3b4c2a89a6b639e005bc0eaa20013936e356
-SHA256: e0af1498c92a0675b16ba7c247fb3102f8b9aed9b32c14dcff81d371f7943c6d
+Size: 3286646
+MD5sum: ab48707f0875092dd2c6adb565f64c7a
+SHA1: c25f91a448c12f3095ef1a8c1d589abd3b88a078
+SHA256: a415bcbba4aa6275bd5a46bacedf04fe37ff8b6e38cc59ae0f6d86e65bd77f53
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -12338,13 +12338,31 @@ Maintainer: 妖刀
 Installed-Size: 400
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis
 Conflicts: alias20.coolcc, com.hk.coolcc.cn.rl
-Filename: rootless/CoolCC Reborn(rootless).deb
+Filename: rootless/CoolCC Reborn(rootless)_202.deb
 Size: 26110
 MD5sum: f2b1ed4cf8df371e2d88f3f26d43413e
 SHA1: 948dae509284193e62ddaad4084af92343390857
 SHA256: ca4214416db9bfb8c58867a0ab85c5e7312004d7191be4a57e18e5015fe7fe86
 Section: 嗨-工具
 Description: 控制中心调整背景和边框等，基于alias20的CoolCC Reborn的开源编译，已包含简体中文。laileld和乌贼力量修复alias20版的一些bug，优化支持iOS16音量框。
+Author: alias20
+Name: CoolCC Reborn(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
+
+Package: com.dao.coolcc
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis
+Conflicts: alias20.coolcc, com.hk.coolcc.cn.rl, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
+Filename: rootless/CoolCC Reborn(rootless).deb
+Size: 27948
+MD5sum: 5aa546adcb6acdc31de7e8c39535c5c6
+SHA1: c1d5cc74c85ab3e80395191a999e182c03fac991
+SHA256: 5a58db5299e6e78abd5245ba340b406102b5273bd1cc742731a51ad7f7ed121c
+Section: 嗨-工具
+Description: 控制中心调整背景和边框等，基于alias20的CoolCC Reborn的开源编译，已包含简体中文。laileld和乌贼力量修复alias20版的一些bug，优化支持iOS16音量框。新增：音量/亮度条添加数字百分比。
 Author: alias20
 Name: CoolCC Reborn(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
@@ -14728,17 +14746,17 @@ Name: ClassicFolders 3(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
-Version: 3.0.3.11
+Version: 3.0.3.12
 Architecture: iphoneos-arm64e
 Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4348
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Filename: roothide/ClassicFolders 3(RootHide).deb
-Size: 3287034
-MD5sum: 7d753df0deec416401111666fe2437f0
-SHA1: 60bd1225ecd9378e414e2d0565fec7c76067b546
-SHA256: 7fadcbabf3e24d84c5fa90e1949540130f2211cee79906ec8bfe2b420339d1dd
+Size: 3286922
+MD5sum: 0dc48ba3c50f46729a982c82480ee5fc
+SHA1: a8750b4e7b38d47634d368cb085277c92df8a926
+SHA256: cfcebaf2cf68590e0fe141e659ccb48cb909832ae691755ba9a99592b7ede0ab
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -14770,13 +14788,31 @@ Maintainer: 妖刀
 Installed-Size: 400
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis
 Conflicts: alias20.coolcc, com.hk.coolcc.cn.rl
-Filename: roothide/CoolCC Reborn(RootHide).deb
+Filename: roothide/CoolCC Reborn(RootHide)_202.deb
 Size: 26176
 MD5sum: 9412215233fc76e2913b7de63934cbd0
 SHA1: c697454ad247bedacfa0bfca71af266255a33672
 SHA256: 005212f8755ea935b1ebf5887415be9fab296b25a244b0926cf5c84b9d40639a
 Section: 嗨-工具
 Description: 控制中心调整背景和边框等，基于alias20的CoolCC Reborn的开源编译，已包含简体中文。laileld和乌贼力量修复alias20版的一些bug，优化支持iOS16音量框。
+Author: alias20
+Name: CoolCC Reborn(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
+
+Package: com.dao.coolcc
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis
+Conflicts: alias20.coolcc, com.hk.coolcc.cn.rl, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
+Filename: roothide/CoolCC Reborn(RootHide).deb
+Size: 28000
+MD5sum: fbf271d56176b91de9560e9ca0b9ff24
+SHA1: 45f01455b99a99bcb206bce7b990863220de6525
+SHA256: 72134edc7bb9f61335f1e0877b8dae8ab7d2ca3cecfe58d0f9ab67664defe06c
+Section: 嗨-工具
+Description: 控制中心调整背景和边框等，基于alias20的CoolCC Reborn的开源编译，已包含简体中文。laileld和乌贼力量修复alias20版的一些bug，优化支持iOS16音量框。新增：音量/亮度条添加数字百分比。
 Author: alias20
 Name: CoolCC Reborn(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json

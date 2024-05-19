@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.3.11",
+                    "text": "3.0.3.12",
                     "title": "最新版本"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.0.3.12",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "重新梳理代码，重新编译。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "3.0.3.11",
