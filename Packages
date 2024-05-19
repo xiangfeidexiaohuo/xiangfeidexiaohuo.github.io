@@ -12016,14 +12016,15 @@ Maintainer: aReo
 Depends: mobilesubstrate,preferenceloader
 Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless
 Filename: rootless/AppProtect 隐私保护(rootless).deb
-Size: 155628
-MD5sum: bb5fdfeda2a2918a1db0d3d0fe1908c6
-SHA1: 3036f8e7ff5287c826d9703b7ae97a42f9f61ede
-SHA256: 1994d22da11dcf1bc8d72c8e5caa84ba76cd59d859f25cb0cef2075924c8f00e
+Size: 155400
+MD5sum: 0065e553b19c5fd668973cd6bf5f8625
+SHA1: c297e95b05bfefaa6a03227c360284617c35e2dd
+SHA256: 2011cd161bd3db271ee5a926f46cb41cf5c0e57d7ff02dd73d30134396ad21f9
 Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，25元自行购买。和AppTools一起打包购买，40元。v1.8.7：1、后台功能新增隐藏指定后台功能；2、加密功能新增自动模糊后台功能。
+Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
 Author: aReo
 Name: AppProtect 隐私保护(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
 Package: com.dao.apptools15rootless
 Version: 1.2.6
@@ -12032,14 +12033,15 @@ Maintainer: aReo
 Depends: firmware (>=15.0), mobilesubstrate
 Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless
 Filename: rootless/AppTools15-16(rootless).deb
-Size: 196060
-MD5sum: 2a01c49cc45e84b124f5b5ca841b2f81
-SHA1: bca8e354bb8d3ea412bc09a91d5d7d3a0d994c1d
-SHA256: f84d7bc9cecc2d5d3b89504f331228af72989077c96513f88d2fd1aaf9aee18f
+Size: 195768
+MD5sum: 5e992bb6b3f15c84022a9976ec18215e
+SHA1: f62a021ccb4c0c6c1403aa6339b3f2a54a23cab5
+SHA256: 87578c3f3b04ee54601f63a86688dd7d8f28423c848a7d4397752217e532b3f4
 Section: 嗨-付费
-Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，25元自行购买。和AppProtect一起打包购买，40元。
+Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Author: aReo
 Name: AppTools15-16(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
 Package: com.dao.april
 Version: 3.1

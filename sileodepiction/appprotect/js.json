@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://xiangfeidexiaohuo.github.io/images/CopyVault.png",
+    "headerImage": "https://xiangfeidexiaohuo.github.io/images/appprotect.png",
     "tintColor": "#1DBBFF",
     "minVersion": "0.3",
     "tabs": [
@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。</br> 它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。</br> </br> 此插件为付费插件，按需购买！",
+                    "markdown": "保护隐私插件，可加密 App 等，可静默验证，隐藏验证框，无声无息验证。",
                     "useRawFormat": true,
                 },
                 {
@@ -32,11 +32,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/CopyVault/Screenshot_01.png"
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/CopyVault/Screenshot_02.png"
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/Screenshot_02.png"
                         }
                     ]
                 },
@@ -63,27 +63,27 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "SquidForce",
+                    "text": "aReo",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "SquidForce",
+                    "text": "aReo",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0 ",
+                    "text": "1.8.8",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "15.0 - 15.9",
+                    "text": "15.0 - 16.5.1",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 20 日",
+                    "text": "2024 年 04 月 18 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -98,13 +98,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0.0",
+                    "title": "1.8.8",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "首个正式版",
+                    "markdown": "1. 修复滑动后台卡片进入加密应用不验证问题</br> 2.修复通讯设置不过滤问题",
                     "useRawFormat": true
                 }
             ]
