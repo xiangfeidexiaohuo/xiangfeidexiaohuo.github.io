@@ -2540,16 +2540,16 @@ Name: ClassicFolders 3
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.copyvault
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: rootful/CopyVault.deb
-Size: 1679696
-MD5sum: 68957dad68fbda8808f2f4468f35deb4
-SHA1: faa51589ab4747678ab5794068e02a5368b7686c
-SHA256: d9dd3092d1de770f8dbc9a4cb94922a8bf3ce71abd3e5f8a21a484a14d43c6ae
+Size: 1675724
+MD5sum: 35dbc3c0452eb011afa9101a2edcbff2
+SHA1: 543190b16a83bb405c8882faf1a75131cf6a825f
+SHA256: 5183d947a83f09eb7b0c04ddd5616d8fe3c0788f09efc1af276b86de96de8b0d
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
@@ -12331,16 +12331,16 @@ Author: 0xkuj
 Name: CopyLogFix16(rootless)
 
 Package: com.dao.copyvault
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: rootless/CopyVault 剪切板(rootless).deb
-Size: 1673448
-MD5sum: 73ffad233fe358a10ed6abe13f1e39cc
-SHA1: 6d85b5d9e0c620e035fe0d19e721dfa188f69a45
-SHA256: 29c1f01268ad8d3c830bdb204d0583ccefa531f76d062bd0cc51206fbf05b0f5
+Size: 1670908
+MD5sum: c14f5734749c14188e003d5fb1475a85
+SHA1: 6485e05294eeb19945381fb4d5ae44f58a3f00bf
+SHA256: 2ca3b72280785b61b9b6b667080cf4e852cf53efb8aac60b2866f6164917e3c0
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
@@ -14746,16 +14746,16 @@ Name: CoolCC Reborn(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
 
 Package: com.dao.copyvault
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: roothide/CopyVault 剪切板(RootHide).deb
-Size: 1667224
-MD5sum: f376e38359db571a78428a3d10d9b049
-SHA1: 9419fac4fb68b31141d5a845e5d2b092f0070538
-SHA256: 2ca4a162b2afc67a8f1230e07a84f597808def3c1544215afc9fa697b287a6cc
+Size: 1664240
+MD5sum: 62f642892cde0a887687883d3f596609
+SHA1: f6154bcbaa71904ec9c095766290f701af3ceff3
+SHA256: 27102399f2aa5bf457ef7cd20dc6ce3a7aadc2affd3a0da7617ad378f56f5d32
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
