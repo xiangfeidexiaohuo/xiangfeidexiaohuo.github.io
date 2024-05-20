@@ -2522,17 +2522,17 @@ Name: ClassicFolders 3
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
-Version: 3.0.4
+Version: 3.0.4.1
 Architecture: iphoneos-arm
 Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4348
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Filename: rootful/ClassicFolders3.deb
-Size: 3286634
-MD5sum: 049c13e28873ad88b1a92ef45200cf40
-SHA1: 168fd3bfa766a70c76a36ac784953c04516649cd
-SHA256: d4c2c3ba6cf4a1cd9bc075284e967d945c6fc9034eb03d41129cfaf2890dc6b7
+Size: 3286662
+MD5sum: ab6f229717e8d60cd75512d149fe8d08
+SHA1: 4fef920f98ac26db56b868596435c4e72de02b80
+SHA256: 46a2476c808bc66796a75a06a8d094efff0a9421a27bf83a280791704fcb7388
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -2657,18 +2657,18 @@ Name: Reverie 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.scinsta
-Version: 0.4.1
+Version: 0.4.1.1
 Architecture: iphoneos-arm
 Maintainer: SoCuul & 妖刀
 Installed-Size: 1904
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
 Filename: rootful/SCInsta_ZH.deb
-Size: 495260
-MD5sum: 20d1a6d9f90e4002e0990c4940ec983b
-SHA1: 4c04cc70b79f4c9a32ab6423a437e1ffc3daecaf
-SHA256: 2126ff12f56a1921d913d59e28b342e1aa5e5f4029ce5b56df1e29bc228ee50f
-Section: 嗨-功能
+Size: 496032
+MD5sum: 858212358e4b5cc48010b9dd13b57236
+SHA1: 894a22b63107ca6cc9192aee79563e1c692bca3d
+SHA256: 7b9dcadb4ddd866bdb3ea59826cf516d915f9ff5f6c743679dd64d62e9400b58
+Section: 嗨-工具
 Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
 Author: SoCuul
 Name: SCInsta 中文版
@@ -12228,17 +12228,17 @@ Name: ClassicFolders 3(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
-Version: 3.0.4
+Version: 3.0.4.1
 Architecture: iphoneos-arm64
 Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4348
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Filename: rootless/ClassicFolders 3(rootless).deb
-Size: 3286746
-MD5sum: 1d9de26cd4cf6e5e3c6b282673925433
-SHA1: 4de8cec1596134ec0b4eb729ab0bda5d9f18c6f4
-SHA256: c2d0a2e3447062195c713fe7e2481dec60e11ab3daeb3b434badc045db2b7888
+Size: 3286808
+MD5sum: 377c83857bee044681de6bf27eb3ed7f
+SHA1: ccc7d52c31a7df2dcd27529fae9d291990a6fb7e
+SHA256: c45bbb89760891dfa210d1b94ac0b1f58f1a712b745aa79826fe4038feb2b2e3
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -12721,18 +12721,18 @@ Author: 妖刀
 Name: SafariX 简体中文包(rootless)
 
 Package: com.dao.scinsta
-Version: 0.4.1
+Version: 0.4.1.1
 Architecture: iphoneos-arm64
 Maintainer: SoCuul & 妖刀
 Installed-Size: 1904
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
 Filename: rootless/SCInsta 中文版(rootless).deb
-Size: 495462
-MD5sum: abcd21578fbb018fdbdd733ce8d28515
-SHA1: 91c70b974941d1341ec981d431eacaecb11f8615
-SHA256: 317b229d6aa220b16d0c9c6a105ab9e9c84308966e5bc870daa484afc7862619
-Section: 嗨-功能
+Size: 496422
+MD5sum: 301d0a604a7681d6c245f034a23aff03
+SHA1: 5663b7d83182a5fb0515babc6601327fe4f0bfa2
+SHA256: a712110582519ae0c3c75b9b38c1b76ff8a66dabc11559affe39eead17a04017
+Section: 嗨-工具
 Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
 Author: SoCuul
 Name: SCInsta 中文版(rootless)
@@ -14658,17 +14658,17 @@ Name: ClassicFolders 3(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
-Version: 3.0.4
+Version: 3.0.4.1
 Architecture: iphoneos-arm64e
 Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4348
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Filename: roothide/ClassicFolders 3(RootHide).deb
-Size: 3286800
-MD5sum: 4f751f4bc016da34d19bb2f1da806830
-SHA1: cd9dc538b98c98b83573560229059e734003fd06
-SHA256: d3bde5604ccd2361664f4ffa59d3d73e63f07608d07ca24a54434c1380215264
+Size: 3286818
+MD5sum: a983a48a6a242855573c17cc98ce39c5
+SHA1: 8954ebbc5bbb8421fc427e6bdd3ef6c1c717a88c
+SHA256: b86143bdf2ece963e936a16d9725f0893322d0fbb5994997d8fa1b9043606d8d
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -14814,18 +14814,18 @@ Name: Reverie 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.scinsta
-Version: 0.4.1
+Version: 0.4.1.1
 Architecture: iphoneos-arm64e
 Maintainer: SoCuul & 妖刀
 Installed-Size: 1904
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
 Filename: roothide/SCInsta 中文版(RootHide).deb
-Size: 495534
-MD5sum: 0e8c42a3e7f91341eaa5bfa99d4a2065
-SHA1: 564498e9191085e47b6516b306f40115d612d5cd
-SHA256: cea093f384ff4eac3a5598b8b8dffa78bb5affe987788a6c4e751afef96e05e4
-Section: 嗨-功能
+Size: 496308
+MD5sum: a24d1dea1cb5deb8efbef44dec8b4d99
+SHA1: 646868294acc7588bca167d1ec4546d0bcb1bfe6
+SHA256: 99d227d71baafa5869619d7c3b53da37c4a2b197349c06215b92b5101bd9884b
+Section: 嗨-工具
 Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
 Author: SoCuul
 Name: SCInsta 中文版(RootHide)
