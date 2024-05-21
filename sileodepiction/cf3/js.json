@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.4.1",
+                    "text": "3.0.4.2",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 20 日",
+                    "text": "2024 年 05 月 21 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.0.4.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "添加编辑文件夹逻辑，应该可以在完成文件夹编辑后更轻松地访问第一个图标。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "3.0.4.1",

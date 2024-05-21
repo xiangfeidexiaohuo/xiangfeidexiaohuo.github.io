@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.1",
+                    "text": "1.0.2",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 20 日",
+                    "text": "2024 年 05 月 21 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "‣修复部分 iOS14 卡黑屏</br> ‣修复旋转屏幕时边缘有黑块",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.0.1",
