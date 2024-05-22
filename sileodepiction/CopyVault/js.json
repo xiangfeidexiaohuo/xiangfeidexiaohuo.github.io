@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "不重复保存两天连续相同的内容</br> 修复漏复制问题</br> 修复部分 iOS16 上出现复制卡死的问题</br> 修复 iOS16 键盘问题</br> 加快弹出和关闭的窗口动画",
+                    "markdown": "不重复保存两条连续相同的内容</br> 修复漏复制问题</br> 修复部分 iOS16 上出现复制卡死的问题</br> 修复 iOS16 键盘问题</br> 加快弹出和关闭的窗口动画",
                     "useRawFormat": true
                 },
                 {
