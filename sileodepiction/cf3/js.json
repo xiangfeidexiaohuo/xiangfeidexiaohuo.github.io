@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "CoolStar 的 ClassicFolders 3，以 iOS6 风格打开文件夹。</br> Lizynz 基于 CoolStar 的开源修复优化支持 iOS15+，支持 iOS13~16。</br> </br> 当前还存在一些 bug，理性对待，静待大佬修复！</br> 1、不支持 iPad</br> 2、搭配 PrimalFolder2 和 Atria 插件使用出现错误</br> 3、文件夹处于底部打开视图错位",
+                    "markdown": "CoolStar 的 ClassicFolders 3，以 iOS6 风格打开文件夹。</br> Lizynz 基于 CoolStar 的开源修复优化支持 iOS15+，支持 iOS13~16。</br> </br> 当前还存在一些 bug，理性对待，静待大佬修复！",
                     "useRawFormat": true,
                 },
                 {

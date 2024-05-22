@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.2",
+                    "text": "1.0.5",
                     "title": "最新版本"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.0.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "不重复保存两天连续相同的内容</br> 修复漏复制问题</br> 修复部分 iOS16 上出现复制卡死的问题</br> 修复 iOS16 键盘问题</br> 加快弹出和关闭的窗口动画",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.0.2",
