@@ -2522,17 +2522,17 @@ Name: ClassicFolders 3
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
-Version: 3.0.4.2
+Version: 3.0.4.3
 Architecture: iphoneos-arm
 Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4348
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Filename: rootful/ClassicFolders3.deb
-Size: 3286530
-MD5sum: 5fc7ea682caa2c6ec8ed5720e3f8b8e1
-SHA1: 66a8f95104da37fdde17d50b010985addc605a73
-SHA256: aa512d7bfb58776367f7a95e79ab22af851a6bd335e6264cf28b76528449d453
+Size: 3286386
+MD5sum: ba8b3f30ce16dfed899c7894fa5e6f00
+SHA1: ecb513749d0de274d94d3924dfbfaa20e987302c
+SHA256: 09eb82839f4260b065ce883136c1e3c74747f99fedd25595abce924d14409514
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -2540,16 +2540,16 @@ Name: ClassicFolders 3
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.copyvault
-Version: 1.0.5
+Version: 1.0.6
 Architecture: iphoneos-arm
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: rootful/CopyVault.deb
-Size: 1785696
-MD5sum: 605afec0cb9846325c6eeb5e6efd263c
-SHA1: 5ac3b20eaab56cdfdfb106efaf82f188fad52cc8
-SHA256: 5ebcaba9e0762d5d0f0f8f0cc0d8ab5baaab05b50da676f4368f139465a40371
+Size: 1789544
+MD5sum: 30c5a8f11c914e690546b46209378b90
+SHA1: 02556e15276644dc0ad4cae00f4be581ea603d3d
+SHA256: 5dc0730ac312d1ec872414b79c692d8087a1a5135a7c11e6a04bc8f2253142c7
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
@@ -12245,17 +12245,16 @@ Name: ClassicFolders 3(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
-Version: 3.0.4.2
+Version: 3.0.4.3
 Architecture: iphoneos-arm64
 Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4348
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Filename: rootless/ClassicFolders 3(rootless).deb
-Size: 3286730
-MD5sum: aa5a07ae89b62891acd05f5eae2a78bb
-SHA1: b041ff141e0564a8ea938c387c6ea53b20e15b66
-SHA256: be8cc41c73f463e22eb96f765ceff2d464eae3a1d57b7ee87c5029a5a6fca586
+Size: 3282104
+MD5sum: 115b8a79a6fc788356cce22daae99748
+SHA1: 088d6c29cb89a225b41376063893a537aabe39c7
+SHA256: d244c9a8bbef96275bd2951f844d3cc63c499f74103baf8eb5790bcbd42ad9c6
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -12331,16 +12330,16 @@ Author: 0xkuj
 Name: CopyLogFix16(rootless)
 
 Package: com.dao.copyvault
-Version: 1.0.5
+Version: 1.0.6
 Architecture: iphoneos-arm64
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: rootless/CopyVault 剪切板(rootless).deb
-Size: 1773536
-MD5sum: 31571ee286ffef02c4b81e4c45491a12
-SHA1: f73efd949a96904caab99cc58400a747e69b3273
-SHA256: 62aa5b72be07a855f53b1f884d13d44843bd2db546832a6769c12451572b0009
+Size: 1791980
+MD5sum: 57ccc544db943b7f75b7b592475c3c66
+SHA1: e96623dc8e97f149eefbd86f31ce76fb7879abb2
+SHA256: c8c13a7a5fc8d92e81f48eae90fceebcb4c4513ccabe338c0f4f5bb3583caa0f
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
@@ -12596,11 +12595,28 @@ Architecture: iphoneos-arm64
 Maintainer: b4db1r3 <nfive060@gmail.com>
 Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.dao.ocd.cn
 Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd
-Filename: rootless/OCD5(rootless).deb
+Filename: rootless/OCD5(rootless)_5.0.deb
 Size: 554732
 MD5sum: ec44ae12cdfa9e3bb2586f50de6c3800
 SHA1: c78effa70959810397ca47cf6cb200dada72454e
 SHA256: af5e1699d1ae08cd97170e8ba677b4f6befb743fd93180c219ca2d87d5fe99a5
+Section: 嗨-工具
+Description: 根据App图标颜色来自适应App名称和角标的颜色，5系列更多新功能，有类似dotto+插件的圆点/空心效果，精简无用文件，替换插件图标。
+Author: b4db1r3 <nfive060@gmail.com>
+Name: OCD5(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5/js.json
+
+Package: com.dao.ocd5
+Version: 5.1
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3 <nfive060@gmail.com>
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.dao.ocd.cn
+Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd
+Filename: rootless/OCD5(rootless).deb
+Size: 324044
+MD5sum: 7a13c6c13b09d67ee3a93c2c204d55be
+SHA1: 04d8f6320d70770e25789fd681268821cf426674
+SHA256: be4e3926c60776e85d172fc8318ef9cf975a65c1bc1fd3d5b17d0db405125ffd
 Section: 嗨-工具
 Description: 根据App图标颜色来自适应App名称和角标的颜色，5系列更多新功能，有类似dotto+插件的圆点/空心效果，精简无用文件，替换插件图标。
 Author: b4db1r3 <nfive060@gmail.com>
@@ -14692,17 +14708,17 @@ Name: ClassicFolders 3(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
-Version: 3.0.4.2
+Version: 3.0.4.3
 Architecture: iphoneos-arm64e
 Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4348
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Filename: roothide/ClassicFolders 3(RootHide).deb
-Size: 3286914
-MD5sum: b0872634be752717f71eab0dac38f0fa
-SHA1: 1d1c9daada4de593c1c163a9ba920c104341ded9
-SHA256: 4d848f03fc20a336c4330b7a61824c1354f859f8966aab4e85d995f4a160d239
+Size: 3286808
+MD5sum: 8442253a0d70779cedab3308d6c5fb4d
+SHA1: 6a9c6f570e28bf7d4bafce25aa3ce7598b5a1c90
+SHA256: e29f186d159932edf16252ac91233f00a46ec020827353d4af16cf8e1b396475
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
 Author: CoolStar & Lizynz
@@ -14746,16 +14762,16 @@ Name: CoolCC Reborn(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
 
 Package: com.dao.copyvault
-Version: 1.0.5
+Version: 1.0.6
 Architecture: iphoneos-arm64e
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: roothide/CopyVault 剪切板(RootHide).deb
-Size: 1777788
-MD5sum: 2e3584ae75264b66137ef4492ef74550
-SHA1: dcc596ee29ec0ad48130d5181d171200da807d1c
-SHA256: 7971239ee4671152bc5e211c77121af5922e75d0e8ac86fa80771846a7d71f8b
+Size: 1783404
+MD5sum: e1c67c04ce3f9a719005b123f6f7450a
+SHA1: 1b189eba912d224135779ed00fa7fb3ccd90e80b
+SHA256: 42dd5d76ff491eb55f6bb27c6aa385af2663bbabe3f2146f60b093af9e9a5a81
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
