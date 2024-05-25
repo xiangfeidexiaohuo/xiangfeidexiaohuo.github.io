@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.6",
+                    "text": "1.1.0",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 23 日",
+                    "text": "2024 年 05 月 25 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "收藏夹里记录粘贴时不再移动到顶部</br> 搜索时智能大小写</br> 跳转链接时，自动关闭窗口</br> 收藏区新增备注功能，可用来搜索</br> 修复系统设置为12小时制时的时间格式问题</br> 注销后改为延迟加载数据，可能会导致第一次弹窗口慢一点</br> 更新了开发环境",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.0.6",

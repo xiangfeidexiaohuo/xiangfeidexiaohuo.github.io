@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.1",
+                    "text": "5.2",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 24 日",
+                    "text": "2024 年 05 月 25 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -98,13 +98,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "更新的依赖项，修正安装错误；</br> 调整了圆点角标的X位置，现在的位置更靠近图标。(实测并没有靠近！)",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "5.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修复了通知数量较多时点视图移动的问题",
+                    "markdown": "修复了通知数量较多时圆点角标移动的问题",
                     "useRawFormat": true
                 },
                 {
