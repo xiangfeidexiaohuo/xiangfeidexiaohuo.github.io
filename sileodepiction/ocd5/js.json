@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "更新的依赖项，修正安装错误；</br> 调整了圆点角标的X位置，现在的位置更靠近图标。(实测并没有靠近！)",
+                    "markdown": "更新的依赖项，修正安装错误；</br> 调整了圆点角标的X位置，现在的位置更靠近图标。</br> </br> 实测5.2比5.1近，比5.0远！",
                     "useRawFormat": true
                 },
                 {

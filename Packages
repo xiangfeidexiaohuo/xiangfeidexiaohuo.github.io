@@ -12963,16 +12963,16 @@ Author: iOS Creatix, kasiimh1, p2kdev
 Name: SugarCane 16(rootless)
 
 Package: com.dao.tako
-Version: 3.5
+Version: 3.5.2
 Architecture: iphoneos-arm64
 Maintainer: b4db1r3
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16),com.mrgcgamer.libgcuniversal, com.hk.tako.cn.rl
 Conflicts: com.xyaman.tako, com.dao.axon, com.hk.axon.cn.rl, com.b4db1r3.tako, me.nepeta.axon, xyz.cypwn.tako, xyz.cypwn.axon
 Filename: rootless/Tako(rootless).deb
-Size: 89988
-MD5sum: c834e4965b2e98c25fd681b6d4b02184
-SHA1: c52bbabc63e5ae246d92b288b6c4600e8cda95cf
-SHA256: 05ddbbbce053e4a1f4a57a5ebbaf2f49cff0f816906b6c69944fa1ff4a702df1
+Size: 92568
+MD5sum: 130e9b7082235f2d54cf6f23ab986434
+SHA1: 495ad664758977ae935a0385e74da25db854ab5e
+SHA256: 75a0a05d08b8826e62f569a5e2b6b9f03e4025078131cfeb43de582e176f95fe
 Section: 嗨-工具
 Description: 类似Group和Axon的通知聚合插件，b4db1r3优化编译版。
 Author: Xyaman & b4db1r3
