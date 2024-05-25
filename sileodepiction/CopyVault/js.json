@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.0",
+                    "text": "1.1.1",
                     "title": "最新版本"
                 },
                 {
@@ -98,13 +98,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.1.0",
+                    "title": "1.1.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "收藏夹里记录粘贴时不再移动到顶部</br> 搜索时智能大小写</br> 跳转链接时，自动关闭窗口</br> 收藏区新增备注功能，可用来搜索</br> 修复系统设置为12小时制时的时间格式问题</br> 注销后改为延迟加载数据，可能会导致第一次弹窗口慢一点</br> 更新了开发环境",
+                    "markdown": "搜索时智能大小写</br> 收藏区新增备注功能，可用来搜索</br> 修改系统设置为12小时制的时间格式</br> 增加窗口高度设置</br> 收藏夹里记录粘贴时不再移动到顶部</br> 跳转链接时，自动关闭窗口</br> 更新了开发环境",
                     "useRawFormat": true
                 },
                 {
