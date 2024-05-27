@@ -12623,6 +12623,23 @@ Author: b4db1r3 <nfive060@gmail.com>
 Name: OCD5(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5/js.json
 
+Package: com.dao.ocd5lite
+Version: 5.2.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.dao.ocd.cn
+Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd5
+Filename: rootless/OCD5 Lite(rootless)_5.2.1.deb
+Size: 323344
+MD5sum: b854aaf860cdf350e25f7a12af020847
+SHA1: 5d0d8bea4821f6bbc536ac46c47cf084382ae5aa
+SHA256: 0cf55a73cc9ba2aea7067f5f96b3ef60dc74c169723812babe7850ed1c102ff1
+Section: 嗨-工具
+Description: 根据App图标颜色来自适应App名称和角标的颜色，精简5系列其他功能，只保留圆点/空心角标效果。
+Author: b4db1r3 <nfive060@gmail.com>
+Name: OCD5 Lite(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5l/js.json
+
 Package: com.dao.onesettings
 Version: 2.0.3
 Architecture: iphoneos-arm64
