@@ -11541,15 +11541,15 @@ Author: dvntm
 Name: YTLite
 
 Package: com.hk.zetsu.cn
-Version: 1.5
+Version: 1.6
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Zetsu_CN.deb
-Size: 8860
-MD5sum: ba8eb8e98139fcd7c33f3dc6ce7c0667
-SHA1: 31cef802f62c87c4b1203caca714003b72c5acf9
-SHA256: 2f03fbcf87617a1e1fd5c7f12964df5d74edc2124bb19d8b8c8a4d3f6e7d9c87
+Size: 11252
+MD5sum: ab151d7b2782192651e005a9c3c31b0c
+SHA1: a7e3b1b153515485fdeef8573ae94062fbbd8fe5
+SHA256: 694fab4ff6d9809662493eaa114e0316377a4baefa3dacf8f740dd19b4a1626e
 Section: 嗨-汉化
 Description: Zetsu 简体中文包。
 Author: 妖刀
@@ -12588,40 +12588,6 @@ Section: 嗨-汉化
 Description: OCD4和OCD5的通用简体中文包(rootless)。
 Author: 妖刀
 Name: OCD 简体中文包(rootless)
-
-Package: com.dao.ocd5
-Version: 5.0
-Architecture: iphoneos-arm64
-Maintainer: b4db1r3 <nfive060@gmail.com>
-Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.dao.ocd.cn
-Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd
-Filename: rootless/OCD5(rootless)_5.0.deb
-Size: 554732
-MD5sum: ec44ae12cdfa9e3bb2586f50de6c3800
-SHA1: c78effa70959810397ca47cf6cb200dada72454e
-SHA256: af5e1699d1ae08cd97170e8ba677b4f6befb743fd93180c219ca2d87d5fe99a5
-Section: 嗨-工具
-Description: 根据App图标颜色来自适应App名称和角标的颜色，5系列更多新功能，有类似dotto+插件的圆点/空心效果，精简无用文件，替换插件图标。
-Author: b4db1r3 <nfive060@gmail.com>
-Name: OCD5(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5/js.json
-
-Package: com.dao.ocd5
-Version: 5.1
-Architecture: iphoneos-arm64
-Maintainer: b4db1r3 <nfive060@gmail.com>
-Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.dao.ocd.cn
-Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd
-Filename: rootless/OCD5(rootless)_5.1.deb
-Size: 324044
-MD5sum: 7a13c6c13b09d67ee3a93c2c204d55be
-SHA1: 04d8f6320d70770e25789fd681268821cf426674
-SHA256: be4e3926c60776e85d172fc8318ef9cf975a65c1bc1fd3d5b17d0db405125ffd
-Section: 嗨-工具
-Description: 根据App图标颜色来自适应App名称和角标的颜色，5系列更多新功能，有类似dotto+插件的圆点/空心效果，精简无用文件，替换插件图标。
-Author: b4db1r3 <nfive060@gmail.com>
-Name: OCD5(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5/js.json
 
 Package: com.dao.ocd5
 Version: 5.2
@@ -14559,15 +14525,15 @@ Author: 妖刀
 Name: Velvet 2 简体中文包(rootless)
 
 Package: com.hk.zetsu.cn.rl
-Version: 1.5
+Version: 1.6
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Zetsu 简体中文包(rootless).deb
-Size: 8932
-MD5sum: 6303c2ef951d0ee386c5cc9ac47321e8
-SHA1: a8b6653ffd79adbbc3ba2369ccf592678513d0d3
-SHA256: 7384722022da2e7c751cdb1a64ca8035eae7d487db17ca05e27728f164e8ba6c
+Size: 11328
+MD5sum: e8e5f16c8c135a4a9a4f99e10b1b739b
+SHA1: 6ba39e1eeeb83f26c01ece8a8cee83a46023da23
+SHA256: 63d026f3afba270eb2586f228bd3d6277e1825cd2600e99590cbe1c869d699c5
 Section: 嗨-汉化
 Description: Zetsu 简体中文包(rootless)。
 Author: 妖刀
@@ -15711,15 +15677,15 @@ Author: 妖刀
 Name: uYou 简体中文包(RootHide)
 
 Package: com.hk.zetsu.cn.rl
-Version: 1.5
+Version: 1.6
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Zetsu 简体中文包(RootHide).deb
-Size: 8888
-MD5sum: b8da295f7a6a986b2c3b31d2fe8e620e
-SHA1: 501e8338a429689553cd781f76e2f7feecc15bfe
-SHA256: d2f72a662d87820d8717fa3536b249c4211026f33fd8406b1e8f11432f8b29b3
+Size: 11276
+MD5sum: 71f574200da71e34ee49f41c30422eba
+SHA1: 7f76f25984c110ca4f1a3fdbcd451921c78ec191
+SHA256: 595742a8444d70a5ff828b1db9b0bb87ac770c855c7c8a60b132358545576732
 Section: 嗨-汉化
 Description: Zetsu 简体中文包(RootHide)。
 Author: 妖刀
