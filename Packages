@@ -2540,16 +2540,16 @@ Name: ClassicFolders 3
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.copyvault
-Version: 1.1.1
+Version: 1.1.3
 Architecture: iphoneos-arm
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: rootful/CopyVault.deb
-Size: 2021196
-MD5sum: 6ece6725e08efeadde204d14e77c559f
-SHA1: 2bdc324d73e4ac34a743c9d75d3ac9d23868403a
-SHA256: 91360a065cc2f5d4172126ed5cf5a22c03fef8797ebe00e4832a7551c55941cb
+Size: 2034840
+MD5sum: c8aacdc6fa7f2e421daa67bf45dea18b
+SHA1: b776bf089dac2549496be0239a1e2a80b620b05d
+SHA256: a23a37452fe18c5c15bd18d5532b035448a940151893b9418c3045fb5b95e884
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
@@ -2674,17 +2674,17 @@ Name: Reverie 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.scinsta
-Version: 0.4.1.1
+Version: 0.4.2
 Architecture: iphoneos-arm
 Maintainer: SoCuul & 妖刀
 Installed-Size: 1904
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
 Filename: rootful/SCInsta_ZH.deb
-Size: 496032
-MD5sum: 858212358e4b5cc48010b9dd13b57236
-SHA1: 894a22b63107ca6cc9192aee79563e1c692bca3d
-SHA256: 7b9dcadb4ddd866bdb3ea59826cf516d915f9ff5f6c743679dd64d62e9400b58
+Size: 496236
+MD5sum: d0c78cb468da4d793d446b8934f524fa
+SHA1: e0dec3101348f91620f5ab6f7e36c37f43d03b58
+SHA256: 12e47e365535848fdcc0c200bce7e4ac2792898720bf819f62413caa7c177805
 Section: 嗨-工具
 Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
 Author: SoCuul
@@ -12330,16 +12330,16 @@ Author: 0xkuj
 Name: CopyLogFix16(rootless)
 
 Package: com.dao.copyvault
-Version: 1.1.1
+Version: 1.1.3
 Architecture: iphoneos-arm64
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: rootless/CopyVault 剪切板(rootless).deb
-Size: 1986524
-MD5sum: 848b949b20693a7b2c5e33886b88bc30
-SHA1: 995314a5330257d450792678a25970eabfeb67e2
-SHA256: c075fb5ecffa8c514ef79a06dc7a56eadcfe0a735becb81f1c89b4de4defb153
+Size: 2012184
+MD5sum: 5a9aa39ea032fcfb09afce83349ec2f6
+SHA1: dd70542ddf71d0c19db48761db00b2c3c102b3eb
+SHA256: d0731c30095f4a08b654857249133a5db6791de3ac60fdfde3e7c32fc28b311c
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
@@ -12805,17 +12805,17 @@ Author: 妖刀
 Name: SafariX 简体中文包(rootless)
 
 Package: com.dao.scinsta
-Version: 0.4.1.1
+Version: 0.4.2
 Architecture: iphoneos-arm64
 Maintainer: SoCuul & 妖刀
 Installed-Size: 1904
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
 Filename: rootless/SCInsta 中文版(rootless).deb
-Size: 496422
-MD5sum: 301d0a604a7681d6c245f034a23aff03
-SHA1: 5663b7d83182a5fb0515babc6601327fe4f0bfa2
-SHA256: a712110582519ae0c3c75b9b38c1b76ff8a66dabc11559affe39eead17a04017
+Size: 496076
+MD5sum: 89f58ae95c8b0f8f1e17a6d793384952
+SHA1: b563bbb1bbe37a9582bd374d9c6e5b9bb11b9eda
+SHA256: f0705375b239406ed60f3f070bdc3006d97955c7d7f74459e20faeca74aa66f0
 Section: 嗨-工具
 Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
 Author: SoCuul
@@ -14796,16 +14796,16 @@ Name: CoolCC Reborn(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
 
 Package: com.dao.copyvault
-Version: 1.1.1
+Version: 1.1.3
 Architecture: iphoneos-arm64e
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: roothide/CopyVault 剪切板(RootHide).deb
-Size: 1979632
-MD5sum: b50b474aa6038cd65befb9132a1c2c76
-SHA1: 857803b06e2212869ba2fa43a574bd53d2b2c48f
-SHA256: ee3460a25cd83f6689bda3bc7badaf6208b5008fbfee630f81ac21fb8a3f72a9
+Size: 2008728
+MD5sum: 727e820cf1c62360117159a692f01784
+SHA1: 30024bbdadb6b43038d0e75ba4c1c972dfd78ee4
+SHA256: dc3714033b4f5f1df8eea29acdbfa3b0c2bfa15a37c84b6625c3d9c5b7516b37
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
@@ -14915,17 +14915,17 @@ Name: Reverie 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.scinsta
-Version: 0.4.1.1
+Version: 0.4.2
 Architecture: iphoneos-arm64e
 Maintainer: SoCuul & 妖刀
 Installed-Size: 1904
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
 Filename: roothide/SCInsta 中文版(RootHide).deb
-Size: 496308
-MD5sum: a24d1dea1cb5deb8efbef44dec8b4d99
-SHA1: 646868294acc7588bca167d1ec4546d0bcb1bfe6
-SHA256: 99d227d71baafa5869619d7c3b53da37c4a2b197349c06215b92b5101bd9884b
+Size: 495974
+MD5sum: 94ca77c2cd7533658cac1522f8ec0c3e
+SHA1: 6d9ea712fc83968a7dc835901793e5a7a789aac1
+SHA256: 712a2e88fa7db7906f68f29271e60e7f237650c31d016ac58fce2374864e4379
 Section: 嗨-工具
 Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
 Author: SoCuul
