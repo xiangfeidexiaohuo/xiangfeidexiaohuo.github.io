@@ -8793,15 +8793,15 @@ Author: Menushka Weeratunga
 Name: OneNotify 下拉清除(CN)
 
 Package: com.hk.onesettings.cn
-Version: 2.0
+Version: 2.1.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootful/OneSettings_CN.deb
-Size: 11468
-MD5sum: 9cdc89c0948612d563400b1d361e3f35
-SHA1: 061480ddcb473019ec09f2b6612d267f57c4af04
-SHA256: 2ff6e599cd6ac7b23bcf0941294a2a3dd5e347507719415bc5978d0a75c31a87
+Size: 12088
+MD5sum: a00847c49facbef5a90e6be2f537933c
+SHA1: 1bb29b7dcc45ab345b5360d1714641b941b35db6
+SHA256: 4d131cb57d6fd3bbf8bbf0d9749139e362d6ddb3568feb419a97a563bd81f90c
 Section: 嗨-汉化
 Description: OneSettings 简体中文包。
 Author: 妖刀
@@ -13969,15 +13969,15 @@ Author: Ball
 Name: NFCWriter XS 简体中文包(rootless)
 
 Package: com.hk.onesettings.cn.rl
-Version: 2.0
+Version: 2.1.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/OneSettings 简体中文包(rootless).deb
-Size: 11668
-MD5sum: 04235afd3148e2009b4a8d050e05913d
-SHA1: 3bd316c89130fee124ac834ea98b64c122d2ebda
-SHA256: bceaf35a79b563eafaeb135d3ad6bbe68bb6912443f0a450781318301f8a8f86
+Size: 12208
+MD5sum: f94104475431e429e53c4f5a9c476556
+SHA1: 4803b34ec228c1a5cf03fb75ff85f2a98a002312
+SHA256: 33d5d787889099b65dc1c9a1b5f160dfeb919397247c0e5a9fa1719cb53b98fc
 Section: 嗨-汉化
 Description: OneSettings 简体中文包(rootless)。
 Author: 妖刀
@@ -15462,15 +15462,15 @@ Author: Ball
 Name: NFCWriter XS 简体中文包(RootHide)
 
 Package: com.hk.onesettings.cn.rl
-Version: 2.0
+Version: 2.1.1
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/OneSettings 简体中文包(RootHide).deb
-Size: 11624
-MD5sum: 4b29f4a21eba827f2e1caed634eaaab2
-SHA1: 0997bca7a86dda1a3c1c7e728e6224e6a9cb32f5
-SHA256: d4568d51a0f7f61a184235232e72e5d719f22060afe37907bfe1b95d2b7bccaf
+Size: 12152
+MD5sum: 5232b8d957c198b37fd26349e1c8c27b
+SHA1: d343fd168a40c51274dd9c14d494d04a472768f7
+SHA256: 2f2a8ab0aa77e3ba2c07980bafb92743b98810c6cfa183c54cef383086bfc7c5
 Section: 嗨-汉化
 Description: OneSettings 简体中文包(RootHide)。
 Author: 妖刀
