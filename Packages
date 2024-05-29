@@ -2540,16 +2540,16 @@ Name: ClassicFolders 3
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.copyvault
-Version: 1.1.3
+Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: rootful/CopyVault.deb
-Size: 2034840
-MD5sum: c8aacdc6fa7f2e421daa67bf45dea18b
-SHA1: b776bf089dac2549496be0239a1e2a80b620b05d
-SHA256: a23a37452fe18c5c15bd18d5532b035448a940151893b9418c3045fb5b95e884
+Size: 2049264
+MD5sum: 5bb23c6366481b1ee7ce44ad1edd5acb
+SHA1: 4d0daf355d1544e0e25b44edd4c6fe94464c4a17
+SHA256: c9592eb03e501f474b301ec205956e3beb9af5369c84ae54478dd666d1f9a4d0
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
@@ -7279,16 +7279,16 @@ Author: Ball
 Name: Indy 简体中文包
 
 Package: com.hk.infuseplus
-Version: 1.1.6
+Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootful/InfusePlus.deb
-Size: 167296
-MD5sum: 7bc5acb042140d25e27383f2315d7d82
-SHA1: 69303dbb65b59c0135a33c358e9fed94e6f94d71
-SHA256: a03244f79debc12bc82c79c17460ce2b0295ab2d3da1069b8f9a4bfd781dc8a3
+Size: 125324
+MD5sum: 2a16588f2cb43046cf853fd924b9daa6
+SHA1: 4c3dec590904d7ef90f659599c1df80045bf7b62
+SHA256: 8a50932536275c3ad52107a67f155de31fb0ae2663634b4dc39c32f6863d40fe
 Section: 嗨-工具
 Description: Infuse的破解/增强插件。
 Author: dvntm
@@ -12330,16 +12330,16 @@ Author: 0xkuj
 Name: CopyLogFix16(rootless)
 
 Package: com.dao.copyvault
-Version: 1.1.3
+Version: 1.1.5
 Architecture: iphoneos-arm64
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: rootless/CopyVault 剪切板(rootless).deb
-Size: 2012184
-MD5sum: 5a9aa39ea032fcfb09afce83349ec2f6
-SHA1: dd70542ddf71d0c19db48761db00b2c3c102b3eb
-SHA256: d0731c30095f4a08b654857249133a5db6791de3ac60fdfde3e7c32fc28b311c
+Size: 2022176
+MD5sum: a70deae8e66ed406fcf16e91acd581b7
+SHA1: 000806d26a19b5f8c007204bb8f00fcc69c54634
+SHA256: ce137181288d1db6a34a67cc98b5b9487b07e7a6765ec638a526389e7642dc4e
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
@@ -12459,16 +12459,16 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Name: iCleaner Pro(rootless)
 
 Package: com.dao.infuseplus
-Version: 1.1.6
+Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.infuseplus
 Filename: rootless/Infuse Plus(rootless).deb
-Size: 167300
-MD5sum: 4bfb3830b1dccffdfad4a61f4dc0c30b
-SHA1: 58d3e133b2088d52e7a26fbfba497c062fff85e0
-SHA256: 241ec8c150079e232dc2266ad74f64925c6392cfd0351b0c83fd101688059cd0
+Size: 125292
+MD5sum: 1f86c4646a5e29b4bf01329a2bceafd3
+SHA1: fcf0fb559f767c4ff9b361b8886285dffb4ec888
+SHA256: 7e1b329bd91bca0b1fe4b2a0b51f4acb791895f7e7f269ecfa429486b438b688
 Section: 嗨-工具
 Description: Infuse的破解/增强插件。
 Author: dvntm
@@ -14779,16 +14779,16 @@ Name: CoolCC Reborn(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
 
 Package: com.dao.copyvault
-Version: 1.1.3
+Version: 1.1.5
 Architecture: iphoneos-arm64e
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: roothide/CopyVault 剪切板(RootHide).deb
-Size: 2008728
-MD5sum: 727e820cf1c62360117159a692f01784
-SHA1: 30024bbdadb6b43038d0e75ba4c1c972dfd78ee4
-SHA256: dc3714033b4f5f1df8eea29acdbfa3b0c2bfa15a37c84b6625c3d9c5b7516b37
+Size: 2016684
+MD5sum: 75e5e04d991bdc609ec174a7b41a2964
+SHA1: 860d91273b1446a5b4b0ee81afd5193d8a719b7a
+SHA256: 005917a21f37ea4616637428c571a5262c8df9bf4886020d85ce302c48e604ac
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
