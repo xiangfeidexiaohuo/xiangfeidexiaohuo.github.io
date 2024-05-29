@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "增加标题栏下滑收起窗口</br> ‣增加系统键盘上滑触发设置</br> ‣调整听写键大小</br> ‣调整窗口层级，适应部分小窗插件",
+                    "markdown": "‣增加标题栏下滑收起窗口</br> ‣增加系统键盘上滑触发设置</br> ‣调整听写键大小</br> ‣调整窗口层级，适应部分小窗插件",
                     "useRawFormat": true
                 },
                 {
