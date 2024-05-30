@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.5",
+                    "text": "1.1.7",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 29 日",
+                    "text": "2024 年 05 月 30 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "‣更换Spotlight等图标(群友贡献的)</br> ‣支持第三方输入法(部分输入法需要从面板顶部的快捷按钮部分等没有字符的按钮开始滑)</br> ‣修复跟SwipeExtenderX长按收起键盘冲突</br> ‣优化插件逻辑和性能",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.1.5",
