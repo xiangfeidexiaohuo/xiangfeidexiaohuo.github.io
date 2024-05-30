@@ -2673,6 +2673,22 @@ Author: Paisseon
 Name: Reverie 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
+Package: com.dao.satella.cn
+Version: 1.9.0
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootful/Satella_CN.deb
+Size: 4248
+MD5sum: 0fe07b9839ee7f7e099cc7db929051ae
+SHA1: 1606c6511a2b06a858a94d83e4c7baaa8d19de08
+SHA256: 75784846008e11a4a4ef920b56c33ad2a15c78342c11a30e54c0f395f0a6b62c
+Section: 嗨-汉化
+Description: Satella 简体中文包。
+Author: 妖刀
+Name: Satella 简体中文包
+
 Package: com.dao.scinsta
 Version: 0.4.2
 Architecture: iphoneos-arm
@@ -12804,6 +12820,22 @@ Author: Paisseon
 Name: Satella 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/satella/js.json
 
+Package: com.dao.satella.cn
+Version: 1.9.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/Satella 简体中文包(rootless).deb
+Size: 4314
+MD5sum: f2fe175155bdf2a5b18d9ef828a48333
+SHA1: 5d925f0087538544170e7c14f031e5d84332f8d6
+SHA256: 3f5f9e3be1d8bb40132ee2a8aa435a976b7c9cdd3716a518f8e1eafd35686c30
+Section: 嗨-汉化
+Description: Satella 简体中文包(rootless)。
+Author: 妖刀
+Name: Satella 简体中文包(rootless)
+
 Package: com.dao.scinsta
 Version: 0.4.2
 Architecture: iphoneos-arm64
@@ -14913,6 +14945,22 @@ Description: 自由的休眠设备来节省电量。
 Author: Paisseon
 Name: Reverie 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
+
+Package: com.dao.satella.cn
+Version: 1.9.0
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: roothide/Satella 简体中文包(RootHide).deb
+Size: 4272
+MD5sum: 6026cc79cb15753fd803ddda1e4c5a63
+SHA1: 4f0aee08dbc36405e7279975a5b969d9999aab9d
+SHA256: 96a5bb1543f30fdf40ebe0cdfed73bb79b2bfc723742120db8407c1c074b1d71
+Section: 嗨-汉化
+Description: Satella 简体中文包(RootHide)。
+Author: 妖刀
+Name: Satella 简体中文包(RootHide)
 
 Package: com.dao.scinsta
 Version: 0.4.2

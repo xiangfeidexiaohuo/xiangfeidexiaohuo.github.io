@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "‣更换Spotlight等图标(群友贡献的)</br> ‣支持第三方输入法(部分输入法需要从面板顶部的快捷按钮部分等没有字符的按钮开始滑)</br> ‣修复跟SwipeExtenderX长按收起键盘冲突</br> ‣优化插件逻辑和性能",
+                    "markdown": "‣更换 Spotlight 等图标(群友贡献的)</br> ‣支持第三方输入法(部分输入法需要从面板顶部的快捷按钮部分等没有字符的按钮开始滑)</br> ‣修复跟 SwipeExtenderX 长按收起键盘冲突</br> ‣优化插件逻辑和性能</br> </br> 如果是真皮版多巴胺，启用“第三方键盘上滑”呼出剪切板，要在 /var/mobile/ 路径下新建个名称是 .appex的文件夹或文件。",
                     "useRawFormat": true
                 },
                 {
