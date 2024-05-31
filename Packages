@@ -2540,16 +2540,16 @@ Name: ClassicFolders 3
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.copyvault
-Version: 1.1.7
+Version: 1.1.8
 Architecture: iphoneos-arm
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: rootful/CopyVault.deb
-Size: 2170112
-MD5sum: 6e001838794babe7327532be698fa340
-SHA1: e1e83b89a06057c96fb7d78dc2fb0848de5cfab2
-SHA256: 422326547e8e9273bb1ce2db2bb8a99e6f8a784cdc9eea0af53aac2235e5564d
+Size: 2198440
+MD5sum: a96900a075682561cc45d8694c162454
+SHA1: 1b208cba500c7d57b01f72015fb1079f2f05e3d1
+SHA256: c9578b15a3d78acfed05440fa9bf224c840ce76069335fc10e513e4a4670c79e
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
@@ -12346,16 +12346,16 @@ Author: 0xkuj
 Name: CopyLogFix16(rootless)
 
 Package: com.dao.copyvault
-Version: 1.1.7
+Version: 1.1.8
 Architecture: iphoneos-arm64
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: rootless/CopyVault 剪切板(rootless).deb
-Size: 2169216
-MD5sum: f076d5228ea2b9997dfbdc0b10741d64
-SHA1: 7cc56830ac40a6b4c00fb0cb623d090d1f1f8ba2
-SHA256: 572b2ff7795bf7d73200e3640f1d6366e2324a9417e5bbed56e3beec8ff1925b
+Size: 2183380
+MD5sum: 94699515b7e3b487964cf202fc695ed7
+SHA1: 906381135dba6344cdd7dc61d3d7fb078daba204
+SHA256: c7b7fb1c7c6bf713f44e534e58a3f3cb8ce32a6e213a2e3c03a9d4106a695214
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce
@@ -13027,6 +13027,21 @@ Description: 类似Group和Axon的通知聚合插件，b4db1r3优化编译版。
 Author: Xyaman & b4db1r3
 Name: Tako(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/tako/js.json
+
+Package: com.dao.trollpad.cn
+Version: 1.2.3
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/TrollPad 简体中文包(rootless).deb
+Size: 1584
+MD5sum: bfa2a587afc5331e0fa6ca740fb36f7a
+SHA1: 8ab7bc9f23d0c65e800512b4ccdb626ec66cbcfe
+SHA256: 04f55d49f5bb44aff2373d83ee91c85a47d8e9700225f20fb025404235690f41
+Section: 嗨-汉化
+Description: TrollPad 简体中文包(rootless)。
+Author: 妖刀
+Name: TrollPad 简体中文包(rootless)
 
 Package: com.dao.tvlock
 Version: 1.2.3
@@ -14828,16 +14843,16 @@ Name: CoolCC Reborn(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
 
 Package: com.dao.copyvault
-Version: 1.1.7
+Version: 1.1.8
 Architecture: iphoneos-arm64e
 Maintainer: SquidForce
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.squidforce.copyvault
 Filename: roothide/CopyVault 剪切板(RootHide).deb
-Size: 2155520
-MD5sum: 10c1f651991d4d84e576dc7cc5c117c5
-SHA1: 3d8d2c477989cc079a91d63dc4d6ece6c57a0582
-SHA256: a31f2ebbfcfed1dd1b6fb5e8ce0ef7e82bf2f11b02258287253141dd0564f851
+Size: 2172052
+MD5sum: a2fece2bd785664ed8868bbdb1759605
+SHA1: 4de51969d05ac370dfb317bcc0c3948a880d2d31
+SHA256: acba24e829f3b061b2cc1fb5c7f9a91ac9f06949e06fec61308d3f0b8ec7736b
 Section: 嗨-付费
 Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
 Author: SquidForce

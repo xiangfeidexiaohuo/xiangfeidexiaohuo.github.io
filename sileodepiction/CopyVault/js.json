@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。</br> 它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。</br> </br> 此插件为付费插件，按需购买！",
+                    "markdown": "CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。</br> 它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。</br> </br> 此插件为付费插件，按需购买！</br> </br> 如果是真皮版多巴胺，启用“第三方键盘上滑”呼出剪切板，要在 /var/mobile/ 路径下新建个名称是 .appex的文件夹或文件。",
                     "useRawFormat": true,
                 },
                 {
@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.7",
+                    "text": "1.1.8",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 30 日",
+                    "text": "2024 年 06 月 01 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复粘贴部分图片时安全模式</br> 修复在有道云笔记中自动粘贴无效",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.1.7",
