@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.4.3",
+                    "text": "3.0.4.5",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 24 日",
+                    "text": "2024 年 06 月 03 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -98,13 +98,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "3.0.4.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "悬浮方式打开文件夹(无错位和闪屏Bug)",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "3.0.4.3",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "更新",
+                    "markdown": "小更新",
                     "useRawFormat": true
                 },
                 {
