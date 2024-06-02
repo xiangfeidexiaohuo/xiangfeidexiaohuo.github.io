@@ -2855,6 +2855,22 @@ Author: Lillie & arichornlover
 Name: YTR 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
+Package: com.dao.ytlite
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite, com.hk.ytlite
+Filename: rootful/YTLite.deb
+Size: 5833068
+MD5sum: 85506c0fc0721af70d1ba610002abc5c
+SHA1: 1c9c26f12970a80ef973704b65623772e28041a7
+SHA256: 034d2c349814ffe93251b6c5f679263ee4eba07bcb92204c40d3137ddcfa9474
+Section: 嗨-工具
+Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YouTubePlus”，更多功能请启用“YouTubePlus—版本—高级模式”。
+Author: dvntm
+Name: YTLite
+
 Package: com.daodao.goodwifi
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -9410,15 +9426,15 @@ Author: Ball
 Name: Riveria 简体中文包
 
 Package: com.hk.rune.cn
-Version: 1.2.1
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Rune_CN.deb
-Size: 6848
-MD5sum: 0f0021ed8277b9f5492f3f650069d12b
-SHA1: 5cfc4b1cde52a7618509e099d5b5e6381d54650b
-SHA256: 769a738a9d5ae9f5eeeaec2e91e46326337e8ed1a282350c485f2b9819ee92cb
+Size: 7556
+MD5sum: 5dbcdec77341abc19b47200f9e1a4a87
+SHA1: 42a52f1299afe81ecd4835d903e6db8fb10f1f04
+SHA256: 43d515859d072b18e4da68870d3036f17fedab40610edacec3051c1f3ac779d0
 Section: 嗨-汉化
 Description: Rune 简体中文包。
 Author: 妖刀
@@ -11540,22 +11556,6 @@ Description: YouTube Reborn 简体中文包。一款自定义YouTube功能(画�
 Author: 妖刀
 Name: YouTube Reborn v4 简体中文包
 
-Package: com.hk.ytlite
-Version: 3.0.2
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.ytlite
-Filename: rootful/YTLite.deb
-Size: 123792
-MD5sum: 883f2935ee674831ccd06ecb441632fe
-SHA1: 7df5d86d7f2cd0aa52becb64fb3703cef48885cf
-SHA256: fe2cf38e9124878df7226cff4a42cd874af42616b7418a9d20f0390e05936403
-Section: 嗨-工具
-Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
-Author: dvntm
-Name: YTLite
-
 Package: com.hk.zetsu.cn
 Version: 1.6
 Architecture: iphoneos-arm
@@ -13161,18 +13161,18 @@ Name: YTR 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.ytlite
-Version: 3.0.2
+Version: 4.0
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 123580
-MD5sum: 76aa4be50a502a59e74fb732a0751a2c
-SHA1: b788a52a67a8e58817e42e1555ac93c2a9970c9b
-SHA256: 748138d00ec2e96e08aede93ad837ecadd7544043444f5f722cd9a17f5ae9613
+Size: 5834996
+MD5sum: 362248669c620e97198cfbf2b6585241
+SHA1: f3e6f94f87c955dca2ba02e9e01c23408d2087e1
+SHA256: 9c2bbbb67f07ea39149142657a4e51d10f654556e3df4a1a3f23cb10ec56bacd
 Section: 嗨-工具
-Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。
+Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YouTubePlus”，更多功能请启用“YouTubePlus—版本—高级模式”。
 Author: dvntm
 Name: YTLite(rootless)
 
@@ -14271,15 +14271,15 @@ Description: 完全可自由定制的通知横幅，源内安装汉化包。
 Name: Velvet 2(rootless)
 
 Package: com.hk.rune.cn.rl
-Version: 1.2.1
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Rune 简体中文包(rootless).deb
-Size: 6904
-MD5sum: 546ced3d897379714460d071544b0d03
-SHA1: c74c2de5f9415252a31b4d416a2d7c9f989597b1
-SHA256: e496dee118208877a968c49115305681e45fed85f626392a320daa275af395c8
+Size: 7624
+MD5sum: 3633d3512180c85ce4dcf0cbf9cf72a5
+SHA1: 549949da61da469feec3b84eadb31b49ef14f4d6
+SHA256: e863bb8e74764f18d4b69ea7d4ce73fb000110e1223d88cba607e3d1430907d7
 Section: 嗨-汉化
 Description: Rune 简体中文包(rootless)。
 Author: 妖刀
@@ -15590,15 +15590,15 @@ Name: CCHide++(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cchide/js.json
 
 Package: com.hk.rune.cn.rl
-Version: 1.2.1
+Version: 1.3
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Rune 简体中文包(RootHide).deb
-Size: 6876
-MD5sum: d0a7f69c5fc6567160fe966824f094aa
-SHA1: ebaa2714a1f2bdf3119b28702d258677b6cef51e
-SHA256: 9913e17ad333f57cc99f97c80d6262f34dcfadd914f69298f619ee515ed7e9df
+Size: 7568
+MD5sum: 78a3c671189ff1b822e8f4ac3e3241f8
+SHA1: a562dd8dbbb620ce351c8aacbd813efaca45afa1
+SHA256: f11fb1e0f9ab5ccc3d34b94e995246772d841b1c77ae81eb6693e202748df0bb
 Section: 嗨-汉化
 Description: Rune 简体中文包(RootHide)。
 Author: 妖刀
