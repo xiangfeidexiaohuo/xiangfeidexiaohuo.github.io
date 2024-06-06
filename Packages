@@ -2539,23 +2539,6 @@ Author: CoolStar & Lizynz
 Name: ClassicFolders 3
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
-Package: com.dao.copyvault
-Version: 1.1.8
-Architecture: iphoneos-arm
-Maintainer: SquidForce
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.squidforce.copyvault
-Filename: rootful/CopyVault.deb
-Size: 2198440
-MD5sum: a96900a075682561cc45d8694c162454
-SHA1: 1b208cba500c7d57b01f72015fb1079f2f05e3d1
-SHA256: c9578b15a3d78acfed05440fa9bf224c840ce76069335fc10e513e4a4670c79e
-Section: 嗨-付费
-Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
-Author: SquidForce
-Name: CopyVault 剪切板
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/CopyVault/js.json
-
 Package: com.dao.iridium
 Version: 1.2.15-REL-1713319636
 Architecture: iphoneos-arm
@@ -12345,23 +12328,6 @@ Description: 修复CopyLog不能在iOS16上使用的问题，但听写键呼出�
 Author: 0xkuj
 Name: CopyLogFix16(rootless)
 
-Package: com.dao.copyvault
-Version: 1.1.8
-Architecture: iphoneos-arm64
-Maintainer: SquidForce
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.squidforce.copyvault
-Filename: rootless/CopyVault 剪切板(rootless).deb
-Size: 2183380
-MD5sum: 94699515b7e3b487964cf202fc695ed7
-SHA1: 906381135dba6344cdd7dc61d3d7fb078daba204
-SHA256: c7b7fb1c7c6bf713f44e534e58a3f3cb8ce32a6e213a2e3c03a9d4106a695214
-Section: 嗨-付费
-Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
-Author: SquidForce
-Name: CopyVault 剪切板(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/CopyVault/js.json
-
 Package: com.dao.designer
 Version: 1.4.5
 Architecture: iphoneos-arm64
@@ -14841,23 +14807,6 @@ Description: 控制中心调整背景和边框等，基于alias20的CoolCC Rebor
 Author: alias20
 Name: CoolCC Reborn(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
-
-Package: com.dao.copyvault
-Version: 1.1.8
-Architecture: iphoneos-arm64e
-Maintainer: SquidForce
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.squidforce.copyvault
-Filename: roothide/CopyVault 剪切板(RootHide).deb
-Size: 2172052
-MD5sum: a2fece2bd785664ed8868bbdb1759605
-SHA1: 4de51969d05ac370dfb317bcc0c3948a880d2d31
-SHA256: acba24e829f3b061b2cc1fb5c7f9a91ac9f06949e06fec61308d3f0b8ec7736b
-Section: 嗨-付费
-Description: CopyVault 是一款简洁轻量化、功能丰富且易用的剪贴板插件。它可以不受系统限制地保存你所复制过的文本、链接、图片等内容，并且可以精准搜索，直接定位到你需要的内容。
-Author: SquidForce
-Name: CopyVault 剪切板(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/CopyVault/js.json
 
 Package: com.dao.kayoko
 Version: 2.0.2.3
