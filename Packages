@@ -12427,17 +12427,17 @@ Name: HideSerialNumber(rootless)
 Package: com.dao.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner, xyz.cypwn.icleanerprocrackrootless, com.exile90.icleanerpro
 Filename: rootless/iCleaner Pro(rootless).deb
-Size: 1101800
-MD5sum: b6eb52db721a919d94f4deead748bd82
-SHA1: 8e2c48017ee8bc6d0753a926dd1a8b1d59f3326c
-SHA256: 7ca53e8d9dd33d9b9be24042a981b2114f95e1232a9cf42be9ea3463843ed17e
+Size: 1102336
+MD5sum: 3c9d5e8f50d3851323d1adfba15c2815
+SHA1: 82332268b27ba9d5e3ab6c3d18dd46781a490471
+SHA256: de49859a7c0bfa63c2ff5bc4793e896c0342ba9de1d35a7d3f80c7916909bc48
 Section: 嗨-工具
-Description: 真正的iOS系统清理和管理实用程序，破解版。
-Author: Ivano Bilenchi <support@ib-soft.net>
+Description: 真正的iOS系统清理和管理实用程序，默认简体中文，破解版。
+Author: Ivano Bilenchi
 Name: iCleaner Pro(rootless)
 
 Package: com.dao.infuseplus
@@ -14125,16 +14125,16 @@ Name: CCLess++(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
 
 Package: com.hk.rootless.cc
-Version: 2.0.3
+Version: 2.0.5
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule
 Filename: rootless/CCLess++(rootless).deb
-Size: 479136
-MD5sum: bab970c89c6b5c81706e020f033bf5a5
-SHA1: 408589f36c9a5c5fa2df97e174fd5df11652f1e2
-SHA256: cb9ee19eccd9cfaffaa01ace1c2f3865e741b8987175e1bcac2c75863d5bf77f
+Size: 496332
+MD5sum: 3849ad44a989e66289bf9af88e86bc29
+SHA1: a9b911aab92bb71a2e6a26ce18e08d17d8004d8f
+SHA256: 06be78e35982e165a146abcc1846154277ad86a62ca4b019e36a8df5f38bc63e
 Section: 嗨-工具
 Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2、微信/支付宝付款码、抬起唤醒等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等各位大佬！！！
 Author: 妖刀

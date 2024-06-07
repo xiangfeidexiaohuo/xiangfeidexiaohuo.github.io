@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.3",
+                    "text": "2.0.5",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 10 日",
+                    "text": "2024 年 06 月 07 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "整合 khanhduytran0 的CAPerfHUD帧率模块！",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.0.3",
