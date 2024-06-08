@@ -68,12 +68,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "zp & 妖刀",
+                    "text": "zqbb & 妖刀",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.3.1",
+                    "text": "2.0.5",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 04 月 05 日",
+                    "text": "2024 年 06 月 09 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "更新源码;iOS16不支持听写键呼出，只能通过手势/Dockx等呼出剪切面板。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.0.3.1",

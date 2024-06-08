@@ -2539,6 +2539,23 @@ Author: CoolStar & Lizynz
 Name: ClassicFolders 3
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
+Package: com.dao.hidenumber.cn
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Conflicts: com.hk.hidenumber.cn, com.hk.hidenumber.cn.rl
+Filename: rootful/HideSerialNumber_CN.deb
+Size: 5154
+MD5sum: d7ff2eb83c32dcb5553505e170b9dd61
+SHA1: e657b070c7b3f6b214ee2dbdca0c7e0539a6bdd5
+SHA256: 202756182d2dc14638f5a19ea6445f5471b1bd85dda426152abe36cbfc5e4fed
+Section: 嗨-汉化
+Description: HideSerialNumber 简体中文包。
+Author: 妖刀
+Name: HideSerialNumber 简体中文包
+
 Package: com.dao.iridium
 Version: 1.2.15-REL-1713319636
 Architecture: iphoneos-arm
@@ -2578,7 +2595,7 @@ Architecture: iphoneos-arm
 Maintainer: zp & 妖刀
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
-Filename: rootful/Kayoko_ZH.deb
+Filename: rootful/Kayoko_ZH_2.0.3.1.deb
 Size: 80124
 MD5sum: 216fdcb685e4edfad353684f11c9e42f
 SHA1: fb743e2d1b40764262a8b4df3cb3157b0c4ec048
@@ -2586,6 +2603,24 @@ SHA256: 09a3aec5261a36252240ba98bdd247a84b75f059dfae1f8f3801c26a55793e2f
 Section: 嗨-工具
 Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
 Author: Alexandra Aurora Göttlicher
+Name: Kayoko 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.kayoko
+Version: 2.0.5
+Architecture: iphoneos-arm
+Maintainer: zqbb & 妖刀
+Installed-Size: 956
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
+Filename: rootful/Kayoko_ZH.deb
+Size: 82852
+MD5sum: 275c9376f99d548e8c2b1c2d5416f02b
+SHA1: c2749a1ce581b09242eb141fd4f8128a48d8c529
+SHA256: fc0bf0fb3a32087bd844ca5a157e4f135d964b7a63b7ca25f6edb2b7cf4588bf
+Section: 嗨-工具
+Description: 剪切板插件，直接替代听写键。基于AlexandraAurora重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15+替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
+Author: AlexandraAurora
 Name: Kayoko 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
@@ -2655,6 +2690,21 @@ Description: 自由的休眠设备来节省电量。
 Author: Paisseon
 Name: Reverie 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
+
+Package: com.dao.safarix.cn
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/SafariX_CN.deb
+Size: 6500
+MD5sum: ca1949aa8c15e4bb441244b850c8afc5
+SHA1: a463254755446113e02c6e0af2a6a74d202ab45b
+SHA256: 2f3d344be3a7b385429dcb7469a8cecf98df2c7798a6d195c28703d61a80f8ad
+Section: 嗨-汉化
+Description: SafariX 简体中文包。
+Author: 妖刀
+Name: SafariX 简体中文包
 
 Package: com.dao.satella.cn
 Version: 1.9.0
@@ -2772,18 +2822,19 @@ Author: 妖刀
 Name: TVLock 简体中文包
 
 Package: com.dao.ve
-Version: 2.0
+Version: 2.0.beta1
 Architecture: iphoneos-arm
 Maintainer: Alexandra Aurora Göttlicher
+Installed-Size: 716
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: codes.aurora.ve
-Filename: rootful/Ve_ZH.deb
-Size: 63688
-MD5sum: 1aaaecea7db526daa7654713f7dc1198
-SHA1: 6af466c0ea1aa24b6c69ffafb57e94c932284601
-SHA256: 86aa9b9bde2a2014574fa53a9e56167d27bf7d48c1ccdf05d8409c9cb743ab3d
+Filename: rootful/Vē.deb
+Size: 65118
+MD5sum: f8b1f7e2ac2d98045a6d04d86c223f75
+SHA1: 089a3083d2062ba372f74ad0d3a6564df62359bb
+SHA256: c15414de6494f0b7404889611a8505dc8a0d4f653cc1bfb35df98c006a34a017
 Section: 嗨-工具
-Description: 通知记录器，记录设备收到的所有通知。基于Alexandra Aurora Göttlicher的开源源码制作，完善中文翻译。
+Description: 通知记录器，记录设备收到的所有通知。基于AlexandraAurora的开源源码制作，完善中文翻译。
 Author: Alexandra Aurora Göttlicher, 74k1_
 Name: Vē 通知记录
 
@@ -7008,22 +7059,6 @@ Section: 嗨-工具
 Description: 屏蔽越狱工具HideJB的Lite版本，汉化版。
 Author: TTJB Team <admin@thuthuatjb.com>
 Name: HideJB Lite (CN)
-
-Package: com.hk.hidenumber.cn
-Version: 0.0.3
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: rootful/HideSerialNumber_CN.deb
-Size: 4688
-MD5sum: 145b2947875927651976172b2113dd12
-SHA1: 111f94929b380b854cb1fcc69f90459e80a6c7fd
-SHA256: 835f98ed03b187d091742c4998b57da41f6c82b40a69cca384049caa639d9574
-Section: 嗨-汉化
-Description: HideSerialNumber 简体中文包。
-Author: 妖刀
-Name: HideSerialNumber 简体中文包
 
 Package: com.hk.hidespotlight13
 Version: 1.0-1
@@ -12408,17 +12443,34 @@ Description: 去你X的温控，测试支持iOS15.1.1及以下，其他系统版
 Author: Shadow-
 Name: 去你X的温控iOS15(rootless)
 
+Package: com.dao.hidenumber.cn
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Conflicts: com.hk.hidenumber.cn, com.hk.hidenumber.cn.rl
+Filename: rootless/HideSerialNumber 简体中文包(rootless).deb
+Size: 5204
+MD5sum: 0da95311bb5fe69cd435ca4b89ebf589
+SHA1: d894adca6cc009ac023c13e79e41c78e69fa1756
+SHA256: f79ddab018b7549f3934b9e09f1567f75e2b3c8610adaa46f6771ef89bfa3866
+Section: 嗨-汉化
+Description: HideSerialNumber 简体中文包(rootless)。
+Author: 妖刀
+Name: HideSerialNumber 简体中文包(rootless)
+
 Package: com.dao.hideserialnumber
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm64
 Maintainer: ichitaso
-Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader, com.dao.hidenumber.cn
 Conflicts: com.ichitaso.hideserialnumber
 Filename: rootless/HideSerialNumber(rootless).deb
-Size: 47020
-MD5sum: 6cb35668c6ca30d44863bfece70d54f8
-SHA1: 2846f5bdac2c47de5f6ab854b52693cb6902d49a
-SHA256: 59099706a3aec7931c0f9ee7f2cc4ca0fadc874697f215e8b818c7e9a34a20be
+Size: 55200
+MD5sum: 9df4c3d444a59bb29f659c3efbcb7ef9
+SHA1: 4c387dc2287658282cfd47f75234480d53045ffb
+SHA256: 9978e4359219114723c50298442187afcb1445d112d1b2c9c6d45f6b60f86202
 Section: 嗨-工具
 Description: 在“设置关于”页面中隐藏/伪装序列号等相关信息，源内有汉化包。
 Author: ichitaso
@@ -12495,7 +12547,7 @@ Architecture: iphoneos-arm64
 Maintainer: zp & 妖刀
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
-Filename: rootless/Kayoko 中文版(rootless).deb
+Filename: rootless/Kayoko 中文版(rootless)_2.0.3.1.deb
 Size: 80116
 MD5sum: b2b5f970c97f602ab15e875af9ef5528
 SHA1: 80694d045ef09471135c5c754bd6502281cbc861
@@ -12503,6 +12555,24 @@ SHA256: d7b9b72654b546e2b8a90648df2a704d716450d77d3d8fc09e83aee1619461e3
 Section: 嗨-工具
 Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
 Author: Alexandra Aurora Göttlicher
+Name: Kayoko 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.kayoko
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: zqbb & 妖刀
+Installed-Size: 956
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
+Filename: rootless/Kayoko 中文版(rootless).deb
+Size: 82944
+MD5sum: 2d8de0921f54c754527d6ce5177933a6
+SHA1: 65ebc840f5884e24c701eeeb6613cc379cb9355d
+SHA256: ce510b2c0d0f27fe3b52a001994cd6ea1b35baf0a4e4cd9eb5a2737ddfe1f949
+Section: 嗨-工具
+Description: 剪切板插件，直接替代听写键。基于AlexandraAurora重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15+替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
+Author: AlexandraAurora
 Name: Kayoko 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
@@ -12739,31 +12809,31 @@ Author: 妖刀
 Name: Rocket 简体中文包(rootless)
 
 Package: com.dao.safarix
-Version: 1.1.1
+Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), com.dao.safarix.cn
 Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix
 Filename: rootless/SafariX(rootless).deb
-Size: 268776
-MD5sum: 919bbf811e0cf286e1c65a97891a64d9
-SHA1: 3d96b8c61f8c8eed826480efa8227a9c43e9f7f2
-SHA256: b4276637300716cc539d3c07ca2e6e1c50482acca56998e294bcdff0fcf1c399
+Size: 271808
+MD5sum: dbc94ae2f6586530539ce1a512b23333
+SHA1: d8f2763251c7987d486e5b3ea44a6e4cbba93529
+SHA256: b9fc7928a463d4ac6bd347e75cbb111cd016707eb867a42cf054883db1677704
 Section: 嗨-工具
 Description: Safari浏览器增强插件！
 Author: 0xkuj
 Name: SafariX(rootless)
 
 Package: com.dao.safarix.cn
-Version: 1.1.1
+Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/SafariX 简体中文包(rootless).deb
-Size: 6128
-MD5sum: e3ff9b64d719d8bff73f633671aed111
-SHA1: fab8b3be0c0d75f0311c37c150db1fa39c185d3c
-SHA256: 9e2a5178e85c4f64e0e8b9f83f8b92b85472dab8e6a8ea0e76d5991777f31e6a
+Size: 6608
+MD5sum: f19bded182b81a3e3750b3ec0111fef2
+SHA1: 79b6f08c913a895ceb71b7b93b311b692c6a4302
+SHA256: 7388098fa58eb7110e39146f1320a57568747de1247e21345a9c4ab521239dee
 Section: 嗨-汉化
 Description: SafariX 简体中文包(rootless)。
 Author: 妖刀
@@ -13055,6 +13125,23 @@ SHA1: 40091f7738c43c0f34162783f311ee7a74b89147
 SHA256: 25803cd96d30882d476e793e0f082f9a837311fb0d28b96d210e16e18b812720
 Section: 嗨-工具
 Description: 通知记录器，记录设备收到的所有通知。基于Alexandra Aurora Göttlicher的开源源码制作，完善中文翻译。
+Author: Alexandra Aurora Göttlicher, 74k1_
+Name: Vē 通知记录(rootless)
+
+Package: com.dao.ve
+Version: 2.0.beta1
+Architecture: iphoneos-arm64
+Maintainer: Alexandra Aurora Göttlicher
+Installed-Size: 716
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: codes.aurora.ve
+Filename: rootless/Vē 通知记录(rootless).deb
+Size: 65260
+MD5sum: 92d81476c34f214175db967b63dabb48
+SHA1: 1c02626f11ff87b6b640660a80d6fcbc17ba2ed3
+SHA256: d8503270cfc9230e0578d1dc7059a5acd43ed996eca47f3322645720c7e15237
+Section: 嗨-工具
+Description: 通知记录器，记录设备收到的所有通知。基于AlexandraAurora的开源源码制作，完善中文翻译。
 Author: Alexandra Aurora Göttlicher, 74k1_
 Name: Vē 通知记录(rootless)
 
@@ -13767,22 +13854,6 @@ Section: 嗨-汉化
 Description: Halo 简体中文包(rootless)。
 Author: P神
 Name: Halo 简体中文包(rootless)
-
-Package: com.hk.hidenumber.cn.rl
-Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: rootless/HideSerialNumber 简体中文包(rootless).deb
-Size: 4766
-MD5sum: 98a4eafa31666a622130bbcac8b55e09
-SHA1: c0a61f364a6be241dc083e6bebae65d648973c71
-SHA256: 1827134798264f4d119a4643f6ed83f0beb5f23ba4f31757bf99509731fe9dd4
-Section: 嗨-汉化
-Description: HideSerialNumber 简体中文包(rootless)。
-Author: 妖刀
-Name: HideSerialNumber 简体中文包(rootless)
 
 Package: com.hk.hsqa.cn.rl
 Version: 1.6.5
@@ -14808,6 +14879,23 @@ Author: alias20
 Name: CoolCC Reborn(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/coolcc/js.json
 
+Package: com.dao.hidenumber.cn
+Version: 0.0.4
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Conflicts: com.hk.hidenumber.cn, com.hk.hidenumber.cn.rl
+Filename: roothide/HideSerialNumber 简体中文包(RootHide).deb
+Size: 5162
+MD5sum: 088b9b6ba357d6fc11bc5243871143d4
+SHA1: fba7e488dcf4218cf19e03aac1abeae4aec1942e
+SHA256: 31df2a9111a3a25ce8f731b2f8f9825d521f440ace6b84511a4058553180ddb9
+Section: 嗨-汉化
+Description: HideSerialNumber 简体中文包(RootHide)。
+Author: 妖刀
+Name: HideSerialNumber 简体中文包(RootHide)
+
 Package: com.dao.kayoko
 Version: 2.0.2.3
 Architecture: iphoneos-arm64e
@@ -14832,7 +14920,7 @@ Maintainer: zp & 妖刀
 Pre-Depends: rootless-compat(>= 0.1)
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
-Filename: roothide/Kayoko 中文版(RootHide).deb
+Filename: roothide/Kayoko 中文版(RootHide)_2.0.3.1.deb
 Size: 77784
 MD5sum: 76f2d9c874332e8d63f9b6a320311082
 SHA1: f597f2b6a6c3cd9b0bc1adbe6458b49a15146687
@@ -14909,6 +14997,21 @@ Description: 自由的休眠设备来节省电量。
 Author: Paisseon
 Name: Reverie 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
+
+Package: com.dao.safarix.cn
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/SafariX 简体中文包(RootHide).deb
+Size: 6572
+MD5sum: fcb8f537547ab13e42b65f3a8c1f4771
+SHA1: 20426eee8046bdbb777b4a76337c4c4fd3b165b0
+SHA256: eb6eee6be9629a8dd7564b0d9281b10eeca2d2a7297b83e4d4e83821b64ed1b3
+Section: 嗨-汉化
+Description: SafariX 简体中文包(RootHide)。
+Author: 妖刀
+Name: SafariX 简体中文包(RootHide)
 
 Package: com.dao.satella.cn
 Version: 1.9.0
@@ -15009,19 +15112,19 @@ Author: 妖刀
 Name: TVLock 简体中文包(RootHide)
 
 Package: com.dao.ve
-Version: 2.0
+Version: 2.0.beta1
 Architecture: iphoneos-arm64e
 Maintainer: Alexandra Aurora Göttlicher
-Installed-Size: 684
+Installed-Size: 716
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: codes.aurora.ve
-Filename: roothide/Ve 通知记录(RootHide).deb
-Size: 63934
-MD5sum: 13c4e6d358ab8c1a79eea5770f8a7aad
-SHA1: 4e1ae06c7e0b423c54b450c941e1dd879c45e693
-SHA256: c755e47df18b0b0c5418e90a346ac9871189d2164eb9a28f85bc8de2b3fbeb9e
+Filename: roothide/Vē 通知记录(RootHide).deb
+Size: 65164
+MD5sum: 9f59a2525b6c1ff52db30d1c07091a55
+SHA1: 0b409a8d5500dac4cb064c87991bec15493111a9
+SHA256: ba094b28b713dc3ede3117537afdd26dc408c100dd2348e60f2a22d253bc0a28
 Section: 嗨-工具
-Description: 通知记录器，记录设备收到的所有通知。基于Alexandra Aurora Göttlicher的开源源码制作，完善中文翻译。
+Description: 通知记录器，记录设备收到的所有通知。基于AlexandraAurora的开源源码制作，完善中文翻译。
 Author: Alexandra Aurora Göttlicher, 74k1_
 Name: Vē 通知记录(RootHide)
 
@@ -15382,22 +15485,6 @@ Section: 嗨-汉化
 Description: Halo 简体中文包(RootHide)。
 Author: P神
 Name: Halo 简体中文包(RootHide)
-
-Package: com.hk.hidenumber.cn.rl
-Version: 0.0.3
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: roothide/HideSerialNumber 简体中文包(RootHide).deb
-Size: 4718
-MD5sum: af9d36bb1081d408243a012b84da54bf
-SHA1: acb681c5f4e49262797def0cd0cf3f4d037f4e7a
-SHA256: 76094f9318bb11abffc8dc27144d70c64b27bc47edc1e084f989153c15a25e06
-Section: 嗨-汉化
-Description: HideSerialNumber 简体中文包(RootHide)。
-Author: 妖刀
-Name: HideSerialNumber 简体中文包(RootHide)
 
 Package: com.hk.kayoko.cn.rl
 Version: 2.0.1
