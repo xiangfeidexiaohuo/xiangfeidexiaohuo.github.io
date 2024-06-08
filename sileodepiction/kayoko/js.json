@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "更新源码;iOS16不支持听写键呼出，只能通过手势/Dockx等呼出剪切面板。",
+                    "markdown": "更新源码；iOS16不支持听写键呼出，只能通过手势/Dockx等呼出剪切面板。",
                     "useRawFormat": true
                 },
                 {
