@@ -2828,7 +2828,7 @@ Maintainer: Alexandra Aurora Göttlicher
 Installed-Size: 716
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: codes.aurora.ve
-Filename: rootful/Vē.deb
+Filename: rootful/Ve.deb
 Size: 65118
 MD5sum: f8b1f7e2ac2d98045a6d04d86c223f75
 SHA1: 089a3083d2062ba372f74ad0d3a6564df62359bb
@@ -13112,30 +13112,13 @@ Author: 妖刀
 Name: TVLock 简体中文包(rootless)
 
 Package: com.dao.ve
-Version: 2.0
-Architecture: iphoneos-arm64
-Maintainer: Alexandra Aurora Göttlicher
-Installed-Size: 684
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: codes.aurora.ve
-Filename: rootless/Ve 通知记录(rootless).deb
-Size: 63084
-MD5sum: df518e22f6bfe29b58a7df47cc6052a2
-SHA1: 40091f7738c43c0f34162783f311ee7a74b89147
-SHA256: 25803cd96d30882d476e793e0f082f9a837311fb0d28b96d210e16e18b812720
-Section: 嗨-工具
-Description: 通知记录器，记录设备收到的所有通知。基于Alexandra Aurora Göttlicher的开源源码制作，完善中文翻译。
-Author: Alexandra Aurora Göttlicher, 74k1_
-Name: Vē 通知记录(rootless)
-
-Package: com.dao.ve
 Version: 2.0.beta1
 Architecture: iphoneos-arm64
 Maintainer: Alexandra Aurora Göttlicher
 Installed-Size: 716
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: codes.aurora.ve
-Filename: rootless/Vē 通知记录(rootless).deb
+Filename: rootless/Ve 通知记录(rootless).deb
 Size: 65260
 MD5sum: 92d81476c34f214175db967b63dabb48
 SHA1: 1c02626f11ff87b6b640660a80d6fcbc17ba2ed3
