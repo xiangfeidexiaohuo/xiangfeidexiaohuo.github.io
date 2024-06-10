@@ -2890,16 +2890,16 @@ Name: YTR 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.ytlite
-Version: 4.0
+Version: 4.0.1
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite, com.hk.ytlite
 Filename: rootful/YTLite.deb
-Size: 5833068
-MD5sum: 85506c0fc0721af70d1ba610002abc5c
-SHA1: 1c9c26f12970a80ef973704b65623772e28041a7
-SHA256: 034d2c349814ffe93251b6c5f679263ee4eba07bcb92204c40d3137ddcfa9474
+Size: 5831284
+MD5sum: aff0597382dc0f662ffa0dfcca61a662
+SHA1: 4cc6dca1a8fdfd0794bad817fb663ce684698a56
+SHA256: f2c9385e2af4d9ca6c474b31a8bf8399f043adb1b15696b7d7d64212f111ef7b
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YouTubePlus”，更多功能请启用“YouTubePlus—版本—高级模式”。
 Author: dvntm
@@ -13214,16 +13214,16 @@ Name: YTR 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.ytlite
-Version: 4.0
+Version: 4.0.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 5834996
-MD5sum: 362248669c620e97198cfbf2b6585241
-SHA1: f3e6f94f87c955dca2ba02e9e01c23408d2087e1
-SHA256: 9c2bbbb67f07ea39149142657a4e51d10f654556e3df4a1a3f23cb10ec56bacd
+Size: 5830400
+MD5sum: 344466f12f58add6130c873321508daa
+SHA1: a66f701170f46f3b668f2d89f83e4ea514211d5a
+SHA256: f252ca57327cf33de71cf34fd03eda1490277aede5c52d0a902163a613ed5af4
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YouTubePlus”，更多功能请启用“YouTubePlus—版本—高级模式”。
 Author: dvntm
