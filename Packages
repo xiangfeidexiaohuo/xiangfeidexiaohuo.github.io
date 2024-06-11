@@ -15101,7 +15101,7 @@ Maintainer: Alexandra Aurora Göttlicher
 Installed-Size: 716
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: codes.aurora.ve
-Filename: roothide/Vē 通知记录(RootHide).deb
+Filename: roothide/Ve 通知记录(RootHide).deb
 Size: 65164
 MD5sum: 9f59a2525b6c1ff52db30d1c07091a55
 SHA1: 0b409a8d5500dac4cb064c87991bec15493111a9
