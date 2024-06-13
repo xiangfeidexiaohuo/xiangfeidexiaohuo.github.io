@@ -2656,6 +2656,22 @@ Description: OCD4和OCD5的通用简体中文包。
 Author: 妖刀
 Name: OCD 简体中文包
 
+Package: com.dao.photosplus
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: nowesr1
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: twitter.nowesr1.photosplus
+Filename: rootful/PhotosPlus.deb
+Size: 26932
+MD5sum: 99f6380abca4a4764e22397bfd27a106
+SHA1: 677b62746536653212442d1e5bb26351b65b8464
+SHA256: 600fca5d7d4ecf90d76cec1db99ac612551475e4305f4cf8fb224ae55ff45fb6
+Section: 嗨-工具
+Description: 照片增强的轻量插件，刀刀已汉化。
+Author: nowesr1
+Name: PhotosPlus
+
 Package: com.dao.powercuff
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -12709,6 +12725,22 @@ Description: 设置应用程序的增强插件，源内有汉化包。
 Author: Nightwind <nightwinddev@gmail.com>
 Name: OneSettings(rootless)
 
+Package: com.dao.photosplus
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: nowesr1
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: twitter.nowesr1.photosplus
+Filename: rootless/PhotosPlus(rootless).deb
+Size: 26780
+MD5sum: a4a97aeae8f6ca6ad0794baac2a33598
+SHA1: 5281af0637bb459db75f2adc6546774224a3eaf9
+SHA256: 582ce53d350db4837cc63fd19980f7e3c1f8d874baa0daa96ddb8137e723870c
+Section: 嗨-工具
+Description: 照片增强的轻量插件，刀刀已汉化。
+Author: nowesr1
+Name: PhotosPlus(rootless)
+
 Package: com.dao.powercuff
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -14945,6 +14977,22 @@ Section: 嗨-汉化
 Description: OCD4和OCD5的通用简体中文包(RootHide)。
 Author: 妖刀
 Name: OCD 简体中文包(RootHide)
+
+Package: com.dao.photosplus
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: nowesr1
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: twitter.nowesr1.photosplus
+Filename: roothide/PhotosPlus(RootHide).deb
+Size: 25188
+MD5sum: 082cea73ab4fb79f4219c6b0bdd81d2c
+SHA1: 192905eb3e209370d3ba4efb7f41e7ffaf0ac27e
+SHA256: 79ffa45362bd94f9cfa033db2acec4bc3c84bed45de44cec2ace6e4d59d55192
+Section: 嗨-工具
+Description: 照片增强的轻量插件，刀刀已汉化。
+Author: nowesr1
+Name: PhotosPlus(RootHide)
 
 Package: com.dao.powercuff
 Version: 1.0.1
