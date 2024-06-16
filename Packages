@@ -12674,6 +12674,23 @@ Author: b4db1r3 <nfive060@gmail.com>
 Name: OCD5(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5/js.json
 
+Package: com.dao.ocd5
+Version: 5.4.1.1
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3 <nfive060@gmail.com>
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.dao.ocd.cn
+Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd5lite
+Filename: rootless/OCD5(rootless).deb
+Size: 325360
+MD5sum: c5b3416b7c91e745ab6239a49847a33f
+SHA1: fc4603889bdcf43822ab3d6349b047fbd768dddc
+SHA256: 6d5cc847cd2f2a53090928343f66a5e48180792a329763b3ffb2fc0683b51f34
+Section: 嗨-工具
+Description: 根据App图标颜色来自适应App名称和角标的颜色，5系列更多新功能，有类似dotto+插件的圆点/空心效果，精简无用文件，替换插件图标。
+Author: b4db1r3 <nfive060@gmail.com>
+Name: OCD5(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5/js.json
+
 Package: com.dao.ocd5lite
 Version: 5.2.1
 Architecture: iphoneos-arm64
@@ -12685,6 +12702,23 @@ Size: 323344
 MD5sum: b854aaf860cdf350e25f7a12af020847
 SHA1: 5d0d8bea4821f6bbc536ac46c47cf084382ae5aa
 SHA256: 0cf55a73cc9ba2aea7067f5f96b3ef60dc74c169723812babe7850ed1c102ff1
+Section: 嗨-工具
+Description: 根据App图标颜色来自适应App名称和角标的颜色，精简5系列其他功能，只保留圆点/空心角标效果。
+Author: b4db1r3 <nfive060@gmail.com>
+Name: OCD5 Lite(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5l/js.json
+
+Package: com.dao.ocd5lite
+Version: 5.4.1.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.dao.ocd.cn
+Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd5
+Filename: rootless/OCD5 Lite(rootless).deb
+Size: 324836
+MD5sum: 8b37dc66f8e76b7694ef93e125799dc3
+SHA1: 7e082350df13fc7cbfd7a7f7e62e89085b229396
+SHA256: 778866ea221c2809a6b19bf11869cb84bb52116fb8261afa7360246c2f987277
 Section: 嗨-工具
 Description: 根据App图标颜色来自适应App名称和角标的颜色，精简5系列其他功能，只保留圆点/空心角标效果。
 Author: b4db1r3 <nfive060@gmail.com>

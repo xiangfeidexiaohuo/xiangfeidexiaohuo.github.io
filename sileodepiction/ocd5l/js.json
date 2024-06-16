@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.4",
+                    "text": "5.4.1.1",
                     "title": "最新版本"
                 },
                 {
@@ -98,13 +98,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "5.4",
+                    "title": "5.4.1.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步最新 OCD 完整版，精简其他功能，只保留圆点/空心角标效果。</br> </br> 纯粹只要圆点角标效果！</br> </br> 5.4 有毛病，下架，用回 5.2.1 吧。",
+                    "markdown": "同步最新 OCD，精简其他功能，只保留圆点/空心角标效果。</br> </br> 纯粹只要圆点角标效果！",
                     "useRawFormat": true
                 }
             ]

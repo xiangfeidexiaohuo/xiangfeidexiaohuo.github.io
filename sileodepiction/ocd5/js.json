@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.4",
+                    "text": "5.4.1.1",
                     "title": "最新版本"
                 },
                 {
@@ -98,13 +98,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "5.4.1.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复 5.4 版本的圆点角标相关问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "5.4",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "性能调整，像抹了黄油一样丝滑。</br> </br> 5.4 有毛病，下架，用回 5.2.1 吧。",
+                    "markdown": "性能调整，像抹了黄油一样丝滑。",
                     "useRawFormat": true
                 },
                 {
