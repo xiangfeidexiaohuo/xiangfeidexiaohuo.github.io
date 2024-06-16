@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "性能调整，像抹了黄油一样丝滑。",
+                    "markdown": "性能调整，像抹了黄油一样丝滑。</br> </br> 5.4 有毛病，下架，用回 5.2.1 吧。",
                     "useRawFormat": true
                 },
                 {
