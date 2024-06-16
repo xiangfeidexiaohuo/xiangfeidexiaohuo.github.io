@@ -68,12 +68,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "b4db1r3",
+                    "text": "b4db1r3 & 妖刀",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.2.1",
+                    "text": "5.4",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 27 日",
+                    "text": "2024 年 06 月 16 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -98,13 +98,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "5.2.1",
+                    "title": "5.4",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "精简 5 系列其他功能，只保留圆点/空心角标效果。</br> </br> 纯粹只要圆点角标！",
+                    "markdown": "同步最 OCD 完整版，精简其他功能，只保留圆点/空心角标效果。</br> </br> 纯粹只要圆点角标效果！",
                     "useRawFormat": true
                 }
             ]
