@@ -11821,6 +11821,22 @@ Description: Speak Notification 简体中文包。
 Author: Sandy0
 Name: Speak Notification 简体中文包
 
+Package: com.squidforce.copyvault
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: SquidForce
+Installed-Size: 9460
+Depends: mobilesubstrate, preferenceloader
+Filename: rootful/com.squidforce.copyvault_1.2.5_iphoneos-arm.deb
+Size: 2620108
+MD5sum: 5acda0182d7ee6700acc47643cabe4d3
+SHA1: 449374d222e7a86cc40051820447adac7ba9d278
+SHA256: 0985511d42828c50a9241de54d347f2a91bd4d58cc0ab305d428e189c51e35b6
+Section: Tweaks
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Name: CopyVault
+
 Package: com.xiaodiaoming.Moveable9.ZH.CN
 Version: 1.0.0~beta29-28
 Architecture: iphoneos-arm
@@ -14705,6 +14721,22 @@ Author: 佚名
 Name: 头条NoAds(rootless)
 Sponsor: 佚名
 
+Package: com.squidforce.copyvault
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 9412
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.squidforce.copyvault_1.2.5_iphoneos-arm64.deb
+Size: 2599714
+MD5sum: 48a1b60a44638083f4d7a4f44455e7ab
+SHA1: f30ca3488f0e62f531752c4ed043b05ba56e2a06
+SHA256: 50dd0cfff51b0c1b9d753592792f9913780ab0c30cd7ad2538b44b2a7315671f
+Section: Tweaks
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Name: CopyVault
+
 Package: cpm.dao.tinge
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -15887,6 +15919,22 @@ Section: 嗨-工具
 Description: CPUDasher破解VIP。
 Author: lw
 Name: CPUDasher 破解VIP(RootHide)
+
+Package: com.squidforce.copyvault
+Version: 1.2.5
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce
+Installed-Size: 9268
+Depends: mobilesubstrate, preferenceloader
+Filename: roothide/com.squidforce.copyvault_1.2.5_iphoneos-arm64e.deb
+Size: 2568132
+MD5sum: 2956c4e949d2f6db5f6e9e0a115bda40
+SHA1: 19675bfc9f737e61c5e21436651c3cbc59c9ad0b
+SHA256: b4406cf3494121ac0668e437d6d74b6902c9ddfb7e9ad142d6dffc5f4e0a60da
+Section: Tweaks
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Name: CopyVault
 
 Package: cpm.qms.storeswitcher
 Version: 1.2
