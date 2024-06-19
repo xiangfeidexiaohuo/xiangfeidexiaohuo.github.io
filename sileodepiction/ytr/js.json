@@ -73,7 +73,7 @@
                 }, 
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.2.6-1",
+                    "text": "4.2.6-2",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 05 月 17 日",
+                    "text": "2024 年 06 月 19 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -98,13 +98,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "4.2.6-2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复一两处小bug",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "4.2.6-1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步各种油管编译库，重新编译适配。",
+                    "markdown": "同步各种油管动态库",
                     "useRawFormat": true
                 },
                 {
