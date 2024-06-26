@@ -12870,16 +12870,16 @@ Author: 妖刀
 Name: SafariX 简体中文包(rootless)
 
 Package: com.dao.satella
-Version: 1.9.0
+Version: 1.9.0-1
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: firmware (>= 13.0), preferenceloader, com.opa334.altlist
 Conflicts: xyz.cypwn.satella, emt.paisseon.satella, com.dao.satella.cn
 Filename: rootless/Satella 中文版(rootless).deb
-Size: 72636
-MD5sum: e316dfe58613e170039e60e9db753ac8
-SHA1: 11f7c32bf7be3fdb518466232facb9f180da8d4a
-SHA256: 44d11a53b540a57812ac453f7720b49fffe4d4adca4606b033dac96a9ff5654e
+Size: 73532
+MD5sum: bc38223f8db50846d60681160a842b6d
+SHA1: bdf799a444706af4c8a055a20df96be204f09b4e
+SHA256: 6307eea92c17e68e2f37f39f91301dcee18eeb36ca0b1a48f0561741e3af7dab
 Section: 嗨-破解
 Description: 牛X的应用内购买破解器，已包含简体中文包。
 Author: Paisseon
