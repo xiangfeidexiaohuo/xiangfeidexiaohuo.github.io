@@ -102,7 +102,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "更换群友(Hello! J.z)提供的帅气图标",
                     "useRawFormat": true
-                };
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.9.0",
