@@ -27,6 +27,23 @@ Description: OpenNotifier9/10/11/12 简体中文包！汉化包兼容OpenNotifie
 Author: Sandy0
 Name: OpenNotifier9/10/11/12 简体中文包
 
+Package: cn.octoforce.copyvault
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 12128
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: rootful/cn.octoforce.copyvault_1.3.0_iphoneos-arm.deb
+Size: 3300058
+MD5sum: 8571f443a65cd1f77f3e0fe9b8dc633f
+SHA1: b702139dc7f48dc6ed9b5f9643e77efbd2c73cd0
+SHA256: f1204b9dc44c9a2cca2cd61f1f6280be5ee5e249f33c4ccccc2c191787989e13
+Section: Tweaks
+Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+
 Package: com..hk.netskao.pulloverpro
 Version: 2.1.2
 Architecture: iphoneos-arm
@@ -11803,22 +11820,6 @@ Description: Speak Notification 简体中文包。
 Author: Sandy0
 Name: Speak Notification 简体中文包
 
-Package: com.squidforce.copyvault
-Version: 1.2.5
-Architecture: iphoneos-arm
-Maintainer: SquidForce
-Installed-Size: 9460
-Depends: mobilesubstrate, preferenceloader
-Filename: rootful/com.squidforce.copyvault_1.2.5_iphoneos-arm.deb
-Size: 2620108
-MD5sum: 5acda0182d7ee6700acc47643cabe4d3
-SHA1: 449374d222e7a86cc40051820447adac7ba9d278
-SHA256: 0985511d42828c50a9241de54d347f2a91bd4d58cc0ab305d428e189c51e35b6
-Section: Tweaks
-Description: Your Copy Vault, Your Pasteboard
-Author: SquidForce
-Name: CopyVault
-
 Package: com.xiaodiaoming.Moveable9.ZH.CN
 Version: 1.0.0~beta29-28
 Architecture: iphoneos-arm
@@ -11959,6 +11960,23 @@ Section: 嗨-破解
 Description: 干掉Surge4/5的订阅，具体支持版本自测。
 Author: NyaMisty
 Name: Surge  Advanced
+
+Package: cn.octoforce.copyvault
+Version: 1.3.0
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 12096
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: rootless/cn.octoforce.copyvault_1.3.0_iphoneos-arm64.deb
+Size: 3293674
+MD5sum: 200d99fe16264db13e4fb54f31cb1dd6
+SHA1: 933bf693e673493c2dccfa8f229c0bdb8f91d6b9
+SHA256: c4a80bad95d3ec6463521ce15dc6fa1026b5c642861d7be24f65c881f618de8f
+Section: Tweaks
+Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
 
 Package: com.82skao.afc2d-arm64
 Version: 1.1.7-1
@@ -14685,22 +14703,6 @@ Author: 佚名
 Name: 头条NoAds(rootless)
 Sponsor: 佚名
 
-Package: com.squidforce.copyvault
-Version: 1.2.5
-Architecture: iphoneos-arm64
-Maintainer: SquidForce
-Installed-Size: 9412
-Depends: mobilesubstrate, preferenceloader
-Filename: rootless/com.squidforce.copyvault_1.2.5_iphoneos-arm64.deb
-Size: 2599714
-MD5sum: 48a1b60a44638083f4d7a4f44455e7ab
-SHA1: f30ca3488f0e62f531752c4ed043b05ba56e2a06
-SHA256: 50dd0cfff51b0c1b9d753592792f9913780ab0c30cd7ad2538b44b2a7315671f
-Section: Tweaks
-Description: Your Copy Vault, Your Pasteboard
-Author: SquidForce
-Name: CopyVault
-
 Package: cpm.dao.tinge
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -14733,6 +14735,23 @@ Section: 嗨-系统
 Description: 图片和颜色计算控件，Liddell小横幅插件的依赖。
 Author: Traurige <hello@traurige.dev>
 Name: libKitten(rootless)
+
+Package: cn.octoforce.copyvault
+Version: 1.3.0
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce, Backup
+Installed-Size: 12064
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: roothide/cn.octoforce.copyvault_1.3.0_iphoneos-arm64e.deb
+Size: 3274700
+MD5sum: 05ac4ebc983c4e03a20f0fa64940430d
+SHA1: f1c88d1f5fa8d27ed86194f6694e29005d8c55ce
+SHA256: d350c9e3dafc59cd64c36e5f7d02b34272b0f7f5266ee96e3c51ad7bcba697cb
+Section: Tweaks
+Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
 
 Package: com.apper.wf.roothide
 Version: 1.0.0
@@ -15866,22 +15885,6 @@ Section: 嗨-工具
 Description: CPUDasher破解VIP。
 Author: lw
 Name: CPUDasher 破解VIP(RootHide)
-
-Package: com.squidforce.copyvault
-Version: 1.2.5
-Architecture: iphoneos-arm64e
-Maintainer: SquidForce
-Installed-Size: 9268
-Depends: mobilesubstrate, preferenceloader
-Filename: roothide/com.squidforce.copyvault_1.2.5_iphoneos-arm64e.deb
-Size: 2568132
-MD5sum: 2956c4e949d2f6db5f6e9e0a115bda40
-SHA1: 19675bfc9f737e61c5e21436651c3cbc59c9ad0b
-SHA256: b4406cf3494121ac0668e437d6d74b6902c9ddfb7e9ad142d6dffc5f4e0a60da
-Section: Tweaks
-Description: Your Copy Vault, Your Pasteboard
-Author: SquidForce
-Name: CopyVault
 
 Package: cpm.qms.storeswitcher
 Version: 1.2
