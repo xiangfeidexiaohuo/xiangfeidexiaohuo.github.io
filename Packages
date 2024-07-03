@@ -12841,16 +12841,16 @@ Name: Reverie 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.rocket.cn
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: rootless/Rocket 简体中文包(rootless).deb
-Size: 7110
-MD5sum: c6d3685db6a3fde26665bdfedf61a288
-SHA1: fc9a2346b371e05a39b63a1f47aad4bdde850b99
-SHA256: 6d2ad1a0bb3ae62ab1998ffd7aaca7a36160b9f8b6200f124bb0a4b7df581e01
+Size: 7224
+MD5sum: 62337dcabf385d83f9b2f857195767a0
+SHA1: 291af652ad0e387e2ca1d3edee27d898774d372a
+SHA256: 4055603ab15c6f8c94e312b47c0ad544226b2f271fd748779fcb6075fd276655
 Section: 嗨-汉化
 Description: Rocket for Instagram 简体中文包(rootless)。
 Author: 妖刀
@@ -13275,6 +13275,24 @@ Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi16
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 372
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Conflicts: com.julioverne.goodwifi, com.daodao.goodwifi
+Filename: rootless/GoodWiFi16中文版(rootless).deb
+Size: 41744
+MD5sum: 3f3121e7e582a524b82f3ad7f857b5f8
+SHA1: 39dcae5f2759cdef9c1d9969c9836b09f55809f9
+SHA256: 9d30c8d141bd42dc3f3a4e8bdf69b328c8fe9d090156216d53e24d3c719846e8
+Section: 嗨-工具
+Description: 更适合 iOS16 宝宝的 WiFi 配置，简体中文版。
+Author: julioverne
+Name: GoodWiFi16中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi16/js.json
 
 Package: com.daodao.kayoko
 Version: 1.4.2-1
