@@ -44,6 +44,23 @@ Description: 非激活码用户不要安装！！Do not install if you do not ha
 Author: SquidForce, Backup
 Name: CopyVault(激活码版)
 
+Package: cn.octoforce.copyvault
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 12160
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: rootful/cn.octoforce.copyvault_1.3.1_iphoneos-arm.deb
+Size: 3315614
+MD5sum: 1bfae029f0c6117091e982360497ba72
+SHA1: df47fb88b5ded291af5cbe9ae8ff2cb2c57940c2
+SHA256: 6b5693fe1df585e206c2eb18375c2554655d472821172be54fa2a8aefc15ab96
+Section: Tweaks
+Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+
 Package: com..hk.netskao.pulloverpro
 Version: 2.1.2
 Architecture: iphoneos-arm
@@ -2926,7 +2943,7 @@ Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
-Filename: rootful/GoodWiFi_ZH.deb
+Filename: rootful/GoodWiFi_ZH_1.0.1.deb
 Size: 34504
 MD5sum: 6455274428209acbabd8d1030abab2d5
 SHA1: 7cba3b1457dd57f4ab8f7777861821a51b83baf6
@@ -2935,6 +2952,24 @@ Section: 嗨-工具
 Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader, firmware (< 16.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
+Filename: rootful/GoodWiFi_ZH.deb
+Size: 32946
+MD5sum: 30cb347184e1f5d691f14586152a7a7f
+SHA1: 5bcf2de1503175a9610d0d2d89f3a47bc80a9278
+SHA256: 46ee0b6fa649ef62d86212be16965a8c6f3fc6ba56e97867b7ca7ae4adf4a99e
+Section: 嗨-工具
+Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
 Package: com.eclipsex.cn
@@ -4627,22 +4662,6 @@ Description: 批量/单独备份已安装的插件、软件源和hosts文件。�
 Author: Capt Inc <teamcaptinc@gmail.com>
 Name: Batchomatic 汉化版
 Sponsor: Ball <434479917@qq.com>
-
-Package: com.hk.batteryhealthenabler
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: PoomSmart
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
-Conflicts: com.ps.batteryhealthenabler
-Filename: rootful/BatteryHealth.deb
-Size: 5240
-MD5sum: 1a2045c8e179a27296b86ea18642a162
-SHA1: 2cc3e8bdfcfdb5dfaf0e0d520abd92a44c296345
-SHA256: d7a12e521e7cf8dfc73acca40346937598995bda790f63c51ea67ffc3e7dc71f
-Section: 嗨-工具
-Description: 修复更换第三方电池后，电池健康显示维修(无法验证正品的弹窗)。使用前建议先开启电池优化，以免安装插件后打不开。
-Author: PoomSmart
-Name: 修复电池健康
 
 Package: com.hk.batterynotch.cn
 Version: 1.6.1
@@ -11978,6 +11997,23 @@ Description: 非激活码用户不要安装！！Do not install if you do not ha
 Author: SquidForce, Backup
 Name: CopyVault(激活码版)
 
+Package: cn.octoforce.copyvault
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 12096
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: rootless/cn.octoforce.copyvault_1.3.1_iphoneos-arm64.deb
+Size: 3297508
+MD5sum: 041aacacd63cfccf55aadc2549da8bcc
+SHA1: 3966fea9efa003529943b663783d77bba67d6057
+SHA256: 803d5fa0bc0df4a81e88eb0782c327f133ed1647c4039e7c150bffa7fc28ae1c
+Section: Tweaks
+Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+
 Package: com.82skao.afc2d-arm64
 Version: 1.1.7-1
 Architecture: iphoneos-arm64
@@ -13265,7 +13301,7 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.goodwifi
-Filename: rootless/GoodWiFi中文版(rootless).deb
+Filename: rootless/GoodWiFi中文版(rootless)_1.0.1.deb
 Size: 34564
 MD5sum: 5b3194e0422804fa8f9d8ab7c07b7516
 SHA1: aee78ebd7e25563468a038ca8289d28b378dbe2a
@@ -13276,22 +13312,40 @@ Author: julioverne
 Name: GoodWiFi中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
+Package: com.daodao.goodwifi
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader, firmware (< 16.0)
+Conflicts: com.julioverne.goodwifi
+Filename: rootless/GoodWiFi 中文版(rootless).deb
+Size: 33044
+MD5sum: 121b0347e0a633c1bd289a1daa0c4014
+SHA1: 825a3fafd2951f11067d4a94e99184fef6c1b60e
+SHA256: ad03f04e8ade8c1e6089617f9297a3718fbabf8709c29bf9041184ba5304db76
+Section: 嗨-工具
+Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
 Package: com.daodao.goodwifi16
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 372
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
 Conflicts: com.julioverne.goodwifi, com.daodao.goodwifi
-Filename: rootless/GoodWiFi16中文版(rootless).deb
-Size: 41744
-MD5sum: 3f3121e7e582a524b82f3ad7f857b5f8
-SHA1: 39dcae5f2759cdef9c1d9969c9836b09f55809f9
-SHA256: 9d30c8d141bd42dc3f3a4e8bdf69b328c8fe9d090156216d53e24d3c719846e8
+Filename: rootless/GoodWiFi16 中文版(rootless).deb
+Size: 41340
+MD5sum: f5730a0f103ee196a268c190c8cd0d98
+SHA1: fa7e8aae41fad39bc77734a8a6beb80018e2307f
+SHA256: 4114211ba9a9045b7f7beb3a6c21530b9c09c0039dfe583778820726a92dbe03
 Section: 嗨-工具
-Description: 更适合 iOS16 宝宝的 WiFi 配置，简体中文版。
-Author: julioverne
-Name: GoodWiFi16中文版(rootless)
+Description: 更适合 iOS16 宝宝的 WiFi 配置，可查看连接的 WiFi 信道、加密方式、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi16 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi16/js.json
 
 Package: com.daodao.kayoko
@@ -14771,6 +14825,23 @@ Description: 非激活码用户不要安装！！Do not install if you do not ha
 Author: SquidForce, Backup
 Name: CopyVault(激活码版)
 
+Package: cn.octoforce.copyvault
+Version: 1.3.1
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce, Backup
+Installed-Size: 12096
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: roothide/cn.octoforce.copyvault_1.3.1_iphoneos-arm64e.deb
+Size: 3289792
+MD5sum: eca19eeaed503d196ccd097cb5b164cb
+SHA1: e5fb3bd56cf9dcfddee027d4fae2b9018c4a0873
+SHA256: 9478072a6dac3f27cbd4577018688c43e015cf9ec79b5708be5a03fd8acc2ad9
+Section: Tweaks
+Description: 非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+
 Package: com.apper.wf.roothide
 Version: 1.0.0
 Architecture: iphoneos-arm64e
@@ -15265,7 +15336,7 @@ Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
-Filename: roothide/GoodWiFi中文版(RootHide).deb
+Filename: roothide/GoodWiFi中文版(RootHide)_1.0.1.deb
 Size: 34524
 MD5sum: 1a133e33722770dc6dc4b2935b2d9f48
 SHA1: b491712eab082cfa5e5c4a08c3b8b55ad6b3033f
@@ -15275,6 +15346,42 @@ Description: 更好的WiFi配置，简体中文版。
 Author: julioverne
 Name: GoodWiFi中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader, firmware (< 16.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
+Filename: roothide/GoodWiFi 中文版(RootHide).deb
+Size: 32996
+MD5sum: 3ac15ff54828502d9a94ef136104148e
+SHA1: d803028601950533e52f2bb770f04bf425a3f974
+SHA256: f2fc387f537fc6b4b17653802e2487963f3a9b052d675f4804ab532bf2963568
+Section: 嗨-工具
+Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi16
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 372
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Conflicts: com.julioverne.goodwifi, com.daodao.goodwifi
+Filename: roothide/GoodWiFi16 中文版(RootHide).deb
+Size: 41340
+MD5sum: 09efc04b1d10276dafebbf02064c669f
+SHA1: cbd69c1d4a554a34203c1cf572716d84b63fd0f0
+SHA256: 7670fcede9cc9887c97689ef6175eb4da4fbe50240d87951ebd2c2ec1a2c4c68
+Section: 嗨-工具
+Description: 更适合 iOS16 宝宝的 WiFi 配置，可查看连接的 WiFi 信道、加密方式、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi16 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi16/js.json
 
 Package: com.daodao.kayoko
 Version: 2.0.1-1
