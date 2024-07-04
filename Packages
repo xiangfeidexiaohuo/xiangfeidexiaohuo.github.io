@@ -12311,6 +12311,24 @@ Description: 自定义程序通知角标的边框颜色和透明度，基于Poom
 Author: PoomSmart
 Name: BlurryBadges 中文版(rootless)
 
+Package: com.dao.ccborder
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
+Filename: rootless/CCBorder16(rootless).deb
+Size: 38956
+MD5sum: 8dedf72f7a43fe2eddcaf95ba8fc621d
+SHA1: 27ff83bdb6ff6fc5e489136d481e277cd3b54d3a
+SHA256: 6f54a79df0babcf11a36b9fbe65b220b6412d9e15ff8d5b5b042b15d0e8a3817
+Section: 嗨-工具
+Description: 类iOS18样式的控制中心，可调节控制中文模块形状(37.5为圆)，模块边框粗细，音量/亮度图形颜色等，亮度/音量百分百(无设置)；基于p2kdev的开源定制。
+Author: fiore & p2kdev & 妖刀
+Name: CCBorder16(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
+
 Package: com.dao.classicfolders3
 Version: 3.0.4.3
 Architecture: iphoneos-arm64
@@ -14925,6 +14943,24 @@ Section: 嗨-工具
 Description: 自定义程序通知角标的边框颜色和透明度，基于PoomSmart的开源直接编译汉化。
 Author: PoomSmart
 Name: BlurryBadges 中文版(RootHide)
+
+Package: com.dao.ccborder
+Version: 1.1.5
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
+Filename: roothide/CCBorder16(RootHide).deb
+Size: 38994
+MD5sum: e644a0335fb12a5c913919147dee9d19
+SHA1: ac648c6509021301d72b2f3e196a780616832033
+SHA256: 68339f124a279768e3428cfdab971c94c4b82259d95bd6202faca8e01668a706
+Section: 嗨-工具
+Description: 类iOS18样式的控制中心，可调节控制中文模块形状(37.5为圆)，模块边框粗细，音量/亮度图形颜色等，亮度/音量百分百(无设置)；基于p2kdev的开源定制。
+Author: fiore & p2kdev & 妖刀
+Name: CCBorder16(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
 
 Package: com.dao.classicfolders3
 Version: 3.0.4.3
