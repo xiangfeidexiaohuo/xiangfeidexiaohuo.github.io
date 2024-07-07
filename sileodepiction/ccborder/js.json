@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "类iOS18样式的控制中心，可调节控制中心模块形状(37.5左右为圆，根据机型适当微调)，模块边框粗细，音量/亮度图形颜色等，亮度/音量百分百(无设置)；基于p2kdev的开源定制。",
+                    "markdown": "类iOS18样式的控制中心，可调节控制中心模块形状(37.5左右为圆，根据机型适当微调)，模块边框粗细，音量/亮度图形颜色等；基于p2kdev的开源定制。",
                     "useRawFormat": true,
                 },
                 {
@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.6",
+                    "text": "1.1.6.5",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 07 月 06 日",
+                    "text": "2024 年 07 月 08 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +96,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.6.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "去除"音量/亮度"滑块数字百分比，自行解决。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.1.6",

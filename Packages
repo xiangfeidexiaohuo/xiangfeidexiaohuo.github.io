@@ -12346,37 +12346,37 @@ Author: PoomSmart
 Name: BlurryBadges 中文版(rootless)
 
 Package: com.dao.ccborder
-Version: 1.1.5
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 448
-Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
-Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
-Filename: rootless/CCBorder16(rootless)_1.1.5.deb
-Size: 38956
-MD5sum: 8dedf72f7a43fe2eddcaf95ba8fc621d
-SHA1: 27ff83bdb6ff6fc5e489136d481e277cd3b54d3a
-SHA256: 6f54a79df0babcf11a36b9fbe65b220b6412d9e15ff8d5b5b042b15d0e8a3817
-Section: 嗨-工具
-Description: 类iOS18样式的控制中心，可调节控制中文模块形状(37.5为圆)，模块边框粗细，音量/亮度图形颜色等，亮度/音量百分百(无设置)；基于p2kdev的开源定制。
-Author: fiore & p2kdev & 妖刀
-Name: CCBorder16(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
-
-Package: com.dao.ccborder
 Version: 1.1.6
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
-Filename: rootless/CCBorder16(rootless).deb
+Filename: rootless/CCBorder16(rootless)_1.1.6.deb
 Size: 39448
 MD5sum: 6e586d4c6121d0fc1999a3936b944e67
 SHA1: a333332ec25bb6446065ca665c94541c29d54aba
 SHA256: 2ef2169a916268659263ee8416c4df69143a1ef32495f0c606f395bbc48d620e
 Section: 嗨-工具
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色等，亮度/音量百分百(无设置)；基于p2kdev的开源定制。
+Author: fiore & p2kdev & 妖刀
+Name: CCBorder16(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
+
+Package: com.dao.ccborder
+Version: 1.1.6.5
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 444
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc
+Filename: rootless/CCBorder16(rootless).deb
+Size: 37418
+MD5sum: 87ad1bfc0b718e707cc0bfa47bee5f4d
+SHA1: 04164a239f344b679c2f79d7fbe37721d3b333df
+SHA256: 3a44eb6b8d2fbc8de4bf319052535bead82c8accdfafc4710a658808ffc43341
+Section: 嗨-工具
+Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
 Name: CCBorder16(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
@@ -12499,6 +12499,22 @@ Section: 嗨-工具
 Description: 一款锁屏和主屏幕的主题布局插件。
 Author: JunesiPhone
 Name: Designer(rootless)
+
+Package: com.dao.dumpdecrypter
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.dumpdecrypter
+Filename: rootless/DumpDecrypter(rootless).deb
+Size: 1295000
+MD5sum: 906a1ac7f006244e659c4567b39db5a2
+SHA1: 48b4473f6af54e095f175c6460a46ad39f731217
+SHA256: 574f6bfa8baca9111dc2d3a1b680a1748ea547e8100e4d4b5191e4b2c62c2093
+Section: 嗨-工具
+Description: 最新的砸壳工具，解密iOS应用程序和组件，支持iOS15~16多巴胺越狱；上架备份。
+Author: Netskao
+Name: DumpDecrypter(rootless)
 
 Package: com.dao.filzacrack
 Version: 1.1-8
@@ -12712,6 +12728,21 @@ Section: 嗨-工具
 Description: 适用于iOS14+的军刀类多功能插件，汉化包在源内。
 Author: MTAC
 Name: Lynx 2(rootless)
+
+Package: com.dao.misaki.cn
+Version: 2.1.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Misaki 中文补充包(rootless).deb
+Size: 6132
+MD5sum: c6d98b3a5bd8ad674776158471c7b6f0
+SHA1: 2005cd4151e1ea361ccdc73fb6f09d36a97375e0
+SHA256: f24f5e6484fc9b9c6c55e1d65583acb3d653d9c430304a4138df9fb8ffcd69f5
+Section: 嗨-汉化
+Description: Misaki 中文补充包(rootless)。
+Author: 妖刀
+Name: Misaki 中文补充包(rootless)
 
 Package: com.dao.noline
 Version: 1.0.1
@@ -15014,37 +15045,37 @@ Author: PoomSmart
 Name: BlurryBadges 中文版(RootHide)
 
 Package: com.dao.ccborder
-Version: 1.1.5
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 448
-Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
-Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
-Filename: roothide/CCBorder16(RootHide)_1.1.5.deb
-Size: 38994
-MD5sum: e644a0335fb12a5c913919147dee9d19
-SHA1: ac648c6509021301d72b2f3e196a780616832033
-SHA256: 68339f124a279768e3428cfdab971c94c4b82259d95bd6202faca8e01668a706
-Section: 嗨-工具
-Description: 类iOS18样式的控制中心，可调节控制中文模块形状(37.5为圆)，模块边框粗细，音量/亮度图形颜色等，亮度/音量百分百(无设置)；基于p2kdev的开源定制。
-Author: fiore & p2kdev & 妖刀
-Name: CCBorder16(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
-
-Package: com.dao.ccborder
 Version: 1.1.6
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
 Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc, com.ioscreatix.sugarcane, com.hk.sugarcane13, com.daodao.sugarcane, com.hk.sugarcane, com.dao.sugarcane
-Filename: roothide/CCBorder16(RootHide).deb
+Filename: roothide/CCBorder16(RootHide)_1.1.6.deb
 Size: 39352
 MD5sum: f2d4f54141937c0f04e38294c4e869b8
 SHA1: 3efc3b5922879fcf82733d1cccd8f84c28081507
 SHA256: aeb1d5a9b65753c39bad76e35220a3ff2a3cde5fc0e80b4c9c0bc8e3d2bfbd5e
 Section: 嗨-工具
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色等，亮度/音量百分百(无设置)；基于p2kdev的开源定制。
+Author: fiore & p2kdev & 妖刀
+Name: CCBorder16(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
+
+Package: com.dao.ccborder
+Version: 1.1.6.5
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 444
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc
+Filename: roothide/CCBorder16(RootHide).deb
+Size: 37486
+MD5sum: 7c1ed9a4fd66a4df4f32fd3ad8c2b2df
+SHA1: 1d59d9b51295fa5307056fc83cb1a0db6df9a64b
+SHA256: f528fff7e60faa503a260fb54999d38307c21058d7ffe6c65e32a12e93230dc1
+Section: 嗨-工具
+Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
 Name: CCBorder16(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
