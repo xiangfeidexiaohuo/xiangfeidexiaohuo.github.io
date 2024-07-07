@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "去除"音量/亮度"滑块数字百分比，自行解决。",
+                    "markdown": "去除 音量/亮度 滑块数字百分比，自行解决。",
                     "useRawFormat": true
                 },
                 {
