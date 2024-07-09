@@ -10184,15 +10184,15 @@ Author: 妖刀
 Name: Snoverlay 2 简体中文包
 
 Package: com.hk.snowboard.cn
-Version: 1.5.13
+Version: 1.5.37
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootful/Snowboard_CN.deb
-Size: 3404
-MD5sum: be43c9a8addb17095bd64cc90949eafc
-SHA1: b5b7491ca755057034afdf0f0f95ebe151f104bc
-SHA256: 32ecba362f7e51ea98bc7e2512b8d87fe0fb716133575f95cf2f5c57de41d0e4
+Size: 3436
+MD5sum: 263de4c9937e744b90f3ffd0528fc416
+SHA1: 9b892de6041a618e16c5e8695d3a26a2232ae39c
+SHA256: f3da6b4ec4468377f128d1a72e432f3c372f8eb7b186ce5c8dcdea57242fdd41
 Section: 嗨-汉化
 Description: Snowboard 中文修正包。
 Author: 妖刀
@@ -12147,16 +12147,16 @@ Author: Tr1Fecta & Kennyroo
 Name: Akara(rootless)
 
 Package: com.dao.appdata
-Version: 1.4.1
+Version: 1.4.2
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.netskao.appdata, netskao.appdata-rootless
 Filename: rootless/AppData(rootless).deb
-Size: 4647628
-MD5sum: aa2304e1ccae24f8dc8fc065fb45beab
-SHA1: 0d35e45e065ae5f9f845088134f66b5aea3c9abb
-SHA256: c858d4530f5162e2860d4b1aa3948c878e4848a5a02fc388d33aaff66b20efb2
+Size: 822848
+MD5sum: 26b008393d3e574db408ed00576c4454
+SHA1: 65ce516c72783351eb95f665e7d985700de45ac5
+SHA256: 90006809eaf1e0b7323440e8e3a08baf7e305c203def8ba7605c317ae7809942
 Section: 嗨-工具
 Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据的快捷工具。Netskao新更的版本，上架备份。
 Author: Fouad Raheb
@@ -14647,15 +14647,15 @@ Author: 妖刀
 Name: Snapper3 简体中文包(rootless)
 
 Package: com.hk.snowboard.cn.rl
-Version: 1.5.13
+Version: 1.5.37
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Snowboard 中文修正包(rootless).deb
-Size: 3672
-MD5sum: e94869cc2a186a2f32a6722d8320935c
-SHA1: ef5175ecf47a83bf4ce3f8029d9d79c869babd6c
-SHA256: 75003638c456c166c9389b383b75df9a139a7a164cf321b6c28a482875b32680
+Size: 3484
+MD5sum: ca47ef441e1b281b248f8b087d53e838
+SHA1: 48c29574728df7a2427b1de9b88125fcf869fcba
+SHA256: 0dc94a0e766a8c8d7c72f1e9a550bee5229e4b369ab510a484c8c6b8a479fe52
 Section: 嗨-汉化
 Description: Snowboard 中文修正包(rootless)。
 Author: 妖刀
@@ -16041,15 +16041,15 @@ Author: 妖刀
 Name: Snapper3 简体中文包(RootHide)
 
 Package: com.hk.snowboard.cn.rl
-Version: 1.5.13
+Version: 1.5.37
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: roothide/Snowboard 中文修正包(RootHide).deb
-Size: 3420
-MD5sum: 625d010c7464532e748436359726b6e1
-SHA1: bec97f876a13bdc05698cf9b784d4589b5345341
-SHA256: 4928673dac5345ade16f7bcca98094e2ce1652393588ba9d2af79ab93ddbaf97
+Size: 3448
+MD5sum: 3be9564f234cd96dd131156b87d78ccc
+SHA1: ee61e21a34bd4299df6dd22eb2ea3d471340480a
+SHA256: 43e6758c7502927cfdaa6614775b630e97f89d5faec6e66c8e998d52b15362f8
 Section: 嗨-汉化
 Description: Snowboard 中文修正包(RootHide)。
 Author: 妖刀
