@@ -12679,6 +12679,22 @@ Description: Infuse的破解/增强插件。
 Author: dvntm
 Name: Infuse Plus(rootless)
 
+Package: com.dao.injectipa
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0)
+Conflicts: netskao.injectipa-rootless
+Filename: rootless/injectipa(rootless).deb
+Size: 962272
+MD5sum: 9f380e14f398dc4027915c03bed28f31
+SHA1: e8ffc1448415a65b61cc409a0d6a59a5660ec758
+SHA256: 909942e9ef9bf505622f855b4cededefecdb7c014c2550e8df92a2e96a4bd18f
+Section: 嗨-工具
+Description: injectipa是一款命令行一键注入dylib到ipa工具；用法: injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可), 其它参数执行injectipa查看即可, 注入完成后的IPA需要签名使用。上架备用。
+Author: Netskao
+Name: injectipa(rootless)
+
 Package: com.dao.jade
 Version: 1.0.1
 Architecture: iphoneos-arm64
