@@ -13267,6 +13267,24 @@ Description: Souvenir 简体中文包(rootless)。
 Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
+Package: com.dao.spotify
+Version: 4.4
+Architecture: iphoneos-arm64
+Maintainer: Eevee & 妖刀
+Installed-Size: 1520
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Conflicts: com.eevee.spotify
+Filename: rootless/EeveeSpotify 中文版(rootless).deb
+Size: 318272
+MD5sum: 11ca876850dc6dddae67e7d2444811fa
+SHA1: b12a5c0e2bcbb0214ff6b97bf558aeb1b6e1c06b
+SHA256: 2edc7f217805c51f59f7368438e8b6b842455036a05cc30d8c71c04a49fcb872
+Section: 嗨-工具
+Description: 免费获得 Spotify Premium，就像 Spotilife 一样。
+Author: Eevee
+Name: EeveeSpotify 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
+
 Package: com.dao.storeswitchaccounts
 Version: 1.1-4
 Architecture: iphoneos-arm64
@@ -14992,6 +15010,20 @@ Section: 嗨-系统
 Description: 图片和颜色计算控件，Liddell小横幅插件的依赖。
 Author: Traurige <hello@traurige.dev>
 Name: libKitten(rootless)
+
+Package: org.swift.protobuf.swiftprotobuf
+Version: 1.26.0
+Architecture: iphoneos-arm64
+Maintainer: eevee
+Filename: rootless/SwiftProtobuf(rootless).deb
+Size: 1271416
+MD5sum: d496d000acd2b335015d74a052c78c9b
+SHA1: bc442c0622b7140b70bdc8e2c85318ccbe2bd73a
+SHA256: 7911d4313c80854d0ff390b51477119134d9fbd3019b5b173663cfc068c8e116
+Section: 嗨-工具
+Description: EeveeSpotify的依赖。
+Author: eevee
+Name: SwiftProtobuf(rootless)
 
 Package: cn.octoforce.copyvault
 Version: 1.3.0
