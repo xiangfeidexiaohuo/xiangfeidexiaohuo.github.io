@@ -12814,15 +12814,15 @@ Author: MTAC
 Name: Lynx 2(rootless)
 
 Package: com.dao.misaki.cn
-Version: 2.1.1
+Version: 2.1.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Misaki 中文补充包(rootless).deb
-Size: 6132
-MD5sum: c6d98b3a5bd8ad674776158471c7b6f0
-SHA1: 2005cd4151e1ea361ccdc73fb6f09d36a97375e0
-SHA256: f24f5e6484fc9b9c6c55e1d65583acb3d653d9c430304a4138df9fb8ffcd69f5
+Size: 6208
+MD5sum: 667969ae2241d04d6a32441cdd073848
+SHA1: ad42886ca7f06fe9757e403ef51c1ca2f383edff
+SHA256: 926cae9a954ee7ec0351a4df2d6abc3139bede78e77f0174e0157c2a63ce0720
 Section: 嗨-汉化
 Description: Misaki 中文补充包(rootless)。
 Author: 妖刀
