@@ -13191,6 +13191,22 @@ Description: 设置自定义、归类插件，源内有汉化包。
 Author: SOPPPra
 Name: SettingsRevamp(rootless)
 
+Package: com.dao.showmytouches
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.showmytouches
+Filename: rootless/ShowMyTouches(rootless).deb
+Size: 49824
+MD5sum: 190d5e2d3ad32acd39d5bfa05eaaefed
+SHA1: 06aee6f324580c0e0f457b087ff078abb2183216
+SHA256: 4fe2a5de77a5c167d8d1d6fa0fab9d93098e9e2a9f07cdfb8dbd57483e982643
+Section: 嗨-工具
+Description: 显示屏幕触摸轨迹！
+Author: dvntm
+Name: ShowMyTouches(rootless)
+
 Package: com.dao.showtouch
 Version: 1.0.4-3
 Architecture: iphoneos-arm64
