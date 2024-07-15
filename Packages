@@ -13028,16 +13028,16 @@ Author: c1d3r
 Name: PullOver Pro(rootless)
 
 Package: com.dao.qqnotiavatar
-Version: 1.2-1
+Version: 1.2-2
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
 Conflicts: com.netskao.qqnotiavatar, netskao.qqnotiavatar
 Filename: rootless/QQ 通知头像(rootless).deb
-Size: 49708
-MD5sum: ed68574a2fc10d2c5f92d0b7b66c92f0
-SHA1: 1c5e27f91af5431d802e400a1bfb56c5846eeb65
-SHA256: c4922feb90ec435d34cc13b3262bb00b571872f35755de2689db2fd4d8d3cd6f
+Size: 25488
+MD5sum: 70431fbd2a5f891f6d23ae75a4045c9c
+SHA1: 723f9c45b35a39d4c74c65508a3b2f39ca8f4a40
+SHA256: b87cd1af379c6ca7df5616be36f3d909d5e0c8a1f2937bef3fc3d4b28ba107c0
 Section: 嗨-工具
 Description: 使用iOS15+API为QQ显示通知头像。Netskao新更的版本，上架备份。
 Author: Netskao
@@ -13275,10 +13275,10 @@ Installed-Size: 1520
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
 Conflicts: com.eevee.spotify
 Filename: rootless/EeveeSpotify 中文版(rootless).deb
-Size: 318272
-MD5sum: 11ca876850dc6dddae67e7d2444811fa
-SHA1: b12a5c0e2bcbb0214ff6b97bf558aeb1b6e1c06b
-SHA256: 2edc7f217805c51f59f7368438e8b6b842455036a05cc30d8c71c04a49fcb872
+Size: 322312
+MD5sum: 4e74b05078dbd00a2b58763ca602dfb3
+SHA1: d6214efc8ff5e2b47c6f37dd25ae9fce3ce1275a
+SHA256: c10eef0f7b8a5f3b429497e2734f3dc925ac8dbc320e80754e43f5a299d24caa
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样。
 Author: Eevee
@@ -13433,16 +13433,16 @@ Name: Velvet 2 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
 Package: com.dao.wechatnotiavatar
-Version: 1.2-4
+Version: 1.2-5
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
 Conflicts: com.netskao.wechatnotiavatar, netskao.wechatnotiavatar
 Filename: rootless/WeChat 通知头像(rootless).deb
-Size: 242604
-MD5sum: 4651c5fc459418f10d274253bccf8a5d
-SHA1: b6d80cb5a96c32aeaf0b557d730744888a806250
-SHA256: 4ce2b2d198ece7393e7b51eef78951aedaa48483ac2e82498b18b9c29d9b709a
+Size: 523048
+MD5sum: 26953404c20e318f6b72655620d2bab2
+SHA1: 8ba165f3edadd6aa7e0bc0d69346eba646daae7c
+SHA256: 9b463ae0cfc8dd10543d0cb8f9e83d8da7ada79aa75a9b17b5281d6268afcb32
 Section: 嗨-工具
 Description: 使用iOS15+API为微信显示通知头像。Netskao新更的版本，上架备份。
 Author: Netskao
