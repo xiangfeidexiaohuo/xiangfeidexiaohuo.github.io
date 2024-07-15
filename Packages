@@ -12813,16 +12813,17 @@ Description: 适用于iOS14+的军刀类多功能插件，汉化包在源内。
 Author: MTAC
 Name: Lynx 2(rootless)
 
-Package: com.dao.misaki.cn
-Version: 2.1.2
+Package: com.dao.mk.cn
+Version: 2.1.3
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
+Conflicts: com.dao.misaki.cn
 Filename: rootless/Misaki 中文补充包(rootless).deb
-Size: 6208
-MD5sum: 667969ae2241d04d6a32441cdd073848
-SHA1: ad42886ca7f06fe9757e403ef51c1ca2f383edff
-SHA256: 926cae9a954ee7ec0351a4df2d6abc3139bede78e77f0174e0157c2a63ce0720
+Size: 6264
+MD5sum: 87464aa6724c75e66c26f5d4cc66ef3f
+SHA1: e50261e6fffa379794af111c325521ca36c57306
+SHA256: 8d4d122df3f236815b95a145111ccaf3f48080be1893ad92d59509e0cb84b6ef
 Section: 嗨-汉化
 Description: Misaki 中文补充包(rootless)。
 Author: 妖刀
