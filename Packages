@@ -13228,16 +13228,16 @@ Author: SOPPPra
 Name: SettingsRevamp(rootless)
 
 Package: com.dao.showmytouches
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.dvntm.showmytouches
 Filename: rootless/ShowMyTouches(rootless).deb
-Size: 49824
-MD5sum: 190d5e2d3ad32acd39d5bfa05eaaefed
-SHA1: 06aee6f324580c0e0f457b087ff078abb2183216
-SHA256: 4fe2a5de77a5c167d8d1d6fa0fab9d93098e9e2a9f07cdfb8dbd57483e982643
+Size: 52316
+MD5sum: 81c3578267add0b909c26f04d8bc1444
+SHA1: 0d2087a4e87ad6a949c62cd8b2bf1500f5e5e82f
+SHA256: 2ff64f31f6331aedb3d4bd15285e491615664444528eeb7976e10b074918ef9a
 Section: 嗨-工具
 Description: 显示屏幕触摸轨迹！
 Author: dvntm
