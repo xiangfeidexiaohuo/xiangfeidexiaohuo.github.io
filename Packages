@@ -2890,6 +2890,23 @@ Description: 为iOS13～16的控制中心音量/亮度条添加数字百分比�
 Author: iOS Creatix, kasiimh1, p2kdev
 Name: SugarCane 16
 
+Package: com.dao.trollstore.cn
+Version: 2.0.15
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
+Filename: rootful/TrollStore_CN.deb
+Size: 14030
+MD5sum: 9b81f0d45691b1030dc62c3abad41b1c
+SHA1: 25253f43cda65c4ea5f9c0da007b35d9e9d760d0
+SHA256: 12f1eef32067d2705091914591a8f4466ebc6c74fde08967d0dec35c2556b753
+Section: 嗨-汉化
+Description: TrollStore 简体中文包。
+Author: 妖刀
+Name: TrollStore 简体中文包
+
 Package: com.dao.tvlock
 Version: 1.2.3
 Architecture: iphoneos-arm
@@ -10856,23 +10873,6 @@ Description: TrollNonce 简体中文包。
 Author: 妖刀
 Name: TrollNonce 简体中文包
 
-Package: com.hk.trollstore.cn
-Version: 2.0.14
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 184
-Depends: mobilesubstrate
-Conflicts: com.qms.trollstore.cn
-Filename: rootful/TrollStore_CN.deb
-Size: 13754
-MD5sum: a7d4f987ccab9ace3750adb674d1e340
-SHA1: 3c284a0d56867227f1507fc58b00d65ddceb5d84
-SHA256: 32f4d5783f0b87e6cb0fa363afa98523f5dac8b48aa1bc621e9f3f5ba2d91124
-Section: 嗨-汉化
-Description: TrollStore 简体中文包。
-Author: 妖刀
-Name: TrollStore 简体中文包
-
 Package: com.hk.tsss.cn
 Version: 2.0.5-1
 Architecture: iphoneos-arm
@@ -13228,16 +13228,16 @@ Author: SOPPPra
 Name: SettingsRevamp(rootless)
 
 Package: com.dao.showmytouches
-Version: 1.1
+Version: 1.1.2
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.dvntm.showmytouches
 Filename: rootless/ShowMyTouches(rootless).deb
-Size: 52316
-MD5sum: 81c3578267add0b909c26f04d8bc1444
-SHA1: 0d2087a4e87ad6a949c62cd8b2bf1500f5e5e82f
-SHA256: 2ff64f31f6331aedb3d4bd15285e491615664444528eeb7976e10b074918ef9a
+Size: 53332
+MD5sum: f30129edef7d851a7e04ea6119af64b6
+SHA1: 6ad3c5b79599e8c95ce99fa0049f8796f2f6ce52
+SHA256: 971135f22ac264ae7528f9d047b6bae32e812be607c0ecf94d944248337bccf5
 Section: 嗨-工具
 Description: 显示屏幕触摸轨迹！
 Author: dvntm
@@ -13418,6 +13418,23 @@ Section: 嗨-汉化
 Description: TrollPad 简体中文包(rootless)。
 Author: 妖刀
 Name: TrollPad 简体中文包(rootless)
+
+Package: com.dao.trollstore.cn
+Version: 2.0.15
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
+Filename: rootless/TrollStore 简体中文包(rootless).deb
+Size: 14060
+MD5sum: d02ad313e3aa25e4cfed06fa19186097
+SHA1: a698f7348a2cbdfa5e71defbda108609c818851c
+SHA256: 6f901acb8653031c4fb12a454cd22a6f9ce47ed7fe4670c194c2963d5d7c257a
+Section: 嗨-汉化
+Description: TrollStore 简体中文包。
+Author: 妖刀
+Name: TrollStore 简体中文包(rootless)
 
 Package: com.dao.tvlock
 Version: 1.2.3
@@ -14922,23 +14939,6 @@ Description: TrollNonce 简体中文包(rootless)。
 Author: 妖刀
 Name: TrollNonce 简体中文包(rootless)
 
-Package: com.hk.trollstore.cn.rl
-Version: 2.0.14
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 184
-Depends: mobilesubstrate
-Conflicts: com.qms.trollstore.cn
-Filename: rootless/TrollStore 简体中文包(rootless).deb
-Size: 13874
-MD5sum: 2fa5818ea1db2dab8a6eee9189b91e70
-SHA1: ee896a4b771d1b8dd44d322aca17f8926f3d700d
-SHA256: 7601c3ec6161b84ee46eff28e232ae41794ea13fcec8b19ac28d7ada6278b9d6
-Section: 嗨-汉化
-Description: TrollStore 简体中文包(rootless)。
-Author: 妖刀
-Name: TrollStore 简体中文包(rootless)
-
 Package: com.hk.uispeed.cn.rl
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -15588,6 +15588,23 @@ Section: 嗨-工具
 Description: 为iOS13～16的控制中心音量/亮度条添加数字百分比，无设置。
 Author: iOS Creatix, kasiimh1, p2kdev
 Name: SugarCane 16(RootHide)
+
+Package: com.dao.trollstore.cn
+Version: 2.0.15
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
+Filename: roothide/TrollStore 简体中文包(RootHide).deb
+Size: 14016
+MD5sum: 2d6caa8af9caeb7f63ecd655b1cfa0d6
+SHA1: 3cfa0f9910b954206763e13b31dce3f5465e6967
+SHA256: 0c098fbc4e715dd3a928715276f4cb552a3c012fa55b29b833c4e6b90036084e
+Section: 嗨-汉化
+Description: TrollStore 简体中文包。
+Author: 妖刀
+Name: TrollStore 简体中文包(RootHide)
 
 Package: com.dao.tvlock
 Version: 1.2.3
@@ -16306,23 +16323,6 @@ Section: 嗨-汉化
 Description: TrollNonce 简体中文包(RootHide)。
 Author: 妖刀
 Name: TrollNonce 简体中文包(RootHide)
-
-Package: com.hk.trollstore.cn.rl
-Version: 2.0.14
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 184
-Depends: mobilesubstrate
-Conflicts: com.qms.trollstore.cn
-Filename: roothide/TrollStore 简体中文包(RootHide).deb
-Size: 13812
-MD5sum: c77a29b24a64707e70349bb38135a6f3
-SHA1: c98e8c9f503b57bad680a2522b488ee1ed8841d4
-SHA256: aa2a3a9a961551693aadd0132856f075dd3a2d4ad55baac09e41f8cf2fe0073e
-Section: 嗨-汉化
-Description: TrollStore 简体中文包(RootHide)。
-Author: 妖刀
-Name: TrollStore 简体中文包(RootHide)
 
 Package: com.hk.underdock.cn
 Version: 1.2
