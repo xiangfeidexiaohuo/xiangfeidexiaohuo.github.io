@@ -15037,7 +15037,7 @@ Architecture: iphoneos-arm64
 Maintainer: P2KDev
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: com.p2kdev.tinge, byg.iosios.net.tinge.rootless
-Filename: rootless/Tinge(rootless).deb
+Filename: rootless/Tinge(rootless)_1.0.deb
 Size: 20296
 MD5sum: 363833a74321c5a3eb9ad3ce3245566b
 SHA1: 8f2a2404538d20ea099acd438714e898bb4eaca5
@@ -15046,6 +15046,37 @@ Section: 嗨-工具
 Description: 根据图标颜色，通知角标自动变色，无设置，安装后自动生效。
 Author: P2KDev
 Name: Tinge(rootless)
+
+Package: cpm.dao.tinge
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev
+Depends: firmware (>= 15.0), mobilesubstrate, cpm.dao.tinge.cn
+Conflicts: com.p2kdev.tinge, byg.iosios.net.tinge.rootless, xyz.cypwn.tinge
+Filename: rootless/Tinge(rootless).deb
+Size: 40136
+MD5sum: 5ace7f229f7d8cdffc98211bffdec2f4
+SHA1: 9a4b46ab2948795d44fe10a837a3e2aceede9ae7
+SHA256: 3e7aac699cad83459dea0e904e551af81def3ead34be9e7cf887566264e7d74b
+Section: 嗨-工具
+Description: 根据图标颜色，通知角标自适应变色，可配置边框和角标文本等。
+Author: P2KDev
+Name: Tinge(rootless)
+
+Package: cpm.dao.tinge.cn
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: rootless/Tinge 简体中文包(rootless).deb
+Size: 1236
+MD5sum: 18442412f2f14f56f96efdbf6dc29493
+SHA1: 5e4578ecd0c08a4e08ae0e0324f951c2bc4cb1ee
+SHA256: 6d3a9d72e3734303270e105541923ca0c8b0303e2c68f7127aeceafed4e96c75
+Section: 嗨-汉化
+Description: Tinge 简体中文包(rootless)
+Author: 妖刀
+Name: Tinge 简体中文包(rootless)
 
 Package: dev.traurige.libkitten
 Version: 1.4.1
