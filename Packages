@@ -12267,16 +12267,16 @@ Author: Fouad Raheb
 Name: AppData(rootless)
 
 Package: com.dao.appprotectrootless
-Version: 1.9.1
+Version: 1.9.1-1
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Depends: mobilesubstrate,preferenceloader
 Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless
 Filename: rootless/AppProtect 隐私保护(rootless).deb
-Size: 158668
-MD5sum: 6a2e0091d38e084b49827a15fcf89e8e
-SHA1: eec171fde7dbb58b1c4e818ad5ac6cdc74cb3975
-SHA256: 9260832854a4c833a36e68986f869c776f41d84e3bec6f197cdf58c421f6f1b5
+Size: 158492
+MD5sum: 7cba9c69892e3b69524eeb77f92eea11
+SHA1: 27d366eedfc62f038c3fd22a6b7518facd5cda5e
+SHA256: 35cafcacae339586a00e5fffd0be565f806935bbeeff7316ab904dac145e067a
 Section: 嗨-付费
 Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
 Author: aReo
