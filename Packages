@@ -13695,7 +13695,7 @@ Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter
-Filename: rootless/BHTwitter 中文修复版(rootless).deb
+Filename: rootless/BHTwitter 中文修复版(rootless)_4.3.deb
 Size: 7618644
 MD5sum: 5d24fb2f8537110e2719036410507a33
 SHA1: 91108293a032e77e2812702927d442aabcbd3a27
@@ -13703,6 +13703,22 @@ SHA256: 53db87a244a3a32ab7a42f46cb2fff2ac047a32fec4a1ab3860011466d6f724e
 Section: 嗨-工具
 Description: BHTwitter中文修复版，推特的功能性插件，设置就在推特本身设置里。
 Author: Bandar Alruwaili
+Name: BHTwitter 中文修复版(rootless)
+
+Package: com.daodao.rootless.bhtwitter
+Version: 4.3-5
+Architecture: iphoneos-arm64
+Maintainer: 刀刀源
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter
+Filename: rootless/BHTwitter 中文修复版(rootless).deb
+Size: 1066000
+MD5sum: 28ae8b6793ceeda3f8f75a3bb63c9627
+SHA1: 21ac271eecf3aa3857ddd6b23c8280fb24195ab3
+SHA256: 4dc228025e5c72466c392716e5ad684bfdbb5a4c24f2f5fa18156afbf0d4c34b
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。v4.3-5：去除最新推特广告；去除FFmpeg，大幅度缩减插件体积。
+Author: Bandar Alruwaili & nowesr1
 Name: BHTwitter 中文修复版(rootless)
 
 Package: com.daodao.snapper2
@@ -15052,31 +15068,31 @@ Author: P2KDev
 Name: Tinge(rootless)
 
 Package: cpm.dao.tinge
-Version: 1.1
+Version: 1.2.2
 Architecture: iphoneos-arm64
 Maintainer: P2KDev
 Depends: firmware (>= 15.0), mobilesubstrate, cpm.dao.tinge.cn
 Conflicts: com.p2kdev.tinge, byg.iosios.net.tinge.rootless, xyz.cypwn.tinge
 Filename: rootless/Tinge(rootless).deb
-Size: 40136
-MD5sum: 5ace7f229f7d8cdffc98211bffdec2f4
-SHA1: 9a4b46ab2948795d44fe10a837a3e2aceede9ae7
-SHA256: 3e7aac699cad83459dea0e904e551af81def3ead34be9e7cf887566264e7d74b
+Size: 40992
+MD5sum: 3a7cd8c59fc29cac3c51c468f75c44ee
+SHA1: 78c021f14641823f579e153d823a5743f7863094
+SHA256: 22e875c4539245ccb977e82a0c58024b94304c1037699b7bb674f6f9f3bd3a1c
 Section: 嗨-工具
-Description: 根据图标颜色，通知角标自适应变色，可配置边框和角标文本等。
+Description: 通知角标的颜色，跟随图标的颜色自适应变色；可配置边框和角标数字等。
 Author: P2KDev
 Name: Tinge(rootless)
 
 Package: cpm.dao.tinge.cn
-Version: 1.1
+Version: 1.2.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: rootless/Tinge 简体中文包(rootless).deb
-Size: 1236
-MD5sum: 18442412f2f14f56f96efdbf6dc29493
-SHA1: 5e4578ecd0c08a4e08ae0e0324f951c2bc4cb1ee
-SHA256: 6d3a9d72e3734303270e105541923ca0c8b0303e2c68f7127aeceafed4e96c75
+Size: 1356
+MD5sum: 2a2efe0026b0b3d7a4d7ae09fd06f020
+SHA1: 1aab9286f0de6d84d9847791dc500c37c8f7c6b1
+SHA256: 7daf34bdb53eac2feb13169eca60c48590c9c129c94431a8270bfedb79f035da
 Section: 嗨-汉化
 Description: Tinge 简体中文包(rootless)
 Author: 妖刀
