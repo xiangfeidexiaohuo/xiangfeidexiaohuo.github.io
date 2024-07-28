@@ -7875,15 +7875,15 @@ Author: Mo
 Name: Laetus 简体中文包
 
 Package: com.hk.lastlook.cn
-Version: 3.6.3
+Version: 4.2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootful/LastLook_CN.deb
-Size: 8468
-MD5sum: fc36a47c20efc278adfdb0946fe5a7f1
-SHA1: 165ba80648d22f81ca3160999ce9d75c917a56b1
-SHA256: 845b5ab867a8473801a6452cf00b9aa107fe8656e0ced0650fc036ed623530fe
+Size: 9624
+MD5sum: 96ca9f557706bb00f528719ee7ebff3b
+SHA1: 50df7c033dbec2249ab2fdb718d3a94b9ef1c91d
+SHA256: 7bbda5de1d8793740de7b5526a880a29c817f914a5257a0dc1b9a6deb9304ee8
 Section: 嗨-汉化
 Description: LastLook 简体中文包。
 Author: 妖刀
@@ -14342,15 +14342,15 @@ Author: 妖刀
 Name: KBApp 简体中文包(rootless)
 
 Package: com.hk.lastlook.cn.rl
-Version: 3.6.3
+Version: 4.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/LastLook 简体中文包(rootless).deb
-Size: 8504
-MD5sum: 47fb9f94feb00f95d2ec67ddfc7f21bd
-SHA1: 6f07875897845a8c7888ba9a58fc1640ecdc42c1
-SHA256: 73f417f530170943cb6f5f9fce46c067f3daa081a94624038b2838b6abeb887b
+Size: 9708
+MD5sum: 35b1de50b6f2838efc29956df265cb74
+SHA1: 07754838bf8e43bebcf6e3081d0ea9b7e0f9eb29
+SHA256: acd226478fc2bb490ce0b800798dcf535d33078763192e668da8ecfc7e4844ba
 Section: 嗨-汉化
 Description: LastLook 简体中文包(rootless)。
 Author: 妖刀
@@ -15071,13 +15071,13 @@ Package: cpm.dao.tinge
 Version: 1.2.2
 Architecture: iphoneos-arm64
 Maintainer: P2KDev
-Depends: firmware (>= 15.0), mobilesubstrate, cpm.dao.tinge.cn
+Depends: firmware (>= 15.0), mobilesubstrate, cpm.dao.tinge.cn, ws.hbang.alderis
 Conflicts: com.p2kdev.tinge, byg.iosios.net.tinge.rootless, xyz.cypwn.tinge
 Filename: rootless/Tinge(rootless).deb
-Size: 40992
-MD5sum: 3a7cd8c59fc29cac3c51c468f75c44ee
-SHA1: 78c021f14641823f579e153d823a5743f7863094
-SHA256: 22e875c4539245ccb977e82a0c58024b94304c1037699b7bb674f6f9f3bd3a1c
+Size: 41004
+MD5sum: a1a844a89688db6e8d357f0d414c190c
+SHA1: 916084749983677c6e01b105baa8a8d142314620
+SHA256: 861185d7d148f36e04b93b2bc108c2fbb39d884e1e26ee5eacd65e8dd6aff45b
 Section: 嗨-工具
 Description: 通知角标的颜色，跟随图标的颜色自适应变色；可配置边框和角标数字等。
 Author: P2KDev
