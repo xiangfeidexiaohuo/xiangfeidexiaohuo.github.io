@@ -106,7 +106,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "界面微调",
                     "useRawFormat": true
-                }
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "5.4.1.1",
