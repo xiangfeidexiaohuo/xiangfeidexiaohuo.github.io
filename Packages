@@ -12984,6 +12984,23 @@ Author: b4db1r3 <nfive060@gmail.com>
 Name: OCD5 Lite(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5l/js.json
 
+Package: com.dao.ocd5lite
+Version: 5.4.1.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.dao.ocd.cn
+Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd5
+Filename: rootless/OCD5 Lite(rootless).deb
+Size: 161164
+MD5sum: 203d0756d2e22ea676fc3a2d283b09b6
+SHA1: 4151e2f431d5c1761bd57eb49c79807b590853df
+SHA256: 0567d538fdf0a0ea110aa0a74acfc1953fadd11c8ca8fd408fbacc3f5bc1d91c
+Section: 嗨-工具
+Description: 根据App图标颜色来自适应App名称和角标的颜色，精简5系列其他功能，只保留圆点/空心角标效果。
+Author: b4db1r3 <nfive060@gmail.com>
+Name: OCD5 Lite(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5l/js.json
+
 Package: com.dao.onesettings
 Version: 2.0.3
 Architecture: iphoneos-arm64
@@ -13323,17 +13340,17 @@ Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
 Package: com.dao.spotify
-Version: 4.5.1
+Version: 4.6
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Installed-Size: 2568
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
 Conflicts: com.eevee.spotify
 Filename: rootless/EeveeSpotify 中文版(rootless).deb
-Size: 520418
-MD5sum: f725ffaa936c7c9658b7462a9ba200e7
-SHA1: 3d7185649d28f9819f497b30fafcec4090be3471
-SHA256: aad554cd7e3854fc9f4c617598ee5099aeb4bad6a5d2d644a683d3252eefc983
+Size: 520104
+MD5sum: d68d81387e54684a45e6febbb11577aa
+SHA1: 4b3673ee9574975b6e15d9ffe1d960a5902bbbc7
+SHA256: 782874d229d4c57171e850e58157f0b2b5acb89b14b3093345063db40d0e0322
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样。
 Author: Eevee
