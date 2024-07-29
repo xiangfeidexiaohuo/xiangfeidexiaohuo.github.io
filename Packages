@@ -12939,7 +12939,7 @@ Architecture: iphoneos-arm64
 Maintainer: b4db1r3 <nfive060@gmail.com>
 Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.dao.ocd.cn
 Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd5lite
-Filename: rootless/OCD5(rootless).deb
+Filename: rootless/OCD5(rootless)_5.4.1.1.deb
 Size: 325360
 MD5sum: c5b3416b7c91e745ab6239a49847a33f
 SHA1: fc4603889bdcf43822ab3d6349b047fbd768dddc
@@ -12973,7 +12973,7 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.dao.ocd.cn
 Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd5
-Filename: rootless/OCD5 Lite(rootless).deb
+Filename: rootless/OCD5 Lite(rootless)_5.4.1.1.deb
 Size: 324836
 MD5sum: 8b37dc66f8e76b7694ef93e125799dc3
 SHA1: 7e082350df13fc7cbfd7a7f7e62e89085b229396
@@ -13323,17 +13323,17 @@ Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
 Package: com.dao.spotify
-Version: 4.5
+Version: 4.5.1
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Installed-Size: 2568
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
 Conflicts: com.eevee.spotify
 Filename: rootless/EeveeSpotify 中文版(rootless).deb
-Size: 520378
-MD5sum: c43d00b5ebb956dcf231499378c5eef0
-SHA1: 3fc164ca9465ce83f9d28ce1fed7be9658397881
-SHA256: 45a728472fd87adb2e6dee00b04a61ce49067cca508356ac00d88902c0c33142
+Size: 520418
+MD5sum: f725ffaa936c7c9658b7462a9ba200e7
+SHA1: 3d7185649d28f9819f497b30fafcec4090be3471
+SHA256: aad554cd7e3854fc9f4c617598ee5099aeb4bad6a5d2d644a683d3252eefc983
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样。
 Author: Eevee
