@@ -12268,34 +12268,34 @@ Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图�
 Author: Fouad Raheb
 Name: AppData(rootless)
 
-Package: com.dao.appprotectrootless
+Package: com.dao.appprotect
 Version: 1.9.2
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
 Filename: rootless/AppProtect 隐私保护(rootless).deb
-Size: 158560
-MD5sum: 5ba5e9a4f8a535a63febe59d1a3db0d3
-SHA1: e7d1e5c1948c283f13d612bdea8993a3e95a0095
-SHA256: 6996a146d8a3599f67cc59a7849fc05cffadb79cb39291c429eb3300ac446633
+Size: 158564
+MD5sum: 611eedb7bd61f277e61b45551f907d69
+SHA1: 6826cd656adab4938426d1516207e3bd7c630545
+SHA256: a933e653d377bdc76cfe57fae64d1cb628935345e60ff5c4ed9d4bc7bd7ca083
 Section: 嗨-付费
 Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
 Author: aReo
 Name: AppProtect 隐私保护(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
-Package: com.dao.apptools15rootless
-Version: 1.2.6
+Package: com.dao.apptools15
+Version: 1.2.7
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
 Filename: rootless/AppTools15-16(rootless).deb
 Size: 195768
-MD5sum: 5e992bb6b3f15c84022a9976ec18215e
-SHA1: f62a021ccb4c0c6c1403aa6339b3f2a54a23cab5
-SHA256: 87578c3f3b04ee54601f63a86688dd7d8f28423c848a7d4397752217e532b3f4
+MD5sum: e482d486e52850158a23e29233dc64c3
+SHA1: d162097bbefa18361493677374cfa01efd551f9a
+SHA256: c2beb45a5b88b4e8e06cac0e4a415079cb7b1491ba88f83f36ac5cb558f15115
 Section: 嗨-付费
 Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Author: aReo
