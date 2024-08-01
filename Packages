@@ -12286,16 +12286,16 @@ Name: AppProtect 隐私保护(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
 Package: com.dao.apptools15
-Version: 1.2.7
+Version: 1.2.8
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Depends: firmware (>=15.0), mobilesubstrate
 Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
 Filename: rootless/AppTools15-16(rootless).deb
-Size: 195768
-MD5sum: e482d486e52850158a23e29233dc64c3
-SHA1: d162097bbefa18361493677374cfa01efd551f9a
-SHA256: c2beb45a5b88b4e8e06cac0e4a415079cb7b1491ba88f83f36ac5cb558f15115
+Size: 199236
+MD5sum: afb2cf3c703f7dcc1921ecbffeaf34d4
+SHA1: 12ef90a9eded8eb3d0d80a14f59737b8816d67db
+SHA256: 2d05edffa8a0322262d9e7a5c816338fdcffe5e505e3c889e043f0881dc66218
 Section: 嗨-付费
 Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Author: aReo
@@ -13098,6 +13098,21 @@ Section: 嗨-工具
 Description: 使用iOS15+API为QQ显示通知头像。Netskao新更的版本，上架备份。
 Author: Netskao
 Name: QQ 通知头像(rootless)
+
+Package: com.dao.retrovol.cn
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/RetroVol 简体中文包(rootless).deb
+Size: 1596
+MD5sum: cb3536a37d69b386a312747027fb1e1a
+SHA1: 253a4abded5858101a38ba6a555fa44e1341e41c
+SHA256: 94caea5421021074199734bec1c109cc38ae4f4b75d030d2e610d66e4b882d99
+Section: 嗨-汉化
+Description: RetroVol 简体中文包(rootless)。
+Author: 妖刀
+Name: RetroVol 简体中文包(rootless)
 
 Package: com.dao.reverie
 Version: 0.7
