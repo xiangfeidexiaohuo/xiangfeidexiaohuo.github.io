@@ -171,12 +171,12 @@ Architecture: iphoneos-arm
 Maintainer: Lessica
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootful/WTVRBGLauncher.deb
-Size: 5560
-MD5sum: 2a905812ddf36faec116403e698f274c
-SHA1: 9b7471f6ed9ddae7c590b1eeb1bd4cd1c974de0e
-SHA256: 22206fe4f73a952bc876df7926debe89fd7adb9f442c18f428be06ab26eec54f
+Size: 5584
+MD5sum: 45c42766669fd41535a9337dc143f165
+SHA1: 330e890e7345aa6833f67520b2ba861659062bc1
+SHA256: c9762c7d9075a6a9cd8c454fcbcfef6edee50fe2edd51bf2c2b947ebfc417d95
 Section: 嗨-工具
-Description: App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。
+Description: App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。无开关，安装即可生效。
 Author: Lessica
 Name: WTVRBGLauncher
 
@@ -12211,12 +12211,12 @@ Architecture: iphoneos-arm64
 Maintainer: Lessica
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/WTVRBGLauncher(rootless).deb
-Size: 5616
-MD5sum: d155a18ddbbd3dbbcf66e1c7c9de030d
-SHA1: d21c0b2801f673749529980f3e920d91f45c2bfe
-SHA256: ef161a908d52e3efb715deeaf0ea1740de275b988a1bae0b4f6dcafc8a415a09
+Size: 5640
+MD5sum: b75d24146125b2563cbe35112bb8d383
+SHA1: 3a4c1f39b6a6a5d802dc2ac1d87e42ef203c4e3d
+SHA256: 7bed6334daee88523202e08a4924e8591ec911c8b7cd2e2c73d2411b4acb5a99
 Section: 嗨-工具
-Description: App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。
+Description: App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。无开关，安装即可生效。
 Author: Lessica
 Name: WTVRBGLauncher(rootless)
 
