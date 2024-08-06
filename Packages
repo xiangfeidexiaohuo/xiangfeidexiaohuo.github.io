@@ -165,6 +165,21 @@ Description: 侧边便捷分屏，键盘修复的开源编译版本，不需要�
 Author: c1d3r/Netskao
 Name: PullOver Pro(编译版)
 
+Package: com.82flex.wtvrbglauncher
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/WTVRBGLauncher.deb
+Size: 5560
+MD5sum: 2a905812ddf36faec116403e698f274c
+SHA1: 9b7471f6ed9ddae7c590b1eeb1bd4cd1c974de0e
+SHA256: 22206fe4f73a952bc876df7926debe89fd7adb9f442c18f428be06ab26eec54f
+Section: 嗨-工具
+Description: App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。
+Author: Lessica
+Name: WTVRBGLauncher
+
 Package: com.alucard.alderis.cn
 Version: 1.1.2-1
 Architecture: iphoneos-arm
@@ -12189,6 +12204,21 @@ Description: 激活码用户或需要激活码的用户安装这个，非激活�
 Author: SquidForce, Backup
 Name: CopyVault(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: com.82flex.wtvrbglauncher
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/WTVRBGLauncher(rootless).deb
+Size: 5616
+MD5sum: d155a18ddbbd3dbbcf66e1c7c9de030d
+SHA1: d21c0b2801f673749529980f3e920d91f45c2bfe
+SHA256: ef161a908d52e3efb715deeaf0ea1740de275b988a1bae0b4f6dcafc8a415a09
+Section: 嗨-工具
+Description: App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。
+Author: Lessica
+Name: WTVRBGLauncher(rootless)
 
 Package: com.82skao.afc2d-arm64
 Version: 1.1.7-1
