@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "免费获得 Spotify Premium，就像 Spotilife 一样。",
+                    "markdown": "免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。",
                     "useRawFormat": true,
                 },
                 {
@@ -83,7 +83,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 08 月 09 日",
+                    "text": "2024 年 08 月 10 日",
                     "title": "最后更新日期"
                 },
                 {
