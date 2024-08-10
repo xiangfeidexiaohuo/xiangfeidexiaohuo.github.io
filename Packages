@@ -184,15 +184,15 @@ Author: c1d3r/Netskao
 Name: PullOver Pro(编译版)
 
 Package: com.82flex.wtvrbglauncher
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Lessica
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootful/WTVRBGLauncher.deb
-Size: 5584
-MD5sum: 45c42766669fd41535a9337dc143f165
-SHA1: 330e890e7345aa6833f67520b2ba861659062bc1
-SHA256: c9762c7d9075a6a9cd8c454fcbcfef6edee50fe2edd51bf2c2b947ebfc417d95
+Size: 5868
+MD5sum: cfb80aaf3b758fb9d99bbfa91a972c9d
+SHA1: 1c11c39ae305ffc570df52be0a203257209ed03d
+SHA256: bee2e5f6de6d2b8e6cfa9f36c14a17f055c7bb7dac522be817545c1e3ba9f0df
 Section: 嗨-工具
 Description: App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。无开关，安装即可生效。
 Author: Lessica
@@ -12242,15 +12242,15 @@ Name: CopyVault(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
 Package: com.82flex.wtvrbglauncher
-Version: 0.0.2
+Version: 0.0.3
 Architecture: iphoneos-arm64
 Maintainer: Lessica
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/WTVRBGLauncher(rootless).deb
-Size: 5640
-MD5sum: b75d24146125b2563cbe35112bb8d383
-SHA1: 3a4c1f39b6a6a5d802dc2ac1d87e42ef203c4e3d
-SHA256: 7bed6334daee88523202e08a4924e8591ec911c8b7cd2e2c73d2411b4acb5a99
+Size: 5936
+MD5sum: ca7ec1e0288c6ccf6aeb39b6384be66a
+SHA1: d7ed67cf27a28d57051b526cc2a186b21b2491d4
+SHA256: 5b6c755f71b38c409f2cb27e333e4501c627f5a86f8761ea5644231f7ca4b550
 Section: 嗨-工具
 Description: App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。无开关，安装即可生效。
 Author: Lessica
