@@ -166,6 +166,24 @@ Author: SquidForce, Backup
 Name: CopyVault(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
+Package: cn.octoforce.copyvault
+Version: 1.4.6
+Architecture: iphoneos-arm
+Maintainer: SquidForce, Backup
+Installed-Size: 5320
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: rootful/cn.octoforce.copyvault_1.4.6_iphoneos-arm.deb
+Size: 1695740
+MD5sum: a731e820b922767c82bef29a7a7535a2
+SHA1: dcd5c018026223eb6eff1f1a2e9bac58d5d5d605
+SHA256: aa5c6c39cc5db98a1c80c398a4433fcb3fe2039ef382744536284f99545a87f4
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
 Package: com..hk.netskao.pulloverpro
 Version: 2.1.2
 Architecture: iphoneos-arm
@@ -182,6 +200,21 @@ Section: 嗨-工具
 Description: 侧边便捷分屏，键盘修复的开源编译版本，不需要购买，源内有汉化包。
 Author: c1d3r/Netskao
 Name: PullOver Pro(编译版)
+
+Package: com.82flex.wtvrbglauncher
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Lessica
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootful/WTVRBGLauncher_0.0.2.deb
+Size: 5584
+MD5sum: 45c42766669fd41535a9337dc143f165
+SHA1: 330e890e7345aa6833f67520b2ba861659062bc1
+SHA256: c9762c7d9075a6a9cd8c454fcbcfef6edee50fe2edd51bf2c2b947ebfc417d95
+Section: 嗨-工具
+Description: App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。无开关，安装即可生效。
+Author: Lessica
+Name: WTVRBGLauncher
 
 Package: com.82flex.wtvrbglauncher
 Version: 0.0.3
@@ -12241,6 +12274,39 @@ Author: SquidForce, Backup
 Name: CopyVault(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
+Package: cn.octoforce.copyvault
+Version: 1.4.6
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 5304
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: rootless/cn.octoforce.copyvault_1.4.6_iphoneos-arm64.deb
+Size: 1688488
+MD5sum: a80eec5b2180db57b2eec93451d9854e
+SHA1: f7164f5bfa5106ea8e68eda25cefdfd53e9a8663
+SHA256: 73f9141c52e829705dd7ffdafd3f50fba7521f3d3816d8cd517697c95eca4085
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: com.82flex.wtvrbglauncher
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/WTVRBGLauncher(rootless)_0.0.2.deb
+Size: 5640
+MD5sum: b75d24146125b2563cbe35112bb8d383
+SHA1: 3a4c1f39b6a6a5d802dc2ac1d87e42ef203c4e3d
+SHA256: 7bed6334daee88523202e08a4924e8591ec911c8b7cd2e2c73d2411b4acb5a99
+Section: 嗨-工具
+Description: App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。无开关，安装即可生效。
+Author: Lessica
+Name: WTVRBGLauncher(rootless)
+
 Package: com.82flex.wtvrbglauncher
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -12371,16 +12437,16 @@ Author: Fouad Raheb
 Name: AppData(rootless)
 
 Package: com.dao.appprotect
-Version: 1.9.2
+Version: 1.9.3
 Architecture: iphoneos-arm64
 Maintainer: aReo
 Depends: mobilesubstrate,preferenceloader
 Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
 Filename: rootless/AppProtect 隐私保护(rootless).deb
-Size: 158564
-MD5sum: 611eedb7bd61f277e61b45551f907d69
-SHA1: 6826cd656adab4938426d1516207e3bd7c630545
-SHA256: a933e653d377bdc76cfe57fae64d1cb628935345e60ff5c4ed9d4bc7bd7ca083
+Size: 158944
+MD5sum: 9ef817585aafcbd4a3201625db08c460
+SHA1: 8297553c9c3360794c51073767053a29e920c812
+SHA256: 55e9d0fa74e5c75786383c90e40f19570e89a55cb4b27d23faa9a019aa91f4c2
 Section: 嗨-付费
 Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
 Author: aReo
@@ -15395,6 +15461,24 @@ Size: 1620142
 MD5sum: 2cd91f6c2da791efb881ca458ea607af
 SHA1: 474fc6a62a4220ec2b3bdee9c4ff9180a13c8b50
 SHA256: b7f6c1d0a1f0c5a7b18393318c7bb4a82806b658359e1447128be850f3d2868d
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Author: SquidForce, Backup
+Name: CopyVault(激活码版)
+Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.copyvault
+Version: 1.4.6
+Architecture: iphoneos-arm64e
+Maintainer: SquidForce, Backup
+Installed-Size: 5252
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: roothide/cn.octoforce.copyvault_1.4.6_iphoneos-arm64e.deb
+Size: 1683310
+MD5sum: 5e15dd686eb59615626c94915e743538
+SHA1: c6d70476d19aeb78d024f5199b6e81f159d0b2f4
+SHA256: 5f233a1e62d32bb3f0791a159ec9870e049e8e3649832c0a7d451b560f62c279
 Section: Tweaks
 Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
 Author: SquidForce, Backup
