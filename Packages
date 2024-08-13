@@ -13771,16 +13771,16 @@ Name: YTR 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.ytlite
-Version: 4.0.1
+Version: 4.0.1-1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 5830400
-MD5sum: 344466f12f58add6130c873321508daa
-SHA1: a66f701170f46f3b668f2d89f83e4ea514211d5a
-SHA256: f252ca57327cf33de71cf34fd03eda1490277aede5c52d0a902163a613ed5af4
+Size: 5832036
+MD5sum: 75541daac0f5661611bd22ce03216e85
+SHA1: 52c6fd2e1baa853551fa500f0b44cd63bec4ec73
+SHA256: 740564ff61dee283dd3758888bb55ccc3a3ec78da47834a67cf62591140ff786
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YouTubePlus”，更多功能请启用“YouTubePlus—版本—高级模式”。
 Author: dvntm
