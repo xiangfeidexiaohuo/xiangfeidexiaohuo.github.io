@@ -2841,6 +2841,23 @@ Description: OCD4和OCD5的通用简体中文包。
 Author: 妖刀
 Name: OCD 简体中文包
 
+Package: com.dao.pf2.cn
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Conflicts: com.hk.pf2.cn, com.hk.pf2.cn.rl
+Filename: rootful/PrimalFolder2_CN.deb
+Size: 5400
+MD5sum: f8cac3da0f0a392363bfe2be9b3850a3
+SHA1: 96c4807448c7435f0b2dcc19ae06874c674c0a6f
+SHA256: 6fc3625d024f508ac9849a12f071b3c7cf335e311fb1486cacb02311bc095737
+Section: 嗨-汉化
+Description: PrimalFolder2 简体中文包。
+Author: 妖刀
+Name: PrimalFolder2 简体中文包
+
 Package: com.dao.photosplus
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -9184,22 +9201,6 @@ Author: Ball
 Name: PencilBanner 简体中文包
 Sponsor: ball <434479917@qq.com>
 
-Package: com.hk.pf2.cn
-Version: 0.1-1
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: rootful/PrimalFolder2_CN.deb
-Size: 5378
-MD5sum: e54d559bb19b6377e3788759a45895b4
-SHA1: 4e234c9ee5c2872356fc960c9aaae4f88fb5b506
-SHA256: 53c3a136a9e04428441930f042023d226dfef675d313547a6747bfdf08362b75
-Section: 嗨-汉化
-Description: PrimalFolder2 简体中文包。
-Author: 妖刀
-Name: PrimalFolder2 简体中文包
-
 Package: com.hk.pianopass.cn
 Version: 0.0.3b1
 Architecture: iphoneos-arm
@@ -13231,6 +13232,23 @@ Description: 设置应用程序的增强插件，源内有汉化包。
 Author: Nightwind <nightwinddev@gmail.com>
 Name: OneSettings(rootless)
 
+Package: com.dao.pf2.cn
+Version: 0.1.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Conflicts: com.hk.pf2.cn, com.hk.pf2.cn.rl
+Filename: rootless/PrimalFolder2 简体中文包(rootless).deb
+Size: 5464
+MD5sum: 697ba52204785169cc6d97c44c4e8983
+SHA1: a7708ebd5e278db911473c1c4551275e201f1501
+SHA256: 7294f0f893965c820298d2d5f46ebbd632fda1f324374a81f7ce30c257fd628a
+Section: 嗨-汉化
+Description: PrimalFolder2 简体中文包(rootless)。
+Author: 妖刀
+Name: PrimalFolder2 简体中文包(rootless)
+
 Package: com.dao.photosplus
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -13265,16 +13283,16 @@ Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff(rootless)
 
 Package: com.dao.primalfolder2
-Version: 0.1.1
+Version: 0.1.2
 Architecture: iphoneos-arm64
 Maintainer: ichitaso
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.hk.pf2.cn.rl
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.dao.pf2.cn
 Conflicts: com.ichitaso.primalfolder, me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders, com.ichitaso.primalfolder2
 Filename: rootless/PrimalFolder2(rootless).deb
-Size: 48360
-MD5sum: 51b218c5bb23985d448c44a34c2d290c
-SHA1: 89cd5851c05c9bfb3cbc039949f82cf546e93dce
-SHA256: c90100bf191713713762a368d624dc00e224e6c6a7d0eb15901ea06ba691fb26
+Size: 50872
+MD5sum: b045945fa71655b1f2e8db65c78df2fe
+SHA1: 91783cea5d647a1e76a3ea503007932d9c4e3261
+SHA256: a40381b2798c11863e698463c0e9f2a92ba8e2fb1325a1633232c3051f18ee67
 Section: 嗨-工具
 Description: 将文件夹显示为图标等多功能文件夹，源内有中文包。
 Author: ichitaso
@@ -13821,7 +13839,7 @@ Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
-Filename: rootless/YTLite(rootless).deb
+Filename: rootless/YTLite(rootless)_4.0.1.deb
 Size: 5832036
 MD5sum: 75541daac0f5661611bd22ce03216e85
 SHA1: 52c6fd2e1baa853551fa500f0b44cd63bec4ec73
@@ -14752,22 +14770,6 @@ Section: 嗨-汉化
 Description: PanCake 简体中文包(rootless)。
 Author: Ball <ball@hackcn.net>
 Name: PanCake 简体中文包(rootless)
-
-Package: com.hk.pf2.cn.rl
-Version: 0.1-2
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: rootless/PrimalFolder2 简体中文包(rootless).deb
-Size: 5446
-MD5sum: d80f6f332275ff61440d8201caf3aa09
-SHA1: 0faf0ef12816fa7d35324be16bc4b312ff643423
-SHA256: 603d544b04e4dce27d4d6197eb06ed4fc500b1e1cc26e1841bdbec7f3ae818b6
-Section: 嗨-汉化
-Description: PrimalFolder2 简体中文包(rootless)。
-Author: 妖刀
-Name: PrimalFolder2 简体中文包(rootless)
 
 Package: com.hk.quickactions.cn.rl
 Version: 1.0.0
@@ -15806,6 +15808,23 @@ Description: OCD4和OCD5的通用简体中文包(RootHide)。
 Author: 妖刀
 Name: OCD 简体中文包(RootHide)
 
+Package: com.dao.pf2.cn
+Version: 0.1.2
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Conflicts: com.hk.pf2.cn, com.hk.pf2.cn.rl
+Filename: roothide/PrimalFolder2 简体中文包(RootHide).deb
+Size: 5410
+MD5sum: b040528719497e51b9ddffba9a4d55f5
+SHA1: 5de93342e562e96acd5c97e35b8b45f2c4c4837c
+SHA256: 991e6ebbcd0d29a156846c504c98f892345eec1030ee72721a8ceadec34e88e3
+Section: 嗨-汉化
+Description: PrimalFolder2 简体中文包(RootHide)。
+Author: 妖刀
+Name: PrimalFolder2 简体中文包(RootHide)
+
 Package: com.dao.photosplus
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -16520,22 +16539,6 @@ Section: 嗨-汉化
 Description: OneSettings 简体中文包(RootHide)。
 Author: 妖刀
 Name: OneSettings 简体中文包(RootHide)
-
-Package: com.hk.pf2.cn.rl
-Version: 0.1
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: roothide/PrimalFolder2 简体中文包(RootHide).deb
-Size: 5274
-MD5sum: f350e57dc90e7fc068aa3fca929065b5
-SHA1: 5dc9ca58ecacdae6c9cdc9e7aa510ae5ca581cf2
-SHA256: 7caf845fe9d78b9627b0b0ca360aa7f53586ae87324995fd3488231a2b9a343b
-Section: 嗨-汉化
-Description: PrimalFolder2 简体中文包(RootHide)。
-Author: 妖刀
-Name: PrimalFolder2 简体中文包(RootHide)
 
 Package: com.hk.roothide.cc
 Version: 1.0.1
