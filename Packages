@@ -12388,6 +12388,21 @@ Tag: purpose::daemon, role::enduser
 Author: saurik, Cannathea <csupport@cannathea.com>
 Name: AFC2(rootless)
 
+Package: com.AudioMix.zh-hans
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 萧箫c
+Depends: mobilesubstrate
+Filename: rootless/AudioMix 简体中文包(rootless).deb
+Size: 1512
+MD5sum: c9fba126a846ab7058204da66ffc773a
+SHA1: 9f4173c9cf798e905bdd83f1888198f89be9cc3a
+SHA256: e93879e181ce2327637d7845a2d7d2e41fd4bed9fccdc848dfb9e03c6d7de51a
+Section: 嗨-汉化
+Description: 为AudioMix提供简体中文，萧箫帅比倾情汉化。
+Author: 萧箫c
+Name: AudioMix 简体中文包(rootless)
+
 Package: com.alucard.wifiqr.cn
 Version: 1.1-1
 Architecture: iphoneos-arm64
