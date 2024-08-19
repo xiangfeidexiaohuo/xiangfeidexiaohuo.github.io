@@ -12313,11 +12313,26 @@ Version: 0.0.3
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
-Filename: rootless/移除小组件背景(rootless).deb
+Filename: rootless/移除小组件背景(rootless)_0.0.3.deb
 Size: 8236
 MD5sum: 50c4e30734c44ca02ccb31a10791912d
 SHA1: 62e49830052370e11b769d7eb20b0fe802915e50
 SHA256: c277ade231118a013c9097c8af865495a23da8d4a7eb506330ea282ea30986d2
+Section: 嗨-工具
+Description: 已适配系统自带小组件和 Top Widgets⁺ 小组件，移除小组件背景，让桌面更干净。
+Author: Lessica <82flex@gmail.com>
+Name: 移除小组件背景(rootless)
+
+Package: com.82flex.removewidgetbg
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: rootless/移除小组件背景(rootless)_0.0.4.deb
+Size: 8860
+MD5sum: b92235644a3b86d0911e23321705d81b
+SHA1: e661ddbff00ee774f5f81c27c17ae1fe21ca1d04
+SHA256: 32029032639ac889ce500e704155e44816576220ed2b381f9a8bc64ff30089a4
 Section: 嗨-工具
 Description: 已适配系统自带小组件和 Top Widgets⁺ 小组件，移除小组件背景，让桌面更干净。
 Author: Lessica <82flex@gmail.com>
@@ -13601,16 +13616,16 @@ Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
 Package: com.dao.spotify
-Version: 4.7
+Version: 4.8
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
 Conflicts: com.eevee.spotify
 Filename: rootless/EeveeSpotify(rootless).deb
-Size: 522512
-MD5sum: 45030ecf6a9727b4b0066a99e8295ce5
-SHA1: c47c22407c1cd2b99bc186043bda744df7b79c6f
-SHA256: 9765a5b29e95cb70451675d6ab6edeb2f22326d64c6287981ad4e464a217cb64
+Size: 531876
+MD5sum: afafb396c06d9c59340b6261766b4fb3
+SHA1: be6ecaa0e54fa559717445b1a41e57942bda285c
+SHA256: 9375591fbf50aa80befa23245634913f8c5fdda7b45bc2eee4992825ec42148b
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
