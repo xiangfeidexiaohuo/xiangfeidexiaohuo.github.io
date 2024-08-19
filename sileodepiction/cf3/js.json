@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "悬浮方式打开文件夹(无错位和闪屏Bug)",
+                    "markdown": "悬浮方式打开文件夹(无错位和闪屏Bug)</br> </br> 如果想展开文件夹为原始样式，可降级 v3.0.4.3。",
                     "useRawFormat": true
                 },
                 {
@@ -148,7 +148,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "文件夹展开方式改回原始样式，但是会有错位和闪屏bug。</br> </br> 如果受不了错位和闪屏，可降级 v3.0.3.12，使用悬浮方式展开。</br> </br> 目前没办法完美，反正都是有 bug。",
+                    "markdown": "文件夹展开方式改回原始样式，但是会有错位和闪屏bug。",
                     "useRawFormat": true
                 },
                 {
