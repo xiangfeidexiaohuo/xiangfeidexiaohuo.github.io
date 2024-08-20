@@ -22,7 +22,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "CoolStar 的 ClassicFolders 3，以 iOS6 风格打开文件夹。</br> Lizynz 基于 CoolStar 的开源修复优化支持 iOS15+，支持 iOS13~16。</br> </br> 当前还存在一些 bug，理性对待，静待大佬修复！",
+                    "markdown": "CoolStar 的 ClassicFolders 3，以 iOS6 风格打开文件夹。</br> 刀刀基于 Lizynz 的开源优化版(支持 iOS15+)，简单定制。",
                     "useRawFormat": true,
                 },
                 {
@@ -37,6 +37,10 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/Screenshot_02.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/Screenshot_03.png"
                         }
                     ]
                 },
@@ -73,7 +77,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.4.5",
+                    "text": "3.0.5",
                     "title": "最新版本"
                 },
                 {
@@ -83,7 +87,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 06 月 03 日",
+                    "text": "2024 年 08 月 21 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -96,6 +100,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.0.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "悬浮方式打开文件夹(无错位和闪屏Bug)</br> </br> 同步 Lizynz v3.0.5 源码：</br> 修复App资源库相关问题</br> 添加文件夹内标签颜色</br> 优化编辑文件夹逻辑</br> 其他修复",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "3.0.4.5",
