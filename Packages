@@ -2732,10 +2732,10 @@ Installed-Size: 4364
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Filename: rootful/ClassicFolders3_3.0.5.deb
-Size: 3286938
-MD5sum: ab037d337658ec44d0808f22cc6df33f
-SHA1: d13885b20f9e22a2cedc1efde017afc6c3db4072
-SHA256: f306746179aaff7a9c5b8ca88fdbc25f4faca3309158d9e16e58f44fbae57303
+Size: 3287158
+MD5sum: cc5b374b71c79ad9c1c26c2a2e9d1ef6
+SHA1: 941f24b088f1c4f403bf275b013a412ad81389a0
+SHA256: 084f865b19b1cd0faf4d5aac8a333f88156b78f01b756dd0a3b27cc30cbbabad
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源优化版(支持iOS15+)，简单定制。
 Author: CoolStar & Lizynz
@@ -5563,10 +5563,10 @@ Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.carck.classicfolders2.cn
 Filename: rootful/ClassicFolders3_CN.deb
-Size: 1960
-MD5sum: 5e07cc3bbcfa464feca1527d1cc7124a
-SHA1: 0cde64c94e2a9c264f9349a650baca58a3f54897
-SHA256: 349b847453c4ba7853e5697a00de7f262faa181b9da6de8ab8a2c2a6732b8066
+Size: 1964
+MD5sum: 15c08bc4e5242327e338e8a41e375849
+SHA1: 3ec05713efd2cac0313e5308b8f1b5f6e554c66e
+SHA256: d4879e866d0cd7e4e7ada3e3ecfaa0b5973dc92fb72dec3bea65714197b0d290
 Section: 嗨-汉化
 Description: ClassicFolders 3 简体中文包，也兼容 ClassicFolders 2 的汉化。
 Author: 妖刀
@@ -12792,10 +12792,10 @@ Installed-Size: 4364
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Filename: rootless/ClassicFolders 3(rootless)_3.0.5.deb
-Size: 3287068
-MD5sum: 8f176169d34380135d4cb1faf264b967
-SHA1: f61a1dcf05a4fdb37ca452592b29d943dd6073ad
-SHA256: 1b263b4bfbe7916563cd37df98df62b3a66ce3fd42497167c30bcf1e4b630ba3
+Size: 3287074
+MD5sum: fe8e9038e88298b2b074f1ab284f9013
+SHA1: a5aae5cb4b19cbf565a761329bcbbd0ebb87b30f
+SHA256: 3008f22827f5e4dec762b115b16e06a72bd03360a5b611c29809062c35cdfaca
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源优化版(支持iOS15+)，简单定制。
 Author: CoolStar & Lizynz
@@ -14359,10 +14359,10 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/ClassicFolders 3 简体中文包(rootless).deb
-Size: 1972
-MD5sum: 952c2a550cd26a36bb6536ef0b3943f0
-SHA1: 9a9fe5d4214c5d213ce291dc44a6656efb994950
-SHA256: 87073863b8112cf7ee404dbe70e50831e4c7e9ee1910f905e53d65005038ee17
+Size: 1968
+MD5sum: a21c8bb2837c0ae40cafefb2308b3a43
+SHA1: 2f3e1481c6583f64d0d2e6cddea996cf480cdfee
+SHA256: 110949f1f1c9a16c82555d7ac4fd3d0a20f22c2d661ecad27b01efdd57cfb277
 Section: 嗨-汉化
 Description: ClassicFolders 3 简体中文包(rootless)。
 Author: 妖刀
@@ -15762,10 +15762,10 @@ Installed-Size: 4364
 Depends: mobilesubstrate
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
 Filename: roothide/ClassicFolders 3(RootHide)_3.0.5.deb
-Size: 3287168
-MD5sum: e11913043cff52789971c733399c5707
-SHA1: a4d35613e3315a6725c622e534ad4f32760c0a03
-SHA256: 4ebbefa96de511a50b0233dbbc1c792aaf5a4159c222b160afbd99ffe993f18f
+Size: 3287164
+MD5sum: ba88f18100671afb261c1f9df61e5eef
+SHA1: 00d650205a1b4fd786b2207605dbdc5a16169402
+SHA256: 40f2f1583ac865199e8e81309a18c873aa7d618e7d283ece8011272306219c0f
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源优化版(支持iOS15+)，简单定制。
 Author: CoolStar & Lizynz
@@ -16389,10 +16389,10 @@ Maintainer: 妖刀
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.carck.classicfolders2.cn
 Filename: roothide/ClassicFolders 3 简体中文包(RootHide).deb
-Size: 1960
-MD5sum: 5549246e3f71884a35bab90a903297fb
-SHA1: 9b4f5fa9740cfa166bbb0c67a48b5f6c2df3c6da
-SHA256: de59745915f72b0bff3023da8188c16878cfe2a431c0ddc32bc4be356aed82f2
+Size: 1964
+MD5sum: 2afff57c5d7d1c5845732c5f6d4d7799
+SHA1: b1feb7ea069312e15f7fa7dfb491e38f790aeebd
+SHA256: 87343500262813596cc251c6c1d862904f019217dd46f307066f9fe5df6481a0
 Section: 嗨-汉化
 Description: ClassicFolders 3 简体中文包(RootHide)。
 Author: 妖刀
