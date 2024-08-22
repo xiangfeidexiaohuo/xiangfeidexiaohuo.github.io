@@ -77,17 +77,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.5",
+                    "text": "3.0.5.5",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "13.0 - 16.5.1",
+                    "text": "14.0 - 16.5.1",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 08 月 21 日",
+                    "text": "2024 年 08 月 22 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -100,6 +100,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.0.5.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新增文件夹展开方式开关：</br> 可选择原始往下推或者悬浮方式打开文件夹(无错位和闪屏Bug)</br> 其他优化</br> 其他修复",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "3.0.5",
