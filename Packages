@@ -12419,26 +12419,6 @@ Description: App内调用输入法的“语音转文字”功能时，免去跳�
 Author: Lessica
 Name: 语音转文字免跳转(rootless)
 
-Package: com.82skao.afc2d-arm64
-Version: 1.1.7-1
-Architecture: iphoneos-arm64
-Maintainer: Cannathea <csupport@cannathea.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0), ldid | firmware (>= 15.0)
-Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2, com.cannathea.afc2d-arm64
-Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Filename: rootless/AFC2(rootless).deb
-Size: 11480
-MD5sum: e61314723dce589b501cc932ac70c068
-SHA1: 115686c43077378d14a270c92afd3142d9194158
-SHA256: 7a00ce5a4c7aedee6739a836fa9e45954ad33a3dcc8cb53b6a6ac7daab14ed81
-Section: 嗨-系统
-Description: 允许设备通过USB访问完整的文件系统，对iOS 11及更高版本的设备特别有用。神秘大佬修复支持rootless。
-Tag: purpose::daemon, role::enduser
-Author: saurik, Cannathea <csupport@cannathea.com>
-Name: AFC2(rootless)
-
 Package: com.AudioMix.zh-hans
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -13552,7 +13532,7 @@ Maintainer: SoCuul & 妖刀
 Installed-Size: 1904
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
-Filename: rootless/SCInsta 中文版(rootless).deb
+Filename: rootless/SCInsta 中文版(rootless)_0.5.deb
 Size: 498410
 MD5sum: 7f749a93413baace196fde2be4d11f28
 SHA1: b93f425561de8cf19820a3518f6b6fb8a3a1b51d
