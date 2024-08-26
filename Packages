@@ -12434,6 +12434,21 @@ Description: 为AudioMix提供简体中文，萧箫帅比倾情汉化。
 Author: 萧箫c
 Name: AudioMix 简体中文包(rootless)
 
+Package: com.Bloom.zh-hans
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 萧箫c
+Depends: firmware (>= 15.0)
+Filename: rootless/Bloom 简体中文包(rootless).deb
+Size: 1972
+MD5sum: 7f041c75646ea2cbadf008313367e7b0
+SHA1: 70ef08eca1e86c482855721f398db1c5a466feec
+SHA256: a84224cbc17290b564f66e801711b6833d247ac059085d3ce87a9b41a65989a9
+Section: 嗨-汉化
+Description: 为Bloom提供简体中文，萧箫帅比倾情汉化。
+Author: 萧箫c
+Name: Bloom 简体中文包(rootless)
+
 Package: com.alucard.wifiqr.cn
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -13668,16 +13683,16 @@ Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
 Package: com.dao.spotify
-Version: 4.8
+Version: 4.9
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
 Conflicts: com.eevee.spotify
 Filename: rootless/EeveeSpotify(rootless).deb
-Size: 531876
-MD5sum: afafb396c06d9c59340b6261766b4fb3
-SHA1: be6ecaa0e54fa559717445b1a41e57942bda285c
-SHA256: 9375591fbf50aa80befa23245634913f8c5fdda7b45bc2eee4992825ec42148b
+Size: 546380
+MD5sum: 799cfa39a58fb1bb21d47dbeb2451ebe
+SHA1: f55634263df34b9c9fb11a16db3fb5aedeacc4e9
+SHA256: 915123625e53ff242364253cd6f93af209ff8a5cee611ad0cf644475f1bef448
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
