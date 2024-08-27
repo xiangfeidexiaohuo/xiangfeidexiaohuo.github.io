@@ -12435,19 +12435,49 @@ Author: 萧箫c
 Name: AudioMix 简体中文包(rootless)
 
 Package: com.Bloom.zh-hans
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm64
 Maintainer: 萧箫c
 Depends: firmware (>= 15.0)
 Filename: rootless/Bloom 简体中文包(rootless).deb
-Size: 1972
-MD5sum: 7f041c75646ea2cbadf008313367e7b0
-SHA1: 70ef08eca1e86c482855721f398db1c5a466feec
-SHA256: a84224cbc17290b564f66e801711b6833d247ac059085d3ce87a9b41a65989a9
+Size: 1984
+MD5sum: 3d7b8a12cc91f71cb77d5d301e526e73
+SHA1: c1abdb9ed8b71ec55f37da7fe3ed60834386100a
+SHA256: c6e6d8a77f54c298ca66f77d5254972c17b4f17ad7496964440ab1af1365bd3f
 Section: 嗨-汉化
 Description: 为Bloom提供简体中文，萧箫帅比倾情汉化。
 Author: 萧箫c
 Name: Bloom 简体中文包(rootless)
+
+Package: com.MenuSupport.zh-hans
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 萧箫c
+Depends: firmware (>= 15.0)
+Filename: rootless/MenuSupport 简体中文包(rootless).deb
+Size: 1176
+MD5sum: b51669a4b615aa0d661990fa9379a018
+SHA1: 524cddcab8950f4dcc050be6e2dd8de6ced6a128
+SHA256: 3b40523b1e12d2fa43a4591db9c7d3de0d4e156362ffbcc74f65e716b5f80cb8
+Section: 嗨-汉化
+Description: 为MenuSupport提供简体中文，萧箫帅比倾情汉化。
+Author: 萧箫c
+Name: MenuSupport 简体中文包(rootless)
+
+Package: com.PassText.zh-hans
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 萧箫c
+Depends: firmware (>= 15.0)
+Filename: rootless/PassText 简体中文包(rootless).deb
+Size: 6300
+MD5sum: 8c16afd3e744b98c08360b16b9c844c5
+SHA1: e7844ef2127e16e9a719525e5f5c0e768ecf99ab
+SHA256: ac3e3ec041af42730ad63cd13abbc0e4e47a499dd50f7270597146642dd07300
+Section: 嗨-汉化
+Description: 为PassText提供简体中文，萧箫帅比倾情汉化。
+Author: 萧箫c
+Name: PassText 简体中文包(rootless)
 
 Package: com.alucard.wifiqr.cn
 Version: 1.1-1
