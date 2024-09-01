@@ -2671,6 +2671,23 @@ Description: 漂亮的定时器和闹钟提醒，根据开源编译。
 Author: NoisyFlake
 Name: BetterAlarm中文版
 
+Package: com.dao.bhtiktok.cn
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.hk.bhtiktok.cn.rl
+Filename: rootful/BHTikTok_CN.deb
+Size: 8660
+MD5sum: 22fc42f2d8eaaeee662f4394aaf48e3b
+SHA1: 3097c8e11cef230b86a19424d034e9afe3a465fe
+SHA256: dcfa3e4fe863a211fed278726c4b330c42c6647af7c0daebed1d71012f8b716e
+Section: 嗨-汉化
+Description: BHTikTok 简体中文包。
+Author: 妖刀
+Name: BHTikTok 简体中文包
+
 Package: com.dao.blurrybadges
 Version: 1.5.2.1
 Architecture: iphoneos-arm
@@ -3177,18 +3194,18 @@ Name: YTR 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.ytlite
-Version: 4.0.1
+Version: 5.0
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite, com.hk.ytlite
 Filename: rootful/YTLite.deb
-Size: 5831284
-MD5sum: aff0597382dc0f662ffa0dfcca61a662
-SHA1: 4cc6dca1a8fdfd0794bad817fb663ce684698a56
-SHA256: f2c9385e2af4d9ca6c474b31a8bf8399f043adb1b15696b7d7d64212f111ef7b
+Size: 6083272
+MD5sum: 27d9b643561314b25ba3dd3c6df26836
+SHA1: 5704c44d46b5260565331ed52d2ced9622755f06
+SHA256: 38146b5db460977f8fc09b950c40514c7a3496b9b9630c8728e54679f47dcb51
 Section: 嗨-工具
-Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YouTubePlus”，更多功能请启用“YouTubePlus—版本—高级模式”。
+Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
 Name: YTLite
 
@@ -5129,21 +5146,6 @@ Section: 嗨-汉化
 Description: BHInsta 简体中文包。
 Author: 妖刀
 Name: BHInsta 简体中文包
-
-Package: com.hk.bhtiktok.cn
-Version: 0.0.1-1
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: rootful/BHTikTok_CN.deb
-Size: 6284
-MD5sum: d307309cc8e367050ccac48bcd325953
-SHA1: 465788eef227d6555d76f2507829dbe6ae4b3bb6
-SHA256: d78fc19cd3edeeb11cb7fcde2480d3dcba596c357b4f8d6991056d9715b3b731
-Section: 嗨-汉化
-Description: BHTikTok 简体中文包。
-Author: 妖刀
-Name: BHTikTok 简体中文包
 
 Package: com.hk.bhtiktokmod
 Version: 2.3
@@ -12691,6 +12693,23 @@ Description: Instagram多功能插件，可去广告、下载等，源内有汉�
 Author: Bandar Alruwaili
 Name: BHInsta(rootless)
 
+Package: com.dao.bhtiktok.cn
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.hk.bhtiktok.cn.rl
+Filename: rootless/BHTikTok 简体中文包(rootless).deb
+Size: 8746
+MD5sum: cd89927d2299ce835ba9cd0679b4734d
+SHA1: 514102f6e12c1440b35587c1a8bda94f2c9ffbd7
+SHA256: 6a04ec2922e721f3295d2b67f01277b5a7bf3d0b63d59c10a0217979c0f779a8
+Section: 嗨-汉化
+Description: BHTikTok 简体中文包(rootless)。
+Author: 妖刀
+Name: BHTikTok 简体中文包(rootless)
+
 Package: com.dao.bhtiktokmod
 Version: 2.3
 Architecture: iphoneos-arm64
@@ -13973,6 +13992,22 @@ SHA1: 52c6fd2e1baa853551fa500f0b44cd63bec4ec73
 SHA256: 740564ff61dee283dd3758888bb55ccc3a3ec78da47834a67cf62591140ff786
 Section: 嗨-工具
 Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YouTubePlus”，更多功能请启用“YouTubePlus—版本—高级模式”。
+Author: dvntm
+Name: YTLite(rootless)
+
+Package: com.dao.ytlite
+Version: 5.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite
+Filename: rootless/YTLite(rootless).deb
+Size: 6087828
+MD5sum: cf0a7f89f4dec499975639a7e729b129
+SHA1: fb55ac24acea6dab3b54e4a95b577594c76fea5b
+SHA256: 1537bdf15f26c6c9186b7ca294604ab18a21690dd2b835b81b68608fca90877f
+Section: 嗨-工具
+Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
 Name: YTLite(rootless)
 
@@ -16255,18 +16290,18 @@ Name: YTR 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.ytlite
-Version: 2.4.1
+Version: 5.0
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: roothide/YTLite(RootHide).deb
-Size: 51864
-MD5sum: 9229d1adc50f3623b5747915098a2fc4
-SHA1: 25b12b87aa2c9fe9dffca36bd9b2d02993046de6
-SHA256: 394a0471479dbcaf6baccfcafcebc9c99358997df437830bf4c77d9de43bdd11
+Size: 6084048
+MD5sum: de9b831de348a3ef77d6fa23ceac33cf
+SHA1: cfde0addbddfb074c2ef3d8b4ac535917124c8f0
+SHA256: 3876e6a84aae3c3c9f1955a7e46636e1a32b0e107c5c161d3fa0d4e4c9666244
 Section: 嗨-工具
-Description: 轻量级YouTube功能插件，去广告、后台播放、隐藏投射/通知/搜索、调节播放器等超多功能，已汉化。插件选项位于油管“设置—YTLite”，更多功能请启用“YTLite—版本—高级模式”。v2.4.1：修复油管19.03.2设置闪退问题。
+Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
 Name: YTLite(RootHide)
 
