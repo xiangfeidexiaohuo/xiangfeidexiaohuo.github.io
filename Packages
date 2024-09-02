@@ -12439,17 +12439,17 @@ Author: Lessica
 Name: WTVRBGLauncher(rootless)
 
 Package: com.82flex.wtvrbglauncher
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Lessica
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Filename: rootless/WTVRBGLauncher(rootless).deb
-Size: 22844
-MD5sum: 2b8bb55cf67984269910b22bc48a4423
-SHA1: 9dd8f6c5b1d6586ffe922a3902351937b5dafcf7
-SHA256: 71ad17b7322a00368d1849d615b07ee5dbc58e7192ea1bf32707b3eec6a88b8d
+Size: 23168
+MD5sum: db6c29ef19de36dd7e8d200d6f8a8de3
+SHA1: 3c33f6f6757481f5bce32884097f06d77c4c0112
+SHA256: 1d7ea19c083a912ee151e5eaa3a80f7a7059be96a9b751b19e65fb5b124f4597
 Section: 嗨-工具
-Description: App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。v1.0：新增插件简易选项。
+Description: App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。v1.x：新增插件简易选项。
 Author: Lessica
 Name: 语音转文字免跳转(rootless)
 
