@@ -3066,13 +3066,30 @@ Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
-Filename: rootful/TrollStore_CN.deb
+Filename: rootful/TrollStore_CN_2.0.15.deb
 Size: 14196
 MD5sum: 8d156923d0839231349f2f174f60fbef
 SHA1: 6fe32532a48cd3229b059dcbf2037fbe418457b6
 SHA256: 8ee14f656cfbbcc1c4291be79c5d6c5e61f4ab79b1f6283853d5558c23868bfc
 Section: 嗨-汉化
 Description: TrollStore 简体中文包。
+Author: 妖刀
+Name: TrollStore 简体中文包
+
+Package: com.dao.trollstore.cn
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
+Filename: rootful/TrollStore_CN.deb
+Size: 15166
+MD5sum: 4b45c12b22d978c13ea6875e7dec9b29
+SHA1: 1b24b4a60833f174aa8971337becefe53d47728d
+SHA256: cc3ad3c05ee8d687b01dec83d59d299398666aaaea5b103a71c0568795f4a533
+Section: 嗨-汉化
+Description: TrollStore 和 TrollStore Lite 的简体中文包。
 Author: 妖刀
 Name: TrollStore 简体中文包
 
@@ -13852,13 +13869,30 @@ Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
-Filename: rootless/TrollStore 简体中文包(rootless).deb
+Filename: rootless/TrollStore 简体中文包(rootless)_2.0.15.deb
 Size: 14326
 MD5sum: 0b23298b80c481152a7c1d5f92da860b
 SHA1: 56a27ce6a01fe762464c9ac30d19046a4bec1486
 SHA256: 7804f35bb03c2507009214d1894542dfb15dc5e89701b14d013ec0d1f9ccd018
 Section: 嗨-汉化
 Description: TrollStore 简体中文包(rootless)。
+Author: 妖刀
+Name: TrollStore 简体中文包(rootless)
+
+Package: com.dao.trollstore.cn
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
+Filename: rootless/TrollStore 简体中文包(rootless).deb
+Size: 15224
+MD5sum: 8ebcd17154cdc08e0ac7a1c323399d1a
+SHA1: 03c6a708d44c5e8a3b29d0516e62dfe192735690
+SHA256: eeb487365ec29494f46e4ae3adabfea64edbb431117eece8e5faded175220c44
+Section: 嗨-汉化
+Description: TrollStore 和 TrollStore Lite 的简体中文包。
 Author: 妖刀
 Name: TrollStore 简体中文包(rootless)
 
@@ -16178,13 +16212,30 @@ Maintainer: 妖刀
 Installed-Size: 184
 Depends: mobilesubstrate
 Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
-Filename: roothide/TrollStore 简体中文包(RootHide).deb
+Filename: roothide/TrollStore 简体中文包(RootHide)_2.0.15.deb
 Size: 14226
 MD5sum: 24f75b8a3486558bb3243a93d1e19222
 SHA1: 8a767c62d0782af069163d9f63ff0dc83768537a
 SHA256: a67ef00eb29da5272045e4ce030ef1653e63aeb0b3d8848124a8563596041922
 Section: 嗨-汉化
 Description: TrollStore 简体中文包(RootHide)。
+Author: 妖刀
+Name: TrollStore 简体中文包(RootHide)
+
+Package: com.dao.trollstore.cn
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 184
+Depends: mobilesubstrate
+Conflicts: com.qms.trollstore.cn, com.hk.trollstore.cn, com.hk.trollstore.cn.rl
+Filename: roothide/TrollStore 简体中文包(RootHide).deb
+Size: 15226
+MD5sum: 4cc786580a046f43c3d05a1cbd7a1b79
+SHA1: ad7d3f25481963f4835ac137d27aa5bdea69b936
+SHA256: 6ace754a292d0b870ffe18a994aab4ae5c0082b01306bae9b866ac0399e8fa2c
+Section: 嗨-汉化
+Description: TrollStore 和 TrollStore Lite 的简体中文包。
 Author: 妖刀
 Name: TrollStore 简体中文包(RootHide)
 
