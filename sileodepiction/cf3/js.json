@@ -77,7 +77,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.5.5",
+                    "text": "3.0.5.6",
                     "title": "最新版本"
                 },
                 {
@@ -87,7 +87,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 08 月 22 日",
+                    "text": "2024 年 09 月 05 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -100,6 +100,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.0.5.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步 Lizynz 源码，不再支持iOS14；</br> 界面小优化，其他小改变。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "3.0.5.5",
