@@ -2759,6 +2759,24 @@ Author: CoolStar & Lizynz
 Name: ClassicFolders 3
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
+Package: com.dao.classicfolders3
+Version: 3.0.5.7
+Architecture: iphoneos-arm
+Maintainer: CoolStar & Lizynz & 妖刀
+Installed-Size: 4360
+Depends: mobilesubstrate, preferenceloader
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: rootful/ClassicFolders3_3.0.5.7.deb
+Size: 3287448
+MD5sum: 485f8f7abbe95809b50789f6ec9fde39
+SHA1: 3384be59f52a34113fc78c96e7bcc405a0a7f89c
+SHA256: 29d8114c42af2621b59ba49fa4ac83f770c9c982e9ceeedb18e63748b60052f8
+Section: 嗨-工具
+Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源优化版(支持iOS15+)，简单定制。
+Author: CoolStar & Lizynz
+Name: ClassicFolders 3
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
+
 Package: com.dao.hidenumber.cn
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -12879,17 +12897,17 @@ Name: ClassicFolders 3(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
-Version: 3.0.5.6
+Version: 3.0.5.7
 Architecture: iphoneos-arm64
 Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4360
-Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Depends: mobilesubstrate, preferenceloader
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootless/ClassicFolders 3(rootless).deb
-Size: 3287566
-MD5sum: 387a83f59684872a65e5ea2ae4c1141f
-SHA1: 8468ec013fbdaeddc713f85516f4dc8525e3f5a8
-SHA256: 21c304079448862cb27f56482dfc3ea8ab0e1bbd2d94fc891edc72c125026c40
+Filename: rootless/ClassicFolders 3(rootless)_3.0.5.7.deb
+Size: 3287432
+MD5sum: 8aa3d0087447bdffe65f584ab695a591
+SHA1: da2b75e2d00447e43d07e335a9f228db8bd74907
+SHA256: ceefaeb68e59385c29b37d4c3b055168350f8bac6f44d654668f339a0685188b
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源优化版(支持iOS15+)，简单定制。
 Author: CoolStar & Lizynz
@@ -15916,17 +15934,17 @@ Name: ClassicFolders 3(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
-Version: 3.0.5.6
+Version: 3.0.5.7
 Architecture: iphoneos-arm64e
 Maintainer: CoolStar & Lizynz & 妖刀
 Installed-Size: 4364
-Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Depends: mobilesubstrate, preferenceloader
 Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: roothide/ClassicFolders 3(RootHide).deb
+Filename: roothide/ClassicFolders 3(RootHide)_3.0.5.7.deb
 Size: 3287588
-MD5sum: febb8d6d233b9a782c54aae2a4f3fd2f
-SHA1: fb171055ce48c5b731181c621a9383ecf06158f4
-SHA256: 74265434b7d15d9adbef587dfbe675bbdb2d7741c4f628c3adc88454291712bd
+MD5sum: b694c144e4bf836824da74d737cd7a53
+SHA1: cb441396d631a532afdd880ff9c32f5650a89714
+SHA256: 685ffbee9998be3378b6fbb27c995aba84c0b9b77945b08c2ffbb8b414ed02c7
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源优化版(支持iOS15+)，简单定制。
 Author: CoolStar & Lizynz

@@ -77,7 +77,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.5.6",
+                    "text": "3.0.5.7",
                     "title": "最新版本"
                 },
                 {
@@ -102,13 +102,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "3.0.5.6",
+                    "title": "3.0.5.7",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步 Lizynz 源码，不再支持iOS14；</br> 界面小优化，其他小改变。",
+                    "markdown": "界面小优化",
                     "useRawFormat": true
                 },
                 {
