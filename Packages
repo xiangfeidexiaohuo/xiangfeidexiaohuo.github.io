@@ -3211,16 +3211,16 @@ Name: YTR 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.ytlite
-Version: 5.0.1
+Version: 5.0.2
 Architecture: iphoneos-arm
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite, com.hk.ytlite
 Filename: rootful/YTLite.deb
-Size: 6087376
-MD5sum: 7bdb546fe8deca0590515946783add5e
-SHA1: 0b5f168926582fbdfab6ecb83411c8e8a8b676cf
-SHA256: e5f04f1d5c9eab89607f8b5f0eb426b41d6275600a97ece8576057752ba65a36
+Size: 6105988
+MD5sum: b12063fb3b6da7a380ff6361647a172d
+SHA1: d0b1a5ed64b505b06ec4f9362a073747bfcb78a6
+SHA256: 2a2a882ea3a63f0450a0405e9f1d4ee99fcb80429252d7f6ce090e043553b452
 Section: 嗨-工具
 Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
@@ -13780,16 +13780,16 @@ Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
 Package: com.dao.spotify
-Version: 4.9
+Version: 5.0
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
 Conflicts: com.eevee.spotify
 Filename: rootless/EeveeSpotify(rootless).deb
-Size: 546380
-MD5sum: 799cfa39a58fb1bb21d47dbeb2451ebe
-SHA1: f55634263df34b9c9fb11a16db3fb5aedeacc4e9
-SHA256: 915123625e53ff242364253cd6f93af209ff8a5cee611ad0cf644475f1bef448
+Size: 555816
+MD5sum: c802f00bf67e0887c560847f23858f8f
+SHA1: d68cfde1920e4132a2c4dd51702d41dd06cc06f5
+SHA256: 1fbeb29a915adc1f3166e6043f51b2af8adbdba87f7c6b0b9c21de0f14e3450e
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
@@ -14061,16 +14061,16 @@ Author: dvntm
 Name: YTLite(rootless)
 
 Package: com.dao.ytlite
-Version: 5.0.1
+Version: 5.0.2
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: rootless/YTLite(rootless).deb
-Size: 6093932
-MD5sum: ad138b751f1e815813564ad7c3f7550f
-SHA1: 7795708f42ed353c8a1ce9561c45a4e29706755c
-SHA256: 5e83a932161e7b619e4a6400f1165c1b2e13a1d52bd9ed9ab314507be5a5b312
+Size: 6098392
+MD5sum: 020de0ec05d31f3b6c1c495d5b3d93fb
+SHA1: 68e96efdbd6d935f86b44311f512da0fa377181a
+SHA256: 413e1ece14d773bcb7b9ef57b96688c2f5440152c6a44957aeee2c9f6ffb040c
 Section: 嗨-工具
 Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
@@ -16372,16 +16372,16 @@ Name: YTR 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.ytlite
-Version: 5.0.1
+Version: 5.0.2
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
 Depends: mobilesubstrate
 Conflicts: com.dvntm.ytlite
 Filename: roothide/YTLite(RootHide).deb
-Size: 6088132
-MD5sum: af1bfd2c16a193192edb96b04ff50c9f
-SHA1: ba8d9a710a89cbef5eb8f790e84eaca1f646fadb
-SHA256: 869277329cadddf7b32b004368ab64c2a4990425fdf99e362a32dad5bc355847
+Size: 6100652
+MD5sum: 1c7fe5e37b5a8a393aeea9639b012a0a
+SHA1: 2eb4143d9db2bb5dc37be12e1e3914137f09b2af
+SHA256: 56deee6d01e160cd3dc0c9fdf938ee9331a75ff87737d6678c4a4464fd961f82
 Section: 嗨-工具
 Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
