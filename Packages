@@ -13227,6 +13227,23 @@ Author: AlexandraAurora
 Name: Kayoko 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.lpmnotification
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: sugiuta & 刀刀
+Installed-Size: 172
+Depends: mobilesubstrate
+Conflicts: com.sugiuta.lpmnotification
+Filename: rootless/LPMNotification(rootless).deb
+Size: 7292
+MD5sum: 4ca08156cc63acc3af567f4f5ad431e8
+SHA1: e29a08a31d6c93bb8bb642ad0425450241ae15b9
+SHA256: 010d055537f3d06543ad6d52daa121762f983cac8c6b0f22358b922eec45a5a5
+Section: 嗨-工具
+Description: 删除 iOS 16 的低电量警告弹窗，点击通知横幅可启用低电量模式；重新编译且汉化提示。
+Author: sugiuta
+Name: LPMNotification(rootless)
+
 Package: com.dao.lynxtwo
 Version: 2.5
 Architecture: iphoneos-arm64
