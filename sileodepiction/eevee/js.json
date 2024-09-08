@@ -9,18 +9,6 @@
             "tabname": "描述",
             "views": [
                 {
-                    "text":"秋名山巨魔俱乐部",
-                    "action":"https://t.me/ae86_ios",
-                    "openExternal": 1,
-                    "class":"DepictionButtonView"
-                },      
-                {
-                    "text":"四大运营商流量卡",
-                    "action":"https://hk.bjjii.com/?p=ae86_daodao",
-                    "openExternal": 1,
-                    "class":"DepictionButtonView"
-                },
-                {
                     "class": "DepictionMarkdownView",
                     "markdown": "免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。",
                     "useRawFormat": true,

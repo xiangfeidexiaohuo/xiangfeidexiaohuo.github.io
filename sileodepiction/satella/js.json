@@ -9,20 +9,8 @@
             "tabname": "描述",
             "views": [
                 {
-                    "text":"秋名山巨魔俱乐部",
-                    "action":"https://t.me/ae86_ios",
-                    "openExternal": 1,
-                    "class":"DepictionButtonView"
-                },      
-                {
-                    "text":"四大运营商流量卡",
-                    "action":"https://hk.bjjii.com/?p=ae86_daodao",
-                    "openExternal": 1,
-                    "class":"DepictionButtonView"
-                },
-                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "牛🐮X的应用程序内购破解器，已包含简体中文。</br> 内购破解不是100%，自行测试。",
+                    "markdown": "应用程序内购xx，已包含简体中文。</br> 不是100%，自行测试。",
                     "useRawFormat": true,
                 },
                 {
@@ -100,7 +88,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "更换群友(Hello! J.z)提供的帅气图标",
+                    "markdown": "更换群友(J.z)提供的帅气图标",
                     "useRawFormat": true
                 },
                 {

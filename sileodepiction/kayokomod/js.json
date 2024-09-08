@@ -9,18 +9,6 @@
             "tabname": "描述",
             "views": [
                 {
-                    "text":"秋名山巨魔俱乐部",
-                    "action":"https://t.me/ae86_ios",
-                    "openExternal": 1,
-                    "class":"DepictionButtonView"
-                },      
-                {
-                    "text":"四大运营商流量卡",
-                    "action":"https://hk.bjjii.com/?p=ae86_daodao",
-                    "openExternal": 1,
-                    "class":"DepictionButtonView"
-                },
-                {
                     "class": "DepictionMarkdownView",
                     "markdown": "剪切板插件，可选择听写键呼出剪切板，可粘贴复制，可直接跳转网页等。基于 Alexandra 原版和 Lessica 魔改项目，同步最新 2.0 源码制作的魔改版，和之前的 1.x 系列不一样。</br> </br> 魔改特性：</br> 可修改高度，音效、振动、文本筛选等和一些优化修复等。</br> </br> 文本过滤功能请使用正则表达式</br> 最简单关键词过滤 例子: 关键词 A|关键词 B|关键词 C</br> </br> 支持 iOS14~15，iOS16 目前使用有问题！",
                     "useRawFormat": true,
