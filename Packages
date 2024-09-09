@@ -13606,22 +13606,6 @@ Description: Safari 浏览器多功能增强插件！
 Author: 0xkuj
 Name: SafariX(rootless)
 
-Package: com.dao.safarix
-Version: 1.4.0
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), com.dao.safarix.cn
-Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix
-Filename: rootless/SafariX(rootless)_1.4.0.deb
-Size: 274196
-MD5sum: 850e0fc617faa4f7da4a82f5ae41ef4c
-SHA1: 6c33b9e7a79d8a428cdfe298f27a568e1e1eeed6
-SHA256: 2eb42a404fdb6eafd99912551f5d77338138dab0a2f3e098b9c429ad0c5c4833
-Section: 嗨-工具
-Description: Safari 浏览器多功能增强插件！
-Author: 0xkuj
-Name: SafariX(rootless)
-
 Package: com.dao.safarix.cn
 Version: 1.3.0
 Architecture: iphoneos-arm64
