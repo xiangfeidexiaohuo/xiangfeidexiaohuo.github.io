@@ -3177,6 +3177,22 @@ Author: NoisyFlake
 Name: Velvet 2 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
+Package: com.dao.watched
+Version: 1.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: Little 34306
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Conflicts: com.34306.watched
+Filename: rootful/watched.deb
+Size: 5696
+MD5sum: 741a6bd262d0bd3337c5058a4b27fac7
+SHA1: 7d682a5bbd44c7656f6bf7af43ac94205fd7fb17
+SHA256: 587a3a5487d8f2863889d366930c2ddb7c823df09cd16d0c938e931c6a69637f
+Section: 嗨-工具
+Description: 让旧 iOS 版本配对新 watchOS 版本，无设置，安装即可生效。
+Author: 34306
+Name: watched
+
 Package: com.dao.youtubereborn
 Version: 4.1.5
 Architecture: iphoneos-arm
@@ -14027,6 +14043,22 @@ Author: NoisyFlake
 Name: Velvet 2 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
+Package: com.dao.watched
+Version: 1.1-9+debug
+Architecture: iphoneos-arm64
+Maintainer: Little 34306
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Conflicts: com.34306.watched
+Filename: rootless/watched(rootless).deb
+Size: 5768
+MD5sum: d897a8e9fcb2935cb717114e018e0eff
+SHA1: 960a940dddf39c898734f1368ceeed4eda0deb5a
+SHA256: 349d4f8dd241c5d6cfb9ad734586f2f59b28291002b161c41a86941e8cac094b
+Section: 嗨-工具
+Description: 让旧 iOS 版本配对新 watchOS 版本，无设置，安装即可生效。
+Author: 34306
+Name: watched(rootless)
+
 Package: com.dao.wechatnotiavatar
 Version: 1.2-5
 Architecture: iphoneos-arm64
@@ -16369,6 +16401,22 @@ Description: 完全可自由定制的通知横幅变色，根据开源编译/优
 Author: NoisyFlake
 Name: Velvet 2 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
+
+Package: com.dao.watched
+Version: 1.1-10+debug
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Conflicts: com.34306.watched
+Filename: roothide/watched(RootHide).deb
+Size: 5716
+MD5sum: 5c11dda8f8fa6ef057a4e98e7263e003
+SHA1: 8f203990864c91a9aedcff241134418ce504387b
+SHA256: c75bf8393af4291fe3b1fa482e41745edc3f4ff40396f19213ab3e71e107c055
+Section: 嗨-工具
+Description: 让旧 iOS 版本配对新 watchOS 版本，无设置，安装即可生效。
+Author: 34306
+Name: watched(RootHide)
 
 Package: com.dao.youtubereborn
 Version: 4.1.5
