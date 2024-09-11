@@ -12380,36 +12380,6 @@ Name: CopyVault(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
 Package: com.82flex.removewidgetbg
-Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
-Filename: rootless/移除小组件背景(rootless)_0.0.3.deb
-Size: 8236
-MD5sum: 50c4e30734c44ca02ccb31a10791912d
-SHA1: 62e49830052370e11b769d7eb20b0fe802915e50
-SHA256: c277ade231118a013c9097c8af865495a23da8d4a7eb506330ea282ea30986d2
-Section: 嗨-工具
-Description: 已适配系统自带小组件和 Top Widgets⁺ 小组件，移除小组件背景，让桌面更干净。
-Author: Lessica <82flex@gmail.com>
-Name: 移除小组件背景(rootless)
-
-Package: com.82flex.removewidgetbg
-Version: 0.0.4
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
-Filename: rootless/移除小组件背景(rootless)_0.0.4.deb
-Size: 8860
-MD5sum: b92235644a3b86d0911e23321705d81b
-SHA1: e661ddbff00ee774f5f81c27c17ae1fe21ca1d04
-SHA256: 32029032639ac889ce500e704155e44816576220ed2b381f9a8bc64ff30089a4
-Section: 嗨-工具
-Description: 已适配系统自带小组件和 Top Widgets⁺ 小组件，移除小组件背景，让桌面更干净。
-Author: Lessica <82flex@gmail.com>
-Name: 移除小组件背景(rootless)
-
-Package: com.82flex.removewidgetbg
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
@@ -12425,17 +12395,17 @@ Author: Lessica <82flex@gmail.com>
 Name: 移除小组件背景(rootless)
 
 Package: com.82flex.removewidgetbg
-Version: 1.1
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
-Filename: rootless/移除小组件背景(rootless)_1.1.deb
-Size: 29296
-MD5sum: 73493de7fa9ac31b1fc8ec819261555d
-SHA1: eb8bf0a4438c1bd4ec176e4786db684ee1838734
-SHA256: f9abe56a0bda3ec9c019a807eedef62109ad70fca87740a7669cb916a3f6d90e
+Filename: rootless/移除小组件背景(rootless).deb
+Size: 30156
+MD5sum: 7dff3c62b48f92031903e935e8e272ab
+SHA1: 87f2eaddbc660683991e902bd766499300144b27
+SHA256: e09daee49e4b8d1897ef69ab46bf200bb9342a1f1ecd81ef1af333106773c08a
 Section: 嗨-工具
-Description: 已适配系统自带小组件和 Top Widgets⁺ 小组件，移除小组件背景，让桌面更干净。v1.0：新增设置面板。
+Description: 已适配系统自带小组件和 Top Widgets⁺ 小组件，移除小组件背景，让桌面更干净。v1.x：新增设置面板。
 Author: Lessica <82flex@gmail.com>
 Name: 移除小组件背景(rootless)
 
