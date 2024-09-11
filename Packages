@@ -3184,12 +3184,12 @@ Maintainer: Little 34306
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Conflicts: com.34306.watched
 Filename: rootful/watched.deb
-Size: 5696
-MD5sum: 741a6bd262d0bd3337c5058a4b27fac7
-SHA1: 7d682a5bbd44c7656f6bf7af43ac94205fd7fb17
-SHA256: 587a3a5487d8f2863889d366930c2ddb7c823df09cd16d0c938e931c6a69637f
+Size: 5732
+MD5sum: 4821313550f364722853272ab2786438
+SHA1: 10b92317ea364e4a35c5fdc5092dde8d59a8cd8e
+SHA256: 613b47d267589979bdd5b84b7552a80fb8af9768b7c17e182d17d2f7c76589aa
 Section: 嗨-工具
-Description: 让旧 iOS 版本配对新 watchOS 版本，无设置，安装即可生效。
+Description: 让旧 iOS 版本配对新 watchOS(10.3.1及以下保险，实测10.6.1不行) 版本，无设置，安装即可生效。
 Author: 34306
 Name: watched
 
@@ -14050,12 +14050,12 @@ Maintainer: Little 34306
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Conflicts: com.34306.watched
 Filename: rootless/watched(rootless).deb
-Size: 5768
-MD5sum: d897a8e9fcb2935cb717114e018e0eff
-SHA1: 960a940dddf39c898734f1368ceeed4eda0deb5a
-SHA256: 349d4f8dd241c5d6cfb9ad734586f2f59b28291002b161c41a86941e8cac094b
+Size: 5804
+MD5sum: 820592b0539d31281efc6b2b1651ab72
+SHA1: 7e3da9ea0b48870579129fab5d99776547d92258
+SHA256: 4adaf1b5952dc7823d8eb2db8310aa3329b0a69c0630e67a3cf223b8754986a2
 Section: 嗨-工具
-Description: 让旧 iOS 版本配对新 watchOS 版本，无设置，安装即可生效。
+Description: 让旧 iOS 版本配对新 watchOS(10.3.1及以下保险，实测10.6.1不行) 版本，无设置，安装即可生效。
 Author: 34306
 Name: watched(rootless)
 
@@ -16409,12 +16409,12 @@ Maintainer: Little 34306
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Conflicts: com.34306.watched
 Filename: roothide/watched(RootHide).deb
-Size: 5716
-MD5sum: 5c11dda8f8fa6ef057a4e98e7263e003
-SHA1: 8f203990864c91a9aedcff241134418ce504387b
-SHA256: c75bf8393af4291fe3b1fa482e41745edc3f4ff40396f19213ab3e71e107c055
+Size: 5756
+MD5sum: 1bfc45a86c8d6b63aa5c9f491859ceb9
+SHA1: 92dca9515163002c5e19090c7302473a27dcf393
+SHA256: 1dccf1b5dd1fa2574fb7bec7c6951ed406bbba4feb5db9da02c6736c547198c8
 Section: 嗨-工具
-Description: 让旧 iOS 版本配对新 watchOS 版本，无设置，安装即可生效。
+Description: 让旧 iOS 版本配对新 watchOS(10.3.1及以下保险，实测10.6.1不行) 版本，无设置，安装即可生效。
 Author: 34306
 Name: watched(RootHide)
 
