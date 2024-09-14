@@ -3193,6 +3193,25 @@ Description: 让旧 iOS 版本配对新 watchOS(10.3.1及以下保险，实测10
 Author: 34306
 Name: watched
 
+Package: com.dao.xina.afc2
+Version: 1.1.7
+Architecture: iphoneos-arm
+Maintainer: Cannathea <csupport@cannathea.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: mobilesubstrate, firmware (>= 11.0), ldid | firmware (>= 15.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2, com.hk.afc2d-arm64, com.cannathea.afc2d-arm64, com.hk.xina.afc2d-arm64
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: rootful/Xina1AFC2.deb
+Size: 14440
+MD5sum: 384337248d6e5fcb58283746df7bd847
+SHA1: 07966d31057009c3878db158a71b1899a8eb0a11
+SHA256: 848b9d9cfdfd5954c6ac4af1e589f7bd666dc6ff32ff2fcb10e7aefe88353fcb
+Section: 嗨-系统
+Description: Apple File Conduit "2"，允许通过USB对ARM64设备进行完整的文件系统访问。某大佬修改的适配xina1越狱的版本。
+Author: saurik, Cannathea <csupport@cannathea.com>
+Name: AFC2(Xina1越狱专版)
+
 Package: com.dao.youtubereborn
 Version: 4.1.5
 Architecture: iphoneos-arm
@@ -11480,25 +11499,6 @@ Description: Xeon 简体中文包。Xeon 介绍：适用于iPad（iOS 12）和iP
 Author: Sandy0
 Name: Xeon 简体中文包
 
-Package: com.hk.xina.afc2d-arm64
-Version: 1.1.7
-Architecture: iphoneos-arm
-Maintainer: Cannathea <csupport@cannathea.com>
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: mobilesubstrate, firmware (>= 11.0), ldid | firmware (>= 15.0)
-Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2, com.hk.afc2d-arm64, com.cannathea.afc2d-arm64
-Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Filename: rootful/Xina1AFC2.deb
-Size: 14444
-MD5sum: 7bde2b4a580c6d3f2a2bec29f23af0d2
-SHA1: bfe17b74019b596482655e0f1571a71d16a29c77
-SHA256: 54ebf083448d7775d08a34321343300deb127690a96c034839a49b5dc4e6d554
-Section: 嗨-系统
-Description: Apple File Conduit "2"，允许通过USB对ARM64设备进行完整的文件系统访问。某大佬修改的适配xina1越狱的版本。
-Author: saurik, Cannathea <csupport@cannathea.com>
-Name: AFC2(Xina1越狱专版)
-
 Package: com.hk.xina.newterm3
 Version: 3.0~beta1
 Architecture: iphoneos-arm
@@ -12575,6 +12575,26 @@ Section: 嗨-工具
 Description: 在有通知角标的程序图标的“长按/3D Touch”菜单上出现“清除角标”，可一键清除此程序的所有通知角标。
 Author: isklikas
 Name: 3DBadgeClear(rootless)
+
+Package: com.dao.afc2
+Version: 1.1.7-1
+Architecture: iphoneos-arm64
+Maintainer: Cannathea <csupport@cannathea.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0), ldid | firmware (>= 15.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2, com.cannathea.afc2d-arm64, com.82skao.afc2d-arm64
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: rootless/AFC2(rootless).deb
+Size: 11568
+MD5sum: e0bb3f795412279fab6f33292b3ee8ec
+SHA1: 74c9e8e2f69d7535f4bc2d2f0bd19b8e72dc92b5
+SHA256: 79d0dd8cb1ddc2cf16f83f838f67aa75c00c167677a5f5aff7edd0c88987268c
+Section: 嗨-系统
+Description: 允许设备通过USB访问完整的文件系统，对iOS 11及更高版本的设备特别有用。神秘大佬修复支持rootless，神秘版本适合某些越狱。
+Tag: purpose::daemon, role::enduser
+Author: saurik, Cannathea <csupport@cannathea.com>
+Name: AFC2(rootless)
 
 Package: com.dao.akara
 Version: 2.0.0
