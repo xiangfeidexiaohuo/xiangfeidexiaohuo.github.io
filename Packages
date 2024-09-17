@@ -3178,18 +3178,19 @@ Name: Velvet 2 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
 Package: com.dao.watched
-Version: 1.1-8+debug
+Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: Little 34306
+Maintainer: 34306 & 刀刀
+Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Conflicts: com.34306.watched
 Filename: rootful/watched.deb
-Size: 5732
-MD5sum: 4821313550f364722853272ab2786438
-SHA1: 10b92317ea364e4a35c5fdc5092dde8d59a8cd8e
-SHA256: 613b47d267589979bdd5b84b7552a80fb8af9768b7c17e182d17d2f7c76589aa
+Size: 4926
+MD5sum: 924c6d976128cec15925403628d3ffa5
+SHA1: 92d277dc51a49183d8051dddfd61da1c7c48cf93
+SHA256: ad398236877a92b72c4dd5adbd7314a0d3c2679b18e4a35964561017fddbfd44
 Section: 嗨-工具
-Description: 让旧 iOS 版本配对新 watchOS(10.3.1及以下保险，实测10.6.1不行) 版本，无设置，安装即可生效。
+Description: 让旧 iOS 版本配对新 watchOS(10.3.1及以下，更高版本自测) 版本，无设置，安装即可生效。
 Author: 34306
 Name: watched
 
@@ -12645,6 +12646,24 @@ Author: aReo
 Name: AppProtect 隐私保护(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
+Package: com.dao.appsyncunified
+Version: 112.0
+Architecture: iphoneos-arm64
+Maintainer: Karen, Linus Yang
+Depends: mobilesubstrate, firmware (<= 16.5.1)
+Conflicts: ai.akemi.appsyncunified, xyz.cypwn.appsyncunified, byg.iosios.net.appsyncunified
+Replaces: ai.akemi.appsyncunified
+Provides: ai.akemi.appsyncunified (= 112.0)
+Filename: rootless/AppSync Unified(rootless).deb
+Size: 34108
+MD5sum: 164f1b5ae6096a6cecc1e0f8a5af988f
+SHA1: 43202d1a31544fd8cf1ce3e7529c02784df8597e
+SHA256: 103397882b248055fef301ddd9786ad95b354bf13ce2a455ddaa1b21263b120d
+Section: 嗨-系统
+Description: 允许在越狱版 Filza 中安装未签名的 iOS 应用程序；目前明美源gg中，上架备份。
+Author: Karen, Linus Yang
+Name: AppSync Unified(rootless)
+
 Package: com.dao.apptools15
 Version: 1.2.8
 Architecture: iphoneos-arm64
@@ -14049,18 +14068,19 @@ Name: Velvet 2 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
 Package: com.dao.watched
-Version: 1.1-9+debug
+Version: 1.2
 Architecture: iphoneos-arm64
-Maintainer: Little 34306
+Maintainer: 34306 & 刀刀
+Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Conflicts: com.34306.watched
 Filename: rootless/watched(rootless).deb
-Size: 5804
-MD5sum: 820592b0539d31281efc6b2b1651ab72
-SHA1: 7e3da9ea0b48870579129fab5d99776547d92258
-SHA256: 4adaf1b5952dc7823d8eb2db8310aa3329b0a69c0630e67a3cf223b8754986a2
+Size: 4994
+MD5sum: f7cdfe3a20e259d6f879c912e354fc42
+SHA1: f345e7ec39056d86683b8cdc27392c101340d2a2
+SHA256: 049aa44114f93b92492f66085bdbe9ac207dbc51e32da09f061c07eb0f77fd83
 Section: 嗨-工具
-Description: 让旧 iOS 版本配对新 watchOS(10.3.1及以下保险，实测10.6.1不行) 版本，无设置，安装即可生效。
+Description: 让旧 iOS 版本配对新 watchOS(10.3.1及以下，更高版本自测) 版本，无设置，安装即可生效。
 Author: 34306
 Name: watched(rootless)
 
@@ -16408,18 +16428,19 @@ Name: Velvet 2 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
 Package: com.dao.watched
-Version: 1.1-10+debug
+Version: 1.2
 Architecture: iphoneos-arm64e
-Maintainer: Little 34306
+Maintainer: 34306 & 刀刀
+Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Conflicts: com.34306.watched
 Filename: roothide/watched(RootHide).deb
-Size: 5756
-MD5sum: 1bfc45a86c8d6b63aa5c9f491859ceb9
-SHA1: 92dca9515163002c5e19090c7302473a27dcf393
-SHA256: 1dccf1b5dd1fa2574fb7bec7c6951ed406bbba4feb5db9da02c6736c547198c8
+Size: 4954
+MD5sum: 4ea6c65f453accfadc950eccb58a46f2
+SHA1: c437681acff29bfafa702fefcaf121ae514980f0
+SHA256: d4fd4037d9704ac84ee604f477f0e340a4ca16c421b005002c43a9adc340fc62
 Section: 嗨-工具
-Description: 让旧 iOS 版本配对新 watchOS(10.3.1及以下保险，实测10.6.1不行) 版本，无设置，安装即可生效。
+Description: 让旧 iOS 版本配对新 watchOS(10.3.1及以下，更高版本自测) 版本，无设置，安装即可生效。
 Author: 34306
 Name: watched(RootHide)
 
