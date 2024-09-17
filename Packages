@@ -2603,6 +2603,22 @@ Description: Stylish11 简体中文包。
 Author: Sandy0 & Ball
 Name: Stylish11 简体中文包
 
+Package: com.dao.actk.cn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootful/ACTikTok_CN.deb
+Size: 4838
+MD5sum: 251098d2ed7e3a2528d312d4cd50accb
+SHA1: 8fe917b4131ab17a4d8495cc0aeb9c4fd9bd3c5d
+SHA256: 0f5e5855e01a81c86546b48004b5c943a3f37c3f6600adf4682af9aec18c7756
+Section: 嗨-汉化
+Description: ACTikTok 简体中文包。
+Author: 妖刀
+Name: ACTikTok 简体中文包
+
 Package: com.dao.april
 Version: 3.1
 Architecture: iphoneos-arm
@@ -2672,17 +2688,17 @@ Author: NoisyFlake
 Name: BetterAlarm中文版
 
 Package: com.dao.bhtiktok.cn
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 168
 Depends: mobilesubstrate
 Conflicts: com.hk.bhtiktok.cn.rl
 Filename: rootful/BHTikTok_CN.deb
-Size: 8660
-MD5sum: 22fc42f2d8eaaeee662f4394aaf48e3b
-SHA1: 3097c8e11cef230b86a19424d034e9afe3a465fe
-SHA256: dcfa3e4fe863a211fed278726c4b330c42c6647af7c0daebed1d71012f8b716e
+Size: 8730
+MD5sum: fee435e082771958e482f072f6863047
+SHA1: 72da01ef1221f947a12cf9bcb8c7227f7a0f7a90
+SHA256: 3540a0cac5b9fed1c0f75becaeae35e9f9f70306b2a551d24bfc7d367defd6a5
 Section: 嗨-汉化
 Description: BHTikTok 简体中文包。
 Author: 妖刀
@@ -12577,6 +12593,22 @@ Description: 在有通知角标的程序图标的“长按/3D Touch”菜单上�
 Author: isklikas
 Name: 3DBadgeClear(rootless)
 
+Package: com.dao.actk.cn
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/ACTikTok 简体中文包(rootless).deb
+Size: 4888
+MD5sum: 5092f909283e73fd2520a434138ccd67
+SHA1: 97af3b785984ca659eca120a7b54abd9e671e7a7
+SHA256: ae0ef8d7119b51808e7a99368c0382561410919f0c86af171a24ec92571626bc
+Section: 嗨-汉化
+Description: ACTikTok 简体中文包(rootless)。
+Author: 妖刀
+Name: ACTikTok 简体中文包(rootless)
+
 Package: com.dao.afc2
 Version: 1.1.7-1
 Architecture: iphoneos-arm64
@@ -12766,17 +12798,17 @@ Author: Bandar Alruwaili
 Name: BHInsta(rootless)
 
 Package: com.dao.bhtiktok.cn
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 168
 Depends: mobilesubstrate
 Conflicts: com.hk.bhtiktok.cn.rl
 Filename: rootless/BHTikTok 简体中文包(rootless).deb
-Size: 8746
-MD5sum: cd89927d2299ce835ba9cd0679b4734d
-SHA1: 514102f6e12c1440b35587c1a8bda94f2c9ffbd7
-SHA256: 6a04ec2922e721f3295d2b67f01277b5a7bf3d0b63d59c10a0217979c0f779a8
+Size: 8782
+MD5sum: 1dc542a531f98729afd7a3f08f521841
+SHA1: 17d42ae566c7d5f2c2a0581d2b93696b34d5b952
+SHA256: 68ee2951e7ebd9e88ff31208b268f45be948251b53049bc77b957b300a6e94b6
 Section: 嗨-汉化
 Description: BHTikTok 简体中文包(rootless)。
 Author: 妖刀
@@ -15864,6 +15896,22 @@ Description: 去除所有广告，无弹窗。
 Author: 小果子
 Name: 威锋去广告(RootHide)
 
+Package: com.dao.actk.cn
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: roothide/ACTikTok 简体中文包(RootHide).deb
+Size: 4884
+MD5sum: 0852b6dc99fcf6e1e22bf6c4cab70f86
+SHA1: 46e4aafd8fd82156cc388039621ed0bb19e1762a
+SHA256: 6a81b125a767649202ae28f19b59700c2952355f78d525be01a41d86d2d7a456
+Section: 嗨-汉化
+Description: ACTikTok 简体中文包(RootHide)。
+Author: 妖刀
+Name: ACTikTok 简体中文包(RootHide)
+
 Package: com.dao.april
 Version: 3.1
 Architecture: iphoneos-arm64e
@@ -15915,6 +15963,23 @@ Section: 嗨-工具
 Description: 漂亮的定时器和闹钟提醒，根据开源编译。
 Author: NoisyFlake
 Name: BetterAlarm中文版(RootHide)
+
+Package: com.dao.bhtiktok.cn
+Version: 0.2
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 168
+Depends: mobilesubstrate
+Conflicts: com.hk.bhtiktok.cn.rl
+Filename: roothide/BHTikTok 简体中文包(RootHide).deb
+Size: 8740
+MD5sum: 987850d12c736202c2cd8f4784a36dac
+SHA1: dc9e95f15223ddd617b2b25cfdef046d0cb49f47
+SHA256: a7f117a99cd7686b0cad9514ff7da72f8ce523a91248eed927146093b2c3bc9e
+Section: 嗨-汉化
+Description: BHTikTok 简体中文包(RootHide)。
+Author: 妖刀
+Name: BHTikTok 简体中文包(RootHide)
 
 Package: com.dao.blurrybadges
 Version: 1.5.2.1
