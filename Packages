@@ -12797,6 +12797,23 @@ Description: Instagram多功能插件，可去广告、下载等，源内有汉�
 Author: Bandar Alruwaili
 Name: BHInsta(rootless)
 
+Package: com.dao.bhtiktok++
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: raul saeed & 刀刀
+Installed-Size: 504
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
+Filename: rootless/BHTikTok++中文版(rootless).deb
+Size: 91714
+MD5sum: 6090628076ffbbfe731190f4ccd1454b
+SHA1: 4492437a9e510ba7bfbe93d02be7420e24234602
+SHA256: 93ec1e7ba90ede1e629ee49bf9853b0900b967d66015247668a97c9f1e620968
+Section: 嗨-工具
+Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
+Author: raul saeed
+Name: BHTikTok++中文版(rootless)
+
 Package: com.dao.bhtiktok.cn
 Version: 0.2
 Architecture: iphoneos-arm64
