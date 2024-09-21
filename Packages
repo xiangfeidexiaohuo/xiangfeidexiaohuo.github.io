@@ -3194,19 +3194,19 @@ Name: Velvet 2 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
 Package: com.dao.watched
-Version: 1.2
+Version: 1.2-1
 Architecture: iphoneos-arm
 Maintainer: 34306 & 刀刀
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Conflicts: com.34306.watched
 Filename: rootful/watched.deb
-Size: 4926
-MD5sum: 924c6d976128cec15925403628d3ffa5
-SHA1: 92d277dc51a49183d8051dddfd61da1c7c48cf93
-SHA256: ad398236877a92b72c4dd5adbd7314a0d3c2679b18e4a35964561017fddbfd44
+Size: 4880
+MD5sum: fea5902d3b51c275ff7ba3f113a4f23f
+SHA1: a6f8be362da47c84dbec830af14b42ccfff081e9
+SHA256: f16d93367defca03236bfbf07e1278eefd0718132ff73ea46afa1eff26e5ab82
 Section: 嗨-工具
-Description: 让旧 iOS 版本配对新 watchOS(10.3.1及以下，更高版本自测) 版本，无设置，安装即可生效。
+Description: 让旧 iOS 版本配对新 watchOS(自测) 版本，无设置，安装即可生效。
 Author: 34306
 Name: watched
 
@@ -12804,11 +12804,28 @@ Maintainer: raul saeed & 刀刀
 Installed-Size: 504
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootless/BHTikTok++中文版(rootless).deb
+Filename: rootless/BHTikTok++中文版(rootless)_1.0.deb
 Size: 91714
 MD5sum: 6090628076ffbbfe731190f4ccd1454b
 SHA1: 4492437a9e510ba7bfbe93d02be7420e24234602
 SHA256: 93ec1e7ba90ede1e629ee49bf9853b0900b967d66015247668a97c9f1e620968
+Section: 嗨-工具
+Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
+Author: raul saeed
+Name: BHTikTok++中文版(rootless)
+
+Package: com.dao.bhtiktok++
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: raul saeed & 刀刀
+Installed-Size: 520
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
+Filename: rootless/BHTikTok++中文版(rootless)_1.1.deb
+Size: 90018
+MD5sum: a8bfd66795790e5623419380ac8b52b9
+SHA1: 9652bf5667847b29c6cb9a5799bab5232780836a
+SHA256: fd5c5140700b09827487beaaefd2d129e6f7bb96ff583597e3a5295bef387535
 Section: 嗨-工具
 Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
 Author: raul saeed
@@ -14117,19 +14134,19 @@ Name: Velvet 2 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
 Package: com.dao.watched
-Version: 1.2
+Version: 1.2-1
 Architecture: iphoneos-arm64
 Maintainer: 34306 & 刀刀
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Conflicts: com.34306.watched
 Filename: rootless/watched(rootless).deb
-Size: 4994
-MD5sum: f7cdfe3a20e259d6f879c912e354fc42
-SHA1: f345e7ec39056d86683b8cdc27392c101340d2a2
-SHA256: 049aa44114f93b92492f66085bdbe9ac207dbc51e32da09f061c07eb0f77fd83
+Size: 4968
+MD5sum: 9daa31acca34f2771a6f3d12a1d28808
+SHA1: df05d0db132ab537b6f752ad7b0ca9083ca5d7ba
+SHA256: f970bc1b653bc6df14e7f79d9a601d8cce0a1c6e56beb5283686d52ae9180b80
 Section: 嗨-工具
-Description: 让旧 iOS 版本配对新 watchOS(10.3.1及以下，更高版本自测) 版本，无设置，安装即可生效。
+Description: 让旧 iOS 版本配对新 watchOS(自测) 版本，无设置，安装即可生效。
 Author: 34306
 Name: watched(rootless)
 
@@ -16510,19 +16527,19 @@ Name: Velvet 2 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
 Package: com.dao.watched
-Version: 1.2
+Version: 1.2-1
 Architecture: iphoneos-arm64e
 Maintainer: 34306 & 刀刀
 Installed-Size: 152
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Conflicts: com.34306.watched
 Filename: roothide/watched(RootHide).deb
-Size: 4954
-MD5sum: 4ea6c65f453accfadc950eccb58a46f2
-SHA1: c437681acff29bfafa702fefcaf121ae514980f0
-SHA256: d4fd4037d9704ac84ee604f477f0e340a4ca16c421b005002c43a9adc340fc62
+Size: 4904
+MD5sum: 5685b5d9d0000b0f9a2c469d1160395f
+SHA1: 5138eb739b50c3bd61d3b4bc7e14a88596837abe
+SHA256: 511a0442c307b24486eb0cbfc5e0e0cd96c9c918bac84a71b6b97c413e098890
 Section: 嗨-工具
-Description: 让旧 iOS 版本配对新 watchOS(10.3.1及以下，更高版本自测) 版本，无设置，安装即可生效。
+Description: 让旧 iOS 版本配对新 watchOS(自测) 版本，无设置，安装即可生效。
 Author: 34306
 Name: watched(RootHide)
 
