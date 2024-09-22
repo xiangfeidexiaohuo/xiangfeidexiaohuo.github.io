@@ -2622,16 +2622,16 @@ Author: Sandy0 & Ball
 Name: Stylish11 简体中文包
 
 Package: com.dao.actk.cn
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: rootful/ACTikTok_CN.deb
-Size: 4838
-MD5sum: 251098d2ed7e3a2528d312d4cd50accb
-SHA1: 8fe917b4131ab17a4d8495cc0aeb9c4fd9bd3c5d
-SHA256: 0f5e5855e01a81c86546b48004b5c943a3f37c3f6600adf4682af9aec18c7756
+Size: 6132
+MD5sum: 8d3ecba1fefdea73b675d68fc33176ef
+SHA1: 40f74881b1421910f0738ba9911551fb7783685b
+SHA256: d3e2358da0d4c124352f39d17c62644f824aac77d72a2c4a37d47ef568c5f588
 Section: 嗨-汉化
 Description: ACTikTok 简体中文包。
 Author: 妖刀
@@ -12630,16 +12630,16 @@ Author: isklikas
 Name: 3DBadgeClear(rootless)
 
 Package: com.dao.actk.cn
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: rootless/ACTikTok 简体中文包(rootless).deb
-Size: 4888
-MD5sum: 5092f909283e73fd2520a434138ccd67
-SHA1: 97af3b785984ca659eca120a7b54abd9e671e7a7
-SHA256: ae0ef8d7119b51808e7a99368c0382561410919f0c86af171a24ec92571626bc
+Size: 6240
+MD5sum: c6b6d37850e8336b5edbef99095cdaac
+SHA1: d21da76d57fcf1e19c4c36e1703fc21e2e31c548
+SHA256: 0281f6f63ffccf39f0b96315520f02f0b9026ecbcd17d3d2499957b3d7bcbf7c
 Section: 嗨-汉化
 Description: ACTikTok 简体中文包(rootless)。
 Author: 妖刀
@@ -15985,16 +15985,16 @@ Author: 小果子
 Name: 威锋去广告(RootHide)
 
 Package: com.dao.actk.cn
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm64e
 Maintainer: 妖刀
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: roothide/ACTikTok 简体中文包(RootHide).deb
-Size: 4884
-MD5sum: 0852b6dc99fcf6e1e22bf6c4cab70f86
-SHA1: 46e4aafd8fd82156cc388039621ed0bb19e1762a
-SHA256: 6a81b125a767649202ae28f19b59700c2952355f78d525be01a41d86d2d7a456
+Size: 6140
+MD5sum: da96737c542eabf58170ca8beb7aa2ef
+SHA1: f44ec5107d48082ec310acb99ccbceaead6403dc
+SHA256: db603b0c51b1ce690a0e86a20a0234a52ba5cfa4a8246328db787ee7385ae6f9
 Section: 嗨-汉化
 Description: ACTikTok 简体中文包(RootHide)。
 Author: 妖刀
