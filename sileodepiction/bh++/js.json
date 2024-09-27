@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://xiangfeidexiaohuo.github.io/images/sci.png",
+    "headerImage": "https://xiangfeidexiaohuo.github.io/images/bh++.png",
     "tintColor": "#1DBBFF",
     "minVersion": "0.3",
     "tabs": [
@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，刀刀根据开源直接编译的中文版。</br> </br> 长按主页面左上角“Instagram图标”进入插件设置！",
+                    "markdown": "全新的TikTok多功能插件，刀刀基于开源定制并汉化。</br> </br> 插件选项在TikTok设置顶部。",
                     "useRawFormat": true,
                 },
                 {
@@ -20,15 +20,18 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/sci/Screenshot_01.png"
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/sci/Screenshot_02.png"
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/Screenshot_02.png"
+                        },
+"accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/Screenshot_03.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/sci/Screenshot_03.png"
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/Screenshot_04.png"
                         }
                     ]
                 },
@@ -55,17 +58,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "SoCuul",
+                    "text": "raul saeed",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "SoCuul & 妖刀",
+                    "text": "raul saeed & 妖刀",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.6.0",
+                    "text": "1.2",
                     "title": "最新版本"
                 },
                 {
@@ -90,24 +93,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "0.6.0",
+                    "title": "1.2",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步最新的 0.5.1 源码并汉化",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "0.4.1",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "根据 SoCuul 的开源，直接编译简体中文版。",
+                    "markdown": "同步最新源码并汉化",
                     "useRawFormat": true
                 }
             ]

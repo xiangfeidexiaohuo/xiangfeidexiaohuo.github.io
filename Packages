@@ -2705,6 +2705,24 @@ Description: 漂亮的定时器和闹钟提醒，根据开源编译。
 Author: NoisyFlake
 Name: BetterAlarm中文版
 
+Package: com.dao.bhtiktok++
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: raul saeed & 刀刀
+Installed-Size: 552
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
+Filename: rootful/BHTikTok++_ZH.deb
+Size: 92204
+MD5sum: 9c234516b936cf4c372455c7056b5b26
+SHA1: 9428220e9e08c042d25ba98fd1d1b07bd5f1aad5
+SHA256: 671a163718fa44c4cc5dbe3deda754247925340339a14fedfe2f924ba033f555
+Section: 嗨-工具
+Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
+Author: raul saeed
+Name: BHTikTok++中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
+
 Package: com.dao.bhtiktok.cn
 Version: 0.2
 Architecture: iphoneos-arm
@@ -12874,14 +12892,15 @@ Installed-Size: 552
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
 Filename: rootless/BHTikTok++中文版(rootless)_1.2.deb
-Size: 91784
-MD5sum: de55e4053dcebdd0fbd8c0ccac17700b
-SHA1: 518ce97e123be747fc1d342e95e3897fe88b7a7c
-SHA256: 2b2c5dcb3553b8f3d7483e4e800a19b9c3858506a3caa9a7a67db7dec40220ce
+Size: 91774
+MD5sum: d7ccf33aec6f1433c6b37328ec58c363
+SHA1: 66393d44af0f1ea94de85ca76a3161fc92bb26f4
+SHA256: 3e2860aeba40b9ce87a45dc510d36b43d77c91933c9f37a38a9c0dcbb4be5262
 Section: 嗨-工具
 Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
 Author: raul saeed
 Name: BHTikTok++中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
 
 Package: com.dao.bhtiktok.cn
 Version: 0.2
@@ -13869,7 +13888,7 @@ Maintainer: SoCuul & 妖刀
 Installed-Size: 1888
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
-Filename: rootless/SCInsta 中文版(rootless).deb
+Filename: rootless/SCInsta 中文版(rootless)_0.5.1.deb
 Size: 506518
 MD5sum: 4a9ce43443c7d0be27a27bc9fd4e888c
 SHA1: bb5e8adc3c0021bfa7040f160ea9f2472b7f9058
@@ -14010,7 +14029,7 @@ Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
 Conflicts: com.eevee.spotify
-Filename: rootless/EeveeSpotify(rootless).deb
+Filename: rootless/EeveeSpotify(rootless)_5.2.deb
 Size: 559620
 MD5sum: 6539349fab029e86d12763e0b5db8fba
 SHA1: 34a83969912be73218a1558cbedd20ac1eecb06e
@@ -15834,11 +15853,25 @@ Package: org.swift.protobuf.swiftprotobuf
 Version: 1.26.0
 Architecture: iphoneos-arm64
 Maintainer: eevee
-Filename: rootless/SwiftProtobuf(rootless).deb
+Filename: rootless/SwiftProtobuf(rootless)_1.26.deb
 Size: 1271416
 MD5sum: d496d000acd2b335015d74a052c78c9b
 SHA1: bc442c0622b7140b70bdc8e2c85318ccbe2bd73a
 SHA256: 7911d4313c80854d0ff390b51477119134d9fbd3019b5b173663cfc068c8e116
+Section: 嗨-工具
+Description: EeveeSpotify的依赖。
+Author: eevee
+Name: SwiftProtobuf(rootless)
+
+Package: org.swift.protobuf.swiftprotobuf
+Version: 1.28.1
+Architecture: iphoneos-arm64
+Maintainer: eevee
+Filename: rootless/SwiftProtobuf(rootless)_1.28.1.deb
+Size: 1430280
+MD5sum: ed5f3c8dab70c1d35ac932052f2fa099
+SHA1: 8d50910e06b6e3eaf36cb0becd2684506d8216cc
+SHA256: 1c58dc522015e6c6b5b944ef33c93400c77c05c053fc8a914847bc6c2d874bb6
 Section: 嗨-工具
 Description: EeveeSpotify的依赖。
 Author: eevee
@@ -16101,6 +16134,24 @@ Section: 嗨-工具
 Description: 漂亮的定时器和闹钟提醒，根据开源编译。
 Author: NoisyFlake
 Name: BetterAlarm中文版(RootHide)
+
+Package: com.dao.bhtiktok++
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: raul saeed & 刀刀
+Installed-Size: 552
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
+Filename: roothide/BHTikTok++中文版(RootHide).deb
+Size: 92448
+MD5sum: 39f4b3d88dbd2c232cc438832be1a61f
+SHA1: 82c537202c85d1b321f77a44c2369afa55b2e17c
+SHA256: 5f3be9b258a4da3ffceff4ea9113889037338bc2bfd95be476ec46490113da08
+Section: 嗨-工具
+Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
+Author: raul saeed
+Name: BHTikTok++中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
 
 Package: com.dao.bhtiktok.cn
 Version: 0.2
