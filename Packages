@@ -12866,6 +12866,40 @@ Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化�
 Author: raul saeed
 Name: BHTikTok++中文版(rootless)
 
+Package: com.dao.bhtiktok++
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: raul saeed & 刀刀
+Installed-Size: 552
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
+Filename: rootless/BHTikTok++中文版(rootless)_1.2.deb
+Size: 91784
+MD5sum: de55e4053dcebdd0fbd8c0ccac17700b
+SHA1: 518ce97e123be747fc1d342e95e3897fe88b7a7c
+SHA256: 2b2c5dcb3553b8f3d7483e4e800a19b9c3858506a3caa9a7a67db7dec40220ce
+Section: 嗨-工具
+Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
+Author: raul saeed
+Name: BHTikTok++中文版(rootless)
+
+Package: com.dao.bhtiktok++
+Version: 1.3.0
+Architecture: iphoneos-arm64
+Maintainer: raul saeed & 刀刀
+Installed-Size: 552
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
+Filename: rootless/BHTikTok++中文版(rootless)_1.3.deb
+Size: 91876
+MD5sum: c1058b1399a36a71382d63f46c889476
+SHA1: bcc6519ab631bad09b3afe8d96577cff9a3e9a69
+SHA256: d25d144bf90005b57175e6f0ce76966eb9c50cf92fde76ec47648667bab2b666
+Section: 嗨-工具
+Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
+Author: raul saeed
+Name: BHTikTok++中文版(rootless)
+
 Package: com.dao.bhtiktok.cn
 Version: 0.2
 Architecture: iphoneos-arm64
