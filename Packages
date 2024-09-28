@@ -3046,16 +3046,16 @@ Author: 妖刀
 Name: Satella 简体中文包
 
 Package: com.dao.scinsta
-Version: 0.5.1
+Version: 0.6.0
 Architecture: iphoneos-arm
 Maintainer: SoCuul & 妖刀
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
 Filename: rootful/SCInsta_ZH.deb
-Size: 506620
-MD5sum: e01fcd9b30e4654d2a0e3f6614cce445
-SHA1: ad44fd23924edc07edd366c310bab03dd1711001
-SHA256: 1682453959868c47274bf2f749f76877191a9ac5e06ce4abaf6a812ab3e48a50
+Size: 505440
+MD5sum: 5ba30b2fdbb47a5bd6f169c49ea4297e
+SHA1: 6de8611fd0be4363b07c271a868f4baae7c0018a
+SHA256: d1c9c7acc852d5d9c775b9b0f91dcb320ab2212b1669489637099a8f4308caa7
 Section: 嗨-工具
 Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
 Author: SoCuul
@@ -13899,6 +13899,24 @@ Author: SoCuul
 Name: SCInsta 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/sci/js.json
 
+Package: com.dao.scinsta
+Version: 0.6.0
+Architecture: iphoneos-arm64
+Maintainer: SoCuul & 妖刀
+Installed-Size: 1872
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
+Filename: rootless/SCInsta 中文版(rootless)_0.6.0.deb
+Size: 505652
+MD5sum: 8c981727e8f89b87b92f245f3eb6f5f5
+SHA1: a71033cb9abaede363f3d3bef07bd57975b96f3d
+SHA256: 20c84aa0cdb433ca11aa8f127e80a2f45344fd6240b727b117309bb3e16ad94d
+Section: 嗨-工具
+Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
+Author: SoCuul
+Name: SCInsta 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/sci/js.json
+
 Package: com.dao.senri.cn
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -16515,16 +16533,16 @@ Author: 妖刀
 Name: Satella 简体中文包(RootHide)
 
 Package: com.dao.scinsta
-Version: 0.5.1
+Version: 0.6.0
 Architecture: iphoneos-arm64e
 Maintainer: SoCuul & 妖刀
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
 Filename: roothide/SCInsta 中文版(RootHide).deb
-Size: 507104
-MD5sum: 1b6b39a8dc0d2c75472bee5cd367416b
-SHA1: 0da34367f3aee993a1053d4032cbe78afcba3dd8
-SHA256: b62fe98440cbd496edd6b99a175a38e4ef16402ca0ac0f7bf1cb142d57370159
+Size: 505544
+MD5sum: f759143cd75f0fef514dce413282d5f0
+SHA1: a05059215a38bb8f831517efd0e5d26fa2886768
+SHA256: 5a3023a2b33d9ace9dbe431241975f02dd6447ea23ccd91fa236224a120c3d17
 Section: 嗨-工具
 Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
 Author: SoCuul

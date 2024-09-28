@@ -96,7 +96,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步最新的 0.5.1 源码并汉化",
+                    "markdown": "同步最新源码并汉化",
                     "useRawFormat": true
                 },
                 {
