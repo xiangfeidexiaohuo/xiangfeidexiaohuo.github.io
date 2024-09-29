@@ -2706,17 +2706,17 @@ Author: NoisyFlake
 Name: BetterAlarm中文版
 
 Package: com.dao.bhtiktok++
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: raul saeed & 刀刀
 Installed-Size: 552
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
 Filename: rootful/BHTikTok++_ZH.deb
-Size: 92204
-MD5sum: 9c234516b936cf4c372455c7056b5b26
-SHA1: 9428220e9e08c042d25ba98fd1d1b07bd5f1aad5
-SHA256: 671a163718fa44c4cc5dbe3deda754247925340339a14fedfe2f924ba033f555
+Size: 94508
+MD5sum: 117e310c6a12dadf38c79b6494947b4e
+SHA1: 64c5701cc18d6e420e337dc93efc3f8dc115818b
+SHA256: 32363f33b8303331773b5333dc83e76a65f177d44c4d1d02f72d4b9b39fe7fdf
 Section: 嗨-工具
 Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
 Author: raul saeed
@@ -12850,51 +12850,17 @@ Author: Bandar Alruwaili
 Name: BHInsta(rootless)
 
 Package: com.dao.bhtiktok++
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: raul saeed & 刀刀
-Installed-Size: 504
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootless/BHTikTok++中文版(rootless)_1.0.deb
-Size: 91714
-MD5sum: 6090628076ffbbfe731190f4ccd1454b
-SHA1: 4492437a9e510ba7bfbe93d02be7420e24234602
-SHA256: 93ec1e7ba90ede1e629ee49bf9853b0900b967d66015247668a97c9f1e620968
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed
-Name: BHTikTok++中文版(rootless)
-
-Package: com.dao.bhtiktok++
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: raul saeed & 刀刀
-Installed-Size: 520
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootless/BHTikTok++中文版(rootless)_1.1.deb
-Size: 90018
-MD5sum: a8bfd66795790e5623419380ac8b52b9
-SHA1: 9652bf5667847b29c6cb9a5799bab5232780836a
-SHA256: fd5c5140700b09827487beaaefd2d129e6f7bb96ff583597e3a5295bef387535
-Section: 嗨-工具
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Author: raul saeed
-Name: BHTikTok++中文版(rootless)
-
-Package: com.dao.bhtiktok++
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: raul saeed & 刀刀
 Installed-Size: 552
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: rootless/BHTikTok++中文版(rootless)_1.2.deb
-Size: 91774
-MD5sum: d7ccf33aec6f1433c6b37328ec58c363
-SHA1: 66393d44af0f1ea94de85ca76a3161fc92bb26f4
-SHA256: 3e2860aeba40b9ce87a45dc510d36b43d77c91933c9f37a38a9c0dcbb4be5262
+Filename: rootless/BHTikTok++中文版(rootless).deb
+Size: 95104
+MD5sum: 1bb01118f2ca5ceacdf9e8193c090f66
+SHA1: 638181a373e5940ad9ec93a616249a0da9ef8687
+SHA256: dd43007b3cbf77ab8229e213e2e2294cf2e8f369f989a544e3c75dd97a7e24bb
 Section: 嗨-工具
 Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
 Author: raul saeed
@@ -13879,49 +13845,13 @@ Author: 妖刀
 Name: Satella 简体中文包(rootless)
 
 Package: com.dao.scinsta
-Version: 0.5.0
-Architecture: iphoneos-arm64
-Maintainer: SoCuul & 妖刀
-Installed-Size: 1904
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
-Filename: rootless/SCInsta 中文版(rootless)_0.5.deb
-Size: 498410
-MD5sum: 7f749a93413baace196fde2be4d11f28
-SHA1: b93f425561de8cf19820a3518f6b6fb8a3a1b51d
-SHA256: aac2ab1f77048d2ecb9c25cfa82d70db25babdadd753bd27b63ba023bc6673e0
-Section: 嗨-工具
-Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
-Author: SoCuul
-Name: SCInsta 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/sci/js.json
-
-Package: com.dao.scinsta
-Version: 0.5.1
-Architecture: iphoneos-arm64
-Maintainer: SoCuul & 妖刀
-Installed-Size: 1888
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
-Filename: rootless/SCInsta 中文版(rootless)_0.5.1.deb
-Size: 506518
-MD5sum: 4a9ce43443c7d0be27a27bc9fd4e888c
-SHA1: bb5e8adc3c0021bfa7040f160ea9f2472b7f9058
-SHA256: 806dcad5f9b8986a82c8da794b4ab720b3e57d60eff988549d3efa6457ac43ef
-Section: 嗨-工具
-Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
-Author: SoCuul
-Name: SCInsta 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/sci/js.json
-
-Package: com.dao.scinsta
 Version: 0.6.0
 Architecture: iphoneos-arm64
 Maintainer: SoCuul & 妖刀
 Installed-Size: 1872
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
-Filename: rootless/SCInsta 中文版(rootless)_0.6.0.deb
+Filename: rootless/SCInsta 中文版(rootless).deb
 Size: 505652
 MD5sum: 8c981727e8f89b87b92f245f3eb6f5f5
 SHA1: a71033cb9abaede363f3d3bef07bd57975b96f3d
@@ -16137,17 +16067,17 @@ Author: NoisyFlake
 Name: BetterAlarm中文版(RootHide)
 
 Package: com.dao.bhtiktok++
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm64e
 Maintainer: raul saeed & 刀刀
 Installed-Size: 552
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
 Filename: roothide/BHTikTok++中文版(RootHide).deb
-Size: 92448
-MD5sum: 39f4b3d88dbd2c232cc438832be1a61f
-SHA1: 82c537202c85d1b321f77a44c2369afa55b2e17c
-SHA256: 5f3be9b258a4da3ffceff4ea9113889037338bc2bfd95be476ec46490113da08
+Size: 95032
+MD5sum: 3460c64cc98f89964398e1fd28a78124
+SHA1: f7b35de9fb4c476f07fa87653e3257bbce97904c
+SHA256: 616aec85c8b38f8febf6e394205a2713d4f4236407ee0b31e2414d946305eba4
 Section: 嗨-工具
 Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
 Author: raul saeed

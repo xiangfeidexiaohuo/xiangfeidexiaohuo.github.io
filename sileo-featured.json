@@ -4,9 +4,15 @@
  "itemCornerRadius": 10,
  "banners": [
   {
-   "url": "https://xiangfeidexiaohuo.github.io/images/ytr.png",
-   "title": "YouTube Reborn",
-   "package": "com.dao.youtubereborn",
+   "url": "https://xiangfeidexiaohuo.github.io/images/cf3.png",
+   "title": "ClassicFolders 3",
+   "package": "com.dao.classicfolders3",
+   "hideShadow": false
+  },
+  {
+   "url": "https://xiangfeidexiaohuo.github.io/images/goodwifi.png",
+   "title": "GoodWiFi",
+   "package": "com.daodao.goodwifi",
    "hideShadow": false
   },
   {
@@ -15,12 +21,6 @@
    "package": "com.dao.axon",
    "hideShadow": false
   },
-  {
-   "url": "https://xiangfeidexiaohuo.github.io/images/cf3.png",
-   "title": "ClassicFolders 3",
-   "package": "com.dao.classicfolders3",
-   "hideShadow": false
-  }, 
   {
    "url": "https://xiangfeidexiaohuo.github.io/images/tvlock.png",
    "title": "TVLock",
@@ -34,18 +34,11 @@
    "hideShadow": false
   }, 
   {
-   "url": "https://xiangfeidexiaohuo.github.io/images/goodwifi.png",
-   "title": "GoodWiFi",
-   "package": "com.daodao.goodwifi",
-   "hideShadow": false
-  },  
-  {
    "url": "https://xiangfeidexiaohuo.github.io/images/line.png",
    "title": "PurifyLine",
    "package": "com.dao.noline",
    "hideShadow": false
   },
-
   {
    "url": "https://xiangfeidexiaohuo.github.io/images/velvet2.png",
    "title": "Velvet 2",
