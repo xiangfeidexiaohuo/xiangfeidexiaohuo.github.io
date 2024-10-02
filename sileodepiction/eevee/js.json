@@ -61,17 +61,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.2",
+                    "text": "5.3",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "15.0 - 16.5.1",
+                    "text": "14.0 - 16.5.1",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 09 月 19 日",
+                    "text": "2024 年 10 月 02 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,7 +86,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "5.2",
+                    "title": "5.3",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
