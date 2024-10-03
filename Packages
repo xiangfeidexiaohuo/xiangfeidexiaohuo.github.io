@@ -220,15 +220,15 @@ Author: c1d3r/Netskao
 Name: PullOver Pro(编译版)
 
 Package: com.82flex.noredirect
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
 Filename: rootful/NoRedirect.deb
-Size: 37740
-MD5sum: 89c7d629f1ae9e03ed2ac88ea844a64c
-SHA1: b3fb137610e17b7003a30e9b7a48831c34aedd9d
-SHA256: da28222d89a48381a7bd29a054c9360ec581ce0f88c4a1081fff45b8f94a9e01
+Size: 36924
+MD5sum: c0151a98ae50ae20aef31d2d725fb0f5
+SHA1: e19ab7b185e5ab51a760e2c6fb33c9307ff6fbd5
+SHA256: 62b3d02f93df173dc56ae719aff80689f3e613788375417661de66e1aa715ea0
 Section: 嗨-工具
 Description: 阻止指定的应用程序重定向到App Store、Safari或其他应用程序。
 Author: Lessica <82flex@gmail.com>
@@ -12482,15 +12482,15 @@ Name: CopyVault(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
 Package: com.82flex.noredirect
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
 Filename: rootless/禁字诀(rootless).deb
-Size: 37820
-MD5sum: 525d3a8a6d08cc33728a7f4646f7a4ba
-SHA1: 4584fffc6947dee7a949839e1a703c97ef0b8d41
-SHA256: 068ac7aacbcaa4409a171b86814f60c5ad4a89a556a3fd126d1864cadfeddf8d
+Size: 37024
+MD5sum: cc9cffb809cf4447d330b8fb373d4145
+SHA1: f4e0690b91c796b979da7f18cba8db52561bede1
+SHA256: 9574724ab8605c7b8ef7433a87de837f3aeff84c912473b3b0cdccd686c5c713
 Section: 嗨-工具
 Description: 阻止指定的应用程序重定向到App Store、Safari或其他应用程序。
 Author: Lessica <82flex@gmail.com>
