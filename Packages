@@ -220,15 +220,15 @@ Author: c1d3r/Netskao
 Name: PullOver Pro(编译版)
 
 Package: com.82flex.noredirect
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
 Filename: rootful/NoRedirect.deb
-Size: 36924
-MD5sum: c0151a98ae50ae20aef31d2d725fb0f5
-SHA1: e19ab7b185e5ab51a760e2c6fb33c9307ff6fbd5
-SHA256: 62b3d02f93df173dc56ae719aff80689f3e613788375417661de66e1aa715ea0
+Size: 43952
+MD5sum: a19f83ee134814bcac99ac43c793220f
+SHA1: 232cd58f800e1375e774760334758de7fcca7e97
+SHA256: 21f820ff333e19907461fd72aa72ea9f939637fac1cf068b313eab3147ba881c
 Section: 嗨-工具
 Description: 阻止指定的应用程序重定向到App Store、Safari或其他应用程序。
 Author: Lessica <82flex@gmail.com>
@@ -2702,6 +2702,23 @@ Section: 嗨-工具
 Description: 一个自动化注入工具，为iOS应用程序注入插件。需要依赖插件比较多，请先添加以下的源：https://level3tjg.me/repo/、https://apt.alfhaily.me/、https://cydia.akemi.ai/。具体用法，自行科普azule -h。
 Author: Alaise
 Name: Azule 注入工具
+
+Package: com.dao.batteryhealth
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: PoomSmart
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Conflicts: com.ps.batteryhealthenabler
+Filename: rootful/BatteryHealth.deb
+Size: 5592
+MD5sum: e7b357e9ea42a7cbdb5ea73632ebf1e6
+SHA1: cdd71f5e35156b5af06282e71d2717bc739bb9dc
+SHA256: 336b2e0e1ae18ae24c49804f2054514189b1cd2c874ea9928fb380e5c73a4f21
+Section: 嗨-工具
+Description: 修复更换电池后，电池健康显示维修或无法验证的问题，无设置，自动生效。
+Author: PoomSmart
+Name: BatteryHealth
 
 Package: com.dao.betteralarm
 Version: 1.5
@@ -12482,15 +12499,15 @@ Name: CopyVault(激活码版)
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
 
 Package: com.82flex.noredirect
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
 Filename: rootless/禁字诀(rootless).deb
-Size: 37024
-MD5sum: cc9cffb809cf4447d330b8fb373d4145
-SHA1: f4e0690b91c796b979da7f18cba8db52561bede1
-SHA256: 9574724ab8605c7b8ef7433a87de837f3aeff84c912473b3b0cdccd686c5c713
+Size: 44104
+MD5sum: d7ae8e61f6001a0bc22823897c3ecab3
+SHA1: 0af1010393f6fa3b37aa5f9b32a6800f80d81377
+SHA256: 2dcf1dbbf77d93e102d3b952c77aad2a58bb8db7952ffa61d353f115d562b0a2
 Section: 嗨-工具
 Description: 阻止指定的应用程序重定向到App Store、Safari或其他应用程序。
 Author: Lessica <82flex@gmail.com>
@@ -12878,6 +12895,23 @@ Section: 嗨-工具
 Description: 一个自动化注入工具，为iOS应用程序注入插件。具体用法，自行科普azule -h。
 Author: Alaise, Sudo
 Name: Azule(rootless)
+
+Package: com.dao.batteryhealth
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Conflicts: com.ps.batteryhealthenabler
+Filename: rootless/BatteryHealth(rootless).deb
+Size: 5678
+MD5sum: 4af3c53559ee1346f19e46ee9ae82c44
+SHA1: 937a4fccd535af7c389ae2437bab0d3edd57be4e
+SHA256: 1d1749e460cf137a555cf5301bea856447979e19a68e45fe2dc00ddc99ed60bb
+Section: 嗨-工具
+Description: 修复更换电池后，电池健康显示维修或无法验证的问题，无设置，自动生效。
+Author: PoomSmart
+Name: BatteryHealth(rootless)
 
 Package: com.dao.betteralarm
 Version: 1.5
@@ -16146,6 +16180,23 @@ Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优
 Author: Nepeta
 Name: Axon 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.batteryhealth
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Conflicts: com.ps.batteryhealthenabler
+Filename: roothide/BatteryHealth(RootHide).deb
+Size: 5610
+MD5sum: 95d788847878688786ecccb3575bd6c2
+SHA1: fdbd3587f343ef8640a34f1a1f405e8b3d42e1b6
+SHA256: e5ff542f3612bf51d3c7c3d2bcc602247f33d6f9dac8be81e142fa894f3be6e4
+Section: 嗨-工具
+Description: 修复更换电池后，电池健康显示维修或无法验证的问题，无设置，自动生效。
+Author: PoomSmart
+Name: BatteryHealth(RootHide)
 
 Package: com.dao.betteralarm
 Version: 1.5
