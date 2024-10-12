@@ -3062,6 +3062,22 @@ Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff
 
+Package: com.dao.replaced
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Little 34306
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.34306.replaced
+Filename: rootful/replaced.deb
+Size: 3288
+MD5sum: 06a5ff49e4598c9e49dfe8363a24cd84
+SHA1: 09c780297a19c5e12244e0b2d679a6e16ae5467d
+SHA256: a42293d7dc73d1bf095328bf5e6f4d9b1d466d14bc4b9f4b1c86fced9765e5e1
+Section: 嗨-工具
+Description: 删除“关于页面”中的“未知部件”或“部件和服务历史记录”（更换的组件，如电池、摄像头、显示通知）。
+Author: 34306
+Name: replaced
+
 Package: com.dao.reverie
 Version: 0.7
 Architecture: iphoneos-arm
@@ -13860,6 +13876,22 @@ Description: 使用iOS15+API为QQ显示通知头像。Netskao新更的版本，�
 Author: Netskao
 Name: QQ 通知头像(rootless)
 
+Package: com.dao.replaced
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Little 34306
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.34306.replaced
+Filename: rootless/replaced(rootless).deb
+Size: 3328
+MD5sum: eca91768f304b980f8519da54c158f14
+SHA1: 4ba4405098b6d9635fd150afe52ae2a8ddf1ac51
+SHA256: 39008e274828bb527901bdb762b016905b9e33137c6cf224d9aca6d5d497ab9e
+Section: 嗨-工具
+Description: 删除“关于页面”中的“未知部件”或“部件和服务历史记录”（更换的组件，如电池、摄像头、显示通知）。
+Author: 34306
+Name: replaced(rootless)
+
 Package: com.dao.retrovol.cn
 Version: 1.2.1
 Architecture: iphoneos-arm64
@@ -16576,6 +16608,22 @@ Section: 嗨-工具
 Description: 节能插件，效果自测，重新编译。
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Name: Powercuff(RootHide)
+
+Package: com.dao.replaced
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.34306.replaced
+Filename: roothide/replaced(RootHide).deb
+Size: 3292
+MD5sum: 7ddbd8f467ea20b0165a122dc2abbd70
+SHA1: 35f3bae941ae3b0a48fd8a7ccf633531b738956d
+SHA256: 29343757e5c015b69c5805bfa8544d4621627d749be9516653c298feb3bde984
+Section: 嗨-工具
+Description: 删除“关于页面”中的“未知部件”或“部件和服务历史记录”（更换的组件，如电池、摄像头、显示通知）。
+Author: 34306
+Name: replaced(RootHide)
 
 Package: com.dao.reverie
 Version: 0.7
