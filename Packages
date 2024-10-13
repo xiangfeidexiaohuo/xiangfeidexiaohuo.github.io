@@ -3045,6 +3045,22 @@ Description: 照片增强的轻量插件，刀刀已汉化。
 Author: nowesr1
 Name: PhotosPlus
 
+Package: com.dao.pogr
+Version: 0.4.0~prerelease1
+Architecture: iphoneos-arm
+Maintainer: Ruphane
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: rootful/PodsGrant.deb
+Size: 80244
+MD5sum: e753c92e030d631001a966df0d31a840
+SHA1: 069a767735ba3142693156243ec5dd01f0a5df63
+SHA256: b351beb79eb404dd0eb1c3a0b7fd1345df37e987f89e327e2813d3e627eecf08
+Section: 嗨-工具
+Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；具体支持哪些iOS，自行实测。
+Author: Ruphane
+Name: PodsGrant
+
 Package: com.dao.powercuff
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -13794,6 +13810,22 @@ Section: 嗨-工具
 Description: 支持 iOS15/16 的控制中心美化工具，可修改原生模块的图标/效果，修改控制中心背景壁纸等。
 Author: Phuc Do
 Name: PlampyUIPro(rootless)
+
+Package: com.dao.pogr
+Version: 0.4.0~prerelease1
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: rootless/PodsGrant(rootless).deb
+Size: 80080
+MD5sum: 56ec604691fd17c963287a20dc928663
+SHA1: 0532bbd70db0ac3d868fbffd74a90cd70fbbb8a5
+SHA256: a47d914d1332baf44b32bd1840229c07b828fe0b53867a7df42a78e9b78eb993
+Section: 嗨-工具
+Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；具体支持哪些iOS，自行实测。
+Author: Ruphane
+Name: PodsGrant(rootless)
 
 Package: com.dao.powercuff
 Version: 1.0.1
