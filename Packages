@@ -13510,6 +13510,22 @@ Description: Prysm控制中心自定义。
 Author: Nightwind and thetimeloop <nightwinddev@gmail.com>
 Name: Jade(rootless)
 
+Package: com.dao.kanoads
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 佚名
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/清爽酷安(rootless).deb
+Size: 3422
+MD5sum: 4ccfe186e70be1fcb85e580a9f4d7465
+SHA1: 5d6ad7ad379535458307519c7618d12b32b5cd64
+SHA256: 302dd15072c328e2111d75cbd177dbef7cb0fed344c42e73f6d14d49946247ea
+Section: 嗨-工具
+Description: 清爽开屏～
+Author: 佚名
+Name: 清爽酷安(rootless)
+
 Package: com.dao.kayoko
 Version: 2.0.2.3
 Architecture: iphoneos-arm64
@@ -14327,6 +14343,22 @@ Section: 嗨-汉化
 Description: TrollStore 和 TrollStore Lite 的简体中文包。
 Author: 妖刀
 Name: TrollStore 简体中文包(rootless)
+
+Package: com.dao.ttnoads
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 佚名
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: rootless/TalkatoneNoAds(rootless).deb
+Size: 3256
+MD5sum: 6eb9f78d354e392bc651b397c4f990b4
+SHA1: c41d43a52102a05f471020a8a4f854784277bcbe
+SHA256: 5da66b63854426778ee23156db82fbde7351468980d1940a9f78bf3e03731163
+Section: 嗨-工具
+Description: 移除Talkatone烦人的广告。
+Author: 佚名
+Name: TalkatoneNoAds(rootless)
 
 Package: com.dao.tvlock
 Version: 1.2.3
