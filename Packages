@@ -2773,6 +2773,24 @@ Author: raul saeed
 Name: BHTikTok++中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
 
+Package: com.dao.bhtiktok++
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: raul saeed & 刀刀
+Installed-Size: 552
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
+Filename: rootful/BHTikTok++_1.5.deb
+Size: 95646
+MD5sum: fbd1ac94f20249909a15b35fedcedb99
+SHA1: 832c4ca99272673cafe5ba855928cc7b7cef18f8
+SHA256: 134b72d5a6ba4dd5b5105c6e035a05e22cf5cff35b74130a8b125489ebd7e97c
+Section: 嗨-工具
+Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
+Author: raul saeed
+Name: BHTikTok++中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
+
 Package: com.dao.bhtiktok.cn
 Version: 0.2
 Architecture: iphoneos-arm
@@ -13044,6 +13062,24 @@ Author: raul saeed
 Name: BHTikTok++中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
 
+Package: com.dao.bhtiktok++
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: raul saeed & 刀刀
+Installed-Size: 552
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
+Filename: rootless/BHTikTok++中文版(rootless)_1.5.deb
+Size: 96210
+MD5sum: abadc933ff25f877b6d25c876c33fe17
+SHA1: 1ff0fa570ad9c2a7fe2f586f4324a053620b2e9f
+SHA256: 9d9f80f41f26fd8e2aeb7767cb81dd1d96daee327992767468a1bfc69a9c9aa1
+Section: 嗨-工具
+Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
+Author: raul saeed
+Name: BHTikTok++中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
+
 Package: com.dao.bhtiktok.cn
 Version: 0.2
 Architecture: iphoneos-arm64
@@ -16355,6 +16391,24 @@ Size: 95592
 MD5sum: 4216c90f8fbf9cbf2121500e44bf9405
 SHA1: 452558b5f3492398abd3989aa8b601596accb105
 SHA256: 50f33d5ca05ced023e3fc8fa2026b34694696e6a8f95c95c5772d42d4daecb5b
+Section: 嗨-工具
+Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
+Author: raul saeed
+Name: BHTikTok++中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
+
+Package: com.dao.bhtiktok++
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: raul saeed & 刀刀
+Installed-Size: 552
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
+Filename: roothide/BHTikTok++中文版(RootHide)_1.5.deb
+Size: 96074
+MD5sum: 8a9f55784c6ea70060d863e9dfe95d46
+SHA1: 9ae725a395e92ad33531ddf9cf24247915491fdc
+SHA256: 132034fd3f1b88fe98abad87f2b36201c319eca97f5dd3ee8070c760ffc5c38e
 Section: 嗨-工具
 Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
 Author: raul saeed
