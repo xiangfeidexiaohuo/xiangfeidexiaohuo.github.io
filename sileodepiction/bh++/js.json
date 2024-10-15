@@ -101,7 +101,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步最新源码并汉化</br> </br> 自动播放在v36.7.0版本失效，v36.6.0上正常！",
+                    "markdown": "同步最新源码并汉化",
                     "useRawFormat": true
                 },
                 {
