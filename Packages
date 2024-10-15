@@ -2947,22 +2947,6 @@ Author: Lakr Aream <launchctl@outlook.com>
 Name: Iridium 砸壳
 
 Package: com.dao.kayoko
-Version: 2.0.5
-Architecture: iphoneos-arm
-Maintainer: zqbb & 妖刀
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
-Filename: rootful/Kayoko_ZH.deb
-Size: 82688
-MD5sum: 3e73ca69b6c3c6be7ac665039b6ee1f6
-SHA1: 224d443e72ed8456af05b476a12f023c5e2da92b
-SHA256: 9908858ccded80f2cfe34c074dc4fabfcb882bfeae72c8ca079d71847c25ef32
-Section: 嗨-工具
-Description: 剪切板插件，直接替代听写键。基于AlexandraAurora重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15+替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
-Author: AlexandraAurora
-Name: Kayoko 中文版
-
-Package: com.dao.kayoko
 Version: 2.3
 Architecture: iphoneos-arm
 Maintainer: Lessica <82flex@gmail.com>
@@ -13544,22 +13528,6 @@ Author: 佚名
 Name: 清爽酷安(rootless)
 
 Package: com.dao.kayoko
-Version: 2.0.5
-Architecture: iphoneos-arm64
-Maintainer: zqbb & 妖刀
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
-Filename: rootless/Kayoko 中文版(rootless).deb
-Size: 82848
-MD5sum: d8d192f4f822769612c7576c223ccfcc
-SHA1: d4c7460c54bb469cd2b3198de255ec276a592c1a
-SHA256: a20bba31adcfaaef717b8afc99a8d7221a617df59650cd8b74e30e4ef303f45e
-Section: 嗨-工具
-Description: 剪切板插件，直接替代听写键。基于AlexandraAurora重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15+替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
-Author: AlexandraAurora
-Name: Kayoko 中文版(rootless)
-
-Package: com.dao.kayoko
 Version: 2.2
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
@@ -14609,23 +14577,6 @@ Description: 更适合 iOS16 宝宝的 WiFi 配置，可查看连接的 WiFi 信
 Author: julioverne & 妖刀
 Name: GoodWiFi16 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi16/js.json
-
-Package: com.daodao.kayoko
-Version: 2.0.1-1
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy, com.hk.kayoko.cn.rl
-Conflicts: dev.traurige.kayoko, com.daodao.kayoko, com.skypain.kayoko, com.dao.kayoko, com.daodao.82.kayoko
-Filename: rootless/Kayoko魔改版(rootless).deb
-Size: 111276
-MD5sum: bcfb7b86dc01d6e4aca7848cdcc6aca0
-SHA1: a3fd303935cbc32032e6c397362d09535c745e05
-SHA256: feaba5d2bfb7637098ac1faaf7d4a895bf99b2bb50921f828485da9a2f713598
-Section: 嗨-系统
-Description: 剪切板插件，可选择听写键呼出剪切板，可粘贴复制，可直接跳转网页等。Skypain基于Traurige原版和Lessica魔改项目制作，魔改特性(可修改高度，音效、振动、文本筛选等)和一些优化修复等。Skypain同步最新2.0源码制作的魔改版，和之前的1.x系列不一样。
-Author: Traurige&Lessica
-Name: Kayoko魔改版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayokomod/js.json
 
 Package: com.daodao.nocshare
 Version: 1.1.3
@@ -17005,23 +16956,6 @@ Description: 更适合 iOS16 宝宝的 WiFi 配置，可查看连接的 WiFi 信
 Author: julioverne & 妖刀
 Name: GoodWiFi16 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi16/js.json
-
-Package: com.daodao.kayoko
-Version: 2.0.1-1
-Architecture: iphoneos-arm64e
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Depends: firmware (>= 15.0 ), mobilesubstrate, preferenceloader, com.opa334.libsandy, com.hk.kayoko.cn.rl
-Conflicts: dev.traurige.kayoko, com.daodao.kayoko, com.skypain.kayoko, com.dao.kayoko, com.daodao.82.kayoko
-Filename: roothide/Kayoko魔改版(RootHide).deb
-Size: 111172
-MD5sum: 513f5d478d0736468c695ca6d3bffe8b
-SHA1: ab69a00589b0015b702e937c9d1f21eb69f81119
-SHA256: 39cb24e70d6f1ca789627e5ab9863f86ba9b716344341f0284e87e341867b198
-Section: 嗨-系统
-Description: 剪切板插件，可选择听写键呼出剪切板，可粘贴复制，可直接跳转网页等。Skypain基于Traurige原版和Lessica魔改项目制作，魔改特性(可修改高度，音效、振动、文本筛选等)和一些优化修复等。Skypain同步最新2.0源码制作的魔改版，和之前的1.x系列不一样。
-Author: Traurige&Lessica
-Name: Kayoko魔改版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayokomod/js.json
 
 Package: com.hk.akara.cn.rl
 Version: 2.0.2
