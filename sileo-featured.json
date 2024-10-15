@@ -28,12 +28,6 @@
    "hideShadow": false
   },
   {
-   "url": "https://xiangfeidexiaohuo.github.io/images/kayoko.png",
-   "title": "Kayoko",
-   "package": "com.dao.kayoko",
-   "hideShadow": false
-  }, 
-  {
    "url": "https://xiangfeidexiaohuo.github.io/images/line.png",
    "title": "PurifyLine",
    "package": "com.dao.noline",
@@ -43,12 +37,6 @@
    "url": "https://xiangfeidexiaohuo.github.io/images/velvet2.png",
    "title": "Velvet 2",
    "package": "com.dao.velvet2",
-   "hideShadow": false
-  },
-  {
-   "url": "https://xiangfeidexiaohuo.github.io/images/reverie.png",
-   "title": "Reverie",
-   "package": "com.dao.reverie",
    "hideShadow": false
   }
  ]

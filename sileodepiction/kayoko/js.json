@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "剪切板插件，直接替代听写键。基于原作者重构的 2.0 源码制作，和之前 1.x 版稍微有点小变化，只是微改。</br> </br> 微改内容：</br> 完善中文翻译，调低了剪切板高度，iOS15 替换了“听写键/地球”图标，收藏的心图标换成星图标，优化多语言的支持。</br> </br> 支持 iOS14~15，iOS16 目前使用有问题！",
+                    "markdown": "剪切板插件，乌龙工作室优化修改版本！</br> </br> 添加 iOS16 支持！",
                     "useRawFormat": true,
                 },
                 {
@@ -56,22 +56,22 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "zqbb & 妖刀",
+                    "text": "乌龙工作室",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.5",
+                    "text": "2.3",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "14.0 - 15.9",
+                    "text": "14.0 - 16.51",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 06 月 09 日",
+                    "text": "2024 年 10 月 15 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,24 +86,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "2.0.5",
+                    "title": "2.3",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "更新源码；iOS16不支持听写键呼出，只能通过手势/Dockx等呼出剪切面板。",
+                    "markdown": "添加复制反馈",
                     "useRawFormat": true
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "2.0.3.1",
+                    "title": "2.2",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步开发者最新源码，2.0.3+ 的版本，不兼容之前的 v2.0.2 及以下版本的剪切板数据，请清空历史和收藏再使用 v2.0.3+。",
+                    "markdown": "乌龙工作室基于Alexandra源码，定制优化，添加支持iOS16！",
                     "useRawFormat": true
                 }
             ]

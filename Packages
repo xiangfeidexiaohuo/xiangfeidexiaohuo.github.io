@@ -2947,55 +2947,36 @@ Author: Lakr Aream <launchctl@outlook.com>
 Name: Iridium 砸壳
 
 Package: com.dao.kayoko
-Version: 2.0.2.3
-Architecture: iphoneos-arm
-Maintainer: zp & 妖刀
-Installed-Size: 996
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
-Filename: rootful/Kayoko_ZH_2.0.2.3.deb
-Size: 90290
-MD5sum: 287bff951cb1dc4c0008bb34bd1c57ea
-SHA1: 4085122efbb61869f3378b914425523cc345b951
-SHA256: 2ef57637c8e1fd1acb227aa5bb6129926a3928b043349e74eac8a1a273596ed1
-Section: 嗨-工具
-Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，去除无用的翻译，收藏的心图标换成星图标)，基本保持了原滋原味。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko 中文版
-
-Package: com.dao.kayoko
-Version: 2.0.3.1
-Architecture: iphoneos-arm
-Maintainer: zp & 妖刀
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
-Filename: rootful/Kayoko_ZH_2.0.3.1.deb
-Size: 80124
-MD5sum: 216fdcb685e4edfad353684f11c9e42f
-SHA1: fb743e2d1b40764262a8b4df3cb3157b0c4ec048
-SHA256: 09a3aec5261a36252240ba98bdd247a84b75f059dfae1f8f3801c26a55793e2f
-Section: 嗨-工具
-Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
 Version: 2.0.5
 Architecture: iphoneos-arm
 Maintainer: zqbb & 妖刀
-Installed-Size: 956
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
 Filename: rootful/Kayoko_ZH.deb
-Size: 82852
-MD5sum: 275c9376f99d548e8c2b1c2d5416f02b
-SHA1: c2749a1ce581b09242eb141fd4f8128a48d8c529
-SHA256: fc0bf0fb3a32087bd844ca5a157e4f135d964b7a63b7ca25f6edb2b7cf4588bf
+Size: 82688
+MD5sum: 3e73ca69b6c3c6be7ac665039b6ee1f6
+SHA1: 224d443e72ed8456af05b476a12f023c5e2da92b
+SHA256: 9908858ccded80f2cfe34c074dc4fabfcb882bfeae72c8ca079d71847c25ef32
 Section: 嗨-工具
 Description: 剪切板插件，直接替代听写键。基于AlexandraAurora重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15+替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
 Author: AlexandraAurora
 Name: Kayoko 中文版
+
+Package: com.dao.kayoko
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: rootful/Kayoko_2.3.deb
+Size: 119296
+MD5sum: 9cd715c3877ae7c917a42bebbb2d762a
+SHA1: 54bfc89a83eadf0dc7ec3e500a2d02e1d66f37de
+SHA256: c4dad594e766a03fb8e8c7abc8ec621211f0ad0e0fb1a955aacf3ddd5ba37eca
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
 Package: com.dao.noline
@@ -3463,6 +3444,22 @@ Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方�
 Author: julioverne & 妖刀
 Name: GoodWiFi 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.kayoko
+Version: 1.2-3
+Architecture: iphoneos-arm
+Maintainer: Traurige <hello@traurige.dev>
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: dev.traurige.kayoko, com.hk.traurige.kayoko, com.dao.kayoko, com.hk.kayoko
+Filename: rootful/Kayoko_Mod.deb
+Size: 121144
+MD5sum: c263eec0511304c102ab68d4f7050e7d
+SHA1: bf7ea1560454ac477c6a0bcd070d5486e24d06e2
+SHA256: 8df7cf5d2358fc7724e9706b6d7299c4783c2a4500e9761f5c310a9693f0ac82
+Section: 嗨-工具
+Description: 剪切板插件，可选择听写键呼出剪切板，可粘贴复制，可直接跳转网页等，汉化包在源内。此版本为Lessica编译魔改版本，魔改日志：1、加了个高度、音效、振动反馈；2、听写图标改成了剪贴板图标；3、按钮配色换了；4、修了个收藏夹切回来，原本内容无法正常显示的Bug；5、优化了条目删除或者移动时候的动画效果；6、修复了其他bug；7、修复了偶发粘贴失败的情况；8、加了个禁用粘贴浮动提示的功能；9、iOS14及以下不修改听写图标(修改会有问题)。
+Author: Traurige <hello@traurige.dev>
+Name: Kayoko魔改版
 
 Package: com.eclipsex.cn
 Version: 5.0.9-1
@@ -8047,22 +8044,6 @@ Section: 嗨-汉化
 Description: Kalm 简体中文包。Ball补全，完整中文了。
 Author: 妖刀
 Name: Kalm 简体中文包
-
-Package: com.hk.kayoko
-Version: 1.2-3
-Architecture: iphoneos-arm
-Maintainer: Traurige <hello@traurige.dev>
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common
-Conflicts: dev.traurige.kayoko, com.hk.traurige.kayoko, com.dao.kayoko
-Filename: rootful/Kayoko_Mod.deb
-Size: 121260
-MD5sum: fb36cecc2be488bcc1c3b92824bdb34c
-SHA1: 4a8fc7768887278648f3e72ea3f7ff4ce67030ec
-SHA256: b452c5985796647bea2559c48f0fe350fc700d7c83df6320b58275cbea03167b
-Section: 嗨-工具
-Description: 剪切板插件，可选择听写键呼出剪切板，可粘贴复制，可直接跳转网页等，汉化包在源内。此版本为Lessica编译魔改版本，魔改日志：1、加了个高度、音效、振动反馈；2、听写图标改成了剪贴板图标；3、按钮配色换了；4、修了个收藏夹切回来，原本内容无法正常显示的Bug；5、优化了条目删除或者移动时候的动画效果；6、修复了其他bug；7、修复了偶发粘贴失败的情况；8、加了个禁用粘贴浮动提示的功能；9、iOS14及以下不修改听写图标(修改会有问题)。
-Author: Traurige <hello@traurige.dev>
-Name: Kayoko编译版
 
 Package: com.hk.kayoko.cn
 Version: 2.0.1
@@ -13563,55 +13544,53 @@ Author: 佚名
 Name: 清爽酷安(rootless)
 
 Package: com.dao.kayoko
-Version: 2.0.2.3
-Architecture: iphoneos-arm64
-Maintainer: zp & 妖刀
-Installed-Size: 996
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
-Filename: rootless/Kayoko 中文版(rootless)_2.0.2.3.deb
-Size: 90330
-MD5sum: ccc9629d54e65a5bdaf9ac86d3b73a97
-SHA1: 0e6ef0f607f2134b7c0b5db492802c184fbc4aee
-SHA256: 5f3195ec31e25df8990b4c8906aa7d8c9e0f41d35ee4f7764d563fe8de623ca3
-Section: 嗨-工具
-Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，去除无用的翻译，收藏的心图标换成星图标)，基本保持了原滋原味。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko 中文版(rootless)
-
-Package: com.dao.kayoko
-Version: 2.0.3.1
-Architecture: iphoneos-arm64
-Maintainer: zp & 妖刀
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
-Filename: rootless/Kayoko 中文版(rootless)_2.0.3.1.deb
-Size: 80116
-MD5sum: b2b5f970c97f602ab15e875af9ef5528
-SHA1: 80694d045ef09471135c5c754bd6502281cbc861
-SHA256: d7b9b72654b546e2b8a90648df2a704d716450d77d3d8fc09e83aee1619461e3
-Section: 嗨-工具
-Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
 Version: 2.0.5
 Architecture: iphoneos-arm64
 Maintainer: zqbb & 妖刀
-Installed-Size: 956
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
 Filename: rootless/Kayoko 中文版(rootless).deb
-Size: 82944
-MD5sum: 2d8de0921f54c754527d6ce5177933a6
-SHA1: 65ebc840f5884e24c701eeeb6613cc379cb9355d
-SHA256: ce510b2c0d0f27fe3b52a001994cd6ea1b35baf0a4e4cd9eb5a2737ddfe1f949
+Size: 82848
+MD5sum: d8d192f4f822769612c7576c223ccfcc
+SHA1: d4c7460c54bb469cd2b3198de255ec276a592c1a
+SHA256: a20bba31adcfaaef717b8afc99a8d7221a617df59650cd8b74e30e4ef303f45e
 Section: 嗨-工具
 Description: 剪切板插件，直接替代听写键。基于AlexandraAurora重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15+替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
 Author: AlexandraAurora
 Name: Kayoko 中文版(rootless)
+
+Package: com.dao.kayoko
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: rootless/Kayoko(rootless)_2.2.deb
+Size: 118360
+MD5sum: e557416dcb91b7eeca372c7237098e6e
+SHA1: 15a2f7e218f87090f2d2c81d5ca03b84c91dd38e
+SHA256: 5e211db4910cce0621ea0a9fafed9a6b3d0439968f56f2d54f498fefdb1a9a69
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.kayoko
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: rootless/Kayoko(rootless)_2.3.deb
+Size: 119088
+MD5sum: 8f39acedd6dde383fceb4f646b2ba2ac
+SHA1: 766ea9f1ca66544767da9364046afa60acbae53a
+SHA256: d163e764c5c6eae55340162d85cfa46c26b2b68b0fba611361a87b1322b9323c
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
 Package: com.dao.lpmnotification
@@ -14630,22 +14609,6 @@ Description: 更适合 iOS16 宝宝的 WiFi 配置，可查看连接的 WiFi 信
 Author: julioverne & 妖刀
 Name: GoodWiFi16 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi16/js.json
-
-Package: com.daodao.kayoko
-Version: 1.4.2-1
-Architecture: iphoneos-arm64
-Maintainer: Mr.Zhang <mr_zhang_00@163.com>
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, com.daodao.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.dao.kayoko, com.daodao.82.kayoko
-Filename: rootless/Kayoko魔改版(rootless)_1.4.2.deb
-Size: 121016
-MD5sum: 3058b048e66d0c5082a2a4e84d00ff3e
-SHA1: 543cbbc49c1bc18f5540cc0af232f8b4da15b557
-SHA256: 05b512b5adb4169c46128e147150901dd076f691c4c0e0ef9ac78554f2a33378
-Section: 嗨-系统
-Description: 剪切板插件，直接替代听写键，可直接翻译剪切板里的英文等。Skypain大佬基于Traurige和Lessica的开源项目制作，魔改特性(可修改高度，音效、振动等)和一些优化修复等，已包含中文包。
-Author: Traurige&Lessica
-Name: Kayoko魔改版(rootless)
 
 Package: com.daodao.kayoko
 Version: 2.0.1-1
@@ -16609,41 +16572,6 @@ Section: 嗨-汉化
 Description: HideSerialNumber 简体中文包(RootHide)。
 Author: 妖刀
 Name: HideSerialNumber 简体中文包(RootHide)
-
-Package: com.dao.kayoko
-Version: 2.0.2.3
-Architecture: iphoneos-arm64e
-Maintainer: zp & 妖刀
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
-Filename: roothide/Kayoko 中文版(RootHide)_2.0.2.3.deb
-Size: 87472
-MD5sum: 50a4ddbcad374a680ee7084a73acec1d
-SHA1: d231e26e3e9eedd86302e35662fc3738fbe3e1d5
-SHA256: 0e7cb43102e39098765deba087f35150701c4dba49ddf8582fcd2ee17b78a4bc
-Section: 嗨-工具
-Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，去除无用的翻译，收藏的心图标换成星图标)，基本保持了原滋原味。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko 中文版(RootHide)
-
-Package: com.dao.kayoko
-Version: 2.0.3.1
-Architecture: iphoneos-arm64e
-Maintainer: zp & 妖刀
-Pre-Depends: rootless-compat(>= 0.1)
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
-Filename: roothide/Kayoko 中文版(RootHide)_2.0.3.1.deb
-Size: 77784
-MD5sum: 76f2d9c874332e8d63f9b6a320311082
-SHA1: f597f2b6a6c3cd9b0bc1adbe6458b49a15146687
-SHA256: 39a7dc63ef46581922c32c15a797b9a7486f43bb5ef38054161efced786161e3
-Section: 嗨-工具
-Description: 剪切板插件，直接替代听写键。基于原作者重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko 中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
 Package: com.dao.noline
 Version: 1.0.1
