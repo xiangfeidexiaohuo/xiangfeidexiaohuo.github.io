@@ -2814,11 +2814,27 @@ Architecture: iphoneos-arm
 Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
-Filename: rootful/BHTwitter_ZH.deb
+Filename: rootful/BHTwitter_4.3-1.deb
 Size: 7618984
 MD5sum: 835c5f8f839abc3a3d8585b13f3e9981
 SHA1: 9d3f32d9f1b31c9129db6e2196dd5083aa6c235a
 SHA256: 4cc205b375a5cdef266b64b54a7bf9b32632b8360d2df316822d4b30f24cb9ef
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版
+
+Package: com.dao.bhtwitter
+Version: 4.3-2
+Architecture: iphoneos-arm
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: rootful/BHTwitter_4.3-2.deb
+Size: 7610148
+MD5sum: 0e8e089c1a7fdd95bae7475e7fa92755
+SHA1: b82f43386fc59b45d1d12e548f72e0ad1ee6202c
+SHA256: db830f238188a72c57a524f12c952ecbc380f6d3b58fc619ac904b73540f011e
 Section: 嗨-工具
 Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
@@ -2840,42 +2856,6 @@ Section: 嗨-工具
 Description: 自定义程序通知角标的边框颜色和透明度，基于PoomSmart的开源直接编译汉化。
 Author: PoomSmart
 Name: BlurryBadges 中文版
-
-Package: com.dao.classicfolders3
-Version: 3.0.4.3
-Architecture: iphoneos-arm
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4348
-Depends: mobilesubstrate
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootful/ClassicFolders3_3.0.4.3.deb
-Size: 3286410
-MD5sum: ae87edf09f35ef38aaa522f1625926eb
-SHA1: 791bce3a306e8abb054244828213b09a34217354
-SHA256: d345783d885a6dab91a592ab712fb79a29a8da2e3daa72a94205c8ad62069e55
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.0.4.5
-Architecture: iphoneos-arm
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4348
-Depends: mobilesubstrate
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootful/ClassicFolders3_3.0.4.5.deb
-Size: 3286508
-MD5sum: 48065c36177cc0eaaebf63f04f36da30
-SHA1: 5f50ad1b384fd90c1f32dafae24e08074230770d
-SHA256: 4afbfbbf587677f3184905daa47062b4f577996f4ce83faadb278ff6f27f2fc8
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
 Version: 3.0.5.5
@@ -13084,11 +13064,27 @@ Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
-Filename: rootless/BHTwitter 中文版(rootless).deb
+Filename: rootless/BHTwitter 中文版(rootless)_4.3-1.deb
 Size: 7618396
 MD5sum: a58da9abf4e94c8db98e55a5c64798f6
 SHA1: c30a36000336cbb2e2b030f1f11a93ef2608f41e
 SHA256: 849bdcb8658e2d21776b85a1b3565d84cdd514273b593d144a209ae55e0a3058
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版(rootless)
+
+Package: com.dao.bhtwitter
+Version: 4.3-2
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: rootless/BHTwitter 中文版(rootless)_4.3-2.deb
+Size: 7615180
+MD5sum: 670b0b049ee1dc660c8418741d4396d7
+SHA1: 0bb715856cc560cd084f99ddcb67b0830c2220fb
+SHA256: 3b278f854e60a96e1468a171d2083c2f603ec892e8fa2eea464bf3871be3f5d2
 Section: 嗨-工具
 Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
@@ -13178,41 +13174,6 @@ Description: 类iOS18样式的控制中心，可调节控制中心模块形状�
 Author: fiore & p2kdev & 妖刀
 Name: CCBorder16(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.0.4.3
-Architecture: iphoneos-arm64
-Maintainer: CoolStar & Lizynz & 妖刀
-Depends: mobilesubstrate
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootless/ClassicFolders 3(rootless)_3.0.4.3.deb
-Size: 3282104
-MD5sum: 115b8a79a6fc788356cce22daae99748
-SHA1: 088d6c29cb89a225b41376063893a537aabe39c7
-SHA256: d244c9a8bbef96275bd2951f844d3cc63c499f74103baf8eb5790bcbd42ad9c6
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.0.4.5
-Architecture: iphoneos-arm64
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4348
-Depends: mobilesubstrate
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootless/ClassicFolders 3(rootless)_3.0.4.5.deb
-Size: 3286498
-MD5sum: 78cd38e05ff1ced3de9eff9578722270
-SHA1: 6700642bec4c11133b4b9bf97c1bb6a9f464931f
-SHA256: 760925eae6e8b860af2016b6788bf3c46a1accf3687b0bace4d295fa51b70d1a
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
 Version: 3.0.5.5
@@ -13751,7 +13712,7 @@ Maintainer: Nightwind
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle, xyz.cypwn.onesettings, com.nightwind.onesettings
 Replaces: com.twickd.nightwind.onesettings
-Filename: rootless/OneSettings(rootless).deb
+Filename: rootless/OneSettings(rootless)_2.0.3.deb
 Size: 208952
 MD5sum: 433766fb2ca6c147e17e856575224f07
 SHA1: 0fc4ed1f4e6dcce5d8414ad952cc999b54b5b49f
@@ -16398,42 +16359,6 @@ Description: 类iOS18样式的控制中心，可调节控制中心模块形状�
 Author: fiore & p2kdev & 妖刀
 Name: CCBorder16(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.0.4.3
-Architecture: iphoneos-arm64e
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4348
-Depends: mobilesubstrate
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: roothide/ClassicFolders 3(RootHide)_3.0.4.3.deb
-Size: 3286808
-MD5sum: 8442253a0d70779cedab3308d6c5fb4d
-SHA1: 6a9c6f570e28bf7d4bafce25aa3ce7598b5a1c90
-SHA256: e29f186d159932edf16252ac91233f00a46ec020827353d4af16cf8e1b396475
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.0.4.5
-Architecture: iphoneos-arm64e
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4348
-Depends: mobilesubstrate
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: roothide/ClassicFolders 3(RootHide)_3.0.4.5.deb
-Size: 3286912
-MD5sum: a265e1b1352b27a7da7a86b2f822bd36
-SHA1: b6640d6d494b95659afd468676de4514b4d9c4d6
-SHA256: 9d1c056f3b72a8dedc8d8f575c81bba66df516f5ed372c2465abd5dd2f5d79db
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，Lizynz基于CoolStar的开源修复优化支持iOS15+。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
 Version: 3.0.5.5
