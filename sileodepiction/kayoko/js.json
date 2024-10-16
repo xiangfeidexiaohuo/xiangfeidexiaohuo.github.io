@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "剪切板插件，乌龙工作室优化修改版本！</br> </br> 添加 iOS16 支持！",
+                    "markdown": "Kayoko 剪切板，现已由「乌龙工作室」继续维护，免费发布和使用！</br> </br> 添加 iOS16 支持！",
                     "useRawFormat": true,
                 },
                 {
@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.3",
+                    "text": "2.4",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 10 月 15 日",
+                    "text": "2024 年 10 月 16 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "查看预览时，右上角图标改为“返回”；SpringBoard 改成 ”主屏幕“，并配上小图标。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.3",
