@@ -13301,11 +13301,27 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: com.netskao.dumpdecrypter
-Filename: rootless/DumpDecrypter(rootless).deb
+Filename: rootless/DumpDecrypter(rootless)_1.4-4.deb
 Size: 1295000
 MD5sum: 906a1ac7f006244e659c4567b39db5a2
 SHA1: 48b4473f6af54e095f175c6460a46ad39f731217
 SHA256: 574f6bfa8baca9111dc2d3a1b680a1748ea547e8100e4d4b5191e4b2c62c2093
+Section: 嗨-工具
+Description: 最新的砸壳工具，解密iOS应用程序和组件，支持iOS15~16多巴胺越狱；上架备份。
+Author: Netskao
+Name: DumpDecrypter(rootless)
+
+Package: com.dao.dumpdecrypter
+Version: 1.4-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.dumpdecrypter
+Filename: rootless/DumpDecrypter(rootless)_1.4-6.deb
+Size: 350664
+MD5sum: 433731c116d1a7d64743939cfd16d133
+SHA1: 8fa66067c20be1cc86c7881066c727cfd4b0ffbf
+SHA256: cd3b978677d073d6f79ed866682a57200e20fe177512c17ac8984e47774c72b9
 Section: 嗨-工具
 Description: 最新的砸壳工具，解密iOS应用程序和组件，支持iOS15~16多巴胺越狱；上架备份。
 Author: Netskao
