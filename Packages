@@ -2913,18 +2913,18 @@ Name: HideSerialNumber 简体中文包
 Package: com.dao.iridium
 Version: 1.2.15-REL-1713319636
 Architecture: iphoneos-arm
-Maintainer: Lakr Aream <launchctl@outlook.com>
+Maintainer: Lakr Aream
 Pre-Depends: firmware (>= 13.5)
 Conflicts: com.hk.iridium, wiki.qaq.iridium
 Filename: rootful/Iridium_ZH.deb
-Size: 5596012
-MD5sum: 829ea065e9c853b60196b0de27b2c05f
-SHA1: 1d91886e115fabff73058d3d0e2a7e9c93079949
-SHA256: 441215f7c7cc5680ffb717daeb98ab6750cec20115a268afc3768037c42ec05d
+Size: 5596332
+MD5sum: e701073f6d2e3a849b19b77d70601f4b
+SHA1: 7a29b7d6c9bd6d821cb026c4fe806b75f2059a2d
+SHA256: 0e9615701ff2b0b1d2c664a54340f2d11106e4eafcb501d0b61aef1872915b59
 Section: 嗨-工具
-Description: iOS应用解密砸壳工具，适用于iOS13.5-14.3，具体支持系统版本自测。
-Author: Lakr Aream <launchctl@outlook.com>
-Name: Iridium 砸壳
+Description: iOS应用提取工具，适用于iOS13.5-14.3，具体支持系统版本自测。
+Author: Lakr Aream
+Name: Iridium 中文版
 
 Package: com.dao.kayoko
 Version: 2.3
@@ -13318,12 +13318,12 @@ Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate
 Conflicts: com.netskao.dumpdecrypter
 Filename: rootless/DumpDecrypter(rootless)_1.4-6.deb
-Size: 350664
-MD5sum: 433731c116d1a7d64743939cfd16d133
-SHA1: 8fa66067c20be1cc86c7881066c727cfd4b0ffbf
-SHA256: cd3b978677d073d6f79ed866682a57200e20fe177512c17ac8984e47774c72b9
+Size: 350468
+MD5sum: a1eb83b64b52a984b0492a14233ec0b3
+SHA1: 2fc3b56109048372675e99b0f9b35f00314b17e9
+SHA256: bd0735028f0af1ec92cf813b92d3e78c910ca9d4e93d58e010532ca84a282396
 Section: 嗨-工具
-Description: 最新的砸壳工具，解密iOS应用程序和组件，支持iOS15~16多巴胺越狱；上架备份。
+Description: iOS应用提取工具，手机端的bagbak，支持iOS15~16多巴胺；上架备份。
 Author: Netskao
 Name: DumpDecrypter(rootless)
 
