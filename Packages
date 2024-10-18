@@ -13604,6 +13604,22 @@ Description: Misaki 中文补充包(rootless)。
 Author: 妖刀
 Name: Misaki 中文补充包(rootless)
 
+Package: com.dao.noappthinning
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: ned
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: it.ned.noappthinning
+Filename: rootless/NoAppThinning(rootless).deb
+Size: 3708
+MD5sum: 69306c39f5ace92653ef239aa5ffee08
+SHA1: 11ca84fe254323b6f7b28ffe8bbb08b1e3f54fba
+SHA256: 7cb09d033b681701b54ef1417e6daf151928db6b5b4db7724e689739dc39adb4
+Section: 嗨-工具
+Description: 让AppStore/TestFlight下载软件为全量包，不经过AppThinning。
+Author: ned
+Name: NoAppThinning(rootless)
+
 Package: com.dao.noline
 Version: 1.0.1
 Architecture: iphoneos-arm64
