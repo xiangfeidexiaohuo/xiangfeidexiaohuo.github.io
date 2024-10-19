@@ -13327,6 +13327,22 @@ Description: iOS应用提取工具，手机端的bagbak，支持iOS15~16多巴�
 Author: Netskao
 Name: DumpDecrypter(rootless)
 
+Package: com.dao.dumpdecrypter
+Version: 1.4-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.dumpdecrypter
+Filename: rootless/DumpDecrypter(rootless)_1.4-8.deb
+Size: 377040
+MD5sum: 039abf47d21d88bbb07075844a1b7cef
+SHA1: 47ef90dd6aeb8a51bfa731ee2c897ff9efa62bcd
+SHA256: 9143204e065a234695dfd0ca6fb4efad4ddcb425f1f792cfa5ea94f1f7d9cbca
+Section: 嗨-工具
+Description: iOS应用提取工具，手机端的bagbak，支持iOS15~16多巴胺；上架备份。
+Author: Netskao
+Name: DumpDecrypter(rootless)
+
 Package: com.dao.filzacrack
 Version: 1.1-8
 Architecture: iphoneos-arm64
