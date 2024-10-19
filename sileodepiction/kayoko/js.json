@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Kayoko 剪切板，现已由「乌龙工作室」继续维护，免费发布和使用！</br> </br> 优化增强和添加 iOS16 支持！那</br> </br> 因为主要为匹配 iOS16，所以有根版本就只整了一个 v2.3；有根用户也可以选择旧版本——Kayoko 魔改版 v1.2-3。",
+                    "markdown": "Kayoko 剪切板，现已由「乌龙工作室」继续维护，免费发布和使用！</br> </br> ❤️优化增强和添加 iOS16 支持！</br> </br> 因为主要为匹配 iOS16，所以有根版本就只整了一个 v2.3；有根用户也可以选择旧版本——Kayoko 魔改版 v1.2-3。",
                     "useRawFormat": true,
                 },
                 {
