@@ -13571,6 +13571,23 @@ Author: Alexandra Aurora Göttlicher
 Name: Kayoko(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.kayoko
+Version: 2.5
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
+Filename: rootless/Kayoko(rootless)_2.5.deb
+Size: 125940
+MD5sum: 3c1257865ca8dfb17bdd52bde8307f56
+SHA1: e9325d11488e3aafb9b519a0aabe2310801130f1
+SHA256: 012e64df3b1606244ee56c6fc5826cfc678ec62e79c0d1cc33217ce693e7c726
+Section: 嗨-工具
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
 Package: com.dao.lpmnotification
 Version: 1.0.0
 Architecture: iphoneos-arm64
