@@ -12808,11 +12808,27 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.netskao.appdata, netskao.appdata-rootless
-Filename: rootless/AppData(rootless).deb
+Filename: rootless/AppData(rootless)_1.4.2.deb
 Size: 822848
 MD5sum: 26b008393d3e574db408ed00576c4454
 SHA1: 65ce516c72783351eb95f665e7d985700de45ac5
 SHA256: 90006809eaf1e0b7323440e8e3a08baf7e305c203def8ba7605c317ae7809942
+Section: 嗨-工具
+Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据的快捷工具。Netskao新更的版本，上架备份。
+Author: Fouad Raheb
+Name: AppData(rootless)
+
+Package: com.dao.appdata
+Version: 1.4.3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdata, netskao.appdata-rootless
+Filename: rootless/AppData(rootless)_1.4.3.deb
+Size: 4626268
+MD5sum: 7924e9378cf6c75e5c6f1c1f554ac8ed
+SHA1: cf3fe1ee21df54a843cb9e33148c68d6f72fdb61
+SHA256: 7df8cfdf4dcbd60e8ce8fb5e7a1b78f102d325a8b0050d526c63acbcdc1e9f32
 Section: 嗨-工具
 Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据的快捷工具。Netskao新更的版本，上架备份。
 Author: Fouad Raheb
