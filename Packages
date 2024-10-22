@@ -2840,6 +2840,22 @@ Description: BHTwitter中文修复优化版，推特的综合功能性插件，�
 Author: Bandar Alruwaili
 Name: BHTwitter 中文版
 
+Package: com.dao.bhtwitter
+Version: 4.3-3
+Architecture: iphoneos-arm
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: rootful/BHTwitter_4.3-3.deb
+Size: 7607960
+MD5sum: 2b5f8c2a650a1986aa9b93630beddb97
+SHA1: b764a99e47462f437264c844ea3c3aba8ae9e079
+SHA256: 802c04ad850e53d62c345d3903344b76dec020c8d4936462615278fcd1ee484e
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版
+
 Package: com.dao.blurrybadges
 Version: 1.5.2.1
 Architecture: iphoneos-arm
@@ -13118,6 +13134,22 @@ Size: 7615180
 MD5sum: 670b0b049ee1dc660c8418741d4396d7
 SHA1: 0bb715856cc560cd084f99ddcb67b0830c2220fb
 SHA256: 3b278f854e60a96e1468a171d2083c2f603ec892e8fa2eea464bf3871be3f5d2
+Section: 嗨-工具
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Name: BHTwitter 中文版(rootless)
+
+Package: com.dao.bhtwitter
+Version: 4.3-3
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
+Filename: rootless/BHTwitter 中文版(rootless)_4.3-3.deb
+Size: 7622140
+MD5sum: 68a5454d01e47ff3dd8e24d09bcbb827
+SHA1: af2477e8447d472d2526ab238b3d2d0fd551076e
+SHA256: d21176028d37e1201795030d1a684b0d4edd8751f6031fc0d91f1ee09e075061
 Section: 嗨-工具
 Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
 Author: Bandar Alruwaili
