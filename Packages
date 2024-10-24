@@ -13408,6 +13408,22 @@ Description: iOS应用提取工具，手机端的bagbak，支持iOS15~16多巴�
 Author: Netskao
 Name: DumpDecrypter(rootless)
 
+Package: com.dao.dumpdecrypter
+Version: 1.4-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.dumpdecrypter
+Filename: rootless/DumpDecrypter(rootless)_1.4-9.deb
+Size: 376248
+MD5sum: c91234b4f975079253518831a418820e
+SHA1: b52286965c14172a05ff89dc4db72e9b6b3dae2f
+SHA256: cb188909dbbf16bc6235d63a3b359399bd48e0756b24c2e0ea9708975a605d2f
+Section: 嗨-工具
+Description: iOS应用提取工具，手机端的bagbak，支持iOS15~16多巴胺；上架备份。
+Author: Netskao
+Name: DumpDecrypter(rootless)
+
 Package: com.dao.filzacrack
 Version: 1.1-8
 Architecture: iphoneos-arm64
@@ -14304,16 +14320,16 @@ Name: EeveeSpotify(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
 
 Package: com.dao.spotify
-Version: 5.6
+Version: 5.7
 Architecture: iphoneos-arm64
 Maintainer: Eevee & 妖刀
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.28.1)
 Conflicts: com.eevee.spotify
 Filename: rootless/EeveeSpotify(rootless).deb
-Size: 592668
-MD5sum: 74eac902886210c6f9f03c72c9674474
-SHA1: dda2c4447944845d397378464ca38cf037f323aa
-SHA256: 9cd43882f02629d3be0949f3f65a64512b34c83d9fed4552965b1b2aa9915098
+Size: 592600
+MD5sum: 2220074d905fd93316b7b4c2a796a4bc
+SHA1: 7425cbac0ef8e508a03a4be3541e64282eaca519
+SHA256: 1a2eabf3814a315814716186f6a6d6940245a9a33fbd1f5d346de8f88d0737b1
 Section: 嗨-工具
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Author: Eevee
