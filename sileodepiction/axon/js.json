@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0",
+                    "text": "2.1",
                     "title": "最新版本"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 04 月 09 日",
+                    "text": "2026 年 04 月 10 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -105,6 +105,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.调试页面和插件主页面风格统一；</br> 2.「更小」调整角标和图标之间的距离；</br> 3.切换风格不会立马注销，3秒弹窗提示；</br> 4.优化「紧凑/更小」点击图标后背景蒙版的大小，更美观；</br> 5.其他微调和优化。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.0",
