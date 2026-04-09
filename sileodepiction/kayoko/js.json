@@ -1,0 +1,189 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://xiangfeidexiaohuo.github.io/images/kayoko.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Kayoko 剪切板，现已由「乌龙工作室」继续维护，免费发布和使用！</br> </br> ❤️优化增强，支持 iOS14~17！",
+                    "useRawFormat": true,
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/Screenshot_02.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Alexandra",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "乌龙工作室",
+                    "title": "维护者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2.9",
+                    "title": "最新版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "14.0 - 17.0",
+                    "title": "支持系统范围"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025 年 12 月 13 日",
+                    "title": "最后更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "支持 iOS 17.0 NathanLR",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "激活方式添加“编辑菜单”",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "添加反馈限制</br> </br> 去除守护进程",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化隐藏动画和时机",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "听写键增加触感反馈",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "查看预览时，右上角图标改为“返回”；SpringBoard 改成 ”主屏幕“，并配上小图标。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "添加复制反馈",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "乌龙工作室基于Alexandra源码，定制优化，添加支持iOS16！",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ],
+}

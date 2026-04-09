@@ -1,0 +1,794 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://xiangfeidexiaohuo.github.io/images/apptools.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。",
+                    "useRawFormat": true,
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/Screenshot_02.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "aReo",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "aReo",
+                    "title": "维护者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2.6.8",
+                    "title": "最新版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "15.0 - 17.0",
+                    "title": "支持系统范围"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2026 年 04 月 03 日",
+                    "title": "最后更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.6.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、恢复及优化调整阴影大小功能；</br> 2、修复 IOS17 隐根使用布局功能崩溃问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.6.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复触发文件夹菜单可能卡死问题；</br> 2、修复从菜单点击赞助激活崩溃问题；</br> 3、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.6.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、图标阴影新增切换阴影图标素材功能,使用方法:长按图标阴影图标。</br> 2、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.6.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、功能面板右上角显示样式设置中，新增新版/旧版功能图标切换；</br> 2、修复文件夹内应用触发功能菜单可能崩溃问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.6.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、更换更精致的功能图标主题（感谢群友提供）；</br> 2、新增自定义菜单图标颜色、字体颜色功能；</br> 3、更改图标功能：新增消息通知禁用自定义图标功能，微信、抖音等app 如需显示用户头像请开启此功能（使用方法：长按更改图标功能）；</br> 4、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.6.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化修改微信、抖音等应用图标后的通知头像问题；</br> 2、优化布局功能；（新版本有问题的请重置配置文件或者filza搜索删除com.flex2areo.apptools-layout.plist布局配置文件）</br> 2、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.6.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、可单独使用勿扰模式中的“允许/禁用通知与控制中心”功能；</br> 2、长按图标阴影功能中新增“定位阴影素材”，方便更换；</br> 2、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.6.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化图标阴影功能，未开启状态下文件夹显首图标不显示遮罩；</br> 2、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.5.9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化图标阴影等功能；</br> 2、修复编辑文件夹时的异常问题;</br> 3、修复15系统开启壁纸透明崩溃问题；</br> 4、优化开启文件夹壁纸透明等功能后，文件夹不能快速连续点击问题；</br> 5、优化文件夹菜单图标预览；</br> 6、优化开启文件夹壁纸透明后，仍显示桌面搜素小框；</br> 7、优化手势进入后台卡片菜单不消失问题；</br> 8、优化使用 ipad dock 栏插件图标阴影问题；</br> 9、解决禁止打开文件夹后可能导致的桌面无法交互问题；</br> 10、优化文档和安装目录开头多显示个e的问题；</br> 11、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.5.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化图标阴影和文件夹透明图标功能，解决和滑雪板的冲突；</br> 2、优化菜单关闭逻辑，切换后台、触发分屏时自动关闭；</br> 3、优化文件夹扩展宽高功能：</br> - 关闭此功能时弹出注销提示，解决进入安全模式的问题；</br> - 适当增加文件夹高度（可通过文件夹布局调整行间距）。</br> 4、解决部分文件夹功能开关不能立即生效问题；</br> 5、解决开启文件夹壁纸透明功能后，使用图标布局可能导致的桌面图标消失问题；</br> 6、其它一些细节优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.5.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、解决桌面卡顿掉帧问题；</br> 2、修复 17 系统 BootStrap 越狱文件夹显示首图标等崩溃问题；</br> 3、降级菜单窗口优先级，适配分屏插件。</br> 优化了性能，强烈建议更新。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.5.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增全局禁止角标功能，路径：全局功能-长按清理角标功能；</br> 2、优化文件夹壁纸透明功能：</br> —优化开启此功能后可能显示 Dock 栏问题；</br> —优化快速打开关闭文件夹动画问题；</br> —优化合并图标创建文件夹桌面图标消失问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.5.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化未开启开屏跳广功能时滑动某些聊天记录卡顿，以及一些用户升级2.5.0版本后感觉不爽的问题；</br> 2、优化锁120hz功能。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.5.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、增强重置数据功能，新增删除群组目录内容；</br> 2、优化修改图标功能，减少卡顿；</br> 3、优化第一次修改图标和修改名称需要注销问题；</br> 4、其它一些细节优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.5.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复 IOS17 新建壁纸和负一屏小组件崩溃问题；</br> 2、新增隐藏应用名称阴影功能，使用方法：长按图标阴影功能;</br> 3、优化降级线路，将无需二次验证的线路二调整为线路一。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.5.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复 IOS17 文件夹显首图标崩溃问题；</br> 2、优化文件夹壁纸透明显示效果；</br> 3、优化开屏跳广、阴影图标功能；</br> 4、优化一些卡顿和已知 bug。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.5.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、 适配 IOS17 系统；</br> 2、修复屏蔽弹窗问题；</br> 3、优化图标阴影功能；</br> 4、增强开屏去广效果；</br> 5、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.5.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增图标阴影功能，长按图标可设置阴影大小（阴影效果：1.95，遮照效果1.85，可根据效果自由微调）；</br> 2、增强屏蔽弹窗功能，长按图标可开启“屏蔽系统弹窗”功能；</br> 3、优化开屏跳广功能；</br> 4、保存布局移至图标布局功能里；</br> 5、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.4.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复和优化若干问题。</br> </br> 使用插件过程中如果遇到崩溃，请按以下步骤操作排查：</br> 1、清除配置，重新设置。</br> 2、排查冲突，特别是有相似功能的插件，例如：Atria、AppData、griddy 等；</br> 3、安装 Cr4shed 插件查看崩溃日志。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.4.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、增强开屏去广功能；</br> 2、沉浸模式改名为勿扰模式，长按图标可启用/禁用控制中心功能；</br> 3、优化广告加速功能，解决加速视频广告可能出现崩溃的问题；</br> 4、其它细节功能优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.4.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化和增强开屏去广功能；</br> 2、显示菜单右上角注销、安全模式、重启空间、刷新图标快捷操作；</br> 3、修复备份配置只保存首次备份文件的问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.4.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化和增强开屏去广功能，解决个别应用可能出现的异常和某些文字不显示问题；</br> 2、其它优化。</br> </br> 说明：</br> 1、此功能不能保证对所有App有效，如无效果请反馈，或使用专门的补丁；</br> 2、新版已增加针对单个应用的设置延迟和关闭去广功能，使用方法：在要生效的应用呼出菜单，长按开屏去广功能；</br> 3、设置延迟功能说明：如个别应用遇到卡顿等异常，或广告显示时间过长，可设置延迟去广时间（建议0.5-2秒）;</br> 4、如需去除其它广告，可抓包配合 AppProtect 插件的网址屏蔽功能配合使用。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.4.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "增强开屏去广告功能，可设置延迟和禁用单独应用去广，适用于极个别 App 去广后无网络权限或闪退时使用。</br> 使用方法：长按开屏去广功能。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.4.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、增强开屏去广效果，优化已知问题；</br>2、修复保存布局可能无效问题；</br>3、其它优化。</br> </br> 重要：此次更新涉及域名更换，请务必在 11.15 号前完成升级，避免后期出现插件无法激活、实效等情况。</br> ",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.4.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增去开屏广告功能，支持大部分应用（个别小众编程语言暂不支持）；</br> 2、屏蔽通知功能增强改名为沉浸模式，开启功能后，在使用程序期间自动屏蔽横幅通知，且关闭下滑控制中心功能，防止误触；</br> 3、优化文件夹扩展宽高功能；</br> 4、动态组件功能位置转移至布局功能中。</br> 5、其它优化。</br> </br> 重要：此次更新涉及域名更换，请务必在 11.15 号前完成升级，避免后期出现插件无法激活、实效等情况。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化降级功能，新增两条线路。可根据自身网络情况选择适宜节点。</br> 使用方法：长按降级应用功能切换。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化降级功能，加快响应速度，解决可能出现的转圈无响应问题；</br> 2、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化改名功能，支持修改消息通知名称和“你收到了一条xx信息“；</br> 2、多个细节优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化修改应用名称功能，同步支持消息通知名称。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增备份、恢复配置功能（插件设置-关于与配置）；</br> 2、修复上个版本反馈的已知问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复插件自身所有已知 bug。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复隐根桌面添加小组件时可能出现的问题；</br> 2、优化移动文件夹图标后出现的边框闪现问题；</br> 3、优化文件夹布局功能，编辑布局时不自动关闭文件夹。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化布局功能手动设置值时键盘不能确认问题；</br> 2、尝试修复布局功能影响CarPlay布局的问题；</br> 3、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复桌面 PageDot 搜索问题；</br> 2、优化文件夹自动布局，使用布局功能时自动打开文件夹；</br> 3、新增壁纸透明和图标边框透明功能；</br> 4、禁用布局功能移至插件设置中；</br> 5、其它细节优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增文件夹功能：包括更换图标、图标透明、图标布局、禁止打开等功能；</br> 2、优化和修复一些问题。</br> </br> 注：使用过程中若遇到问题，请先排查类似功能插件冲突。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化布局功能，新增恢复默认选项，默认不自动开启布局；</br> 2、其它修复与优化。</br> </br> 重要：旧版已设置桌面布局功能的如功能未生效，请去布局功能里开启。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复安装dock栏插件后修改图标不生效问题；</br> 2、优化布局功能，新增单页设置、PageDot设置、禁用布局等功能，支持小组件自动调整；</br> 3、其它修复与优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化布局功能，支持桌面图标、docker图标、小组件自定大小、偏移、间距等；</br> 2、优化常驻后台功能，可切换无指示器模式；</br> 3、增加自动保存布局功能，建议设置好图标布局后开启；</br> 3、其它优化。</br> </br> 安装后如遇到问题，请清除配置重新设置，排查Atria等与功能相关冲突。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.1.9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化更换图标后打开返回桌面时出现的残影问题（需重新设置一遍图标）；</br> 2、打开关闭常驻后台功能无需重启应用；</br> 3、优化逻辑，启用禁止角标功能后自动清除角标。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.1.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化更换图标功能，修复更改 Dock 栏图标注销恢复问题；</br> 2、修复更改图标大小后，文件夹图标使用 3DTouch 显示异常问题；</br> 3、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.1.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复更改桌面布局后，资源库搜索页面布局显示异常问题；</br> 2、优化布局功能，修改后无需注销立即生效；</br> 3、优化图标大小功能，解决文件夹返回时跳动问题；</br> 4、其它细节优化。</br> </br> 若安装插件后遇到问题，清除配置或排查冲突。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.1.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复点击菜单内图标崩溃，点击图标可直接修改图标；</br> 2、解决Docker栏插件遮挡菜单问题；</br> 3、隐藏小彩蛋功能；</br> 4、设置里“其它信息”中新增删除配置功能；</br> 5、优化一些 UI 显示细节。</br> </br> 2.x.x版本用不惯可以降级1.4.x！",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.1.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复正在更新的应用使用菜单崩溃问题；</br> 2、修复资源库搜索里的应用使用菜单崩溃问题；</br> 3、重装或者更新插件时不再覆盖已替换的主题；</br> 4、优化激活和注销逻辑，使用插件设置中的注销功能将不再关闭 V，部分地区（福建）等激活不了的用户请尝试挂 V 激活。激活后，激活不再受 V 影响；</br> 5、其它已知问题修复和优化。</br> </br> 2.x.x版本用不惯可以降级1.4.x！",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.1.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复插件未激活而设置里显示激活的问题；</br> 2、更换设置图标和3DTouch图标（感谢群友提供）；</br> 3、优化激活逻辑；</br> 4、其它优化和已知问题修复。</br> </br> 2.x.x版本用不惯可以降级1.4.x！",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.1.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增浅色和自动模式，可随系统自动切换；</br> 2、安装目录、文档目录和群组目录新增长按复制路径功能;</br> 3、解决更换图标后灵动岛通知图标不生效问题；</br> 4、修复未下载完成的应用打开菜单崩溃问题；</br> 5、优化常驻后台显示逻辑，当应用运行时才显示后台小图标；</br> 6、优化功能逻辑，开启禁止卸载功能后，首页卸载应用功能将不可用；</br> 7、其它优化和已知 bugs 修复。</br> </br> 2.x.x版本用不惯可以降级1.4.x！",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复无法跳转包含中文、空格等特殊字符的特殊路径；</br> 2、修复资源库打开菜单崩溃；</br> 3、其它问题修复和优化。</br> </br> 2.0.x版本用不惯可以降级1.4.x！",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.4.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1代版本更新，有些朋友用不惯新界面，解决不显示菜单等问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "AppTools v2.0.0 正式版已发布</br> </br> 全新界面，支持左右滑动手势，功能一目了然；</br> 全新代码，文件极致瘦身，占用资源更小；</br> 支持更换功能图标，美化由你做主。</br> 特别致谢 AppData。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.4.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复降级应用失效问题；</br> 2、优化激活文件位置，防止被误清理后导致掉激活问题；</br> 3、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.4.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复 bug，优化细节。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.3.9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复激活时可能出现的安全模式；</br> 2、移除自动保存布局功能，解决可能出现的图标乱序问题；</br> 3、大幅优化代码和UI细节，资源和内存占用更少！",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "RootHide 1.3.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复更换图标不生效；</br> 2、解决挂V注销掉激活。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.3.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化验证逻辑，解决注销可能导致的掉激活问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.3.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复个别用户修改图标后点击图标时恢复问题；</br> 2、修复 roothide 版本重启后图标失效问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.3.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、解决降级应用失败问题；</br> 2、重置权限新增重置定位功能。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.3.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复自动保存布局功能注销后恢复问题；</br> 修复备份和恢复插件配置问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.3.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复 v1.3.2 版本菜单显示异常问题",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.3.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增快捷开关通知功能；</br> 2、优化更改图标或布局后出现的滑动桌面卡顿问题；</br> 3、默认自动开启自动保存布局功能；</br> 4、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.3.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "解决与透明小组件冲突",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.3.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复不显示3DTouch图标；</br> 2、优化注销激活；</br> 3、其他优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.2.9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.修复滑动触发失效问题；</br> 2.新增自动保存布局功能，避免和其它插件类似功能冲突导致图标乱序。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.2.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新增时间变速功能，支持0.5-30倍变速（0为暂停）。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.2.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复免打扰功能无效问题；</br> 2、修复修改图标后接收通知可能崩溃的问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.2.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "适配 iOS16 系统",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ],
+}

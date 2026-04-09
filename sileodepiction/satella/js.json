@@ -1,0 +1,108 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://xiangfeidexiaohuo.github.io/images/satella.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "应用程序内购xx，已包含简体中文。</br> 不是100%，自行测试。",
+                    "useRawFormat": true,
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/satella/Screenshot_01.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Paisseon",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Paisseon",
+                    "title": "维护者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.9.0-1",
+                    "title": "最新版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "13.0 - 16.6.1",
+                    "title": "支持系统范围"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 06 月 26 日",
+                    "title": "最后更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.9.0-1 ",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "更换群友(J.z)提供的帅气图标",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.9.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "加入中文翻译。",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ],
+}

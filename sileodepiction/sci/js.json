@@ -1,0 +1,129 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://xiangfeidexiaohuo.github.io/images/sci.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text": "点此加入刀刀源聊天群",
+                    "action": "https://t.me/ae86_daodao",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，刀刀根据开源直接编译的中文版。</br> </br> 长按主页面左上角“Instagram图标”进入插件设置！",
+                    "useRawFormat": true,
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/sci/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/sci/Screenshot_02.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/sci/Screenshot_03.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "SoCuul",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "SoCuul & 妖刀",
+                    "title": "维护者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "0.6.0",
+                    "title": "最新版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "13.0 - 16.6.1",
+                    "title": "支持系统范围"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024 年 09 月 28 日",
+                    "title": "最后更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.6.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步最新源码并汉化",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.4.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "根据 SoCuul 的开源，直接编译简体中文版。",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ],
+}

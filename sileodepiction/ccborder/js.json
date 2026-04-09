@@ -1,0 +1,180 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://xiangfeidexiaohuo.github.io/images/ccborder.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text": "点此加入刀刀源聊天群",
+                    "action": "https://t.me/ae86_daodao",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "类iOS18样式的控制中心，可调节控制中心模块形状(37.5左右为圆，根据机型适当微调)，模块边框粗细，音量/亮度图形颜色等；基于p2kdev的开源定制。",
+                    "useRawFormat": true,
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/ccborder/Screenshot_02.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "p2kdev & 妖刀",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "妖刀",
+                    "title": "维护者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.2",
+                    "title": "最新版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "16.0 - 16.6.1",
+                    "title": "支持系统范围"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025 年 03 月 25 日",
+                    "title": "最后更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化百分比",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步p2k源码，修复亮度长按变形问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新增 音量/亮度 滑块数字大小选项",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "插件添加 音量/亮度 滑块数字百分比选项",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.6.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "去除 音量/亮度 滑块数字百分比，自行解决。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "模块和滑块圆角分开设置",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "目前只适合 iOS16 宝宝体验，暂不支持 iOS15。",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ],
+}

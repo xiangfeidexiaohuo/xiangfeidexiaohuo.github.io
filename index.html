@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>刀刀源</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/main.css" />
+	</head>
+	<body>
+		<div class="header">		
+			<div style="height: 200px;" class="inner-header flex">
+			  <h1 style="
+			      color: #ffffff;
+			      text-shadow: 
+			        0 0 8px rgba(255, 255, 255, 0.9),
+			        0 0 16px rgba(255, 255, 255, 0.5),
+			        0 0 24px rgba(255, 255, 255, 0.3);
+			      font-weight: bold;
+			      letter-spacing: 2px;
+			      margin: 0;
+			      text-align: center;
+			    ">
+			    刀刀源
+			  </h1>
+			</div>
+			<div style="margin-bottom: 15px;">
+			  <a rel="nofollow noopener" href="https://t.me/ae86_hk/" style="text-decoration: none;">
+			    <img src="assets/dao.png" loading="lazy" alt="DeepSeek" data-was-processed="true">
+			    <p style="
+			        color: #ffffff;
+			        text-shadow: 
+			          0 0 6px rgba(255, 255, 255, 0.8),
+			          0 0 12px rgba(255, 255, 255, 0.5);
+			        font-weight: 600;
+			        margin: 12px 0 0 0;
+			        text-align: center;
+			        letter-spacing: 1px;
+			      ">
+			      支持 rootful、rootless、roothide！
+			    </p>
+			  </a>
+			</div>
+			<div style="margin-bottom: 15px;">
+				<a rel="nofollow noopener" href="https://xiangfeidexiaohuo.github.io/">
+					<img src="assets/sileo.png" loading="lazy" alt="DeepSeek" data-was-processed="true">
+				</a>
+			</div>
+			<div style="margin-bottom: 15px;">
+				<a rel="nofollow noopener" href="https://xiangfeidexiaohuo.github.io/">
+					<img src="assets/saily.png" loading="lazy" alt="DeepSeek" data-was-processed="true">
+				</a>
+			</div>
+			<div>
+				<a rel="nofollow noopener" href="https://xiangfeidexiaohuo.github.io/">
+					<img src="assets/2026.png" loading="lazy" alt="DeepSeek" data-was-processed="true">
+				</a>
+			<div id="duration-counter" style="margin: 15px 0; font-size: 1.1em; color: #fff; text-shadow: 0 0 10px rgba(255,255,255,0.6);">
+			  我们已经陪伴您 <strong>计算中...</strong> ！
+			</div>
+			<a href="./index.html" style="
+			    color: #f0e68c;
+			    text-shadow: 
+			        0 0 6px #ffd700,
+			        0 0 12px rgba(255, 215, 0, 0.6),
+			        0 0 20px rgba(255, 255, 255, 0.3);
+			    font-weight: 600;
+			    letter-spacing: 1px;
+			    text-decoration: none;
+			">
+			    © 2018~2026 刀刀
+			</a>
+			<div>
+				<svg
+				  class="waves"
+				  xmlns="http://www.w3.org/2000/svg"
+				  xmlns:xlink="http://www.w3.org/1999/xlink"
+				  viewBox="0 24 150 28"
+				  preserveAspectRatio="none"
+				  shape-rendering="auto"
+				>
+				  <defs>
+					<path
+					  id="gentle-wave"
+					  d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z"
+					/>
+				  </defs>
+				  <g class="parallax">
+					<use
+					  xlink:href="#gentle-wave"
+					  x="48"
+					  y="0"
+					  fill="rgba(255,255,255,0.7"
+					/>
+					<use
+					  xlink:href="#gentle-wave"
+					  x="48"
+					  y="3"
+					  fill="rgba(255,255,255,0.5)"
+					/>
+					<use
+					  xlink:href="#gentle-wave"
+					  x="48"
+					  y="5"
+					  fill="rgba(255,255,255,0.3)"
+					/>
+					<use xlink:href="#gentle-wave" x="48" y="7" fill="#fff" />
+				  </g>
+				</svg>
+			</div>
+		</div>
+		<script>
+		  function formatDuration() {
+		    const start = new Date(2018, 2, 15, 0, 0, 0); 
+		    const now = new Date();
+
+		    let diffMs = now - start;
+		    if (diffMs < 0) return "0时0分0秒";
+
+		    const totalSeconds = diffMs / 1000;
+
+		    const years   = Math.floor(totalSeconds / (365.25 * 24 * 60 * 60));
+		    let remaining = totalSeconds % (365.25 * 24 * 60 * 60);
+
+		    const months  = Math.floor(remaining / (30.437 * 24 * 60 * 60));
+		    remaining     = remaining % (30.437 * 24 * 60 * 60);
+
+		    const days    = Math.floor(remaining / (24 * 60 * 60));
+		    remaining     = remaining % (24 * 60 * 60);
+
+		    const hours   = Math.floor(remaining / 3600);
+		    remaining     = remaining % 3600;
+
+		    const minutes = Math.floor(remaining / 60);
+		    const seconds = Math.floor(remaining % 60);
+
+		    let parts = [];
+		    if (years   > 0) parts.push(`${years}年`);
+		    if (months  > 0) parts.push(`${months}月`);
+		    if (days    > 0) parts.push(`${days}天`);
+		    parts.push(`${hours}时${minutes}分${seconds}秒`);
+
+		    return parts.join("");
+		  }
+
+		  const durationText = formatDuration();
+		  document.getElementById('duration-counter').innerHTML =
+		    `我们已经陪伴您 <strong>${durationText}</strong>！`;
+		</script>
+	</body>
+</html>

@@ -1,0 +1,552 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://xiangfeidexiaohuo.github.io/images/appprotect.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "保护隐私插件，可加密 App 等，可静默验证，隐藏验证框，无声无息验证。",
+                    "useRawFormat": true,
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/Screenshot_02.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "aReo",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "aReo",
+                    "title": "维护者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2.3.8",
+                    "title": "最新版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "15.0 - 16.6.1",
+                    "title": "支持系统范围"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2026 年 03 月 17 日",
+                    "title": "最后更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.4.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、隐藏功能新增受信任 WiFi 自动显示隐藏应用的功能；</br> 2、优化隐藏功能逻辑，未设置显示口令情况下隐藏功能不生效；</br> 3、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "解决桌面隐藏显示图标、滑动后台等各种卡顿掉帧问题。</br> 优化了性能，强烈建议更新。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化原相册验证功能;</br> 原相册验证功能改名为相机验证：从相机进入相册时需输入自定义密码;</br> 新相册验证功能：从微信、QQ等应用选择选择发送照片前需先验证。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、增加音量加减+电源键的关机验证；</br> 2、默认自动保存布局，解决可能出现的图标乱跑情况。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化未开启后台模糊功能时，后台卡片可能出现卡顿掉帧的问题；</br> 2、优化隐藏功能输入显示口令卡顿一下的问题；</br> 3、修复备份配置只保存首次备份文件的问题；</br> 4、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复 Ipad 设备切换后台可能导致崩溃的问题；</br> 2、优化后台模糊功能，新增全局开关（已使用此功能的用户需打开开关）；</br> 3、其它优化。</br> </br> 重要：此次更新涉及域名更换，请务必在 11.15 号前完成升级，避免后期出现插件无法激活、实效等情况。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化网址屏蔽功能，减少规则过多导致发热和网络卡顿等情况。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "网址屏蔽新增白名单功能，若屏蔽规则导致其它应用闪退，可开启白名单程序过滤。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复屏蔽网址功能可能导致的应用闪退；</br> 2、优化后台模糊功能，新增旧版中的透明模糊（切换模糊方式后需注销）；</br> 3、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化灵动岛验证；</br> 2、优化模糊后台边角问题；</br> 3、新增自定义屏蔽网址功能，可用于屏蔽各种广告、网站等。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化代码，解决可能导致设备卡顿、发热、耗电的问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化从屏幕底部上滑触发加密验证的距离；</br> 2、优化灵动岛验证；</br> 3、优化后台模糊功能；</br> 4、进一步适配 FloatingView 分屏等插件，解决后台模糊、进入全屏验证等问题；</br> 5、其它一些细节优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化个别功能。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化后台模糊功能，解决后台卡片消失时模糊状态短暂不存在问题；</br> 2、优化隐藏设置中的“隐藏设置应用”功能，开启后将会隐藏设置中所有三方应用；</br> 3、修复隐藏蓝牙设置选项后打开设置崩溃问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化后台模糊残影，更流畅丝滑；</br> 2、优化隐藏功能，桌面下拉搜索输入口令后自动清除内容；</br> 3、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.3.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复一些系统版本锁屏崩溃问题",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化锁屏清理通知功能；</br> 2、优化后台模糊功能为毛玻璃效果；</br> 3、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.2.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复开启隐藏设置选项功能可能出现的一些问题；</br> 2、优化后台模糊功能；</br> 3、修复桌面下拉搜索框输入显示口令后，无法再输入其它内容的问题；</br> 4、修复开启记忆验证后进入插件界面可能变灰色的问题；</br> 5、其它优化。</br> </br> 安装归类插件后，设置搜索框输入显示口令不生效。解决办法：临时卸载归类插件，设置完隐藏设置选项后再开启。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复开启隐藏设置选项功能可能出现的一些问题；</br> 2、优化后台模糊功能；</br> 3、修复桌面下拉搜索框输入显示口令后，无法再输入其它内容的问题；</br> 4、其它优化。</br> </br> 安装归类插件后，设置搜索框输入显示口令不生效。解决办法：临时卸载归类插件，设置完隐藏设置选项后再开启。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增隐藏设置选项功能（隐藏设置-隐藏设置选项），可隐藏设置应用里任意功能选项；</br> 2、其它优化。</br> </br> 如遇问题请卸载或更换设置归类插件！！！",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.1.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "仅有无根(rootless)版本</br> 修复无根开启重启保护无效问题",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.1.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复打开加密文件夹崩溃问题；</br> 2、设置里添加重启保护使用方法说明；</br> 3、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.1.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增备份、恢复配置功能；</br> 2、修复开启重启保护后，可能打不开加密应用的问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.1.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、重磅新增支持分屏插件加密验证；</br> 2、修复打开重启保护功能后，打开文件夹崩溃问题；</br> 3、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增重启保护，非越狱状态下无法打开已加密应用；</br> 2、修复关机验证时会截图的问题；</br> 3、优化激活验证逻辑。</br> </br> 注：重启保护需先通过 Filza 给应用安装目录添加写入权限。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化激活，修复已知问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增相册验证功能：支持微信、QQ应用内打开相册验证；</br> 2、优化激活文件位置：防止被误清理后导致掉激活问题；</br> 3、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复前两个版本可能出现的系统崩溃问题",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "RootHide v2.0.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复 bug，优化细节。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化逻辑，从插件设置界面进入后台时，自动退出插件界面；</br> 2、优化代码和UI细节，节省资源和内存占用。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化：加密应用锁屏后自动返回桌面；</br> </br> 2、优化：设备激活后注销验证逻辑。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "一、修复</br> 1、修复上个版本个别用户出现的崩溃和异常问题；</br> 2、修复卸载设置静默验证不生效问题；</br> </br> 二、优化</br> 1、优化加密设置中时间设置；</br> 2、优化锁屏关闭程序功能，锁屏关闭应用同时自动清理后台。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "一、修复</br> 1、修复静默验证可能不生效问题；</br> 2、修复锁屏清理通知白名单不生效问题；</br> </br> 二、优化</br> 1、优化激活逻辑，解决注销出现的未激活问题；</br> 2、优化设置中应用程序选择，添加应用搜索功能；</br> 3、设置中加密的项目支持静默验证；</br> 4、优化激活方式，支持直接跳转支付宝；</br> 5、优化插件设置 UI，更简洁美观。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.9.9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "灵动岛设备新增灵动验证",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.9.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、加密功能新增验证所有应用功能；</br> 2、优化锁屏功能可能导致的解锁反应慢问题；</br> 3、新增RootHide版，解决注销后功能可能失效的问题；</br> 4、其它优化。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.9.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增短信开关免打扰功能（15左滑16右滑），开启后无角标、未读和横幅提醒；</br> 2、新增网络权限设置功能；</br> 3、修复应用加密/解密/隐藏/显示 3DTouch 图标不显示；</br> 4、修复15系统隐藏应用后接收通知崩溃问题；</br> 5、其它优化和已知 bugs 修复。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.9.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复应用加密/解密/隐藏/显示 3DTouch 图标不显示；</br> 2、新增网络权限设置；</br> 3、新增右滑短信开关免打扰功能，开启后无角标、未读和横幅提醒；</br> 4、优化注销激活。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.9.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复设置中账号加密不生效问题；</br> 2、修复16.4.1系统锁屏返回桌面安全模式问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.9.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复16.4以下系统锁屏返回桌面无效和安全模式；</br> 修复上个版本锁屏清除通知失效问题。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.9.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增锁屏自动返回桌面功能；</br> 2、修复隐藏设置中隐藏电池活动功能。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.8.9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新增锁屏关闭程序白名单功能",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.8.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1. 修复滑动后台卡片进入加密应用不验证问题</br> 2.修复通讯设置不过滤问题",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ],
+}
