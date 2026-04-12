@@ -2012,6 +2012,24 @@ Author: julioverne & 妖刀
 Name: GoodWiFi 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
+Package: com.daodao.goodwifi
+Version: 1.6.1
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: roothide/GoodWiFi 中文版(RootHide)_1.6.1.deb
+Size: 64620
+MD5sum: e7cfb152e95f327e4dbb6f4731a82d4e
+SHA1: 98df96d2cedf6ec4f1f6825369d6394ca77e44f7
+SHA256: 4c6ee4aafc917de2278356f68daafec2e1037b0ef470976df5c814bd517ab8c8
+Section: 嗨-工具
+Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
 Package: com.daodao.nocshare
 Version: 1.1.3
 Architecture: iphoneos-arm64e
@@ -5564,6 +5582,24 @@ Size: 65630
 MD5sum: f38f4ec4f8e4a4a009648629f56a7612
 SHA1: a725d89cc3aa3314b73768fa95d0856c9af264aa
 SHA256: e4769dd3046ffa4fdd3a1b11a2899ff5276e1b9f4b6cfa8686c602daf6e5fdb6
+Section: 嗨-工具
+Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi
+Version: 1.6.1
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: rootless/GoodWiFi 中文版(rootless)_1.6.1.deb
+Size: 66566
+MD5sum: d3d56f102bb6b2a330b91be4528040ab
+SHA1: 4b57b925cf689dc2efcd01774e2a703487b7a48b
+SHA256: aae67f0c0042ca283ca355d0849828a9eab953bd7bbb23df9d30a07e81ed632e
 Section: 嗨-工具
 Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
 Author: julioverne & 妖刀
@@ -10850,6 +10886,24 @@ Size: 65746
 MD5sum: 1601bb85c7747d687f1a30040cf74b93
 SHA1: be68be3c0ec77a25ee29f94814388cca549013db
 SHA256: d8a6e6f6c59d877e786d6fd20c3a3ddfc74520e8738b24a1814987a8288ce802
+Section: 嗨-工具
+Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi
+Version: 1.6.1
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: rootful/GoodWiFi_ZH_1.6.1.deb
+Size: 66772
+MD5sum: df9db04cb3012451f09ee8ebf768a93d
+SHA1: 37ec4d69573dd927580869e7664b28d2d0954ee9
+SHA256: 560230647222fe884082cc842ee1256ebef5666de1eaf01947fb1dbeaa19f4ba
 Section: 嗨-工具
 Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
 Author: julioverne & 妖刀
