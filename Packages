@@ -370,6 +370,24 @@ Author: Nepeta & daodao
 Name: Axon 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
+Package: com.dao.axon
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: roothide/Axon 中文版(RootHide)_2.2.deb
+Size: 150366
+MD5sum: 92d7859eb90e4ddb8fcef7d0185e33bf
+SHA1: c7545612f9d99414859990504f85f3f59942d63e
+SHA256: 2118d5f21e76405e3ea494c8076d4b81bb71d7a06ea2ba58abb5cc1b8d08e6bb
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版。
+Author: Nepeta & daodao
+Name: Axon 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
 Package: com.dao.azule
 Version: 0.8.3
 Architecture: iphoneos-arm64e
@@ -2030,6 +2048,24 @@ Author: julioverne & 妖刀
 Name: GoodWiFi 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
+Package: com.daodao.goodwifi
+Version: 1.6.2
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: roothide/GoodWiFi 中文版(RootHide)_1.6.2.deb
+Size: 66430
+MD5sum: a2f046dc8369a3e71ec81a19d3012385
+SHA1: e66b6338e46182affb094a7e09603e6c09d0621e
+SHA256: 649c705298a4ccf9915332292f7ce85c97d4f2da4f4cff72028ff694c4a8e18d
+Section: 嗨-工具
+Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
 Package: com.daodao.nocshare
 Version: 1.1.3
 Architecture: iphoneos-arm64e
@@ -3261,6 +3297,24 @@ Size: 149616
 MD5sum: f6961efa46a0946be72f33d9a698ca5b
 SHA1: 23080ee1341bdaab5f28b9939097027d8f7c480e
 SHA256: 6e76bcef7b4040d7115f9c2c4e93c4a9765798121b24d5c6953ac16a699b5acc
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版。
+Author: Nepeta & daodao
+Name: Axon 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: rootless/Axon 中文版(rootless)_2.2.deb
+Size: 150810
+MD5sum: 93100f60e5c3f9a1a8dba3b9152b4e48
+SHA1: 2e126c203dab6b3c4d4932e3113c99cd0c34345c
+SHA256: 856e594f64a1cdec62144fa9e1cbcd355d304016a5ea5884d06fa4302d122277
 Section: 嗨-工具
 Description: 锁屏通知聚合插件，刀刀中文优化版。
 Author: Nepeta & daodao
@@ -5600,6 +5654,24 @@ Size: 66566
 MD5sum: d3d56f102bb6b2a330b91be4528040ab
 SHA1: 4b57b925cf689dc2efcd01774e2a703487b7a48b
 SHA256: aae67f0c0042ca283ca355d0849828a9eab953bd7bbb23df9d30a07e81ed632e
+Section: 嗨-工具
+Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: rootless/GoodWiFi 中文版(rootless)_1.6.2.deb
+Size: 68444
+MD5sum: c02bd137240e8293f77d7749752dd9aa
+SHA1: 358313947ee6a74f21a475802a4edec86c0c0373
+SHA256: 2d8b236127ab53e513d7443a1b30f0bfb251b27c4c2c97e13a07c17862765b4a
 Section: 嗨-工具
 Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
 Author: julioverne & 妖刀
@@ -9522,6 +9594,24 @@ Author: Nepeta & daodao
 Name: Axon 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
+Package: com.dao.axon
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: rootful/Axon_ZH_2.2.deb
+Size: 150678
+MD5sum: c5ac1166ba6861254f2bdbb7666b6a0f
+SHA1: e0a2d2f6ff723931d5394cd9297f380e5fcbd2dd
+SHA256: 67e72ba01539538198a703842e0c719f979e808db1f4078418ad5998b382dac6
+Section: 嗨-工具
+Description: 锁屏通知聚合插件，刀刀中文优化版。
+Author: Nepeta & daodao
+Name: Axon 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
 Package: com.dao.azule
 Version: 0.7.6
 Architecture: iphoneos-arm
@@ -10904,6 +10994,24 @@ Size: 66772
 MD5sum: df9db04cb3012451f09ee8ebf768a93d
 SHA1: 37ec4d69573dd927580869e7664b28d2d0954ee9
 SHA256: 560230647222fe884082cc842ee1256ebef5666de1eaf01947fb1dbeaa19f4ba
+Section: 嗨-工具
+Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
+Author: julioverne & 妖刀
+Name: GoodWiFi 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi
+Version: 1.6.2
+Architecture: iphoneos-arm
+Maintainer: 妖刀
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: rootful/GoodWiFi_ZH_1.6.2.deb
+Size: 68312
+MD5sum: 36387f36e83472f43e87b3d2e7fd0f0b
+SHA1: fedf84334be6dd9b92a2f1009511fb843a091516
+SHA256: f8a438ede69619b9c9b167f36735cdf49ae02fc09e1b21ba642eca27fe809e76
 Section: 嗨-工具
 Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
 Author: julioverne & 妖刀
