@@ -1304,6 +1304,24 @@ Author: Paisseon
 Name: Reverie 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
+Package: com.dao.reverie
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: 刀刀
+Installed-Size: 888
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
+Filename: roothide/Reverie 中文版(RootHide)_1.1.deb
+Size: 132560
+MD5sum: 16ddaf35896ad809ff20590af43b3ed4
+SHA1: b5216d8125153bec3efa69d9a0bf9fb91b13f267
+SHA256: 87fa2cc4be4636ec4315ef6ca853e1c722f3ed48429422a90a48afedd9bd401f
+Section: 嗨-工具
+Description: 自由的休眠设备来节省电量。
+Author: Paisseon
+Name: Reverie 中文版(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
+
 Package: com.dao.rode
 Version: 1.0
 Architecture: iphoneos-arm64e
@@ -4720,6 +4738,24 @@ Size: 121506
 MD5sum: 1bb0287c409b598d249c4cd9674e390b
 SHA1: 21173baf6610488b58db3bca5981492397827e67
 SHA256: b6bc833c18f3a09f63c9416463ba383a727129859668fd6d2151cf5f82796332
+Section: 嗨-工具
+Description: 自由的休眠设备来节省电量。
+Author: Paisseon
+Name: Reverie 中文版(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
+
+Package: com.dao.reverie
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 刀刀
+Installed-Size: 888
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
+Filename: rootless/Reverie 中文版(rootless)_1.1.deb
+Size: 132686
+MD5sum: 77a42b97c084a85de31836348a9e4b63
+SHA1: bfcd4cf9281fe36f9809b1c12fe7ec47bbbdda79
+SHA256: 169f5e9683a6b539e8c087cbfdd8454691b1e226b7c2ea2360427184ca5d359b
 Section: 嗨-工具
 Description: 自由的休眠设备来节省电量。
 Author: Paisseon
@@ -10381,6 +10417,24 @@ Size: 121362
 MD5sum: 5a20ac11d72a9f7bb21dfcf2a5708a3e
 SHA1: 1cc77d76bf38eb5bdf5a49c7bfbd30b56bdf6fe3
 SHA256: afb0f50f01e33585313bf689ed6aa58ea38a99441cbcfc1d5c5b6f1f4d540c18
+Section: 嗨-工具
+Description: 自由的休眠设备来节省电量。
+Author: Paisseon
+Name: Reverie 中文版
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
+
+Package: com.dao.reverie
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 刀刀
+Installed-Size: 888
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
+Filename: rootful/Reverie_ZH_1.1.deb
+Size: 132532
+MD5sum: 9dcc7904ab62b8250ee348046fdcb34d
+SHA1: 228897e9d0bf8cfa7e82b2fcc3d26b121aa0047b
+SHA256: 2976f1bc25eca52a0f962a3c7314a5c9e22f7f6eb0260c804a0bc456fcff2da0
 Section: 嗨-工具
 Description: 自由的休眠设备来节省电量。
 Author: Paisseon
