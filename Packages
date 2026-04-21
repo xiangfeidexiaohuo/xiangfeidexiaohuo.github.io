@@ -1017,22 +1017,6 @@ Author: Nightwind
 Name: LockButtonX(RootHide)
 
 Package: com.dao.lockdown
-Version: 1.0.2
-Architecture: iphoneos-arm64e
-Maintainer: roothide
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.roothide.lockdown
-Filename: roothide/lockdown(RootHide).deb
-Size: 5100
-MD5sum: 997a61bbe2596af01e2f4ff8d32fc027
-SHA1: c39a7ce9edc4d3ec0f0a21eaf113332dd4f8c045
-SHA256: 3ce8a4ea41adf889718af1e001e8d4dce83d43ae58d3cae989d49973f3f8cf88
-Section: 嗨-系统
-Description: 让你的设备免受 DarkSword/Coruna 攻击！支持RootHide多巴胺和Bootstrap。
-Author: roothide
-Name: lockdown(RootHide)
-
-Package: com.dao.lockdown
 Version: 1.0.3
 Architecture: iphoneos-arm64e
 Maintainer: roothide
@@ -1044,6 +1028,23 @@ Size: 5640
 MD5sum: 4d4826ef0d75a8df2278997b0e8a49f3
 SHA1: 0b967cf2a8d044357e07bcdf21d9a65a0f164063
 SHA256: bf0cf20f62648087cb7edb2f1d4cc40a3e74c6421b9d26f330dd7c470c4cfd84
+Section: 嗨-系统
+Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent 进程的 JSC 安全加固。通过配置 JavaScriptCore 选项，消除主要的漏洞利用原语（包括地址泄露/伪造对象 addrof/fakeobj、JIT 类型混淆、垃圾回收器 Use-After-Free）。该安全强化默认处于启用状态，无设置。如果使用真皮白名单RootHide，请去白名单勾选 com.apple.WebKit.WebContent。
+Author: roothide
+Name: lockdown(RootHide)
+
+Package: com.dao.lockdown
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: roothide
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.roothide.lockdown, cc.dao.lightshield
+Filename: roothide/lockdown(RootHide)_2.0.deb
+Size: 5814
+MD5sum: 624f492e5d712d8c8ca943a7d700ca08
+SHA1: 826491c03a04bb8756b1ef6f913019c5a1520035
+SHA256: a60d53e497f3cf4b5b3aab1ae06b3b7f6d86aa8182c44c06049537ef59d61c10
 Section: 嗨-系统
 Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent 进程的 JSC 安全加固。通过配置 JavaScriptCore 选项，消除主要的漏洞利用原语（包括地址泄露/伪造对象 addrof/fakeobj、JIT 类型混淆、垃圾回收器 Use-After-Free）。该安全强化默认处于启用状态，无设置。如果使用真皮白名单RootHide，请去白名单勾选 com.apple.WebKit.WebContent。
 Author: roothide
@@ -4194,6 +4195,23 @@ Size: 6724
 MD5sum: 770e62d74ca286f277e750c9516e4acf
 SHA1: 5e87947f20e8db609b901ce454c940a0ee863d68
 SHA256: 528783082169b78f7f5a8974fdb867ed051605f76a2c47f24249fc9aa3a9cdce
+Section: 嗨-系统
+Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent 进程的 JSC 安全加固。通过配置 JavaScriptCore 选项，消除主要的漏洞利用原语（包括地址泄露/伪造对象 addrof/fakeobj、JIT 类型混淆、垃圾回收器 Use-After-Free）。该安全强化默认处于启用状态，无设置。如果使用真皮白名单RootHide，请去白名单勾选 com.apple.WebKit.WebContent。
+Author: roothide
+Name: lockdown(rootless)
+
+Package: com.dao.lockdown
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: roothide
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.roothide.lockdown, cc.dao.lightshield
+Filename: rootless/lockdown(rootless)_2.0.deb
+Size: 6892
+MD5sum: f6c5136addab93ecf289cc1b9c45235a
+SHA1: 6af8ff0b83a0973e1ac6e9c619bde16266d1ab75
+SHA256: 45f0c074ca521d21a5787500a48e0b4c4fb1ac4e9ab25b3cd3f7ee94f13e4179
 Section: 嗨-系统
 Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent 进程的 JSC 安全加固。通过配置 JavaScriptCore 选项，消除主要的漏洞利用原语（包括地址泄露/伪造对象 addrof/fakeobj、JIT 类型混淆、垃圾回收器 Use-After-Free）。该安全强化默认处于启用状态，无设置。如果使用真皮白名单RootHide，请去白名单勾选 com.apple.WebKit.WebContent。
 Author: roothide
@@ -10081,6 +10099,23 @@ Size: 7372
 MD5sum: c9ba936d7f928f41d8aedf14c475049f
 SHA1: e431b2b02f4eb4e3c98738df0bc794b38ca6e718
 SHA256: dfc10adccc7773dc0f413935ab601eff6703bd38595284e2fbdd05e941b2bfdd
+Section: 嗨-系统
+Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent 进程的 JSC 安全加固。通过配置 JavaScriptCore 选项，消除主要的漏洞利用原语（包括地址泄露/伪造对象 addrof/fakeobj、JIT 类型混淆、垃圾回收器 Use-After-Free）。该安全强化默认处于启用状态，无设置。如果使用真皮白名单RootHide，请去白名单勾选 com.apple.WebKit.WebContent。
+Author: roothide
+Name: lockdown
+
+Package: com.dao.lockdown
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: roothide
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.roothide.lockdown, cc.dao.lightshield
+Filename: rootful/lockdown_2.0.deb
+Size: 6936
+MD5sum: ecf3115e8aab9b9ac58c986b4a34b835
+SHA1: b44dc1024f67cfa0ecb89165cdb3a19dbe4306db
+SHA256: e4873179fb5653235dc64749260fab7788acb77c4bb39c0821d436019996212b
 Section: 嗨-系统
 Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent 进程的 JSC 安全加固。通过配置 JavaScriptCore 选项，消除主要的漏洞利用原语（包括地址泄露/伪造对象 addrof/fakeobj、JIT 类型混淆、垃圾回收器 Use-After-Free）。该安全强化默认处于启用状态，无设置。如果使用真皮白名单RootHide，请去白名单勾选 com.apple.WebKit.WebContent。
 Author: roothide
