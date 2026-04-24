@@ -1537,6 +1537,24 @@ Description: 更快的 iOS 动画，根据开源编译，已带汉化。
 Author: Hoangdus & daodao
 Name: Speedster(RootHide)
 
+Package: com.dao.speedster
+Version: 2.2.2
+Architecture: iphoneos-arm64e
+Maintainer: Hoangdus & daodao
+Installed-Size: 428
+Depends: firmware (>=13.0)
+Conflicts: com.hoangdus.speedster, com.hk.speedster.cn.rl
+Filename: roothide/Speedster(RootHide)_2.2.2.deb
+Size: 39470
+MD5sum: cf6b29336faf3d42d3986a0779a6ae84
+SHA1: 5ae444490d36d5a2f54c7dbf4813d311ba51e0d2
+SHA256: 4cb461d28dced81ab5a041a53cec5f4dae5243a4ab96f9e431c2e8f834d0970c
+Section: 嗨-工具
+Description: 更快的 iOS 动画，根据开源编译，已带汉化。
+Author: Hoangdus & daodao
+Name: Speedster(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/speedster/js.json
+
 Package: com.dao.speedy
 Version: 0.3
 Architecture: iphoneos-arm64e
@@ -5068,6 +5086,24 @@ Section: 嗨-工具
 Description: 更快的 iOS 动画，根据开源编译，已带汉化。
 Author: Hoangdus & daodao
 Name: Speedster(rootless)
+
+Package: com.dao.speedster
+Version: 2.2.2
+Architecture: iphoneos-arm64
+Maintainer: Hoangdus & daodao
+Installed-Size: 428
+Depends: firmware (>=13.0)
+Conflicts: com.hoangdus.speedster, com.hk.speedster.cn.rl
+Filename: rootless/Speedster(rootless)_2.2.2.deb
+Size: 41568
+MD5sum: 495f27d8030b53194d42623de1b4b7ed
+SHA1: 1ef30924d6780adeab62134b1779731b29d1ec9c
+SHA256: 9865f57b16cf9b9cbdf09bfa539000f6fc05614b7ce74190625f62aa1b5e36f0
+Section: 嗨-工具
+Description: 更快的 iOS 动画，根据开源编译，已带汉化。
+Author: Hoangdus & daodao
+Name: Speedster(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/speedster/js.json
 
 Package: com.dao.speedy
 Version: 0.3
@@ -10588,6 +10624,24 @@ Section: 嗨-工具
 Description: 更快的 iOS 动画，根据开源编译，已带汉化。
 Author: Hoangdus & daodao
 Name: Speedster
+
+Package: com.dao.speedster
+Version: 2.2.2
+Architecture: iphoneos-arm
+Maintainer: Hoangdus & daodao
+Installed-Size: 428
+Depends: firmware (>=13.0)
+Conflicts: com.hoangdus.speedster, com.hk.speedster.cn.rl
+Filename: rootful/Speedster_2.2.2.deb
+Size: 41630
+MD5sum: f3e85d9f8270cf70c9910a838eed0cff
+SHA1: e89edbb27abcdcdcac80c5fb1c0ddc851fb13d49
+SHA256: 2016f833480efeea4a80e091a0d2bed3a0a85460f75f462a5e9d74702fff7fdb
+Section: 嗨-工具
+Description: 更快的 iOS 动画，根据开源编译，已带汉化。
+Author: Hoangdus & daodao
+Name: Speedster
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/speedster/js.json
 
 Package: com.dao.spotify
 Version: 6.2.2
