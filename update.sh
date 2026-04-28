@@ -1,4 +1,6 @@
 #!/bin/sh
+# sudo apt update && sudo apt install -y dpkg-dev apt-utils git xz-utils bzip2 gzip lzma zstd
+
 echo "1、删除旧版Packages"
 rm Packages Packages.*
 
