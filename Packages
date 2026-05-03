@@ -1900,6 +1900,22 @@ Author: dvntm
 Name: YTLite(RootHide)
 
 Package: com.dao.ytlite
+Version: 5.2.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite
+Filename: roothide/YTLite(RootHide)_5.2.1.deb
+Size: 7415512
+MD5sum: 983bc63624702e9beb7b963985fd0776
+SHA1: 0eba6af9c4aad74d230e5844d31b81e4fe8f2bfb
+SHA256: e4b8c5fd927b8318e4da1d4285ae5944da8f086504ffa26cab90fc32e9534416
+Section: 嗨-工具
+Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
+Author: dvntm
+Name: YTLite(RootHide)
+
+Package: com.dao.ytlite
 Version: 5.2b1
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
@@ -5559,6 +5575,22 @@ Size: 6181728
 MD5sum: a749062b2d9cadf6cfcb693256b747d9
 SHA1: 498bfe1bcdb10c9c7015dc681c29a3ac3485be06
 SHA256: 42c432337e11507dbcf7bf1d71a4e56127de70bae3c6211185703cd889f8d5cb
+Section: 嗨-工具
+Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
+Author: dvntm
+Name: YTLite(rootless)
+
+Package: com.dao.ytlite
+Version: 5.2.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite
+Filename: rootless/YTLite(rootless)_5.2.1.deb
+Size: 7423688
+MD5sum: f1a0300a6cc7424bfc9e35e9c763ffa3
+SHA1: 9d100ef12f09dec9b8fc6c371d83a9b12cae3fdd
+SHA256: c7bd0463c85f5fc580138626cb15dc7e554f9a30d9ed8d7d411f62571ca75db8
 Section: 嗨-工具
 Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
@@ -10952,6 +10984,22 @@ Size: 6189172
 MD5sum: 16af6cef4622467ce507a9b26c9c8c7c
 SHA1: 2b7fe8ac126c87f0ff3e0dc9fe1cd865b52fdda7
 SHA256: af79e3fedfce9da5aeff2ab632ee4ce44bea608b6ffe349a302fca114234f62a
+Section: 嗨-工具
+Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
+Author: dvntm
+Name: YTLite
+
+Package: com.dao.ytlite
+Version: 5.2.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.ytlite
+Filename: rootful/YTLite_5.2.1.deb
+Size: 7412508
+MD5sum: 2e52ddc86c3889902f58df763861c9f6
+SHA1: 394ead31ede108f110a9fa2337d780b75ae7e4f3
+SHA256: 470e6f50015b7933a214a33534f420763203a6074587888eefb6366bdde8c2f5
 Section: 嗨-工具
 Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
