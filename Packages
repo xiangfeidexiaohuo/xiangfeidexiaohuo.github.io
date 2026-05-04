@@ -1884,22 +1884,6 @@ Name: YTR 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.ytlite
-Version: 5.1
-Architecture: iphoneos-arm64e
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.ytlite
-Filename: roothide/YTLite(RootHide)_5.1.deb
-Size: 6182440
-MD5sum: e4a0921bb469b7cc247ff309d7c3a73c
-SHA1: 10990767ecae3e4da024833f0fa761ab02835e2f
-SHA256: c47df8904dfc1310b6b427841b94b54b18aee655d5a65e9e81de936ebb697a09
-Section: 嗨-工具
-Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
-Author: dvntm
-Name: YTLite(RootHide)
-
-Package: com.dao.ytlite
 Version: 5.2.1
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
@@ -1910,38 +1894,6 @@ Size: 7415512
 MD5sum: 983bc63624702e9beb7b963985fd0776
 SHA1: 0eba6af9c4aad74d230e5844d31b81e4fe8f2bfb
 SHA256: e4b8c5fd927b8318e4da1d4285ae5944da8f086504ffa26cab90fc32e9534416
-Section: 嗨-工具
-Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
-Author: dvntm
-Name: YTLite(RootHide)
-
-Package: com.dao.ytlite
-Version: 5.2b1
-Architecture: iphoneos-arm64e
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.ytlite
-Filename: roothide/YTLite(RootHide)_5.2b1.deb
-Size: 6044060
-MD5sum: 2de2088177522efb459daacf116bef85
-SHA1: 7f91c47ca1ad015021fd982455d1be53fc6f67ee
-SHA256: c0648c2f2d1ad8fd1516a59dcca9ebcbcb2f682d26cc2dcf73f43450c3d7fc95
-Section: 嗨-工具
-Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
-Author: dvntm
-Name: YTLite(RootHide)
-
-Package: com.dao.ytlite
-Version: 5.2b3
-Architecture: iphoneos-arm64e
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.ytlite
-Filename: roothide/YTLite(RootHide)_5.2b3.deb
-Size: 6404148
-MD5sum: 9372451111b412ea418b54d943fde524
-SHA1: a1cb5b4fde9930be0e2f6b6cf8c5381536d43d92
-SHA256: 25e4853352476bc3a3c91c4818607d8e7c1656e27e8b968b70d74049ef3e6019
 Section: 嗨-工具
 Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
@@ -5565,22 +5517,6 @@ Name: YTR 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.ytlite
-Version: 5.1
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.ytlite
-Filename: rootless/YTLite(rootless)_5.1.deb
-Size: 6181728
-MD5sum: a749062b2d9cadf6cfcb693256b747d9
-SHA1: 498bfe1bcdb10c9c7015dc681c29a3ac3485be06
-SHA256: 42c432337e11507dbcf7bf1d71a4e56127de70bae3c6211185703cd889f8d5cb
-Section: 嗨-工具
-Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
-Author: dvntm
-Name: YTLite(rootless)
-
-Package: com.dao.ytlite
 Version: 5.2.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
@@ -5591,38 +5527,6 @@ Size: 7423688
 MD5sum: f1a0300a6cc7424bfc9e35e9c763ffa3
 SHA1: 9d100ef12f09dec9b8fc6c371d83a9b12cae3fdd
 SHA256: c7bd0463c85f5fc580138626cb15dc7e554f9a30d9ed8d7d411f62571ca75db8
-Section: 嗨-工具
-Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
-Author: dvntm
-Name: YTLite(rootless)
-
-Package: com.dao.ytlite
-Version: 5.2b1
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.ytlite
-Filename: rootless/YTLite(rootless)_5.2b1.deb
-Size: 6050744
-MD5sum: fa58ed52336def8e8015f797fd7b43f0
-SHA1: b596266ba96210add3aeafd925ab6e15bbbbf6be
-SHA256: a6e213dc84c659a605eadcf5b6cdad13c7ea38272caca5da1389f17832c8c26d
-Section: 嗨-工具
-Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
-Author: dvntm
-Name: YTLite(rootless)
-
-Package: com.dao.ytlite
-Version: 5.2b3
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.ytlite
-Filename: rootless/YTLite(rootless)_5.2b3.deb
-Size: 6398692
-MD5sum: 22fbdfedcdf68eb55f677a86267028a7
-SHA1: 9c799f00ddb4425538365ae62a06509c124fe7a2
-SHA256: 3884babf6853124544d3d8f54966e07e3cd7c9c7cb1d2cc9f41f1faa7fa8e55e
 Section: 嗨-工具
 Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
@@ -10974,22 +10878,6 @@ Name: YTR 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.ytlite
-Version: 5.1
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.ytlite
-Filename: rootful/YTLite_5.1.deb
-Size: 6189172
-MD5sum: 16af6cef4622467ce507a9b26c9c8c7c
-SHA1: 2b7fe8ac126c87f0ff3e0dc9fe1cd865b52fdda7
-SHA256: af79e3fedfce9da5aeff2ab632ee4ce44bea608b6ffe349a302fca114234f62a
-Section: 嗨-工具
-Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
-Author: dvntm
-Name: YTLite
-
-Package: com.dao.ytlite
 Version: 5.2.1
 Architecture: iphoneos-arm
 Maintainer: dvntm
@@ -11000,38 +10888,6 @@ Size: 7412508
 MD5sum: 2e52ddc86c3889902f58df763861c9f6
 SHA1: 394ead31ede108f110a9fa2337d780b75ae7e4f3
 SHA256: 470e6f50015b7933a214a33534f420763203a6074587888eefb6366bdde8c2f5
-Section: 嗨-工具
-Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
-Author: dvntm
-Name: YTLite
-
-Package: com.dao.ytlite
-Version: 5.2b1
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.ytlite
-Filename: rootful/YTLite_5.2b1.deb
-Size: 6044260
-MD5sum: ff28228b7972b1b8e89e4b3240b5ff6e
-SHA1: 4022203ef4689cbe83fc150bedf40cf0dbb42f28
-SHA256: 8d7f9685a552426a01795524bcee37ad578db7918dfb6369d53ec5f1374cb8ee
-Section: 嗨-工具
-Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
-Author: dvntm
-Name: YTLite
-
-Package: com.dao.ytlite
-Version: 5.2b3
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.ytlite
-Filename: rootful/YTLite_5.2b3.deb
-Size: 6399324
-MD5sum: 8a9f2647d1a334e7ce385141618b3d09
-SHA1: 107d1662b53111d55dad024b988d53bcd08102c5
-SHA256: 639f0256873b5b0bfa49d69e64f8afb0651e0968516d19f7f6f11f5c4576874b
 Section: 嗨-工具
 Description: 综合性 YouTube 多功能插件，可去广告、下载、调节播放器等超多功能；插件选项位于油管“设置—YouTubePlus”，更多功能请自行启用。
 Author: dvntm
