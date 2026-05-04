@@ -46,6 +46,10 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/axon/Screenshot_04.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/axon/Screenshot_05.png"
                         }
                     ]
                 },
@@ -92,7 +96,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 04 月 16 日",
+                    "text": "2026 年 05 月 05 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -105,6 +109,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "长按图标后的清理弹窗样式改为毛玻璃胶囊浮窗，更现代化！",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.2",
