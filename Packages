@@ -48,23 +48,6 @@ Author: 小果子
 Name: 威锋去广告(RootHide)
 
 Package: com.dao.3dappversionspoofer
-Version: 2.0.3.1
-Architecture: iphoneos-arm64e
-Maintainer: 0xkuj & daodao
-Installed-Size: 460
-Depends: com.opa334.altlist
-Conflicts: com.0xkuj.3dappversionspoofer
-Filename: roothide/3DAppVersionSpoofer(RootHide)_2.0.3.1.deb
-Size: 59496
-MD5sum: e6593d3f5ba3d45f0f4c0c4e0c06b4e0
-SHA1: ff3f911dc3ebeb73194eea62d53aebb4db0ba75c
-SHA256: 68a1c308dff00ebeb3ce3b200cfac767c251adb99812c374cbbb54d15dd25871
-Section: 嗨-工具
-Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
-Author: 0xkuj
-Name: 3DAppVersionSpoofer(RootHide)
-
-Package: com.dao.3dappversionspoofer
 Version: 2.0.4
 Architecture: iphoneos-arm64e
 Maintainer: 0xkuj & daodao
@@ -115,57 +98,6 @@ Author: 妖刀
 Name: ACTikTok 简体中文包(RootHide)
 
 Package: com.dao.appprotect
-Version: 2.1.3
-Architecture: iphoneos-arm64e
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
-Filename: roothide/AppProtect 隐私保护(RootHide)_2.1.3.deb
-Size: 554532
-MD5sum: 32e4264ebd9aca137bd3b31b86dfce7d
-SHA1: 4119b5558de87df0f934c9c28c950da730ce299d
-SHA256: d575af2003fc2ed375a9fb04b7241b2b972d4ee5e6ebb789573bc6c50387f557
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Author: aReo
-Name: AppProtect 隐私保护(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
-Version: 2.3.7
-Architecture: iphoneos-arm64e
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
-Filename: roothide/AppProtect 隐私保护(RootHide)_2.3.7.deb
-Size: 689968
-MD5sum: 5c7d7a8027392381930d62ed72b22871
-SHA1: 92b880fb4ae18f6df4afb48cbd7d8c8ceba58ceb
-SHA256: 07c0ab7520af50f8e12ed320c48d146c33f90366526e8e7cd11ff4c4a5564e8e
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Author: aReo
-Name: AppProtect 隐私保护(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
-Version: 2.3.8
-Architecture: iphoneos-arm64e
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
-Filename: roothide/AppProtect 隐私保护(RootHide)_2.3.8.deb
-Size: 699676
-MD5sum: d46e11187f2e66a8f457c907cf271bc8
-SHA1: 061c4dfd0b39543a752d6d9923122cace010bbe5
-SHA256: e75ff7448b3d90d770381213f331317c974f00ea2f53591ce815c65978d05aa2
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Author: aReo
-Name: AppProtect 隐私保护(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
 Version: 2.4.0
 Architecture: iphoneos-arm64e
 Maintainer: aReo
@@ -200,22 +132,6 @@ Author: Mineek
 Name: AppStoreTroller(RootHide)
 
 Package: com.dao.apptools.lite
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless, com.dao.apptools15
-Filename: roothide/AppTools Lite(RootHide)_1.0.0.deb
-Size: 611380
-MD5sum: b85690b8c7b3ca563945f0cd90ed03cb
-SHA1: d218a2b46aafd10d9f8c03983efff86215cc962c
-SHA256: d00c139c84e61720c6cd3f3b1033512175b51f5610b0f84e8bf8208bb54a5616
-Section: 嗨-付费
-Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
-Author: aReo
-Name: AppTools Lite(RootHide)
-
-Package: com.dao.apptools.lite
 Version: 1.0.1
 Architecture: iphoneos-arm64e
 Maintainer: aReo
@@ -230,57 +146,6 @@ Section: 嗨-付费
 Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
 Author: aReo
 Name: AppTools Lite(RootHide)
-
-Package: com.dao.apptools15
-Version: 1.4.3
-Architecture: iphoneos-arm64e
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
-Filename: roothide/AppTools15-16(RootHide)_1.4.3.deb
-Size: 554352
-MD5sum: 03e854805f2a7fd558a8a5506bbf3cb3
-SHA1: ea082bb043b804c67b5288c33b3aa0dab25f184e
-SHA256: d397247cc51b29edc29d81669353252903a7953069cd83aff71d3b69361f981d
-Section: 嗨-付费
-Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Author: aReo
-Name: AppTools15-16(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
-
-Package: com.dao.apptools15
-Version: 2.6.6
-Architecture: iphoneos-arm64e
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: roothide/AppTools15-17(RootHide)_2.6.6.deb
-Size: 1144748
-MD5sum: a30639cd472a5a87e4384906f92af14c
-SHA1: 80ac776a6bf15f3dd78d0898f26110a8ceed5e74
-SHA256: b51dee15d62a15ba4fc765ee8864d2bf9e8070f913d0558309de4241b5e5fef0
-Section: 嗨-付费
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Author: aReo
-Name: AppTools15-17(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
-
-Package: com.dao.apptools15
-Version: 2.6.7
-Architecture: iphoneos-arm64e
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: roothide/AppTools15-17(RootHide)_2.6.7.deb
-Size: 1137392
-MD5sum: 835508ebc5af19563063f618b9ceff48
-SHA1: 8016ba0b05e15debc2fea91ddf92b0d9ea1e81dc
-SHA256: 818dd380d3c4b76a0454568b9fcfc6778a1fc8dd4731e3b87dfcbace5771e124
-Section: 嗨-付费
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Author: aReo
-Name: AppTools15-17(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
 Package: com.dao.apptools15
 Version: 2.6.8
@@ -315,60 +180,6 @@ Section: 嗨-工具
 Description: 可以设定设置App的背景图/模糊等，让设置App变得更好看。
 Author: Luki
 Name: April 中文版(RootHide)
-
-Package: com.dao.axon
-Version: 1.5.5
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 692
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: roothide/Axon 中文版(RootHide).deb
-Size: 144356
-MD5sum: 3bb3c73486e25b0b2f70da4d2ad70914
-SHA1: dc3af4afe92f90754198fad9d2f90e26eed733fa
-SHA256: 0fae781269280ff1f97e5391f0716a11818773a8aa902ae5c002b5bcb2562e99
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
-Author: Nepeta
-Name: Axon 中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Version: 2.0
-Architecture: iphoneos-arm64e
-Maintainer: 刀刀
-Installed-Size: 672
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: roothide/Axon 中文版(RootHide)_2.0.deb
-Size: 148420
-MD5sum: 82662b423464c8395d1b512abfc5aa1e
-SHA1: 856fecf3d5cc0482cd93a534cbb1c2fde1dbac91
-SHA256: 110bf9edec9c0dcc76baf9c32196a7871216558b794e307086949de8bb1cf144
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Author: Nepeta & daodao
-Name: Axon 中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Version: 2.1
-Architecture: iphoneos-arm64e
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: roothide/Axon 中文版(RootHide)_2.1.deb
-Size: 149400
-MD5sum: 98d0fb3855d22ffa5efc6bfa40dbcf6f
-SHA1: 32fd7d0a34b1f0b7597563c3b3cd3ce56b2ba58a
-SHA256: 93b39aa654f809a7b1fcae6842adf86fdc049eeec3105eb1d093193b7b7b3c04
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Author: Nepeta & daodao
-Name: Axon 中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.axon
 Version: 2.2
@@ -595,40 +406,6 @@ Name: CCLess++(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
 
 Package: com.dao.choicy
-Version: 1.5.3-2
-Architecture: iphoneos-arm64e
-Maintainer: opa334 <opa334@protonmail.com>
-Installed-Size: 1056
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Conflicts: com.opa334.choicy
-Filename: roothide/Choicy(RootHide)_1.5.3-2.deb
-Size: 161610
-MD5sum: 4dac75e2f7e4e089131c5e50fa6d36c8
-SHA1: 08923ecc1ab422df3d0d1ca4cd3f0b10396ab390
-SHA256: f16d9306f1a10562d8594f7845135c9a24c2541534cfa5dc87768b66db3d9874
-Section: 嗨-系统
-Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
-Author: opa334 <opa334@protonmail.com>
-Name: Choicy(RootHide)
-
-Package: com.dao.choicy
-Version: 1.5.3-3
-Architecture: iphoneos-arm64e
-Maintainer: opa334 <opa334@protonmail.com>
-Installed-Size: 1056
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Conflicts: com.opa334.choicy
-Filename: roothide/Choicy(RootHide)_1.5.3-3.deb
-Size: 161532
-MD5sum: 0e5d96186ec499593ef62cae7c947c80
-SHA1: 8b2f3be7615d9366b4ac67ce37ea9e7e66350902
-SHA256: 54080628fd2252acd3e32b077f7038fe094cb3e630730ca74e49c1427f9437d1
-Section: 嗨-系统
-Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
-Author: opa334 <opa334@protonmail.com>
-Name: Choicy(RootHide)
-
-Package: com.dao.choicy
 Version: 1.5.3-4
 Architecture: iphoneos-arm64e
 Maintainer: opa334 <opa334@protonmail.com>
@@ -646,24 +423,6 @@ Author: opa334 <opa334@protonmail.com>
 Name: Choicy(RootHide)
 
 Package: com.dao.classicfolders3
-Version: 3.0.6.1
-Architecture: iphoneos-arm64e
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4312
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: roothide/ClassicFolders 3(RootHide)_3.0.6.1.deb
-Size: 3277198
-MD5sum: e19d11d51eac972145782f7d816b159f
-SHA1: db1b56e5981ff27f0bb35201c57d7cecbf3937f1
-SHA256: dabc0cd88ac82b7f87e01356763ed5d3403d09571bd759cc0f08f59f6227d76f
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
 Version: 3.0.7
 Architecture: iphoneos-arm64e
 Maintainer: CoolStar & Lizynz & 妖刀
@@ -675,40 +434,6 @@ Size: 3277118
 MD5sum: 15281077805d9c26774256c6bb152705
 SHA1: 055b3b685d5b3ba9025508f942c2bb2e092a5a22
 SHA256: 0f07ca554ef56ca33f252cee4fc4991bae5b51c609a8e985bf586a4ce5eee61f
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.1
-Architecture: iphoneos-arm64e
-Maintainer: CoolStar & Lizynz & 妖刀
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: roothide/ClassicFolders 3(RootHide)_3.1.deb
-Size: 2862800
-MD5sum: 25a4e31ec6c0978af106e2fe2a834ff9
-SHA1: 0ed92e77d662902ba58db0f92ad1ca296b890994
-SHA256: 13acd2e25937f6ce9a07f3ed06490352783b100dff83c924ba337eaaa2b0eb84
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.1.1
-Architecture: iphoneos-arm64e
-Maintainer: CoolStar & Lizynz & 妖刀
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: roothide/ClassicFolders 3(RootHide)_3.1.1.deb
-Size: 2862960
-MD5sum: 13dad22e81c1c8ebfe3f7e838af2394c
-SHA1: ce381e0ac4097f3e5818ea827f5f475489bde560
-SHA256: a7c87456243e7cb162a990685f73cc3c3e6844b8242c747216447b74c96f404f
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
 Author: CoolStar & Lizynz
@@ -818,23 +543,6 @@ Name: Donut(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/donut/js.json
 
 Package: com.dao.filzacrack
-Version: 1.1-8
-Architecture: iphoneos-arm64e
-Maintainer: Nets
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.netskao.filzacrack, netskao.filzacrack-rootless
-Filename: roothide/Filza Crack(RootHide)_1.1-8.deb
-Size: 5160
-MD5sum: 1eb4882a1ff66793c4f322f2a4960fb8
-SHA1: 75dc1d80edcbf3e2e7106248a92608f79e0d2b8b
-SHA256: 5b41c5f41805be2851b7b5f737ff1a5476ccccf63aeae9a75c6c7df346d3b837
-Section: 嗨-工具
-Description: Filza解锁全部功能，请在官方源安装Filza。Netskao新更的版本，上架备份；转换支持 roothide。
-Author: Netskao
-Name: Filza Crack(RootHide)
-
-Package: com.dao.filzacrack
 Version: 1.1-9
 Architecture: iphoneos-arm64e
 Maintainer: Nets
@@ -920,22 +628,6 @@ Author: sergy
 Name: Immortalizer(RootHide)
 
 Package: com.dao.infuseplus
-Version: 2.4.1
-Architecture: iphoneos-arm64e
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.infuseplus
-Filename: roothide/Infuse Plus(RootHide).deb
-Size: 446884
-MD5sum: c085bc641c488e19d47824b8226c0c29
-SHA1: 7e4895baf480a109257c8e89fe7e689e5c9daf0a
-SHA256: 6690acaf619eecf1f08696ad483c3254c9e4013ec373a2d1139b9eba47acd7f8
-Section: 嗨-工具
-Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
-Author: dvntm
-Name: Infuse Plus(RootHide)
-
-Package: com.dao.infuseplus
 Version: 2.5
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
@@ -952,22 +644,6 @@ Author: dvntm
 Name: Infuse Plus(RootHide)
 
 Package: com.dao.injectipa
-Version: 1.5-5
-Architecture: iphoneos-arm64e
-Maintainer: Netskao
-Depends: firmware (>= 15.0)
-Conflicts: netskao.injectipa-rootless, com.netskao.injectipa
-Filename: roothide/InjectIPA(RootHide).deb
-Size: 347216
-MD5sum: 713296dcd422d58542002667030fb7a2
-SHA1: 77548df70d7b178aafb734210034855ae87f604e
-SHA256: 9a91e8aa21dab88376eb434502cb707c3688fe6ed527ce44de1c6f7a94981a05
-Section: 嗨-工具
-Description: 一键注入dylib到ipa的命令行工具，需配合终端(NewTerm等)使用，终端输入 injectipa 查看用法；1.5系列的版本用法和之前1.4系列有差异；上架备用。
-Author: Netskao
-Name: InjectIPA(RootHide)
-
-Package: com.dao.injectipa
 Version: 1.5-7
 Architecture: iphoneos-arm64e
 Maintainer: Netskao
@@ -982,23 +658,6 @@ Section: 嗨-工具
 Description: 一键注入dylib到ipa的命令行工具，需配合终端(NewTerm等)使用，终端输入 injectipa 查看用法；1.5系列的版本用法和之前1.4系列有差异；上架备用。
 Author: Netskao
 Name: InjectIPA(RootHide)
-
-Package: com.dao.kayoko
-Version: 2.9
-Architecture: iphoneos-arm64e
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: roothide/Kayoko(RootHide)_2.9.deb
-Size: 128788
-MD5sum: 3cfae96996e252a3aafee85d65528b17
-SHA1: 30075663b06ea3e4398cd042975ab1e06631b140
-SHA256: 52996b4d067e50958534875480f0903d5c4c4759b70ed05edfdb5916b6fe04af
-Section: 嗨-工具
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
 Package: com.dao.kayoko
 Version: 3.0
@@ -1220,23 +879,6 @@ Author: Ruphane
 Name: PodsGrant(RootHide)
 
 Package: com.dao.powercuff
-Version: 1.0.1
-Architecture: iphoneos-arm64e
-Maintainer: 刀刀源
-Installed-Size: 180
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Conflicts: com.rpetrich.powercuff, com.hk.powercuff, com.qms.powercuff, byg.iosios.net.powercuff
-Filename: roothide/Powercuff(RootHide)_1.0.1.deb
-Size: 14250
-MD5sum: 4ea18b6640cf247b42b31cfa6ae33fc7
-SHA1: e91a20eb056b93df0b678ce0db6b5259d300150b
-SHA256: c68a9f63e9d434763d6752afaf67dc3d7cf0a85601a154cd646cbfc7e19a7c95
-Section: 嗨-工具
-Description: 节能插件，效果自测，重新编译。
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Name: Powercuff(RootHide)
-
-Package: com.dao.powercuff
 Version: 1.1
 Architecture: iphoneos-arm64e
 Maintainer: 刀刀源
@@ -1268,42 +910,6 @@ Section: 嗨-工具
 Description: 删除“关于页面”中的“未知部件”或“部件和服务历史记录”（更换的组件，如电池、摄像头、显示通知）。
 Author: 34306
 Name: replaced(RootHide)
-
-Package: com.dao.reverie
-Version: 0.7
-Architecture: iphoneos-arm64e
-Maintainer: 刀刀
-Installed-Size: 864
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
-Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
-Filename: roothide/Reverie 中文版(RootHide).deb
-Size: 99668
-MD5sum: 274c7b256111a41e5b29c0eea2aa52f9
-SHA1: 2d563669051e4e544b0b94f32ede1fc6644d892e
-SHA256: e2b804f7728aa8196f4bd05e411f924f14ab622cd8e1aeeead5c57d6b2a317e0
-Section: 嗨-工具
-Description: 自由的休眠设备来节省电量。
-Author: Paisseon
-Name: Reverie 中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
-
-Package: com.dao.reverie
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: 刀刀
-Installed-Size: 832
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
-Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
-Filename: roothide/Reverie 中文版(RootHide)_1.0.deb
-Size: 121450
-MD5sum: 38811af76e99f8cded0ff756232ede2d
-SHA1: 3f991aa56a41f9a3ad3de3ee4d3bf06a2507766f
-SHA256: 235b1e32630d20ea9193f5f81428d24198409031b3c0964e09addf8bc8cc8854
-Section: 嗨-工具
-Description: 自由的休眠设备来节省电量。
-Author: Paisseon
-Name: Reverie 中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.reverie
 Version: 1.0.1
@@ -1522,23 +1128,6 @@ Author: Spark
 Name: SnowBoard SetIcons(RootHide)
 
 Package: com.dao.speedster
-Version: 2.2
-Architecture: iphoneos-arm64e
-Maintainer: Hoangdus & daodao
-Installed-Size: 412
-Depends: firmware (>=13.0)
-Conflicts: com.hoangdus.speedster, com.hk.speedster.cn.rl
-Filename: roothide/Speedster(RootHide).deb
-Size: 39870
-MD5sum: 9cc5b4176300f6da6ced34be01526880
-SHA1: d0bc10e2fca20c7a7567477ce6e355983912096d
-SHA256: 793e8d61dcd6e976d8e67891e74c8cffa2ddfe24dfd7d37bdccc7118ea5eefd7
-Section: 嗨-工具
-Description: 更快的 iOS 动画，根据开源编译，已带汉化。
-Author: Hoangdus & daodao
-Name: Speedster(RootHide)
-
-Package: com.dao.speedster
 Version: 2.2.1
 Architecture: iphoneos-arm64e
 Maintainer: Hoangdus & daodao
@@ -1640,36 +1229,6 @@ Section: 嗨-工具
 Description: 为iOS13～16的控制中心音量/亮度条添加数字百分比，无设置。
 Author: iOS Creatix, kasiimh1, p2kdev
 Name: SugarCane 16(RootHide)
-
-Package: com.dao.tgextra
-Version: 1.3-1
-Architecture: iphoneos-arm64e
-Maintainer: choco/waruhachi
-Conflicts: com.choco.tg
-Filename: roothide/TGExtra(RootHide)_1.3-1.deb
-Size: 4784008
-MD5sum: a70b1508997bbb511e7008ea3047ab86
-SHA1: 55aeb43b3f3d91ad4f233c2da3f04c54737de193
-SHA256: 9d653dc42f26a452d2921314fb7a90c78f5a3457332b09a1f094e035ed6f3ff3
-Section: 嗨-工具
-Description: 支持Telegram、Swiftgram等的多功能插件，能保存频道限制下载文件、禁用广告等；三指长按手势打开设置；或底部「设置」—>长按倒数第三个按钮打开插件；如果打不开，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮。
-Author: choco/waruhachi
-Name: TGExtra(RootHide)
-
-Package: com.dao.tgextra
-Version: 1.3-2
-Architecture: iphoneos-arm64e
-Maintainer: choco/waruhachi/TheWinner02
-Conflicts: com.choco.tg
-Filename: roothide/TGExtraFE(RootHide)_1.3-2.deb
-Size: 4667664
-MD5sum: 668574c6e91bb3c4f5422986bf93832b
-SHA1: 1c001c1983257a839dc7b6feb5d5c0291162deb6
-SHA256: a8746b5f62e9b04316a8bfdad9ed90edfff1a40d107193ed43781742b9d89e11
-Section: 嗨-工具
-Description: 支持Telegram、Swiftgram等的多功能插件，能保存频道限制下载文件、禁用广告等；三指长按（建议在“设置”页面）手势打开设置；或底部「设置」—>长按倒数第三个按钮打开插件；如果打不开，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮。
-Author: choco/waruhachi/TheWinner02
-Name: TGExtraFE(RootHide)
 
 Package: com.dao.tgextra
 Version: 1.3-3
@@ -1868,22 +1427,6 @@ Author: 34306
 Name: watched(RootHide)
 
 Package: com.dao.youtubereborn
-Version: 4.1.5
-Architecture: iphoneos-arm64e
-Maintainer: Lillie & 妖刀
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
-Filename: roothide/YTR 中文版(RootHide)_4.1.5.deb
-Size: 9042516
-MD5sum: 24813e625c34859b39b949b893ab06e8
-SHA1: 4f50979bd10760440c1407958d3f5d9f6c7f22dc
-SHA256: f659328bc05886cd6168abdf3ced6f56ee2848b0e5a286b38f360cbee010bf9f
-Section: 嗨-工具
-Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
-Author: Lillie
-Name: YTR 中文版(RootHide)
-
-Package: com.dao.youtubereborn
 Version: 4.2.6-2
 Architecture: iphoneos-arm64e
 Maintainer: arichornlover & 妖刀
@@ -1934,38 +1477,6 @@ Author: dvntm
 Name: YTLite(RootHide)
 
 Package: com.dao.ytmusicultimate
-Version: 2.3.1
-Architecture: iphoneos-arm64e
-Maintainer: Ginsu & dvntm
-Depends: mobilesubstrate
-Conflicts: com.ginsu.ytmusicultimate
-Filename: roothide/YTMusicUltimate(RootHide).deb
-Size: 6790640
-MD5sum: f8bafe40a9e4bef559dbf1a7fa415349
-SHA1: f2660ddf5054c675d987193cdd0f2aba351d47a7
-SHA256: a214d3456d6890c8dc60e87a4b053732026120a30bb4c2a825aec40dc56e1566
-Section: 嗨-工具
-Description: YouTube Music 多功能插件，可下载，还有更多实用功能。
-Author: Ginsu & dvntm
-Name: YTMusicUltimate(RootHide)
-
-Package: com.dao.ytmusicultimate
-Version: 2.4
-Architecture: iphoneos-arm64e
-Maintainer: Ginsu & dvntm
-Depends: mobilesubstrate
-Conflicts: com.ginsu.ytmusicultimate
-Filename: roothide/YTMusicUltimate(RootHide)_2.4.deb
-Size: 6577404
-MD5sum: 46242ca79b48db291a3c944ad8d25ac4
-SHA1: f18ab4e038e7a53eb8baec96c2221e6424275639
-SHA256: aeef71d04f70280d74e3d50f977c6026b4e84471bc398a69a32d208584d458ce
-Section: 嗨-工具
-Description: YouTube Music 多功能插件，可下载，还有更多实用功能。
-Author: Ginsu & dvntm
-Name: YTMusicUltimate(RootHide)
-
-Package: com.dao.ytmusicultimate
 Version: 2.4.1
 Architecture: iphoneos-arm64e
 Maintainer: Ginsu & dvntm
@@ -1995,78 +1506,6 @@ SHA1: 32e9f6cf5936f3875c65d3e541f133add525f8ff
 SHA256: 806d5a68a43880a5d5b8eab09439c5cea535ae7e64897e6b0b548d08eb432122
 Section: 嗨-工具
 Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Author: julioverne & 妖刀
-Name: GoodWiFi 中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Version: 1.3
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 372
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: roothide/GoodWiFi 中文版(RootHide)_1.3.deb
-Size: 43778
-MD5sum: b006928df4315ba7511bb9ab84f6e317
-SHA1: 241010846a78b5ef4b53c80df4841c030dd1d982
-SHA256: c586ed70c9b9b02341b0e19d307040407df95a2a1222769b630bd9bebfbe61df
-Section: 嗨-工具
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Author: julioverne & 妖刀
-Name: GoodWiFi 中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Version: 1.5
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 392
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: roothide/GoodWiFi 中文版(RootHide)_1.5.deb
-Size: 60960
-MD5sum: 863fec4c001505f2e60005b6895099f3
-SHA1: 8effe348c6b65beb78b1a1421660b577f18d23e6
-SHA256: 0e2c9ede35c589472f1763e7e01f370d54c86f905953cf7743787199cb02aea7
-Section: 嗨-工具
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Author: julioverne & 妖刀
-Name: GoodWiFi 中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Version: 1.6
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 392
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: roothide/GoodWiFi 中文版(RootHide)_1.6.deb
-Size: 63364
-MD5sum: 783136f33daa80432119dd91bb245a2f
-SHA1: 987b8ba4129212d83d1c832890d46d52e4072fff
-SHA256: 5b894a86b71af56c548de0f631da53059be0b8f4dc8203b935b8dac76e8e44bd
-Section: 嗨-工具
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Author: julioverne & 妖刀
-Name: GoodWiFi 中文版(RootHide)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Version: 1.6.1
-Architecture: iphoneos-arm64e
-Maintainer: 妖刀
-Installed-Size: 424
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: roothide/GoodWiFi 中文版(RootHide)_1.6.1.deb
-Size: 64620
-MD5sum: e7cfb152e95f327e4dbb6f4731a82d4e
-SHA1: 98df96d2cedf6ec4f1f6825369d6394ca77e44f7
-SHA256: 4c6ee4aafc917de2278356f68daafec2e1037b0ef470976df5c814bd517ab8c8
-Section: 嗨-工具
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
 Author: julioverne & 妖刀
 Name: GoodWiFi 中文版(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
@@ -2854,23 +2293,6 @@ Author: Ball <ball@hackcn.net>
 Name: Ultrasound 简体中文包(rootless)
 
 Package: com.dao.3dappversionspoofer
-Version: 2.0.3.1
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj & daodao
-Installed-Size: 492
-Depends: com.opa334.altlist
-Conflicts: com.0xkuj.3dappversionspoofer
-Filename: rootless/3DAppVersionSpoofer(rootless)_2.0.3.1.deb
-Size: 61318
-MD5sum: 858d406c0bc03fe5d5d58c4fe7f00ae0
-SHA1: 39aacefda9cd4ff31ca463e42d61c0059e48ebbc
-SHA256: 446d703315ae58a6158d1dc83519f8d567ee175b8576e0019284155b81b0a1a2
-Section: 嗨-工具
-Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
-Author: 0xkuj
-Name: 3DAppVersionSpoofer(rootless)
-
-Package: com.dao.3dappversionspoofer
 Version: 2.0.4
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj & daodao
@@ -2971,32 +2393,16 @@ Author: 妖刀
 Name: Appaze 3 简体中文包(rootless)
 
 Package: com.dao.appdata
-Version: 1.4.5
+Version: 1.4.7
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.netskao.appdata, netskao.appdata-rootless
-Filename: rootless/AppData(rootless)_1.4.5.deb
-Size: 1492996
-MD5sum: 5a976c34604291a603dccdfc3f2a8816
-SHA1: 14b120e9d5dc333385ce6598c2637abc60673047
-SHA256: 50a905858d94c9b208fb79072608fa26027d8da7eae845be3a9e833471d6b5e5
-Section: 嗨-工具
-Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据的快捷工具。Netskao新更的版本，上架备份。
-Author: Fouad Raheb
-Name: AppData(rootless)
-
-Package: com.dao.appdata
-Version: 1.4.6
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.netskao.appdata, netskao.appdata-rootless
-Filename: rootless/AppData(rootless)_1.4.6.deb
-Size: 1500596
-MD5sum: 1dace714c3e51741a91cbaddba273a6d
-SHA1: dd5c99168902907988f3eef0879dfcd6297e51f7
-SHA256: a87edc3cbe8df74e6d77c00afe4a30ff162e145124f2a49bd5b7650ba5414d63
+Filename: rootless/AppData(rootless)_1.4.7.deb
+Size: 1498336
+MD5sum: 3be0b069834ed7c9ecbf7951a909bef7
+SHA1: 3b20a321f145a6d6a1bdf718b8f1e865ff8b7667
+SHA256: 65713153e38a6ca834f3a13f3c375f8ab7ab88cd28026c0ed59c025e11155eb7
 Section: 嗨-工具
 Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据的快捷工具。Netskao新更的版本，上架备份。
 Author: Fouad Raheb
@@ -3019,57 +2425,6 @@ Section: 嗨-系统
 Description: 命令行IPA应用程序安装器；目前明美源gg中，上架备份。
 Author: Karen, Linus Yang
 Name: appinst(rootless)
-
-Package: com.dao.appprotect
-Version: 2.1.4
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless, com.hk.appprotectrootless, com.dao.appprotectrootless
-Filename: rootless/AppProtect 隐私保护(rootless)_2.1.4.deb
-Size: 593492
-MD5sum: 1f4c9e657d95b6d124550e2edc741bd6
-SHA1: 2cbd8ce4baaa18eac16f90b1e5e5393913553074
-SHA256: 2ce50c364fb62ba6f86066e685ad18af164e86904f3d79e5745885b2ad8c649d
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Author: aReo
-Name: AppProtect 隐私保护(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
-Version: 2.3.7
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
-Filename: rootless/AppProtect 隐私保护(rootless)_2.3.7.deb
-Size: 718860
-MD5sum: 9c479e37ddacb9ca4f1cfa43f2e52d2e
-SHA1: 270092967153e88ceb0fbcd0a05f14e7cb833f63
-SHA256: e89950968218006208f887897f5956a35312704d57f6bac9d5b6cc74407f755d
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Author: aReo
-Name: AppProtect 隐私保护(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
-Version: 2.3.8
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
-Filename: rootless/AppProtect 隐私保护(rootless)_2.3.8.deb
-Size: 737088
-MD5sum: d8686f6bde4c11f65156ca216c69cb89
-SHA1: 8501a19913e2e914dc12566113e5a15c02f26e1e
-SHA256: 1370ea8a9f40586832760a88a6c963e174cff2825290f0b954c445ad2480a3ce
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Author: aReo
-Name: AppProtect 隐私保护(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
 Package: com.dao.appprotect
 Version: 2.4.0
@@ -3123,22 +2478,6 @@ Author: Karen, Linus Yang
 Name: AppSync Unified(rootless)
 
 Package: com.dao.apptools.lite
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless, com.dao.apptools15
-Filename: rootless/AppTools Lite(rootless)_1.0.0.deb
-Size: 643208
-MD5sum: cd21bc1f25a45d111e6c19790c80788b
-SHA1: 9676a28802cd92e19a65249f76187d88340142ae
-SHA256: 756fefdf0daaaa5d4b36c910813f7b59c3ae7655c95686de4a5a13925d9366b9
-Section: 嗨-付费
-Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
-Author: aReo
-Name: AppTools Lite(rootless)
-
-Package: com.dao.apptools.lite
 Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: aReo
@@ -3153,74 +2492,6 @@ Section: 嗨-付费
 Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
 Author: aReo
 Name: AppTools Lite(rootless)
-
-Package: com.dao.apptools15
-Version: 1.4.3
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15, com.hk.apptools15rootless, com.dao.apptools15rootless
-Filename: rootless/AppTools15-16(rootless)_1.4.3.deb
-Size: 573684
-MD5sum: 96203287e1b3343733a2b49157d8f57e
-SHA1: b140f9fa492904dd20f9d6451bff8f370f7dd0fc
-SHA256: 559422b6cbab8660fc0363b558ab2c82e00ec810ef4d5ff40522203b5b1e6614
-Section: 嗨-付费
-Description: AppTools for iOS15~16，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Author: aReo
-Name: AppTools15-16(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
-
-Package: com.dao.apptools15
-Version: 2.6.5
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: rootless/AppTools15-17(rootless)_2.6.5.deb
-Size: 978336
-MD5sum: 6acbd79b310e4f767ac4dfe314c79811
-SHA1: 01e28c567fd70107ed2b6729d31bbbf3405dd578
-SHA256: b64c015d73e5ccbd309e07e13c2f00051d55964c7e52ccc67833cea4f87b1b73
-Section: 嗨-付费
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Author: aReo
-Name: AppTools15-17(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
-
-Package: com.dao.apptools15
-Version: 2.6.6
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: rootless/AppTools15-17(rootless)_2.6.6.deb
-Size: 1186788
-MD5sum: 007dbc83c5d30f85b19e05a546393877
-SHA1: a071edddfa4d30420c23c1ab24ecd10bad9672df
-SHA256: fc1cfd41dee73e7c0b8536bbcb5e4f10f8dfb27abcfada14d4c0fe7286cac358
-Section: 嗨-付费
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Author: aReo
-Name: AppTools15-17(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
-
-Package: com.dao.apptools15
-Version: 2.6.7
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: rootless/AppTools15-17(rootless)_2.6.7.deb
-Size: 1179756
-MD5sum: cdc8931c8ef6997453a5cb2c6125851e
-SHA1: 95fad44efe56d0b1531f955f8bde808b6c6d6778
-SHA256: d0257b5c2e4ea829931affd01a6318b7520674f9e260e7d6ce4cd749b10fff94
-Section: 嗨-付费
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Author: aReo
-Name: AppTools15-17(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
 Package: com.dao.apptools15
 Version: 2.6.8
@@ -3291,42 +2562,6 @@ Name: Axon 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.axon
-Version: 2.0
-Architecture: iphoneos-arm64
-Maintainer: 刀刀
-Installed-Size: 672
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootless/Axon 中文版(rootless)_2.0.deb
-Size: 148778
-MD5sum: 622653f1c9f99bdbf4154aea30558318
-SHA1: 677e0db40848de69b60e54b3c317e662e6a19755
-SHA256: 667a44c140346eb5b3e63ab389e2b06619c3d3000a2cb3305657204c8433b740
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Author: Nepeta & daodao
-Name: Axon 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Version: 2.1
-Architecture: iphoneos-arm64
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootless/Axon 中文版(rootless)_2.1.deb
-Size: 149616
-MD5sum: f6961efa46a0946be72f33d9a698ca5b
-SHA1: 23080ee1341bdaab5f28b9939097027d8f7c480e
-SHA256: 6e76bcef7b4040d7115f9c2c4e93c4a9765798121b24d5c6953ac16a699b5acc
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Author: Nepeta & daodao
-Name: Axon 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
 Version: 2.2
 Architecture: iphoneos-arm64
 Maintainer: 刀刀
@@ -3361,38 +2596,6 @@ Description: 锁屏通知聚合插件，刀刀中文优化版。
 Author: Nepeta & daodao
 Name: Axon 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.azule
-Version: 0.8.2.1
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: odcctools, bzip2, gzip, zstd, xz-utils, bash, jq, plutil, ldid, coreutils, zip, unzip, sed, curl, com.dao.appinst
-Conflicts: xyz.cypwn.azule
-Filename: rootless/Azule(rootless)_0.8.2.1.deb
-Size: 2244136
-MD5sum: b05e21f771bb8dbe93fecb4640365ca4
-SHA1: cd31249345c816234990fa7fd8114046d5e6de10
-SHA256: 95d3b175144f557bb9797a6eb3a5156cf86a59e51cb3eba7a052facb0547159f
-Section: 嗨-工具
-Description: 一个自动化注入工具，为iOS应用程序注入插件。具体用法，自行科普azule -h。v0.8.2.1：因为明美源目前gg中，把必要依赖上架刀刀源了，方便安装！
-Author: Alaise, Sudo
-Name: Azule(rootless)
-
-Package: com.dao.azule
-Version: 0.8.3
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: odcctools, bzip2, gzip, zstd, xz-utils, bash, jq, plutil, ldid, coreutils, zip, unzip, sed, curl, com.linusyang.appinst | com.dao.appinst | ai.akemi.appinst
-Conflicts: xyz.cypwn.azule
-Filename: rootless/Azule(rootless)_0.8.3.deb
-Size: 2241572
-MD5sum: 2a7cea6f1bf51e4a01614b80b38e1f7d
-SHA1: baec877801a1d4d4ab3a85d536e042b826507b21
-SHA256: 7f0c46168413d753382f088e1c8407d7ba85391dbcb00495fbf93d40c0173ddf
-Section: 嗨-工具
-Description: 一个自动化注入工具，为iOS应用程序注入插件。具体用法，自行科普azule -h。
-Author: Alaise, Sudo
-Name: Azule(rootless)
 
 Package: com.dao.batteryhealth
 Version: 1.0.1
@@ -3627,24 +2830,6 @@ Author: 妖刀
 Name: Choicy 自用中文包(rootless)
 
 Package: com.dao.classicfolders3
-Version: 3.0.6.1
-Architecture: iphoneos-arm64
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4328
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootless/ClassicFolders 3(rootless)_3.0.6.1.deb
-Size: 3279198
-MD5sum: 9d6be1ccb683ef64e9fc56180d3c40d5
-SHA1: 8587e2afb7562cf6d708b963390557e8e9250203
-SHA256: c4e33fa4d23b22a80cbaf51f191773caa38509ae5304c155c9f9ca1abf7f2006
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
 Version: 3.0.7
 Architecture: iphoneos-arm64
 Maintainer: CoolStar & Lizynz & 妖刀
@@ -3656,40 +2841,6 @@ Size: 3278916
 MD5sum: e4a609dbd081f28529e578a85b18d183
 SHA1: 20a3e681669ef875f8132e043ea2b4c17f88a69c
 SHA256: d8ba9d15ae9a0215ef34cc79ff7dc5120bb9ebca6f457bc6a3895d42b8f0e3a7
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.1
-Architecture: iphoneos-arm64
-Maintainer: CoolStar & Lizynz & 妖刀
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootless/ClassicFolders 3(rootless)_3.1.deb
-Size: 2864484
-MD5sum: f1b6eda1207c00f982696efe0ae35f1f
-SHA1: 8a3b7ac73e7c5fb6007cc3409c83338998bd2950
-SHA256: d936aae2a98419549080f5ad371ac08be095118004c64f975ff54454cef8e89d
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.1.1
-Architecture: iphoneos-arm64
-Maintainer: CoolStar & Lizynz & 妖刀
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootless/ClassicFolders 3(rootless)_3.1.1.deb
-Size: 2864700
-MD5sum: 1eb177a2267cf11a7596d07962d8ed50
-SHA1: cffb43aa16c0041ea324fa6402eb7b27ce0b84d1
-SHA256: 41edc801d4814e14ce45c984f42389d69d57c79d8fd85acd0dda3511fb1d6ee2
 Section: 嗨-工具
 Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
 Author: CoolStar & Lizynz
@@ -3863,22 +3014,6 @@ Author: Netskao
 Name: DumpDecrypter(rootless)
 
 Package: com.dao.filzacrack
-Version: 1.1-8
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Depends: firmware (>= 15.0), mobilesubstrate
-Conflicts: com.netskao.filzacrack, netskao.filzacrack-rootless
-Filename: rootless/Filza Crack(rootless)_1.1-8.deb
-Size: 4980
-MD5sum: 171786724de93e8ff00baf0bee56368b
-SHA1: f2e82c45d88b0068a5b474958bb888df0f5f9574
-SHA256: 15b341eae822c8061ad2044e026c8fb2523ec43b4085f11baab99cb5b6e2a401
-Section: 嗨-工具
-Description: Filza解锁全部功能，请在官方源安装Filza。Netskao新更的版本，上架备份。
-Author: Netskao
-Name: Filza Crack(rootless)
-
-Package: com.dao.filzacrack
 Version: 1.1-9
 Architecture: iphoneos-arm64
 Maintainer: Nets
@@ -4043,22 +3178,6 @@ Author: sergy
 Name: Immortalizer(rootless)
 
 Package: com.dao.infuseplus
-Version: 2.4.1
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.infuseplus
-Filename: rootless/Infuse Plus(rootless).deb
-Size: 447276
-MD5sum: e105d5eacca53e387c0b9940330c6cd5
-SHA1: e3eecc8a440781e70b4e326745dd8164ae922458
-SHA256: f0ac19eb364d1e16ad2b54533a8343a4ad5dccbbc3035731426144509f82860c
-Section: 嗨-工具
-Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
-Author: dvntm
-Name: Infuse Plus(rootless)
-
-Package: com.dao.infuseplus
 Version: 2.5
 Architecture: iphoneos-arm64
 Maintainer: dvntm
@@ -4073,38 +3192,6 @@ Section: 嗨-工具
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Author: dvntm
 Name: Infuse Plus(rootless)
-
-Package: com.dao.injectipa
-Version: 1.4-4
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Depends: firmware (>= 15.0)
-Conflicts: netskao.injectipa-rootless
-Filename: rootless/injectipa(rootless).deb
-Size: 962272
-MD5sum: 9f380e14f398dc4027915c03bed28f31
-SHA1: e8ffc1448415a65b61cc409a0d6a59a5660ec758
-SHA256: 909942e9ef9bf505622f855b4cededefecdb7c014c2550e8df92a2e96a4bd18f
-Section: 嗨-工具
-Description: injectipa是一款命令行一键注入dylib到ipa工具；用法: injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可), 其它参数执行injectipa查看即可, 注入完成后的IPA需要签名使用。上架备用。
-Author: Netskao
-Name: injectipa(rootless)
-
-Package: com.dao.injectipa
-Version: 1.5-5
-Architecture: iphoneos-arm64
-Maintainer: Netskao
-Depends: firmware (>= 15.0)
-Conflicts: netskao.injectipa-rootless, com.netskao.injectipa
-Filename: rootless/InjectIPA(rootless)_1.5-5.deb
-Size: 347036
-MD5sum: 5907441d1d7feba8b1e1b55f34187cd6
-SHA1: 0e57f0fc53ea702994c788db7f52b608986987b3
-SHA256: 5d9565756fa8e7e110f1300b1d074d7b2ca2a33afaa17747a49ca462786d074b
-Section: 嗨-工具
-Description: 一键注入dylib到ipa的命令行工具，需配合终端(NewTerm等)使用，终端输入 injectipa 查看用法；1.5系列的版本用法和之前1.4系列有差异；上架备用。
-Author: Netskao
-Name: InjectIPA(rootless)
 
 Package: com.dao.injectipa
 Version: 1.5-7
@@ -4153,23 +3240,6 @@ Section: 嗨-工具
 Description: 清爽开屏～
 Author: 佚名
 Name: 清爽酷安(rootless)
-
-Package: com.dao.kayoko
-Version: 2.9
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: rootless/Kayoko(rootless)_2.9.deb
-Size: 128816
-MD5sum: c2035c6f91007e89be613fb21aecedf4
-SHA1: 16ea8b1fa73a9c8f55c2940e6679e8f6ff80d5d6
-SHA256: 716f8525ea94d7af3dad7042630a55826402c22147ae616c54b55ec3f81f44c9
-Section: 嗨-工具
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
 Package: com.dao.kayoko
 Version: 3.0
@@ -4617,23 +3687,6 @@ Author: 妖刀
 Name: PopOutButtons 简体中文包(rootless)
 
 Package: com.dao.powercuff
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: 刀刀源
-Installed-Size: 180
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Conflicts: com.rpetrich.powercuff, com.hk.powercuff, com.qms.powercuff, byg.iosios.net.powercuff
-Filename: rootless/Powercuff(rootless)_1.0.1.deb
-Size: 14292
-MD5sum: 99c79c4086d1e2fb214df2c76b70d9ee
-SHA1: daf2b822b21cffef58065fe587bd6771058c6658
-SHA256: 145ebe6b154c3b5250099c86774843e000e9cb3fe86231d3a57c82d72f332af6
-Section: 嗨-工具
-Description: 节能插件，效果自测，重新编译。
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Name: Powercuff(rootless)
-
-Package: com.dao.powercuff
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: 刀刀源
@@ -4729,42 +3782,6 @@ Section: 嗨-汉化
 Description: RetroVol 简体中文包(rootless)。
 Author: 妖刀
 Name: RetroVol 简体中文包(rootless)
-
-Package: com.dao.reverie
-Version: 0.7
-Architecture: iphoneos-arm64
-Maintainer: 刀刀
-Installed-Size: 864
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
-Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
-Filename: rootless/Reverie 中文版(rootless).deb
-Size: 99716
-MD5sum: cf746440314d1f1bb59b0ce6c420e2db
-SHA1: c0117af9c42813ab9da906780103a9e39c3df13b
-SHA256: 75dc8e95055d737c6b0d3c99f8ed528be3e1131dbfe75061f8c7ea3a42d18495
-Section: 嗨-工具
-Description: 自由的休眠设备来节省电量。
-Author: Paisseon
-Name: Reverie 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
-
-Package: com.dao.reverie
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 刀刀
-Installed-Size: 832
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
-Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
-Filename: rootless/Reverie 中文版(rootless)_1.0.deb
-Size: 121340
-MD5sum: 2cca0017e303169998363e8ff1fb747b
-SHA1: ed8c54be1c9b8ffe4040201d2dd0452f29b2b3d9
-SHA256: 93f8088f934a85297bba70f09cc1b613e367ebb8a58655e83f2fadbeee859ff3
-Section: 嗨-工具
-Description: 自由的休眠设备来节省电量。
-Author: Paisseon
-Name: Reverie 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.reverie
 Version: 1.0.1
@@ -5058,23 +4075,6 @@ Author: 赵楠
 Name: Souvenir 简体中文包(rootless)
 
 Package: com.dao.speedster
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Hoangdus & daodao
-Installed-Size: 416
-Depends: firmware (>=13.0)
-Conflicts: com.hoangdus.speedster, com.hk.speedster.cn.rl
-Filename: rootless/Speedster(rootless).deb
-Size: 41952
-MD5sum: 616b43fc4ac6c9454b7a56d468505047
-SHA1: 023762d2d97fb1ed276d9fb49aa0af18611ea244
-SHA256: 5beee6a947a89d43333f932a861bc1d93a812012a33fb97767f553ef50340ec0
-Section: 嗨-工具
-Description: 更快的 iOS 动画，根据开源编译，已带汉化。
-Author: Hoangdus & daodao
-Name: Speedster(rootless)
-
-Package: com.dao.speedster
 Version: 2.2.1
 Architecture: iphoneos-arm64
 Maintainer: Hoangdus & daodao
@@ -5243,36 +4243,6 @@ Description: 类似Group和Axon的通知聚合插件，b4db1r3优化编译版。
 Author: Xyaman & b4db1r3
 Name: Tako(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/tako/js.json
-
-Package: com.dao.tgextra
-Version: 1.3-1
-Architecture: iphoneos-arm64
-Maintainer: choco/waruhachi
-Conflicts: com.choco.tg
-Filename: rootless/TGExtra(rootless)_1.3-1.deb
-Size: 4784904
-MD5sum: ec4aa783373f633f88032a7807d6cde0
-SHA1: 05f1c4f71108852ca961eed0f255983b991714c4
-SHA256: 00833d3ac8296e23d26c61b4b7292554d97743254352b9cf3b0ef5f9d0420f84
-Section: 嗨-工具
-Description: 支持Telegram、Swiftgram等的多功能插件，能保存频道限制下载文件、禁用广告等；三指长按手势打开设置；或底部「设置」—>长按倒数第三个按钮打开插件；如果打不开，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮。
-Author: choco/waruhachi
-Name: TGExtra(rootless)
-
-Package: com.dao.tgextra
-Version: 1.3-2
-Architecture: iphoneos-arm64
-Maintainer: choco/waruhachi/TheWinner02
-Conflicts: com.choco.tg
-Filename: rootless/TGExtraFE(rootless)_1.3-2.deb
-Size: 4670084
-MD5sum: 1bb21d6469391f79afd689b58ad986dd
-SHA1: 66247286203c72cc28d0a4713310d0ee8836443e
-SHA256: c1025379329bf30275ff4e79b779a1b0b1cd4c76843cf1099a32eeff6465b33d
-Section: 嗨-工具
-Description: 支持Telegram、Swiftgram等的多功能插件，能保存频道限制下载文件、禁用广告等；三指长按（建议在“设置”页面）手势打开设置；或底部「设置」—>长按倒数第三个按钮打开插件；如果打不开，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮。
-Author: choco/waruhachi/TheWinner02
-Name: TGExtraFE(rootless)
 
 Package: com.dao.tgextra
 Version: 1.3-3
@@ -5519,23 +4489,6 @@ Author: 34306
 Name: watched(rootless)
 
 Package: com.dao.youtubereborn
-Version: 4.1.5
-Architecture: iphoneos-arm64
-Maintainer: Lillie & 妖刀
-Installed-Size: 24784
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
-Filename: rootless/YTR 中文版(rootless)_4.1.5.deb
-Size: 9024516
-MD5sum: 6bd5795c39d46010cbb6cb3fbe2294b0
-SHA1: f5091dae7d95c917d65649631c2ebb1e771f309f
-SHA256: fd335f13b493655836cb560d12bad7ea4033f14c23e502bfc21762d9d2eb173a
-Section: 嗨-工具
-Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
-Author: Lillie
-Name: YTR 中文版(rootless)
-
-Package: com.dao.youtubereborn
 Version: 4.2.6-2
 Architecture: iphoneos-arm64
 Maintainer: arichornlover & 妖刀
@@ -5585,38 +4538,6 @@ Author: dvntm
 Name: YTLite(rootless)
 
 Package: com.dao.ytmusicultimate
-Version: 2.3.1
-Architecture: iphoneos-arm64
-Maintainer: Ginsu & dvntm
-Depends: mobilesubstrate
-Conflicts: com.ginsu.ytmusicultimate
-Filename: rootless/YTMusicUltimate(rootless).deb
-Size: 6790612
-MD5sum: db7578a89c76df955000766db10df082
-SHA1: 6b0e4fbcc1a1cb7d3f697aa7f2a4c6a73a3e6a79
-SHA256: 0689f14820c1f546cfb044fa85bb3e28465938569f2b3bd54f200325d42a16b7
-Section: 嗨-工具
-Description: YouTube Music 多功能插件，可下载，还有更多实用功能。
-Author: Ginsu & dvntm
-Name: YTMusicUltimate(rootless)
-
-Package: com.dao.ytmusicultimate
-Version: 2.4
-Architecture: iphoneos-arm64
-Maintainer: Ginsu & dvntm
-Depends: mobilesubstrate
-Conflicts: com.ginsu.ytmusicultimate
-Filename: rootless/YTMusicUltimate(rootless)_2.4.deb
-Size: 6577012
-MD5sum: 26161994e193849843134d75b8bac4ad
-SHA1: 1525e9a207cba9478cdca89f10468d5506dbe5d6
-SHA256: 322eee07c8bd55fcc47640cbf020338aea1984db84473d568eb0aedddd48fa58
-Section: 嗨-工具
-Description: YouTube Music 多功能插件，可下载，还有更多实用功能。
-Author: Ginsu & dvntm
-Name: YTMusicUltimate(rootless)
-
-Package: com.dao.ytmusicultimate
 Version: 2.4.1
 Architecture: iphoneos-arm64
 Maintainer: Ginsu & dvntm
@@ -5646,78 +4567,6 @@ SHA1: c90fdf3536949d18cbb438d9e476bb0d369986b2
 SHA256: 127efd4266e4eba6b0d84ca60d66ea26e14f5e728b95ed0c20219924861b541c
 Section: 嗨-工具
 Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Author: julioverne & 妖刀
-Name: GoodWiFi 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Version: 1.3
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 388
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: rootless/GoodWiFi 中文版(rootless)_1.3.deb
-Size: 46004
-MD5sum: c1e9d71ee68b07944f3dc5e06e865266
-SHA1: 84274a9474e995e96b6f53128484bfca88dacf51
-SHA256: 23d439f40d904b32f85f5e2a4a568e3c3f74953c65580223ea0855922f139298
-Section: 嗨-工具
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Author: julioverne & 妖刀
-Name: GoodWiFi 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 392
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: rootless/GoodWiFi 中文版(rootless)_1.5.deb
-Size: 63104
-MD5sum: ba3ee9fa611f56067c0ff4e58e7548f4
-SHA1: 33ad1e383d4ff2c89da4b402c7a1bcd4f78644ca
-SHA256: c85454bce880308c05d08f6ece5cf31297639090648cf167316822a985605c29
-Section: 嗨-工具
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Author: julioverne & 妖刀
-Name: GoodWiFi 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Version: 1.6
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 408
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: rootless/GoodWiFi 中文版(rootless)_1.6.deb
-Size: 65630
-MD5sum: f38f4ec4f8e4a4a009648629f56a7612
-SHA1: a725d89cc3aa3314b73768fa95d0856c9af264aa
-SHA256: e4769dd3046ffa4fdd3a1b11a2899ff5276e1b9f4b6cfa8686c602daf6e5fdb6
-Section: 嗨-工具
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Author: julioverne & 妖刀
-Name: GoodWiFi 中文版(rootless)
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Version: 1.6.1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Installed-Size: 424
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: rootless/GoodWiFi 中文版(rootless)_1.6.1.deb
-Size: 66566
-MD5sum: d3d56f102bb6b2a330b91be4528040ab
-SHA1: 4b57b925cf689dc2efcd01774e2a703487b7a48b
-SHA256: aae67f0c0042ca283ca355d0849828a9eab953bd7bbb23df9d30a07e81ed632e
-Section: 嗨-工具
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
 Author: julioverne & 妖刀
 Name: GoodWiFi 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
@@ -9603,60 +8452,6 @@ Author: Luki
 Name: April 中文版
 
 Package: com.dao.axon
-Version: 1.5.5
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 692
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootful/Axon_ZH.deb
-Size: 144216
-MD5sum: 27a7d46ffaf05ae1f0f1bf71afaa8b46
-SHA1: cb3ca77057a799efc61d97906045391bfc46953f
-SHA256: d06a9628935d57a0a46ddccc6fe7a2ce71c23924416f7bcc38bdfad1dfcd08e7
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，根据开源编译/汉化。v1.5.2：优化支持iOS16/17；v1.5.3：优化支持多语言，优化部分代码。
-Author: Nepeta
-Name: Axon 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: 刀刀
-Installed-Size: 672
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootful/Axon_ZH_2.0.deb
-Size: 148446
-MD5sum: 5e31665ebffdf9d1c801960dd55ad2c4
-SHA1: 1a9c7c66db29e680880939fa09739331fa38a917
-SHA256: 74fdf1c7ec062fe3e097f8ad4708631502085e80f4c49e43abd3a52c9f4d8f27
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Author: Nepeta & daodao
-Name: Axon 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: rootful/Axon_ZH_2.1.deb
-Size: 149668
-MD5sum: 7ad1b1756f8f3f902cb66233b72f65c5
-SHA1: 6d58369774fb299eea3252f203b6222f2686fc53
-SHA256: ca755dc54d3ff08c021938adfd052d216e0c70b42acb99c648ff2bf0cd92866f
-Section: 嗨-工具
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Author: Nepeta & daodao
-Name: Axon 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
 Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: 刀刀
@@ -9842,60 +8637,6 @@ Author: 妖刀
 Name: Choicy 自用中文包
 
 Package: com.dao.classicfolders3
-Version: 3.0.5.8
-Architecture: iphoneos-arm
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4312
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootful/ClassicFolders3_3.0.5.8.deb
-Size: 3278774
-MD5sum: 1a88eef5abba06fb8d6073064ca3d90d
-SHA1: e74b5bdfe1dfe4f959cd4fe48d81e739211bf7c8
-SHA256: b1467c241adfac6ad5f729ed1ae1438eecce4217ba3500181a675598f4b36ab9
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.0.6
-Architecture: iphoneos-arm
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4332
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootful/ClassicFolders3_3.0.6.deb
-Size: 3279252
-MD5sum: 1c7aac4c707b88f710a4a7e19e26b6e5
-SHA1: 58e69bc7d8e606faaf79d4032174a249ef324975
-SHA256: 7bf80b1930452e26147d19b185a657df2274ea430d132aa429fe0e55675124ad
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Version: 3.0.6.1
-Architecture: iphoneos-arm
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4328
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: rootful/ClassicFolders3_3.0.6.1.deb
-Size: 3279526
-MD5sum: 5a663818c056fe7dfc23b3d7f5abc481
-SHA1: 9f0b343911061bfcade0b8877b041a376b19eae2
-SHA256: d183191e7b97e911d9e71a9a975c993010bedec35a9a82e43900a4be7f19db6a
-Section: 嗨-工具
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Author: CoolStar & Lizynz
-Name: ClassicFolders 3
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
 Version: 3.0.7
 Architecture: iphoneos-arm
 Maintainer: CoolStar & Lizynz & 妖刀
@@ -10061,23 +8802,6 @@ Section: 嗨-工具
 Description: iOS应用提取工具，适用于iOS13.5-14.3，具体支持系统版本自测。
 Author: Lakr Aream
 Name: Iridium 中文版
-
-Package: com.dao.kayoko
-Version: 2.9
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko
-Filename: rootful/Kayoko_2.9.deb
-Size: 128952
-MD5sum: 6929b503c8df8ca3d67575599066cc97
-SHA1: b6b162010f287585e9e3d3c4548d9bea1c2ea254
-SHA256: aa414523436a6a69a41c19b17f41876c2d460feaebee85363192065757ebc9d2
-Section: 嗨-工具
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
-Author: Alexandra Aurora Göttlicher
-Name: Kayoko
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
 Package: com.dao.kayoko
 Version: 3.0
@@ -10431,42 +9155,6 @@ Author: 34306
 Name: replaced
 
 Package: com.dao.reverie
-Version: 0.7
-Architecture: iphoneos-arm
-Maintainer: 刀刀
-Installed-Size: 864
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
-Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
-Filename: rootful/Reverie_ZH.deb
-Size: 99606
-MD5sum: 5b79096ac34ec6d02f621e60cdca71d9
-SHA1: 59379990e5d173cb76dbb7d9724bcddbe43ef75d
-SHA256: 5bbb6c973a6c4453e9fde9cf63ee452ea1187bb8fdefb84b489215e13bf4c67c
-Section: 嗨-工具
-Description: 自由的休眠设备来节省电量。
-Author: Paisseon
-Name: Reverie 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
-
-Package: com.dao.reverie
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 刀刀
-Installed-Size: 832
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
-Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
-Filename: rootful/Reverie_ZH_1.0.deb
-Size: 121268
-MD5sum: 66fac00979c4d2b988d3f581d53cc3a7
-SHA1: 53aad26cb3f1a4efb968374d76cc7a653684d6e7
-SHA256: be661cdff5f8e5be34f95fe99cb88f53cd6804394547e24fb4ba4f1ebd26a17f
-Section: 嗨-工具
-Description: 自由的休眠设备来节省电量。
-Author: Paisseon
-Name: Reverie 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
-
-Package: com.dao.reverie
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: 刀刀
@@ -10683,36 +9371,6 @@ Section: 嗨-工具
 Description: 为iOS13～16的控制中心音量/亮度条添加数字百分比，无设置。
 Author: iOS Creatix, kasiimh1, p2kdev
 Name: SugarCane 16
-
-Package: com.dao.tgextra
-Version: 1.3-1
-Architecture: iphoneos-arm
-Maintainer: choco/waruhachi
-Conflicts: com.choco.tg
-Filename: rootful/TGExtra_1.3-1.deb
-Size: 4785328
-MD5sum: 3faefc6e11707a91ccb61b0e1ca411a4
-SHA1: 07682650d0299ea148046cd6a9676a25b6a6666b
-SHA256: 169de3113b08acee2fcf3ebbfd0a16e61000b12a185d596b09d82b9d7975a5ed
-Section: 嗨-工具
-Description: 支持Telegram、Swiftgram等的多功能插件，能保存频道限制下载文件、禁用广告等；三指长按手势打开设置；或底部「设置」—>长按倒数第三个按钮打开插件；如果打不开，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮。
-Author: choco/waruhachi
-Name: TGExtra
-
-Package: com.dao.tgextra
-Version: 1.3-2
-Architecture: iphoneos-arm
-Maintainer: choco/waruhachi/TheWinner02
-Conflicts: com.choco.tg
-Filename: rootful/TGExtraFE_1.3-2.deb
-Size: 4672128
-MD5sum: 09b5992215ab1024be286c8d8e614c21
-SHA1: a1b62a73061743fae0b633d94d75936baa4a63e9
-SHA256: 27a6f7b6f9feca5ba95c2ba4f0711242c560280540ebd6ca2c2dc1ba329b5599
-Section: 嗨-工具
-Description: 支持Telegram、Swiftgram等的多功能插件，能保存频道限制下载文件、禁用广告等；三指长按（建议在“设置”页面）手势打开设置；或底部「设置」—>长按倒数第三个按钮打开插件；如果打不开，先把语言切换自带的英文或者香港中文等—>再长按倒数第三个按钮。
-Author: choco/waruhachi/TheWinner02
-Name: TGExtraFE
 
 Package: com.dao.tgextra
 Version: 1.3-3
@@ -11025,78 +9683,6 @@ SHA1: 20f836e636597ec2aaf1795fe49d5a44c929d388
 SHA256: 1caadd629ddefd83029ff5f59afa6b78424e596aa34d0a63ee5f62172dea22ba
 Section: 嗨-工具
 Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Author: julioverne & 妖刀
-Name: GoodWiFi 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 404
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: rootful/GoodWiFi_ZH_1.3.deb
-Size: 47052
-MD5sum: 2218babc93b23bea2603db72bdcc3636
-SHA1: 61b896dff4053dcd9f189d1dfcd53d5722fd7ad3
-SHA256: d7ee8b7ae38734a3582b2c37df703d02ca17ec21ebfdf45f7d309a4978a44c13
-Section: 嗨-工具
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Author: julioverne & 妖刀
-Name: GoodWiFi 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Version: 1.5
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 392
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: rootful/GoodWiFi_ZH_1.5.deb
-Size: 63476
-MD5sum: a2cd27a38517030288073c529d3a2b40
-SHA1: bf2013566a0a2b2e60c7f15c4d92d3d67c40664c
-SHA256: 3dd13b22346456cd2bc16bdc0e41d4b79b7d543ec4eae93dd40d530b32e07b17
-Section: 嗨-工具
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Author: julioverne & 妖刀
-Name: GoodWiFi 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Version: 1.6
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 408
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: rootful/GoodWiFi_ZH_1.6.deb
-Size: 65746
-MD5sum: 1601bb85c7747d687f1a30040cf74b93
-SHA1: be68be3c0ec77a25ee29f94814388cca549013db
-SHA256: d8a6e6f6c59d877e786d6fd20c3a3ddfc74520e8738b24a1814987a8288ce802
-Section: 嗨-工具
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Author: julioverne & 妖刀
-Name: GoodWiFi 中文版
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Version: 1.6.1
-Architecture: iphoneos-arm
-Maintainer: 妖刀
-Installed-Size: 424
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: rootful/GoodWiFi_ZH_1.6.1.deb
-Size: 66772
-MD5sum: df9db04cb3012451f09ee8ebf768a93d
-SHA1: 37ec4d69573dd927580869e7664b28d2d0954ee9
-SHA256: 560230647222fe884082cc842ee1256ebef5666de1eaf01947fb1dbeaa19f4ba
-Section: 嗨-工具
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
 Author: julioverne & 妖刀
 Name: GoodWiFi 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
@@ -11612,22 +10198,6 @@ Section: 嗨-汉化
 Description: Appaze 2 简体中文包。
 Author: 妖刀
 Name: Appaze 2 简体中文包
-
-Package: com.hk.appdata.old
-Version: 1.2.6
-Architecture: iphoneos-arm
-Maintainer: Ball & Netskao
-Installed-Size: 768
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: rootful/AppData_Old.deb
-Size: 163000
-MD5sum: 19c8298a217a969f94a6e9f8cfee7b04
-SHA1: b3018bef3eb3b0ae39031ecbcf3baf8860c7c295
-SHA256: 5649c33626d3b355941f4aeebe1b2f226a79750200f3b0cf048890b732caaa40
-Section: 嗨-工具
-Description: 桌面上滑或下滑图标或3D长按选择即可唤出桌面应用快捷工具，类似IconTool，由Netskao基于老版本样式添加新版功能以及完整汉化。喜欢新版本样式可在本源安装1.3.4.1或以上版本。
-Author: Fouad Raheb
-Name: AppData(老版本样式)
 
 Package: com.hk.appellancy11.cn
 Version: 1.1-20a
