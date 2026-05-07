@@ -2597,6 +2597,22 @@ Author: Nepeta & daodao
 Name: Axon 中文版(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
+Package: com.dao.azule
+Version: 0.8.3
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: odcctools, bzip2, gzip, zstd, xz-utils, bash, jq, plutil, ldid, coreutils, zip, unzip, sed, curl, com.linusyang.appinst | com.dao.appinst | ai.akemi.appinst
+Conflicts: xyz.cypwn.azule
+Filename: rootless/Azule(rootless)_0.8.3.deb
+Size: 2241572
+MD5sum: 2a7cea6f1bf51e4a01614b80b38e1f7d
+SHA1: baec877801a1d4d4ab3a85d536e042b826507b21
+SHA256: 7f0c46168413d753382f088e1c8407d7ba85391dbcb00495fbf93d40c0173ddf
+Section: 嗨-工具
+Description: 一个自动化注入工具，为iOS应用程序注入插件。具体用法，自行科普azule -h。
+Author: Alaise, Sudo
+Name: Azule(rootless)
+
 Package: com.dao.batteryhealth
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -8486,22 +8502,6 @@ Description: 锁屏通知聚合插件，刀刀中文优化版。
 Author: Nepeta & daodao
 Name: Axon 中文版
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.azule
-Version: 0.7.6
-Architecture: iphoneos-arm
-Maintainer: Alaise
-Depends: odcctools, bzip2, gzip, zstd, xz-utils, bash, jq, com.level3tjg.insert-dylib, plutil | com.bingner.plutil, ldid, coreutils, zip, unzip, sed, curl, me.alfhaily.opencli, com.linusyang.appinst
-Conflicts: com.alaise.azule
-Filename: rootful/Azule.deb
-Size: 624120
-MD5sum: 6f17200810cdf88408de9890d59c7de1
-SHA1: 19220e1f755e11fa4ac6aad55ffebe110f6656de
-SHA256: f1ac8be14aff9168aa45c5441a85dfb4a339f67460bf2004fd3a6bddb3aa0152
-Section: 嗨-工具
-Description: 一个自动化注入工具，为iOS应用程序注入插件。需要依赖插件比较多，请先添加以下的源：https://level3tjg.me/repo/、https://apt.alfhaily.me/、https://cydia.akemi.ai/。具体用法，自行科普azule -h。
-Author: Alaise
-Name: Azule 注入工具
 
 Package: com.dao.batteryhealth
 Version: 1.0.1
