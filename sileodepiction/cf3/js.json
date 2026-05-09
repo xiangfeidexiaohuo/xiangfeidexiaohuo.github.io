@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "CoolStar 的 ClassicFolders 3，以 iOS6 经典风格打开文件夹。</br> 刀刀基于 Lizynz 的开源(支持 iOS15+)优化版，简单定制、优化。",
+                    "markdown": "CoolStar 的 ClassicFolders 3，以 iOS6 经典风格打开文件夹。</br>Lizynz & SINI 的优化版，简单定制、优化。",
                     "useRawFormat": true,
                 },
                 {
@@ -64,27 +64,27 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "CoolStar & Lizynz",
+                    "text": "Lizynz & SINI",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "CoolStar & Lizynz & 妖刀",
+                    "text": "SINI & 妖刀",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.1.2",
+                    "text": "3.2",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "14.0 - 16.6.1",
+                    "text": "14.0 - 16.7.15",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 10 月 01 日",
+                    "text": "2026 年 05 月 09 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,6 +97,18 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "设置页美化：</br> 顶部卡片信息，卡片背景加入轻微玻璃/磨砂质感</br> 其他微调美化</br> 设置项调整：</br> 一些功能变换位置，去除无用功能</br> 文件夹展开标签：</br> 标签增加胶囊背景</br> 胶囊背景支持深色/浅色模式</br> 胶囊背景使用系统模糊材质，带轻微磨砂玻璃感</br> 标签文字改成自动适配深浅色</br> 动态高度与闪烁修复：</br> 使用动态高度时，桌面图标等不会因在文件夹内滑动而闪烁</br> 代码简单优化等",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "3.1.2",
