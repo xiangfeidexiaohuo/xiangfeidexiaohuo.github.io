@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://xiangfeidexiaohuo.github.io/images/donut.png",
+    "headerImage": "https://xiangfeidexiaohuo.github.io/images/milkyway.png",
     "tintColor": "#1DBBFF",
     "minVersion": "0.3",
     "tabs": [
@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，或者长按程序图标，菜单选「Open in Window」，即可将此程序窗口化/分屏；</br> 程序分屏后，顶部左侧红按钮（关闭窗口）、黄按钮（最小化）、绿按钮（最大化）；按住右侧按钮缩放窗口；按住顶部可随意拖动窗口。</br> 由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26。",
+                    "markdown": "窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，或者长按程序图标，菜单选「Open in Window」，即可将此程序窗口化分屏；</br> </br> 程序分屏后，顶部左侧红按钮（关闭窗口）、黄按钮（最小化）、绿按钮（最大化）；按住右侧按钮缩放窗口；按住顶部可随意拖动窗口。</br> </br> 由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26。",
                     "useRawFormat": true,
                 },
                 {
@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "基于34306的开源编译，仅编译，可能有些bug，自行体验！",
+                    "markdown": "基于34306的开源，仅编译，可能有些bug，自行体验！",
                     "useRawFormat": true
                 }
             ]
