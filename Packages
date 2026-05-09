@@ -763,6 +763,24 @@ Author: MilkyWay Reborn
 Name: MilkyWayReborn(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/js.json
 
+Package: com.dao.milkywayreborn
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: MilkyWay Reborn
+Installed-Size: 308
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.milkyway.reborn
+Filename: roothide/MilkyWayReborn(RootHide)_1.1.deb
+Size: 44540
+MD5sum: 4c658ebacb638e98cd2546b03d924fd3
+SHA1: e571c9aafe26afcaa3a43226568e2ed9f81ada4e
+SHA256: fe743368a13057a34eed39eeae3204fd27f94d140b5a11f739b005566a2ca058
+Section: 海-系统
+Description: 窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，即可将此程序窗口化/分屏；由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26。
+Author: MilkyWay Reborn
+Name: MilkyWayReborn(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/js.json
+
 Package: com.dao.neofreebird.bht
 Version: 5.2-1
 Architecture: iphoneos-arm64e
@@ -3437,6 +3455,24 @@ Size: 38888
 MD5sum: c698c842dbeb9c3217e20c666a31bf21
 SHA1: ad0a191895fc359a60d29f77e082a596a0256faa
 SHA256: d10e7e163a7256654aa8229976a75b913490d2a03335ea2b39e2f1f7551b746c
+Section: 海-系统
+Description: 窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，即可将此程序窗口化/分屏；由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26。
+Author: MilkyWay Reborn
+Name: MilkyWayReborn(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/js.json
+
+Package: com.dao.milkywayreborn
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: MilkyWay Reborn
+Installed-Size: 308
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.milkyway.reborn
+Filename: rootless/MilkyWayReborn(rootless)_1.1.deb
+Size: 44640
+MD5sum: 863e3f747beeeb3da24d1471023831e6
+SHA1: 51f94da7c69dbd2d54362c1ee01162c1416af06a
+SHA256: 8a424754b0517fc7237b674c1db90b798a22da7e1828b1bef061bf2310cadf25
 Section: 海-系统
 Description: 窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，即可将此程序窗口化/分屏；由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26。
 Author: MilkyWay Reborn
@@ -8955,6 +8991,24 @@ Size: 38746
 MD5sum: 5244153d33e6dc8a1dda5a7dee594eb8
 SHA1: 63cf4c755527adfa7520f069be37bd134a9aec53
 SHA256: 7bf91543607bb0f7794e259d9e5519a448abb15d5e7317c26b8e9cc7eb3ba1ff
+Section: 海-系统
+Description: 窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，即可将此程序窗口化/分屏；由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26。
+Author: MilkyWay Reborn
+Name: MilkyWayReborn
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/js.json
+
+Package: com.dao.milkywayreborn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: MilkyWay Reborn
+Installed-Size: 308
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.milkyway.reborn
+Filename: rootful/MilkyWayReborn_1.1.deb
+Size: 44532
+MD5sum: d1043c22b738084b037f792929021b49
+SHA1: 2f3b836e88ff93a19f6334457bfa0e857d431af8
+SHA256: 10053cab32372ad9f2cf0a6b6327836c5305852580fb02fcca6312dca4c8013c
 Section: 海-系统
 Description: 窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，即可将此程序窗口化/分屏；由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26。
 Author: MilkyWay Reborn

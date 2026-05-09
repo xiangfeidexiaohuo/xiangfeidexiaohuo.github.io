@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，或者长按程序图标，菜单选「Open in Window」，即可将此程序窗口化分屏；</br> </br> 程序分屏后，顶部左侧红按钮（关闭窗口）、黄按钮（最小化）、绿按钮（最大化）；按住右侧按钮缩放窗口；按住顶部可随意拖动窗口。</br> </br> 由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26。",
+                    "markdown": "窗口化多任务，即分屏；无设置，后台界面，按住APP卡片2秒，或者长按APP图标选择「窗口分屏」，即可将此APP窗口化分屏；</br> </br> APP分屏后，左侧红按钮（关闭窗口）、黄按钮（最小化）、绿按钮（最大化）；按住右侧按钮即可缩放窗口；按住窗口顶部可随意拖动窗口。</br> </br> 由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26。",
                     "useRawFormat": true,
                 },
                 {
@@ -38,6 +38,10 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/Screenshot_02.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/Screenshot_03.png"
                         }
                     ]
                 },
@@ -74,17 +78,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.0",
+                    "text": "1.1",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "15.0 - 26.5",
+                    "text": "16.0 - 26.5",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 05 月 09 日",
+                    "text": "2026 年 05 月 10 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,6 +101,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "窗口化程序名居中</br> 右侧缩放按钮添加图标</br> 窗口化长按红按钮，杀死该APP进程</br> 最小化(黄按钮)后变成磨砂玻璃质感的胶囊样式</br> 胶囊显示程序名，如果程序名过长，滚动显示</br> 最小化后长按胶囊杀死该APP进程</br> 长按程序图标菜单「Open in Window」翻译成窗口分屏",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.0.0",
