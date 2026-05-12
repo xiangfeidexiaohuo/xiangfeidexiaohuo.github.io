@@ -61,17 +61,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.3.8",
+                    "text": "2.4.1",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "15.0 - 16.6.1",
+                    "text": "15.0 - 16.7.15",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 03 月 17 日",
+                    "text": "2026 年 05 月 11 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.4.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化功能文字介绍和性能。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.4.0",

@@ -114,6 +114,23 @@ Author: aReo
 Name: AppProtect 隐私保护(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
+Package: com.dao.appprotect
+Version: 2.4.1
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
+Filename: roothide/AppProtect 隐私保护(RootHide)_2.4.1.deb
+Size: 708464
+MD5sum: 844cc4b69a254c7fb6fe7882b2924e01
+SHA1: 9260e6b4f026daaf178d3352a98d473fdf939a66
+SHA256: 1435b5cbf67321a82eb78810171d4acad592b14442917ded5a3f6b9f3c08bedd
+Section: 嗨-付费
+Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
+Author: aReo
+Name: AppProtect 隐私保护(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
+
 Package: com.dao.appstoretroller
 Version: 0.1.2
 Architecture: iphoneos-arm64e
@@ -158,6 +175,23 @@ Size: 1139356
 MD5sum: ce7c4f86f1af756b012ac3b1628411a4
 SHA1: 6bbaca5b0e4f7f7a551ca2072c69e84dac063425
 SHA256: 4dc4d0a030b73dd6938ea2c3dfd341584fb0573f02b2d8885b219bbafd772d29
+Section: 嗨-付费
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Author: aReo
+Name: AppTools15-17(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
+Package: com.dao.apptools15
+Version: 2.6.9
+Architecture: iphoneos-arm64e
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Filename: roothide/AppTools15-17(RootHide)_2.6.9.deb
+Size: 1167384
+MD5sum: 45442fe51193d09fd11065c7e18a7041
+SHA1: 0775baad45362488f1b902c7b06c97da25c932df
+SHA256: 1d22712e22e2d6e2d19ec0d17572ea91c6c21476f998d1aceb45d06e2427169f
 Section: 嗨-付费
 Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Author: aReo
@@ -2515,6 +2549,23 @@ Author: aReo
 Name: AppProtect 隐私保护(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
+Package: com.dao.appprotect
+Version: 2.4.1
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
+Filename: rootless/AppProtect 隐私保护(rootless)_2.4.1.deb
+Size: 746688
+MD5sum: 0a76ec80201664bb8394069a487c9027
+SHA1: c12015734fca9052244394bede7674b6e8a683f7
+SHA256: 531549e7c9000a8488cece585b05906db8bb7f8d15fda74450cf16e7e716c337
+Section: 嗨-付费
+Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
+Author: aReo
+Name: AppProtect 隐私保护(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
+
 Package: com.dao.appstoretroller
 Version: 0.1.2
 Architecture: iphoneos-arm64
@@ -2576,6 +2627,23 @@ Size: 1184728
 MD5sum: e15ff6dc6791e712a038d4e4b6d770ef
 SHA1: 7e45d4fc8c8593c84651aa80572273a7b5c57ec8
 SHA256: 6fdb73821727681dabd245b192f748921a93a5c5d11cf473bc05d3906e3dee9d
+Section: 嗨-付费
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Author: aReo
+Name: AppTools15-17(rootless)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
+Package: com.dao.apptools15
+Version: 2.6.9
+Architecture: iphoneos-arm64
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Filename: rootless/AppTools15-17(rootless)_2.6.9.deb
+Size: 1204924
+MD5sum: 301c9e09543aeab9fab3e344e79aa7b8
+SHA1: 8137343e24474f9092afaa9c30fc25a1959a8d66
+SHA256: 3f835feba3cdcbb09f9e096c58f08a2bb079494aa7c1dcb010dc18b730555e15
 Section: 嗨-付费
 Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Author: aReo

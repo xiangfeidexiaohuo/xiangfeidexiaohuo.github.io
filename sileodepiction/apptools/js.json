@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.6.8",
+                    "text": "2.6.9",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 04 月 03 日",
+                    "text": "2026 年 05 月 11 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.6.9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、增强开屏去广功能效果，能去除绝大多数启动广；</br> 、其它优化。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.6.8",
