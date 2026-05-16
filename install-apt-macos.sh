@@ -101,8 +101,8 @@ cd "${dir}"
 echo "当前工作目录: $(pwd)"
 
 # 下载文件
-echo "正在下载 bootstrap.tar.zst..."
-curl -L https://apt.procurs.us/bootstraps/big_sur/bootstrap-darwin-amd64.tar.zst -o bootstrap.tar.zst
+echo "正在下载 ARM bootstrap.tar.zst..."
+curl -L https://apt.procurs.us/bootstraps/big_sur/bootstrap-darwin-arm64.tar.zst -o bootstrap.tar.zst
 
 # 检查下载是否成功
 if [ -f "bootstrap.tar.zst" ]; then
