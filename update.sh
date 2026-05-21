@@ -5,9 +5,9 @@ echo "1、删除旧版Packages"
 rm Packages Packages.*
 
 echo "2、扫描重新生成、压缩Packages"
-dpkg-scanpackages --multiversion roothide >> Packages
-dpkg-scanpackages --multiversion rootless >> Packages
-dpkg-scanpackages --multiversion rootful >> Packages
+apt-ftparchive packages ./roothide >> Packages
+apt-ftparchive packages ./rootless >> Packages
+apt-ftparchive packages ./rootful >> Packages
 
 cat Packages | xz > Packages.xz
 cat Packages | bzip2 > Packages.bz2
