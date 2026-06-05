@@ -1,8 +1,0 @@
-dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
-dbus-update-activation-environment: setting DISPLAY=:0
-dbus-update-activation-environment: setting XAUTHORITY=/home/dao/.Xauthority
-dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=ubuntu:GNOME
-/etc/X11/Xsession.d/30x11-common_xresources: 行 16: has_option: 未找到命令
-dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
-dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
-/etc/X11/Xsession.d/90x11-common_ssh-agent: 行 9: has_option: 未找到命令
