@@ -34,6 +34,10 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/Screenshot_02.png"
                         }
 
                     ]
@@ -102,7 +106,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修复在新版推特上的闪退问题</br> 修复下载：媒体下载——「下载媒体」开启后，能下载的媒体右下角的「分享」按钮会变成「下载」按钮（实测下载1080p、4K均正常）</br> 如果开启了「直接保存」，无下载进度，下载完成会震动提示，直接保存到相册</br> 去除原始代码的空占位</br> 新增：实验功能——绕过设备认证（来自theacrat）</br> 新增：推文回复——绕过年龄验证（来自theacrat）",
+                    "markdown": "1.修复在新版推特上的闪退问题</br> </br> 2.修复下载：媒体下载——「下载媒体」开启后，能下载的媒体右下角的「分享」按钮会变成「下载」按钮（实测下载1080p、4K均正常）</br> </br>ps:如果开启「直接保存」，无下载进度，下载完成会震动提示，直接保存到相册</br> </br> 3.去除原始代码的空占位</br> </br> 4.新增：实验功能——绕过设备认证（来自theacrat）</br> </br> 5.新增：推文回复——绕过年龄验证（来自theacrat）",
                     "useRawFormat": true
                 },
                {

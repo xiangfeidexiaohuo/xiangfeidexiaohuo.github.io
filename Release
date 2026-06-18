@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Codename: ios
 Components: main
-Date: Thu, 18 Jun 2026 06:47:00 +0000
+Date: Thu, 18 Jun 2026 06:58:00 +0000
 Description: 刀刀个人插件源~
 Label: 刀刀源
 Origin: 刀刀源
@@ -14,7 +14,7 @@ MD5Sum:
  1245570aa29737e20eaa30aebc251864           240256 Packages.lzma
  840489dc877fdb55e0dcf523b6fab122           241264 Packages.xz
  27bdea3fd6fc4d903c3556a426a7456b           289026 Packages.zst
- df98dd27c6d935b4bb4e2c5304770160              226 Release
+ f358bc19232ea2306869f9b2b8d68647              226 Release
 SHA1:
  06ba0db542cd9b7470b785a0e0f7e0b33e812a2b           857424 Packages
  436ca6a000f936c2638c4345f9e30bf07e0446a2           232850 Packages.bz2
@@ -22,7 +22,7 @@ SHA1:
  9056541d2eb924c6b014e8e9cba7b35f842c6b76           240256 Packages.lzma
  9a2e27a5abfa83cfcf3f81720f970c5c7578ccb4           241264 Packages.xz
  3c20924f9f50fe92792fe2ee6a54c8bbf311ccfd           289026 Packages.zst
- 71b965317dfda3711789480ac6ab653c8eb67ee3              226 Release
+ a90d453656ecaba003489ef48a5f3db7fc4ebe35              226 Release
 SHA256:
  964578eb9bc186e280373289c73e712cd41296b2e99e3949f2898c0c48524c23           857424 Packages
  ad431936a4076fbda9f34626b390538628122fc0ba5cc24ff3f57f7811f0ffae           232850 Packages.bz2
@@ -30,7 +30,7 @@ SHA256:
  a9f16b00d5328eaeda76b07e4fe3bf49e8d5c795b0591e2f9e5b8f7da25eb050           240256 Packages.lzma
  0bfdb8afd7b44cfd26580c1594be2fbe7b104f3406f3caa4d3e5284759de72e8           241264 Packages.xz
  22cc51f30fdcfcd6b192caeb86cf7747ae96df5d5a5574579cfd097e1c1e0267           289026 Packages.zst
- 7b42dddba99f56a2762215739d50578d9e4ff0d7c9180fcdcfcddf0d68222158              226 Release
+ e37a2bb85ed3a76b0461420c951bde463fec5cd553c5cdb4deb0beb1f11e04d8              226 Release
 SHA512:
  e7f46b8e53f578917472574b6db6642108aac20bf88db1175e8fba528b225cadf0a6b887d18c8919116ee35fa95d1bfdfb1bdf03589e009d7dc75feeed7d9afb           857424 Packages
  63918aca9dda6fd4cc7da2dc62e2db5c95e06453898d723a8cb6710af06178356957800f4ecea39bceef163c822317af2e17adf55b6b3f8dabb71dd181a49412           232850 Packages.bz2
@@ -38,4 +38,4 @@ SHA512:
  38ccbefaa5aeed9dda4c2d897728cebedeb9edcec4b88cf5192ccf74eae9ffca59a7f3360d5c5e8d5e8a7b394971fbbe206f226f79aeca2a866464943b7ffe3e           240256 Packages.lzma
  2438dd7d02d237f03c61450bf083511de1cd11bcc243a4652b7b8f715e67387f760c5eb2705dbc72a592ae2d91da309dbfdd84246e65389a8507605837c03628           241264 Packages.xz
  2ab8254139d72e802fa7ff1f0b6e36a8d1303a29314e16a6b27832aa1cfb65dda9f953ddf7eff78a4d1aa67760d60baa8de673f0f99cfafca24f8f875aec3f97           289026 Packages.zst
- 66f74e8d98b3c1c36bfcfb49a5969aec28fc5bd8061e70d3decace149c58bd0c2487992cbc6277698afacd4ac85e65a0091d4a39985823bad01c8e1cd9f71c07              226 Release
+ 6cbc23f9173149b2ac1082345d15469c5796a3fbb88e49133d6fb2659e5145c387a8c2a96a22457fb543bf8e6d36b666d39ed00c852228152af5e98a49a17617              226 Release
