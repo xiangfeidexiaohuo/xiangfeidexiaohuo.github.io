@@ -22,6 +22,12 @@
    "hideShadow": false
   },
   {
+   "url": "https://xiangfeidexiaohuo.github.io/images/bht.png",
+   "title": "NFB-BHTwitter",
+   "package": "com.dao.neofreebird.bht",
+   "hideShadow": false
+  },
+  {
    "url": "https://xiangfeidexiaohuo.github.io/images/reverie.png",
    "title": "Reverie",
    "package": "com.dao.reverie",

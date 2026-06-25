@@ -70,7 +70,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "NeoFreeBird & 刀刀",
+                    "text": "刀刀 & theacrat",
                     "title": "维护者"
                 },
                 {
@@ -85,7 +85,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 06 月 18 日",
+                    "text": "2026 年 06 月 25 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -98,6 +98,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.同步theacrat大佬相关代码，新增功能：网页回复、隐藏探索热榜、自定义时间线（隐藏时间线添加按钮）</br> </br> 2.下载按钮不再替代分享按钮，单独存在</br> </br> 3.优化一些代码，去除一些失效功能</br> </br> 4.下载更稳，实测4K视频下载没问题</br> </br> 5.补全/调整个别中文翻译",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.5",
