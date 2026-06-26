@@ -25,6 +25,10 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/Screenshot_02.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/Screenshot_03.png"
                         }
                     ]
                 },
@@ -92,7 +96,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "加入分词功能，修复若干问题。",
+                    "markdown": "加入分词功能，修复若干问题。</br> </br> 启用滑动选词，长按剪切版内记录即可分词，且能滑动选词。",
                     "useRawFormat": true
                 },
                 {
