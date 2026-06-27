@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.2",
+                    "text": "3.3",
                     "title": "最新版本"
                 },
                 {
@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 06 月 26 日",
+                    "text": "2026 年 06 月 27 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -88,6 +88,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新图标、船新版本 </br> 不兼容3.2及以前版本的剪切板数据（简单说：装了3.3，之前的剪切板的收藏夹/历史记录全无）</br> </br> 转移旧数据：</br> 1、越狱根/var/mobile/library/codes.aurora.kayoko/ 目录下的所有文件复制 </br> </br> 2、粘贴到：</br> 越狱根/var/mobile/library/com.82flex.kayoko/ 目录下 </br> </br> 3、打开 history.json 将第二行的 history 改成 History（就是小写h改成大写），保存！ ",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "3.2",
