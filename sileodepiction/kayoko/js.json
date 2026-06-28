@@ -96,7 +96,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "新图标、船新版本 </br> 不继承3.2及以前版本的剪切板数据（之前的剪切板的收藏夹/历史记录全无，需手动转移数据）</br> </br> 转移旧数据：</br> 越狱根/var/mobile/library/codes.aurora.kayoko/ 目录下的所有文件复制 </br> </br> 2、粘贴到：</br> 越狱根/var/mobile/library/com.82flex.kayoko/ 目录下 </br> </br> ",
+                    "markdown": "新图标、船新版本 </br> 不继承3.2及以前版本的剪切板数据（之前的剪切板的收藏夹/历史记录全无，需手动转移数据）</br> </br> 1、转移旧数据：</br> 越狱根/var/mobile/library/codes.aurora.kayoko/ 目录下的所有文件复制 </br> </br> 2、粘贴到：</br> 越狱根/var/mobile/library/com.82flex.kayoko/ 目录下 </br> </br> ",
                     "useRawFormat": true
                 },
                 {
