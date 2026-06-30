@@ -55,7 +55,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "Alexandra",
+                    "text": "乌龙工作室",
                     "title": "作者"
                 },
                 {
@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.3.1",
+                    "text": "4.0",
                     "title": "最新版本"
                 },
                 {
@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 06 月 28 日",
+                    "text": "2026 年 06 月 30 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -88,6 +88,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "4.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化动画，改进数据结构，现在可容纳数千条剪切记录。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "3.3.1",
