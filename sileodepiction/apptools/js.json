@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.7.2",
+                    "text": "2.7.3",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 06 月 05 日",
+                    "text": "2026 年 06 月 30 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.7.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增增加、删除、移动功能位置功能（长按面板空白处或右上角显示样式设置）；</br> 2、优化 120Hz 高刷功能；</br> 3、其它优化。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.7.2",
