@@ -9,6 +9,19 @@
             "tabname": "描述",
             "views": [
                 {
+                    "text": "点此加入刀刀源聊天群",
+                    "action": "https://t.me/ae86_daodao",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "Kayoko 剪切板，现已由「乌龙工作室」继续维护，免费发布和使用！</br> </br> ❤️优化增强，支持 iOS14~17！",
                     "useRawFormat": true,
@@ -65,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.0",
+                    "text": "4.0.3",
                     "title": "最新版本"
                 },
                 {
@@ -75,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 06 月 30 日",
+                    "text": "2026 年 07 月 02 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -88,6 +101,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "4.0.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "🚀Kayoko 4.0+ 已上架 Havoc，大家可以支持下乌龙工作室！！！</br> </br> 🔍 搜索功能全面升级：搜索高亮、本地化过滤、空状态优化、安全区域适配等。 </br> ✨ 交互体验优化：新增多种手势、关闭动画、滚动返回顶部、触觉反馈等。 </br> ⚡ 性能提升：历史预加载、缩略图缓存、批量保存剪贴板历史。 </br> 🛡 稳定性增强：锁屏、Spotlight、App 切换、输入法切换等场景处理更加完善。 </br> 🔧 底层重构：大量 Hook 与公共代码重构，为后续功能扩展和维护打下基础。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "4.0",
