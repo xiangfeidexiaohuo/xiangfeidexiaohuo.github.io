@@ -1249,6 +1249,24 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.jso
 
 Package: com.dao.kayoko
 Architecture: iphoneos-arm64e
+Version: 4.0.4
+Section: 嗨-工具
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko, com.82flex.kayoko
+Filename: ./roothide/Kayoko(RootHide)_4.0.4.deb
+Size: 308364
+MD5sum: c9f090e46a6a3e4a9dc15a7942ccacf4
+SHA1: 26ae31c47730aef62ae2f651bdd3411e5c9ed2ca
+SHA256: f58f88f340a812d133996ba65f537fc509eee1cf2b19d03a2e1d5eb9ac0e7196
+SHA512: f28ed4076a91f66ee6a13b957feed2f0602fab9ead7183616761b2a17d5ca6bff09c80a2d5dbfac22a15b7416b4b5141d4acf718997666f6c2ca352caf139fec
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16/17。
+Name: Kayoko(RootHide)
+Author: Lessica
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.kayoko
+Architecture: iphoneos-arm64e
 Version: 4.0
 Section: 嗨-工具
 Maintainer: Lessica <82flex@gmail.com>
@@ -1456,6 +1474,24 @@ MD5sum: 68abc63a0a98433b392b85f949bf3efc
 SHA1: 2dffb64283dfd676390482c5c50ca04eb883f4f2
 SHA256: 5dedbd14704cc20ae92116068628f3207bfc2fa761e059d0f12d145fa4764fd3
 SHA512: 573c3ad3fb2cc3887d15ea5254a6af893c31c47bb1126e0471c0ff0577882b757d23974a6e26ff5468c86155f99209ae90d4b89a588003cf850e33f1278ad362
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFB-BHTwitter 中文版(RootHide)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64e
+Version: 5.7
+Section: 嗨-工具
+Maintainer: NeoFreeBird & 刀刀 & theacrat
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./roothide/NFB-BHTwitter 中文版(RootHide)_5.7.deb
+Size: 7753556
+MD5sum: 7a1d02befc9a36727e0a060afa305125
+SHA1: 6afb2d1c65f72ba8c3839b7a4b3c7b37f98d68d6
+SHA256: 3153f59509323cfb76b685bd3acbef70af013f3d37fc2f8022732a6ba23cac4f
+SHA512: ab44e57a319bc3eaf4308fc230dc6dd74ab08d155dcf4ef151c5ee21821ebf384d0fedd824dd6182ef12ec9d98d1b72367a1db0e1ac2ccdf73224ff2ea703078
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Name: NFB-BHTwitter 中文版(RootHide)
 Author: NeoFreeBird
@@ -4436,6 +4472,24 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.jso
 
 Package: com.dao.kayoko
 Architecture: iphoneos-arm64
+Version: 4.0.4
+Section: 嗨-工具
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko, com.82flex.kayoko
+Filename: ./rootless/Kayoko(rootless)_4.0.4.deb
+Size: 311636
+MD5sum: 4c89fdce6912463e2c0f19b6d2312a1b
+SHA1: 89ff0df69ec8feda9f2f14ae00dee36b92b42737
+SHA256: 0be057f3379ea132e74e0d7efdd7b27ffb4df115c289f585bcf2b620c2435cb5
+SHA512: ad9af9a69ed51e4cdc6ca4622901d7f254eeae8e9afa520b3c76b7889b7874529b5d97936192851755fec15d398fa836ab5968f944d31bc5c63595953e006c15
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16/17。
+Name: Kayoko(rootless)
+Author: Lessica
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.kayoko
+Architecture: iphoneos-arm64
 Version: 4.0
 Section: 嗨-工具
 Maintainer: Lessica <82flex@gmail.com>
@@ -4841,6 +4895,24 @@ MD5sum: a37264dead462b7387c7c7b6607cfd8f
 SHA1: a9dd0408fd462b0437a7cbd5fdc40ca08a890ae2
 SHA256: 1d95268f100dbeb028dae6755c36031e28c7066d2a955cf1b41e3838b65fb4d4
 SHA512: 671921b451026d9c4d8c52d0b0484995faeafa602abed6d711ae8e779845f698756d7ddf6c0197d58967f94eb5661d64d5da22dda070aeea37a6d02d586a464d
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFB-BHTwitter 中文版(rootless)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64
+Version: 5.7
+Section: 嗨-工具
+Maintainer: NeoFreeBird & 刀刀 & theacrat
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootless/NFB-BHTwitter 中文版(rootless)_5.7.deb
+Size: 7756624
+MD5sum: 374337c548a52c136ccaf4cad625799c
+SHA1: 21c53ff3f1a53629eec24c5da95cfd0878697ee1
+SHA256: 8c7dbcf74d98870e85b219824e01a170d2c36e5dc8fd93e108bd018b08bcd168
+SHA512: 207eb387d34524f0a377f2ab3c2e0851dac48049cd25d5efe278bddc79858cf0ea5285739203fef8f19b9dd716756a390e2d0dbb1f704a56b648742a71c74872
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Name: NFB-BHTwitter 中文版(rootless)
 Author: NeoFreeBird
@@ -13258,6 +13330,24 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.jso
 
 Package: com.dao.kayoko
 Architecture: iphoneos-arm
+Version: 4.0.4
+Section: 嗨-工具
+Maintainer: Lessica <82flex@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko, com.82flex.kayoko
+Filename: ./rootful/Kayoko_4.0.4.deb
+Size: 311888
+MD5sum: 521cac1287dabbb7f6a87767d883abef
+SHA1: 3de0651c9116fe773f15712ce4a7478f6f090433
+SHA256: fb98f0cd8d131f9fceaa7ae9af22e1f9999754f27971044ab58c3469dd13e92e
+SHA512: 2cd01874f6ecfd94c3a246a0a0e7ff10cc589094f5f10bf6a7e99c1cda7c977ef269919cf57aa6088506d0ec9d5ee6cfa5effb3f10f4ac136da361ed2d164725
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16/17。
+Name: Kayoko
+Author: Lessica
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.kayoko
+Architecture: iphoneos-arm
 Version: 4.0
 Section: 嗨-工具
 Maintainer: Lessica <82flex@gmail.com>
@@ -14674,6 +14764,24 @@ MD5sum: d1040fdc0aa7269540992497f4d905fe
 SHA1: dde36fa2fa0e4dcf3c06dad11806bba329195d61
 SHA256: d04152cb494f26a1e03f04982a8c03ff1b369f3ba4be69ec9ab5fb21e6f800f1
 SHA512: 68e3c79d45b2e24c2ba5263188c99b084f4f0d177e990ff4bc9489abc6409bbe30731ab1a4df0d93ed492672c44326dfc5493b9f2a27cb94d468ece34fc24b64
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFB-BHTwitter 中文版
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm
+Version: 5.7
+Section: 嗨-工具
+Maintainer: NeoFreeBird & 刀刀 & theacrat
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootful/NFB-BHTwitter_5.7.deb
+Size: 7761052
+MD5sum: 810b8e24de20e57cceec984d08a96ebd
+SHA1: 2d1ebeb3016b8e670495dbef8fde4af0e6974036
+SHA256: b12cec245321a0db6ab4ccf5f4bbebdb853ba02e26f18741cb962f7152b7f2a3
+SHA512: cb011be9747e7b91fba3cd17316fa4b1b0f105bd30a576361712e690f63d3c38675f296fde9066b9746f04fdaf144a5b7aa17cb9e0be0c31d28e85b700cee18b
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Name: NFB-BHTwitter 中文版
 Author: NeoFreeBird

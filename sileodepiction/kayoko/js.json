@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.0.3",
+                    "text": "4.0.4",
                     "title": "最新版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 07 月 02 日",
+                    "text": "2026 年 07 月 04 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -101,6 +101,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "4.0.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "🚀 Kayoko 4.0+ 已上架 Havoc，大家可以支持下乌龙工作室！！！</br> </br> ✂️ 大幅优化剪贴板处理逻辑，提高粘贴稳定性</br> 👆 提高手势识别准确率，减少误触</br> ⚡ 稳定性、兼容性和底层架构优化",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "4.0.3",

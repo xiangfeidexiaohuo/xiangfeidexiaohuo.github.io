@@ -85,7 +85,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 06 月 25 日",
+                    "text": "2026 年 07 月 04 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -98,6 +98,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.同步theacrat大佬相关代码，新增功能：实现类似旧版的xauth登录流程</br> </br> 2.补全登录流程中文翻译</br> </br> 3.其他优化",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.6",
