@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.0.6",
+                    "text": "4.0.7",
                     "title": "最新版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 07 月 05 日",
+                    "text": "2026 年 07 月 06 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -103,13 +103,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "4.0.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "UI 安全区域修复 + 设置/本地化重构 + 手势系统增强 + 键盘扩展体验升级",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "4.0.6",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "移除 libSandy 依赖，减少系统依赖，提高兼容性。</br> 优化搜索界面，操作更加直观。</br> 新增自动粘贴模式，提供新的自动粘贴实现方式，提高兼容性。</br> 优化设置页整体布局。",
+                    "markdown": "1. 移除 libSandy 依赖，减少系统依赖，提高兼容性</br> 2. 优化搜索界面，操作更加直观</br> 3. 新增自动粘贴模式，提供新的自动粘贴实现方式，提高兼容性</br> 4. 优化设置页整体布局",
                     "useRawFormat": true
                 },
                 {
@@ -120,7 +131,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "🚀 Kayoko 4.0+ 已上架 Havoc，大家可以支持下乌龙工作室！！！</br> </br> ✂️ 大幅优化剪贴板处理逻辑，提高粘贴稳定性</br> 👆 提高手势识别准确率，减少误触</br> ⚡ 稳定性、兼容性和底层架构优化",
+                    "markdown": "🚀 Kayoko 4.0+ 已上架 Havoc，大家可以支持下乌龙工作室！！！</br> </br> 1. 大幅优化剪贴板处理逻辑，提高粘贴稳定性</br> 2. 提高手势识别准确率，减少误触</br> 3. 稳定性、兼容性和底层架构优化",
                     "useRawFormat": true
                 },
                 {
@@ -131,7 +142,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "🚀Kayoko 4.0+ 已上架 Havoc，大家可以支持下乌龙工作室！！！</br> </br> 🔍 搜索功能全面升级：搜索高亮、本地化过滤、空状态优化、安全区域适配等。 </br> ✨ 交互体验优化：新增多种手势、关闭动画、滚动返回顶部、触觉反馈等。 </br> ⚡ 性能提升：历史预加载、缩略图缓存、批量保存剪贴板历史。 </br> 🛡 稳定性增强：锁屏、Spotlight、App 切换、输入法切换等场景处理更加完善。 </br> 🔧 底层重构：大量 Hook 与公共代码重构，为后续功能扩展和维护打下基础。",
+                    "markdown": "🚀Kayoko 4.0+ 已上架 Havoc，大家可以支持下乌龙工作室！！！</br> </br> 1. 搜索功能全面升级：搜索高亮、本地化过滤、空状态优化、安全区域适配等。 </br> 2. 交互体验优化：新增多种手势、关闭动画、滚动返回顶部、触觉反馈等。 </br> 3. 性能提升：历史预加载、缩略图缓存、批量保存剪贴板历史。 </br> 4. 稳定性增强：锁屏、Spotlight、App 切换、输入法切换等场景处理更加完善。 </br> 5. 底层重构：大量 Hook 与公共代码重构，为后续功能扩展和维护打下基础。",
                     "useRawFormat": true
                 },
                 {
