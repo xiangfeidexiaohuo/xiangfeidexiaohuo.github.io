@@ -1267,6 +1267,24 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.jso
 
 Package: com.dao.kayoko
 Architecture: iphoneos-arm64e
+Version: 4.0.6
+Section: 嗨-工具
+Maintainer: Lessica
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko, com.82flex.kayoko
+Filename: ./roothide/Kayoko(RootHide)_4.0.6.deb
+Size: 316288
+MD5sum: 4e4a8d78b6bc24da226add3262dbc199
+SHA1: 50981444472ca548d379dc9a2c3ca632eea4a13f
+SHA256: a1048837dba3a1e98d2e01e082cb9ecb9d6eb79f137ba3e794b4fb6b1bc2e867
+SHA512: 14da556670316d27c61be3d3c244d23eedfb35e23890d118c63fca9e2b1cdb3b9ce43a4b3974ab67b8b5519327d7fbb13774f9544a42a23cb3d2d5a6e85d0377
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16/17。
+Name: Kayoko(RootHide)
+Author: Lessica
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.kayoko
+Architecture: iphoneos-arm64e
 Version: 4.0
 Section: 嗨-工具
 Maintainer: Lessica <82flex@gmail.com>
@@ -1599,6 +1617,25 @@ SHA512: ecd818ce34d759bc929f9c08ce78809e6ff960f0b89f396bfaaa71f6ad940e4a864e5729
 Description: 照片增强的轻量插件，刀刀已汉化。
 Name: PhotosPlus(RootHide)
 Author: nowesr1
+
+Package: com.dao.picobanner
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: ./roothide/PicoBanner(RootHide)_1.1.deb
+Size: 127220
+MD5sum: 2a4da327b3ae5486bcf29186ff43fd92
+SHA1: 6a33e4cd340b976af4c660347cada5e0e5d41516
+SHA256: 420d1cbdcd5d77d7777083350d8f12b6033e9ddf4c8f94cfe34b80e9dec1c594
+SHA512: 435dc8f368aff14558df572eb5da747e3474a731c920d97e09f750a1b16f045c1f35fa1f4de113576826b0d5eb4a46509e537e9e7535d54aaf9677811a5c43eb
+Description: 样式丰富多彩的小巧通知横幅。
+Name: PicoBanner(RootHide)
+Author: daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
 
 Package: com.dao.pogr
 Architecture: iphoneos-arm64e
@@ -4490,6 +4527,24 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.jso
 
 Package: com.dao.kayoko
 Architecture: iphoneos-arm64
+Version: 4.0.6
+Section: 嗨-工具
+Maintainer: Lessica
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko, com.82flex.kayoko
+Filename: ./rootless/Kayoko(rootless)_4.0.6.deb
+Size: 320172
+MD5sum: 3780efab57832613e70ba5ec5e53767b
+SHA1: 238f60998617b8dcbbe6307a9854d12d8f47e3dd
+SHA256: 46132081f34c87fc1d6c91fc66f86eed2415554203ffb454eef79e12fb2b8e6f
+SHA512: 2f7066c03681a93381294f72ebd00172bbef59c583aba8deae9692bd700bc44a3e315e372e73a534a09af75869df814063dd27793bb510ee03cdac2aa7d07274
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16/17。
+Name: Kayoko(rootless)
+Author: Lessica
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.kayoko
+Architecture: iphoneos-arm64
 Version: 4.0
 Section: 嗨-工具
 Maintainer: Lessica <82flex@gmail.com>
@@ -5157,6 +5212,25 @@ SHA512: 90a81f85eb570f7fbdd50e16a067fe06954017485c1ad059aba5b51abee19e79ea5a074e
 Description: 照片增强的轻量插件，刀刀已汉化。
 Name: PhotosPlus(rootless)
 Author: nowesr1
+
+Package: com.dao.picobanner
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: ./rootless/PicoBanner(rootless)_1.1.deb
+Size: 128632
+MD5sum: d4229614aad43df59053473b2c14ecd5
+SHA1: 05ef4aaf668b6399f0000a1d27132b4d1a178278
+SHA256: 3778249766198f3bfb921f8beaea1733ca5ff6bc40ac1f5d835a4856ec258262
+SHA512: bb0dd1374d45a046384d9f3d903b42e86e596c61f3cd7d520f008679052d35e9795e1c47d082ebbf19b322b48b489ab9cffce024880150941f0d6aecdf811e3d
+Description: 样式丰富多彩的小巧通知横幅。
+Name: PicoBanner(rootless)
+Author: daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
 
 Package: com.dao.plamyuipro
 Architecture: iphoneos-arm64
@@ -13348,6 +13422,24 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.jso
 
 Package: com.dao.kayoko
 Architecture: iphoneos-arm
+Version: 4.0.6
+Section: 嗨-工具
+Maintainer: Lessica
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko, com.82flex.kayoko
+Filename: ./rootful/Kayoko_4.0.6.deb
+Size: 320660
+MD5sum: 744a2e6847a0f5662266d43a966c6b6a
+SHA1: 0316fd65debe4b1506032cf4637bfa828d9802ec
+SHA256: 6acccacc2bb418d70f401b255c73bf110a9fb2b7da71ea918f2fe2263ef44706
+SHA512: 60f84713131392e4f607814ba726f28b2cea7e41c7ebd5c16f24f400c0b7571c1983b349c3fb35fdcea4a667ba9e2054f8fb15395217daa8404d92e3ee9f6e53
+Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16/17。
+Name: Kayoko
+Author: Lessica
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.kayoko
+Architecture: iphoneos-arm
 Version: 4.0
 Section: 嗨-工具
 Maintainer: Lessica <82flex@gmail.com>
@@ -15670,6 +15762,25 @@ SHA512: 0bc25775dfba9684581e665794d3779924c34177f5e753c98ed1d555f5c3be3d032b0445
 Description: PianoPass 简体中文！PianoPass 介绍: 使用钢琴作为锁屏密码！
 Name: PianoPass 简体中文包
 Author: Ball <ball@hackcn.net>
+
+Package: com.dao.picobanner
+Architecture: iphoneos-arm
+Version: 1.1
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: ./rootful/PicoBanner_1.1.deb
+Size: 127594
+MD5sum: d56ecfc5670c265e17032ca6661b871f
+SHA1: 9d7cd96b08c124e79becc1d2f6c68f7b52bf3098
+SHA256: 226f147287dce82d14339d07678bbbc48c97da7329c0bdc3d434375864231c83
+SHA512: 7498e14247c971bc4e51c9b32a9d931d0358bd4beeda6eaa0ee5b983c2192d1a4e7be6c0f16187bbbdabe1b27c1f8c536dd2fb44acd6dd2514052f9ede61f2ca
+Description: 样式丰富多彩的小巧通知横幅。
+Name: PicoBanner
+Author: daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
 
 Package: com.hk.picturemodule.cn
 Architecture: iphoneos-arm
