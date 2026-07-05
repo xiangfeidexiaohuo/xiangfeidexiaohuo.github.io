@@ -76,21 +76,9 @@
    "hideShadow": false
   },
   {
-   "url": "https://xiangfeidexiaohuo.github.io/images/milkyway.png",
-   "title": "MilkyWay Reborn",
-   "package": "com.dao.milkywayreborn",
-   "hideShadow": false
-  },
-  {
-   "url": "https://xiangfeidexiaohuo.github.io/images/coolcc.png",
-   "title": "CoolCC Reborn",
-   "package": "com.dao.coolcc",
-   "hideShadow": false
-  },
-  {
-   "url": "https://xiangfeidexiaohuo.github.io/images/velvet2.png",
-   "title": "Velvet 2",
-   "package": "com.dao.velvet2",
+   "url": "https://xiangfeidexiaohuo.github.io/images/picobanner.png",
+   "title": "PicoBanner",
+   "package": "com.dao.picobanner",
    "hideShadow": false
   }
  ]
