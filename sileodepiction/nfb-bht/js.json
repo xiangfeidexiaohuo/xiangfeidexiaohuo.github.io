@@ -100,6 +100,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复推特12.x版本安装插件后无法“发帖/回帖”的问题",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.7",
                     "useBoldText": true,
                     "useBottomMargin": false

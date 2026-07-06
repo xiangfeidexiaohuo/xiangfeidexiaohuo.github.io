@@ -1551,6 +1551,24 @@ Name: NFB-BHTwitter 中文版(RootHide)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64e
+Version: 5.8
+Section: 嗨-工具
+Maintainer: NeoFreeBird & 刀刀 & theacrat
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./roothide/NFB-BHTwitter 中文版(RootHide)_5.8.deb
+Size: 7754708
+MD5sum: 4fea5e7e2da2ab203ffb92ef69ff6ddb
+SHA1: 3adccc703e34e9a1b1ed9b963d4d380c8ba3eaff
+SHA256: 7c79e25d52f891bd3fa6fffbd8e223e16b2be504500c119721eae50de4b47fa9
+SHA512: b1d33ce5b8365effe6182fc3b4a5c212b3b2bcab804c0522c118d8bdbc9e2409ad1b96813b3b16b1d4bfc82e23acd049df9649bce20540e46e78b05c51fc5829
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFB-BHTwitter 中文版(RootHide)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
 Package: com.hk.nfcwriterxs.cn.rl
 Architecture: iphoneos-arm64e
 Version: 4.0
@@ -5040,6 +5058,24 @@ MD5sum: 374337c548a52c136ccaf4cad625799c
 SHA1: 21c53ff3f1a53629eec24c5da95cfd0878697ee1
 SHA256: 8c7dbcf74d98870e85b219824e01a170d2c36e5dc8fd93e108bd018b08bcd168
 SHA512: 207eb387d34524f0a377f2ab3c2e0851dac48049cd25d5efe278bddc79858cf0ea5285739203fef8f19b9dd716756a390e2d0dbb1f704a56b648742a71c74872
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFB-BHTwitter 中文版(rootless)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64
+Version: 5.8
+Section: 嗨-工具
+Maintainer: NeoFreeBird & 刀刀 & theacrat
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootless/NFB-BHTwitter 中文版(rootless)_5.8.deb
+Size: 7764168
+MD5sum: 237303b36200e513fa78ad2187de7509
+SHA1: 8bc30778f31479ebb24ea47a593f177283755319
+SHA256: 7f7f0e538a4a979511fe966afd604d85cb0aca025ca951bb861e8d65c21bb68c
+SHA512: 0cd4941206b2d048c5b2485eb44e086fc64fd601b750d8484501f3c5ec7883c385d52028c3927e14707c06edbe7911881b004c5d2859cde3a4c3af4dff97a03f
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Name: NFB-BHTwitter 中文版(rootless)
 Author: NeoFreeBird
@@ -14982,6 +15018,24 @@ MD5sum: 810b8e24de20e57cceec984d08a96ebd
 SHA1: 2d1ebeb3016b8e670495dbef8fde4af0e6974036
 SHA256: b12cec245321a0db6ab4ccf5f4bbebdb853ba02e26f18741cb962f7152b7f2a3
 SHA512: cb011be9747e7b91fba3cd17316fa4b1b0f105bd30a576361712e690f63d3c38675f296fde9066b9746f04fdaf144a5b7aa17cb9e0be0c31d28e85b700cee18b
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFB-BHTwitter 中文版
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm
+Version: 5.8
+Section: 嗨-工具
+Maintainer: NeoFreeBird & 刀刀 & theacrat
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootful/NFB-BHTwitter_5.8.deb
+Size: 7758676
+MD5sum: 523143803d015fb5a72da0cb68246d96
+SHA1: 03a5d50585b5080a00c9c607fbd2675bdb93b4a9
+SHA256: cfefb76da874ff763088b37276289120af8d89fce605fc55d174ae05dd8f3c64
+SHA512: e4247559883641c0c48dca8cd82c7d4557bde9796fc3c4ff4cc535bb927cff2ad61203f12bccceca1f2c1d70de383dede3cf789211a8505973d34086d30b200b
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Name: NFB-BHTwitter 中文版
 Author: NeoFreeBird
