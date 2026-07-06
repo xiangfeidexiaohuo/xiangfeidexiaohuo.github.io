@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "4.0.7",
+                    "text": "4.1.2",
                     "title": "最新版本"
                 },
                 {
@@ -101,6 +101,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "4.1.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1. 新增航班搜索支持，并优化核心逻辑与维护机制</br> 2. 全面优化搜索界面布局、动画效果及剪贴板历史交互，使用体验更加流畅</br> 3. 新增多项本地化内容，修复 iOS 14 兼容性及多个界面布局问题</br> 4. 提升整体稳定性，并修复已知问题</br> ",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "4.0.7",
