@@ -1088,6 +1088,23 @@ Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Name: Infuse Plus(RootHide)
 Author: dvntm
 
+Package: com.dao.infuseplus
+Architecture: iphoneos-arm64e
+Version: 2.6
+Section: 嗨-工具
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: ./roothide/Infuse Plus(RootHide)_2.6.deb
+Size: 497128
+MD5sum: 324568ab56e8fc976e3c3c784fa93608
+SHA1: 3372b893f7f4258affa8b9f339534bcd96ea2411
+SHA256: 551b9c75958914f5fbc0e885acd3ca57a0217cec1bab24951dcb790f6057fd8e
+SHA512: b582b2362e3cabaf8d71289483eb975445f8e335710683213379f876b1ebbed9623b31ca9137df7478c2c8730fa0fd3ef2d0d90c3ec353c0ffb949d1024589e5
+Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
+Name: Infuse Plus(RootHide)
+Author: dvntm
+
 Package: com.dao.injectipa
 Architecture: iphoneos-arm64e
 Version: 1.5-7
@@ -4202,6 +4219,23 @@ MD5sum: b8e32c78fcd06c5e74f8c516e50d82c5
 SHA1: da05e1d9bfb21d8842e595dd414bf6904892c06e
 SHA256: 88ce7f2e3141ab44d449babc449f46ccae3570ec7bf0684a954b50ee61735ed6
 SHA512: 668083713ed23179c59759e53a30b9b66c28946bf05940f783669467105cd95fc417f184caf915595d1004351652ea5fc9f1c6beab4944cc3119089e428c7c18
+Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
+Name: Infuse Plus(rootless)
+Author: dvntm
+
+Package: com.dao.infuseplus
+Architecture: iphoneos-arm64
+Version: 2.6
+Section: 嗨-工具
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: ./rootless/Infuse Plus(rootless)_2.6.deb
+Size: 497832
+MD5sum: a6fb1a68e2a8e47399dcb2a43efc86dd
+SHA1: addad185ed760b91981e1a084eaa9e41d0ab30dd
+SHA256: 37f7a3f0a68288fc304a95cf7ad7fdcfbba45d0303a1f856c7879dfd89de8b26
+SHA512: c6d46a15e562d36f267b7219fa6480aab7c7721a7c4b35845a1847a2b1b4f06db6223b467b2be851512ea2b7804cfde3ca43cb23c2171e4e2e8e40508cc4329f
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Name: Infuse Plus(rootless)
 Author: dvntm
@@ -12932,6 +12966,23 @@ MD5sum: 5c5bb63a3fb9b66e7f2d6779952ae6ec
 SHA1: 912ea771f2f5d5e7705b764854c9125fdf0e21d3
 SHA256: 3e55dba5f3e79f8c04da43d2774f5deffb43701a5a14aca26a0c7cfc5c32dc61
 SHA512: 935c73475141db43ec20ae96b5977dbcf6e61106c97a341649baf2a570d5ffcb86fce0f3e8cc35aceae017b43f9a9857e20e760f9f7b4942cdf0ae3a92797f06
+Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
+Name: Infuse Plus
+Author: dvntm
+
+Package: com.dao.infuseplus
+Architecture: iphoneos-arm
+Version: 2.6
+Section: 嗨-工具
+Maintainer: dvntm
+Depends: mobilesubstrate
+Conflicts: com.dvntm.infuseplus
+Filename: ./rootful/InfusePlus_2.6.deb
+Size: 497980
+MD5sum: 7fe5b7765f4772c37167de2b345dfabc
+SHA1: 7ea7726038e2b5b6bc1654e55c293017a4f2084b
+SHA256: 4fc0a6e0917a757e97eb518d36a686798644f068c75388036edd952765bb2f5b
+SHA512: b51891c8bf116589ea3144f582e14794c00b774cbf76dbdb4d1932cb82965f7866b6fcf30fb793c8b48dfa3df691f35a2f60f9220e8990ec2a0a246c895a90d8
 Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Name: Infuse Plus
 Author: dvntm
