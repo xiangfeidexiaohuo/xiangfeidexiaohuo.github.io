@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "窗口化多任务，即分屏；无设置，后台界面，按住APP卡片2秒，或者长按APP图标选择「窗口分屏」，即可将此APP窗口化分屏；</br> </br> APP分屏后，左侧红按钮（关闭窗口）、黄按钮（最小化）、绿按钮（最大化）；按住右侧按钮即可缩放窗口；按住窗口顶部可随意拖动窗口。</br> </br> 由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26。",
+                    "markdown": "窗口化多任务，即分屏；无设置，后台界面，按住APP卡片2秒，或者长按APP图标选择「窗口分屏」，即可将此APP窗口化分屏；</br> </br> APP分屏后，左侧红按钮（关闭窗口）、黄按钮（最小化）、绿按钮（最大化）；按住右侧按钮即可缩放窗口；按住窗口顶部可随意拖动窗口。</br> </br> 刀刀基于34306版本(适配iOS17–18及iOS26)优化重构，重新设计交互体验，让使用更加便捷、人性化。",
                     "useRawFormat": true,
                 },
                 {
@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2",
+                    "text": "1.3",
                     "title": "最新版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 05 月 10 日",
+                    "text": "2026 年 07 月 11 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -101,6 +101,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "横屏支持 & 优化</br> 1、旋转后自动重布局</br> 2、改进长按缩放手柄旋转</br> 3、横屏 App 内容视图尺寸修正",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.2",
