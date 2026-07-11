@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。",
+                    "markdown": "强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。</br> </br> aReo开发者源：</br> https://flex2areo.github.io</br> 企鹅反馈群：4912057",
                     "useRawFormat": true,
                 },
                 {
