@@ -223,6 +223,24 @@ Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: com.dao.apptools15
+Architecture: iphoneos-arm64e
+Version: 2.7.5
+Section: 嗨-付费
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Filename: ./roothide/AppTools15-17(RootHide)_2.7.5.deb
+Size: 1205048
+MD5sum: ee0dcb62627f0061b9d25d027ca401bc
+SHA1: e4cc110ee0b96fc0373fcb2dad6feb870182e1c6
+SHA256: 88650668d00bfc7355fc8e140e3248d8242cd77ba245ce2b1dcfcd9f9c5fac50
+SHA512: b1e011ca72a369d19443a304086d25e43ae1e54e904cf11cdadb9c8a5c69996402bf13adc4d177e75f0ea64ac177308071031d1b7b41bd5fc3e0b3192460e5c9
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Name: AppTools15-17(RootHide)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
 Package: com.dao.april
 Architecture: iphoneos-arm64e
 Version: 3.1
@@ -2798,6 +2816,24 @@ MD5sum: 416f66939abc8bbcd30f25c211c96cad
 SHA1: 8cc6de614d2fed21fcf8a636467f5e9834948ceb
 SHA256: 18a4a6b69e6edb6bc13c03d16a978351721f2b292f009add01c75f69191f4434
 SHA512: 5f6fde5e46d6415a8f6b96c8a518b5a0a731d9c4d7951ccdf9f23c8a58d0d3cf32f7821a00caa7e0dea6a9db56c528ccab1390a2b58d85dcede6669d1d12190c
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Name: AppTools15-17(rootless)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
+Package: com.dao.apptools15
+Architecture: iphoneos-arm64
+Version: 2.7.5
+Section: 嗨-付费
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Filename: ./rootless/AppTools15-17(rootless)_2.7.5.deb
+Size: 1247452
+MD5sum: 3422aca13a7c34b4540ffc0f0ff91ce5
+SHA1: d3aa842793f2f07d8a337ff189da9b8a16edac33
+SHA256: d5d74e4e0b4f1b63d1cf74b413f9a1e9da071811c0a6592f3d9e28e52d53443a
+SHA512: 633ad32129e5c03d77e9207558dd0161cd741487fe068d55c4e08036e8bff7c6917ec6c4a234f4e503ab57d9c02f75e2b8a5e3ceef9b21f760683e95d4bca60d
 Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Name: AppTools15-17(rootless)
 Author: aReo
