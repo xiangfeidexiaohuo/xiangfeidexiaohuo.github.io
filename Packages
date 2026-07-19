@@ -1420,6 +1420,24 @@ Name: NFB-BHTwitter 中文版(RootHide)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64e
+Version: 6.0
+Section: 嗨-工具
+Maintainer: NeoFreeBird & 刀刀 & theacrat
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./roothide/NFB-X 中文版(RootHide)_6.0.deb
+Size: 7818872
+MD5sum: 60488d0b3213be8af7122705e4fb9b5f
+SHA1: aa4125608c98b2c9b977a08b51238afaa6af2bd0
+SHA256: 7811fa714686173b4d0d60440e3959df616a7fc4f26635430c2ec71a032c2903
+SHA512: ab5308566653f7a826ea9704315be09c90905515aa8b8ef9d37ef1d04e32a5bdfe4079476c6eed1a6d4446c131821ae08c1369733690ce76a0339a97b71bed75
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFB-X 中文版(RootHide)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
 Package: com.hk.nfcwriterxs.cn.rl
 Architecture: iphoneos-arm64e
 Version: 4.0
@@ -4798,6 +4816,24 @@ SHA256: 7f7f0e538a4a979511fe966afd604d85cb0aca025ca951bb861e8d65c21bb68c
 SHA512: 0cd4941206b2d048c5b2485eb44e086fc64fd601b750d8484501f3c5ec7883c385d52028c3927e14707c06edbe7911881b004c5d2859cde3a4c3af4dff97a03f
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Name: NFB-BHTwitter 中文版(rootless)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64
+Version: 6.0
+Section: 嗨-工具
+Maintainer: NeoFreeBird & 刀刀 & theacrat
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootless/NFB-X 中文版(rootless)_6.0.deb
+Size: 7829232
+MD5sum: 1c130df74daba698c4f6f23373bab31c
+SHA1: 7ccc7db74c0d493bd3fdb7245ac99a75cdf7cb47
+SHA256: 49330d37d3d43e17e72b5848f1f4ab40b24b58589b8c8ec4c1f55f0230c7b3ea
+SHA512: 74d92ba979f5a1065b87a52a6dae2602da542ae568588f67f8e7f787ca11526377c0c05ff72cb7528ada74924b38a7c70e06ff812c53872a009d9349b6cc9e4c
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFB-X 中文版(rootless)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
@@ -14665,6 +14701,24 @@ SHA256: cfefb76da874ff763088b37276289120af8d89fce605fc55d174ae05dd8f3c64
 SHA512: e4247559883641c0c48dca8cd82c7d4557bde9796fc3c4ff4cc535bb927cff2ad61203f12bccceca1f2c1d70de383dede3cf789211a8505973d34086d30b200b
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Name: NFB-BHTwitter 中文版
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm
+Version: 6.0
+Section: 嗨-工具
+Maintainer: NeoFreeBird & 刀刀 & theacrat
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootful/NFB-X_6.0.deb
+Size: 7818692
+MD5sum: 70787d44d04ebdb8fd8670cbb4b0be47
+SHA1: aa7c2d0283ef69fe7b623ddec8b6ccd129dfc25f
+SHA256: cf26c0ab7401051939fabbe4b824b3e9a1a2a677127e6818aa335a20b562d8d0
+SHA512: 65e49ece3f09823f1c6bbb8f7f37ef842911792fa40e5c513d5f53add2bd109cf58935590aa74e1040621a6c3b8f248b26e0b172762803cfe1565aba84b4ce43
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFB-X 中文版
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 

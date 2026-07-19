@@ -38,6 +38,10 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/Screenshot_02.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/Screenshot_03.png"
                         }
 
                     ]
@@ -75,17 +79,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.3-1",
+                    "text": "6.0",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "14.0 - 16.6.1",
+                    "text": "14.0 - 17.0",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 07 月 04 日",
+                    "text": "2026 年 07 月 19 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -98,6 +102,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "6.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "插件名改为 NFB-X</br> 修复个人资料页复制按钮（全新设计，头像右侧）</br> 同步翻译各语言</br> 同步theacrat大佬相关功能：隐藏 Grok 侧边、隐藏 Grok 创建</br> 其他优化和修复",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.8",
