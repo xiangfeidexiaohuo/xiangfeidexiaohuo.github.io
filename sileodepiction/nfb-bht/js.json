@@ -74,12 +74,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "刀刀 & theacrat",
+                    "text": "刀刀",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "6.0",
+                    "text": "6.0.1",
                     "title": "最新版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 07 月 19 日",
+                    "text": "2026 年 07 月 21 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -102,6 +102,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "6.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新增：隐藏侧边的创作者工作室</br> 修复「确认关注」失效</br> 翻译启用「密码锁定」后的 Locked 提示</br> 优化个人资料复制按钮跟随头像消失</br> 「推文回复」中几个功能项移到「常规功能」</br> 其他微调",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "6.0",
