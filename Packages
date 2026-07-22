@@ -2280,6 +2280,24 @@ Name: Velvet 2 中文版(RootHide)
 Author: NoisyFlake
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
 
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64e
+Version: 0.6.6
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 2704
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.itzzace.ytkace
+Filename: ./roothide/YTKACE(RootHide)_0.6.6.deb
+Size: 722126
+MD5sum: 58e2e47d4f4ec1a04d683b3f242519ab
+SHA1: 2e4a0b1f5e2e406f9902e01dfafb9f4bb8c22c3c
+SHA256: e822e901671879cad15d16669db5b1b9b2a41d752e0ae3f85a7ead71bf4f7d6d
+SHA512: e53dcfa3c2b3cfefb571764e6d6d79fd993ac5f041c26957da5e39d8a0b2cf9fd33dffd33beb8a6b8e0a843e9c3c5f4c87cfc7ac8878462b07602adacb034dca
+Description: YouTube 多功能插件，根据开源编译，刀刀增加中英文翻译，优化部分功能。
+Name: YTKACE(RootHide)
+Author: itzzace & daodao
+
 Package: com.dao.ytlite
 Architecture: iphoneos-arm64e
 Version: 5.2.1
@@ -6371,6 +6389,24 @@ SHA512: 1472c1e2f127b6262883aade2a6536bb211a2253f3ade3ea5d80556358029a2901a6a3c7
 Description: WiFiQR和HotspotQR 共用简体中文包(rootless)。
 Name:  WiFiQR & HotspotQR 简体中文包(rootless)
 Author: Alucard
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64
+Version: 0.6.6
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 2704
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.itzzace.ytkace
+Filename: ./rootless/YTKACE(rootless)_0.6.6.deb
+Size: 721868
+MD5sum: c0b3a8eb8f9a3daefd80e7f54dd87221
+SHA1: 7e517cff2b47fc52d97d77be511cb15188aaf7dd
+SHA256: 95b3291d9e2b2e3ce2b97b2ba379b9c8f4d417d27a2c69605974d7f8b307cf0d
+SHA512: 33b619171b503f15a689c1c87ff9cac18b1bf5b8ee6f613e15c0175eb87ab76af48ac57263ba1c1016d41a6c42cfba6d72f0ef8dfa5eb89d50185a70d93e9bf9
+Description: YouTube 多功能插件，根据开源编译，刀刀增加中英文翻译，优化部分功能。
+Name: YTKACE(rootless)
+Author: itzzace & daodao
 
 Package: com.dao.ytlite
 Architecture: iphoneos-arm64
