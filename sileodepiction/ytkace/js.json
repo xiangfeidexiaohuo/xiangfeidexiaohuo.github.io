@@ -109,7 +109,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步源码 0.6.7</br> 翻译新增</br> 新增德语、阿拉伯语、日韩语言支持",
+                    "markdown": "同步源码 0.6.7</br> 翻译新增</br> 新增繁体中文、德语、阿拉伯语、日韩语言支持",
                     "useRawFormat": true
                 },
                 {
