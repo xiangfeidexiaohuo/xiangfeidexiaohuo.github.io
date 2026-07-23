@@ -70,6 +70,12 @@
    "hideShadow": false
   },
   {
+   "url": "https://xiangfeidexiaohuo.github.io/images/ytr.png",
+   "title": "YTKACE",
+   "package": "com.dao.ytkace",
+   "hideShadow": false
+  },
+  {
    "url": "https://xiangfeidexiaohuo.github.io/images/line.png",
    "title": "PurifyLine",
    "package": "com.dao.noline",

@@ -2298,6 +2298,25 @@ Description: YouTube 多功能插件，根据开源编译，刀刀增加中英�
 Name: YTKACE(RootHide)
 Author: itzzace & daodao
 
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64e
+Version: 0.6.7
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 3040
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./roothide/YTKACE(RootHide)_0.6.7.deb
+Size: 773464
+MD5sum: be2652926dd7ab8bc6117ae082a9dd7b
+SHA1: 0da10d145c18e47c98264b34e4e9899ab71bf867
+SHA256: 6561e4a1dec01212f5dbfe0d38bf5c58d701db7f49da3218352b5bbc00a524c2
+SHA512: 64eb7a3d0b2789c5195d4289b49f8c6818bdc9cb541b8f07eff2a0d7d76512be7681ada19639b7e680b2e74044f60c19f3e3517f87775dd54cf853c21c9f2bbe
+Description: YouTube 多功能插件，根据开源编译，刀刀增加中英文翻译，优化部分功能。
+Name: YTKACE(RootHide)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
 Package: com.dao.ytlite
 Architecture: iphoneos-arm64e
 Version: 5.2.1
@@ -6407,6 +6426,25 @@ SHA512: 33b619171b503f15a689c1c87ff9cac18b1bf5b8ee6f613e15c0175eb87ab76af48ac572
 Description: YouTube 多功能插件，根据开源编译，刀刀增加中英文翻译，优化部分功能。
 Name: YTKACE(rootless)
 Author: itzzace & daodao
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64
+Version: 0.6.7
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 3040
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./rootless/YTKACE(rootless)_0.6.7.deb
+Size: 773642
+MD5sum: b73105e687d2c13d82bd30113cafbf78
+SHA1: 5b30eba2ff02c8d7854108793be15f61a7968c06
+SHA256: f5e11c7c9e6273a46f0b484246904081ad6f98b07469c0b8615ddbfd12a5cd66
+SHA512: 3e380c8623269dfd05c18ae910acb4ba4a20f0f8f44e4ee77d117f46f21fd659eddf01eba75af213f43f54601c1b2a65e34f77f282357cc29f165f406e922245
+Description: YouTube 多功能插件，根据开源编译，刀刀增加中英文翻译，优化部分功能。
+Name: YTKACE(rootless)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytlite
 Architecture: iphoneos-arm64
