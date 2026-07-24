@@ -110,7 +110,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "优化：去空间栏</br> 新增：自主刷时间线</br> 新增：下拉刷新音效</br> 「推文回复」中几个功能项移到「常规功能」</br> 其他优化和修复",
+                    "markdown": "优化：去空间栏</br> 新增：自主刷时间线</br> 新增：下拉刷新音效</br> 其他优化和修复",
                     "useRawFormat": true
                 },
                {
