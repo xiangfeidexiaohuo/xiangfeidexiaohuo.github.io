@@ -1384,6 +1384,24 @@ Name: NFB-X 中文版(RootHide)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64e
+Version: 6.2
+Section: 嗨-工具
+Maintainer: 刀刀
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./roothide/NFB-X 中文版(RootHide)_6.2.deb
+Size: 7878580
+MD5sum: 8a7750d9c97e2719315901c2e8305c27
+SHA1: 00eba5dbef3427d98f4ae0f50c228cbaab11c100
+SHA256: 6abf2a2101fbf1b3ee39aa3399fdb77df13541fd2416415b42484d3bbad564aa
+SHA512: 601d0bcfe01391c8b7f0eb427405bd997a8bc151bef80cf757f92345803626bf7401ddc949b87e1de86fad53d67b7dc92946e3f3088a2e97871d257f6793483f
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFB-X 中文版(RootHide)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
 Package: com.hk.nfcwriterxs.cn.rl
 Architecture: iphoneos-arm64e
 Version: 4.0
@@ -4780,6 +4798,24 @@ MD5sum: 1dc2ac7aabe9ad2ddda6d54794fe9efe
 SHA1: e069b8eaac5b43abfa5061497e18a9c466228dc0
 SHA256: cc380cf94334d7b52380575f4704e0f219ae981a46885c216a83de9c49532508
 SHA512: 9eb164a4619afad1fd64512050a5ce339604265bcd449829af093df06a2a79311564c351dd0f0da2197dda5685ba68c5a120d214633c6efb58a36b5f9460c425
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFB-X 中文版(rootless)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64
+Version: 6.2
+Section: 嗨-工具
+Maintainer: 刀刀
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootless/NFB-X 中文版(rootless)_6.2.deb
+Size: 7870924
+MD5sum: 3749c2537820da30ab25848e877ffbb6
+SHA1: 0897d09cd48975dd1dc7f555aacc2fdf1c60ff97
+SHA256: 6b7c0250d536a242692c0091dc8e30c741b36afddfb083cc3ad9868951e86f9a
+SHA512: e2148e05dccd00b88ceaaa810b10a83a453f7d80b0834cb67624ab524da960cadd954b4d3a9c6e5ef3240ad513ab48a15d39db0e93c5a9b4494bd005927c63a4
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Name: NFB-X 中文版(rootless)
 Author: NeoFreeBird
@@ -14703,6 +14739,24 @@ MD5sum: bd28288d166513dd4a2c8e8c04d066ca
 SHA1: c1f770a57206bdfe230e84d7e82010e1fb717f62
 SHA256: 2452abd0b6a90e7443b2c5b42edff974d0ed643fab8878824486859c0503e4ed
 SHA512: b46a5f73249d299d2c9057c3903cfbff740c9aaf490aa6670e6c0510a3dff239feb5e09786788a1c5d9caa2c3fa937d716d835114d297617ea83addec65c6029
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFB-X 中文版
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm
+Version: 6.2
+Section: 嗨-工具
+Maintainer: 刀刀
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootful/NFB-X_6.2.deb
+Size: 7878860
+MD5sum: becc6912efd02fcde7aefa51f23a6695
+SHA1: 08a154238f4f3bc172c884a0aad07c63a11a0b3e
+SHA256: 65750165444d77904062c69136f079791aff7291ff8030ae7a7cd43872deb4ac
+SHA512: 1dd1c44e781db11c3d58e79b680b8b83063c830e17a98959a3f41a991c95eb7634117f8ac6148eb893c584e449b069c5b21f86d793487552aea9a471a7241581
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
 Name: NFB-X 中文版
 Author: NeoFreeBird
