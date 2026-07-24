@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "6.2",
+                    "text": "6.2.1",
                     "title": "最新版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 07 月 24 日",
+                    "text": "2026 年 07 月 25 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -102,6 +102,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "6.2.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化主页自动刷新按钮：</br> 缩小体积，改为红五星；</br> 运行时闪烁并显示绿色进度环",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "6.2",
