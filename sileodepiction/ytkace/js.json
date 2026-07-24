@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.6.7",
+                    "text": "0.6.8",
                     "title": "最新版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 07 月 23 日",
+                    "text": "2026 年 07 月 24 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -103,13 +103,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "0.6.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步源码 0.6.8</br> 翻译新增字符</br> </br> 下载尽量选1080p，2K、4K可能音视频合并失败</br> 目前支持简体中文、繁体中文、英语、德语、阿拉伯语、日语、韩语",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "0.6.7",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步源码 0.6.7</br> 翻译新增</br> 新增繁体中文、德语、阿拉伯语、日韩语言支持",
+                    "markdown": "同步源码 0.6.7</br> 翻译新增字符</br> 新增繁体中文、德语、阿拉伯语、日韩语言支持",
                     "useRawFormat": true
                 },
                 {
