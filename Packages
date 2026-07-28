@@ -2372,6 +2372,25 @@ Name: YTKACE(RootHide)
 Author: itzzace & daodao
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64e
+Version: 0.7.3
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 3840
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./roothide/YTKACE(RootHide)_0.7.3.deb
+Size: 909746
+MD5sum: 5bad4efe3deaafe6fdaaef726cedb8de
+SHA1: 6983ae5416cb4a6acfc7e29fa6f7e38b0b1ea3d9
+SHA256: 8cd8648441e77dc4fc0613586f004d4656fbcd02300b46db3afcbd11adb13bb2
+SHA512: 345f2900091f9c5bb41c7cf155ea640b212f0994bcbd96810265d526618c798ee1813eb800c8eca71b083fe6330e2346c96e3720010558ea9f6f540a729e27b4
+Description: YouTube 多功能插件，根据开源编译，增添翻译，改造成正常插件，优化部分功能。
+Name: YTKACE(RootHide)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
 Package: com.dao.ytlite
 Architecture: iphoneos-arm64e
 Version: 5.2.1
@@ -6552,6 +6571,25 @@ SHA1: 2bf3ea8ef0d914518405b6023002b3a17c24eb28
 SHA256: 4ce60be4f86aafc211f4a1861b7549f8cd96cd6c4573c54a9145cc720faeebe2
 SHA512: 385134f48f1536bc62775efce5c76045cd2f26bad61cf06e32738fb7d033266214b2320dbc4b17d40b8445cb00462024adcf9cbb08627ab5882789854b83535e
 Description: YouTube 多功能插件，根据开源编译，刀刀增加中英文翻译，优化部分功能。
+Name: YTKACE(rootless)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64
+Version: 0.7.3
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 3840
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./rootless/YTKACE(rootless)_0.7.3.deb
+Size: 909772
+MD5sum: e2ed02457b1098ee482188785e48f26f
+SHA1: 0fa495009d199849ee5254677d6a92e5b4e8dda1
+SHA256: c821eb0be9c2be1782358720651ed71d26c5b9cdddb90728390052e00f66357d
+SHA512: fa7bf487db0ac71b4a976d9a6c707e844de287a700960383589b4c8da0f01673b1ad6fe1b53e3248f940c7778ba8275cf853198d100455125ab0330bb31c69cd
+Description: YouTube 多功能插件，根据开源编译，增添翻译，改造成正常插件，优化部分功能。
 Name: YTKACE(rootless)
 Author: itzzace & daodao
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
@@ -19870,6 +19908,25 @@ SHA512: bd945f4260ea62ce48b47bc42f2304e2a1329a2d5e250bd296b0c94d2447aeb26849cbb9
 Description: Xina1专版NewTerm3，Xina1用户千万不要更新Procursus源提示的三十几个依赖更新，千万别更新！！！
 Name: NewTerm 3(Xina1)
 Author: HASHBANG Productions
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm
+Version: 0.7.3
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 3840
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./rootful/YTKACE_0.7.3.deb
+Size: 909526
+MD5sum: 81014b0ce302a5e9511559f6a812681b
+SHA1: c6c1e27060021ce3194a76cd824487258f8005d8
+SHA256: 4b22a3dd80880c760d58d89f312d4fc3a54b5c7d430dfaacb29c414e05301508
+SHA512: bd11a674ba99e89f5cc02849ca25644884f6a09fa5b995ca3560ac3310b1ef1f2bad08cc19ffc62b00209199265498b768a88b8bc017c76f9ac4492be813a781
+Description: YouTube 多功能插件，根据开源编译，增添翻译，改造成正常插件，优化部分功能。
+Name: YTKACE
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytlite
 Architecture: iphoneos-arm
