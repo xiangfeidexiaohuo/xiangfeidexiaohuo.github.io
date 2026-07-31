@@ -1,3 +1,20 @@
+Package: com.dao.trollstorelite
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: 嗨-系统
+Maintainer: Fluoxetine
+Depends: ldid, ellekit
+Conflicts: com.opa334.trollstorelite
+Filename: ./roothide/ 巨魔R(RootHide)_1.0.3.deb
+Size: 590252
+MD5sum: ff043660a8b648e9ff6935e42d18c6c7
+SHA1: 7c21dd7806a6f3fa8d9982e20e40fda36603415b
+SHA256: b97b2c151829aa6ec25387e7e2d3e5538087ee97ab1ea3857e75ac91ed243a6c
+SHA512: fc11883653c9678270c6a7bdea5dcc709012967b5056a5d798a9a894aa23e9aad0adbf628556706ed911a7c40f2a887ff679af9819a964ebd23ca46146b3201b
+Description: 巨魔R(白巨魔增强版) 由 Fluoxetine 为 Relaxin 越狱特别制作；越狱状态下支持免签安装 IPA、Tipa 应用，支持注入任意 dylib 和deb 插件。反馈及建议：1103945342@qq.com。
+Name: 巨魔R(RootHide)
+Author: Fluoxetine
+
 Package: com.dao.3dbadgeclear
 Architecture: iphoneos-arm64e
 Version: 1.6.9
