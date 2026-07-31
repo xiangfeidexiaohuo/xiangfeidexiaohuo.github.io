@@ -40,6 +40,12 @@
    "hideShadow": false
   },
   {
+   "url": "https://xiangfeidexiaohuo.github.io/images/milkyway.png",
+   "title": "MilkyWayReborn",
+   "package": "com.dao.milkywayreborn",
+   "hideShadow": false
+  },
+  {
    "url": "https://xiangfeidexiaohuo.github.io/images/ccless.png",
    "title": "CCLess++",
    "package": "com.dao.ccless",

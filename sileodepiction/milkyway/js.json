@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "窗口化多任务，即分屏；无设置，后台界面，按住APP卡片2秒，或者长按APP图标选择「窗口分屏」，即可将此APP窗口化分屏；</br> </br> APP分屏后，左侧红按钮（关闭窗口）、黄按钮（最小化）、绿按钮（最大化）；按住右侧按钮即可缩放窗口；按住窗口顶部可随意拖动窗口。</br> </br> 刀刀基于34306版本(适配iOS17–18及iOS26)优化重构，重新设计交互体验，让使用更加便捷、人性化。",
+                    "markdown": "窗口化分屏，长按APP图标菜单—>窗口分屏；或者后台界面，按住程序卡片1.5秒，即可将此程序分屏；</br> </br> 点击红按钮—>关闭窗口(长按彻底杀死)、黄按钮—>最小化(长按胶囊彻底杀死)、绿按钮—>最大化；按住右侧按钮即可缩放窗口；按住窗口顶栏可随意拖动窗口。</br> </br> 刀刀基于34306版本(适配iOS17–18及iOS26)优化重构，重新设计交互体验，让使用更加便捷、人性化。",
                     "useRawFormat": true,
                 },
                 {
@@ -78,17 +78,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.3",
+                    "text": "1.4",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "16.0 - 26.5",
+                    "text": "16.0 - 17.3.1",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 07 月 11 日",
+                    "text": "2026 年 07 月 31 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -101,6 +101,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "后台长按 1.5 秒触发窗口分屏（长按时间变长了，不容易误触）</br> 顶栏现代化玻璃质感",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.3",

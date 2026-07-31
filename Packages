@@ -153,6 +153,24 @@ Description: 伪装成合适的iOS版本，并获取需高iOS版本的应用。
 Name: AppStoreTroller(RootHide)
 Author: Mineek
 
+Package: com.dao.appsyncunified
+Architecture: iphoneos-arm64e
+Version: 116.0
+Section: 嗨-系统
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 508
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Conflicts: ai.akemi.appsyncunified
+Filename: ./roothide/AppSyncUnified(RootHide)_116.0.deb
+Size: 30542
+MD5sum: 9a43d27be11b42735759a1665e516545
+SHA1: 8d93cc37b3df7dfc299275a0a93ee1c292f5b466
+SHA256: f0148bba5280576b49e5b79ec2d6cc2cc8cb679564ef92136b737ca00a5d4a2d
+SHA512: d7697ca8b3c3cef40f71695a4839d809a89317441687d1d1bd4708c6845b5bc95b8bc83999a1d0f3491f043bcd031fb8bf844d8aed514ce909d4f137e72410c3
+Description: AppSync Unified 是一款插件，允许用户在其 iOS 设备上自由安装临时签名、伪签名、未签名或过期的 IPA 应用包。
+Name: AppSyncUnified(RootHide)
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
 Package: com.dao.apptools.lite
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -218,6 +236,24 @@ MD5sum: abd041799dce457e310842cd54ad941f
 SHA1: e2e19ff8ba79bc056a6446fb9097c894711cfa4c
 SHA256: 0a85397af6d0ee272e7f2d94bfe5ed6446f2eed106843b44e231037578d9dc87
 SHA512: 16430cbcbf5167316342cb203f82e422b0c0627f21a1ab55b40a99fc9a01aa15a0f54b94a90f0cff586bebb06dc398ab66a232be9d4b0d8a692b0f2fed674201
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Name: AppTools15-17(RootHide)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
+Package: com.dao.apptools15
+Architecture: iphoneos-arm64e
+Version: 2.7.7
+Section: 嗨-付费
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Filename: ./roothide/AppTools15-17(RootHide)_2.7.7.deb
+Size: 1214192
+MD5sum: 95f9976a466d23ed90c93d30bb25011e
+SHA1: 429484997212609b7920ba4ba112b56e641d2edb
+SHA256: df6cfbb4ceda7de28d002339a544c18a6ff002c81cc037c0fb2f4cae525e53d5
+SHA512: 4e884cb9e3d985e7f27e6463e53a91fff07311dbf39afb0553fd98b88bd545ff2d9bf49b3d796c5e55c6a4cc17f0deea70db0a2d78fa929d491a9e98b12a52b5
 Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Name: AppTools15-17(RootHide)
 Author: aReo
@@ -1311,6 +1347,25 @@ SHA1: 3187991f7664f1af244f305c019b497f41f0c512
 SHA256: 8fd6a1d1ee619ecb97c48adb3a1e01b5600cdd1f85f5f0e9773bc6b7d4acd959
 SHA512: a98bc239e3ef47e0fb8257084361db8d80ac7eec2aa4df5ba2f3d085022ad1ae61f28b038700b966a5a2b383c7d546582b27f570e901aa815e6ef415aa144179
 Description: 窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，即可将此程序窗口化/分屏；由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26。
+Name: MilkyWayReborn(RootHide)
+Author: MilkyWay Reborn
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/js.json
+
+Package: com.dao.milkywayreborn
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: 嗨-系统
+Maintainer: MilkyWay Reborn
+Installed-Size: 308
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.milkyway.reborn
+Filename: ./roothide/MilkyWayReborn(RootHide)_1.4.deb
+Size: 49220
+MD5sum: 3150bd7695a04d8b89a457ae2233031d
+SHA1: b743949e88ce39d8c630c0876124348d8a0fef77
+SHA256: 5f6bce55853466ff8f1cafe044746ed2c51168d17f4d4213fc8ded8ed4e9fc35
+SHA512: d57dc5e5331c9569bb556fd36228959b77b6688559e48bfc53ad93b5327dfd217d0db908829c1db1600b4b3eb590355ac764d03c010a15765388cac2678175a6
+Description: 窗口化分屏，长按APP图标菜单—>窗口分屏；或者后台界面，按住程序卡片1.5秒，即可将此程序分屏；点击红按钮—>关闭窗口(长按彻底杀死)、黄按钮—>最小化(长按胶囊彻底杀死)、绿按钮—>最大化。
 Name: MilkyWayReborn(RootHide)
 Author: MilkyWay Reborn
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/js.json
@@ -2917,20 +2972,19 @@ Package: com.dao.appsyncunified
 Architecture: iphoneos-arm64
 Version: 116.0
 Section: 嗨-系统
-Maintainer: Karen, Linus Yang
-Provides: ai.akemi.appsyncunified (= 112.0)
-Depends: mobilesubstrate, firmware (<= 16.5.1)
-Conflicts: ai.akemi.appsyncunified, xyz.cypwn.appsyncunified, byg.iosios.net.appsyncunified
-Replaces: ai.akemi.appsyncunified
-Filename: ./rootless/AppSync Unified(rootless)_116.0.deb
-Size: 34052
-MD5sum: c62d03f53e68c8eccb80c2d27f91ea2b
-SHA1: fe6247d49bea2ff0d76be7e04c388391bf4f917e
-SHA256: d6da4a7b7ac4e4a0f5d2aa0a6ae6baaa53f629d17fa8aaeb6c44735bd5f9d287
-SHA512: 9e8ed81336128c9dcd5ca30027336b2125afb3ca2101f8c715dd82bfd0d366a368384148f76d64742b04085687e7c5565114edfc4c3a41a2b23db0e0fe8b6f33
-Description: 允许在越狱版 Filza 中安装未签名的 iOS 应用程序；目前明美源gg中，上架备份。
-Name: AppSync Unified(rootless)
-Author: Karen, Linus Yang
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 508
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Conflicts: ai.akemi.appsyncunified
+Filename: ./rootless/AppSyncUnified(rootless)_116.0.deb
+Size: 35548
+MD5sum: 0b9de8a1dd505b7700ca031fcc906993
+SHA1: 7ee47f39e2b9a97fd2d340074975866672fc7ffb
+SHA256: 1c4dd3b563f8e6f33594ef6bb124e527a3dfa1e6b873dcd3f1e5ddea1ca166be
+SHA512: b12e5703c3f1687317d083dc8e5574ec81d01a27e87d595d4c795b093bc700a9677bc825c991797ea1d76f62904368c43d68d11c3208086273400db6f22a9ef3
+Description: AppSync Unified 是一款插件，允许用户在其 iOS 设备上自由安装临时签名、伪签名、未签名或过期的 IPA 应用包。
+Name: AppSyncUnified(rootless)
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 
 Package: com.dao.apptools.lite
 Architecture: iphoneos-arm64
@@ -2997,6 +3051,24 @@ MD5sum: fa1729ac1667f7c408ad8224541af138
 SHA1: 1c96f133b9285e44b5cfdcd799972a6a90b6fa45
 SHA256: dbfaad8514ad4998c3463aa4d9d06c6db22676e86b41c3baa500b9ede57e9139
 SHA512: faf003b081b1a6766dc094e5dad9854ef0b3e3f8f19bea5efb3f39c735179ee442a7b9593caf5bd91b45933d05f52770dfbf9534a69a4d4a7e0346d05ca42fc9
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Name: AppTools15-17(rootless)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
+Package: com.dao.apptools15
+Architecture: iphoneos-arm64
+Version: 2.7.7
+Section: 嗨-付费
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Filename: ./rootless/AppTools15-17(rootless)_2.7.7.deb
+Size: 1255020
+MD5sum: 22fb96ba9da0a6a5e3cee46de2100c53
+SHA1: 45586c4c129450685a5ceb06552ed25b3d33687a
+SHA256: 824558f33dda4d43afadac6e8375dd82440e8c890ab16872c5563a2efca99e28
+SHA512: 8a8e7cb734d7b9e3543c096703116bb3fe9d025ca519aaba9b30a772f5924267f06e921fe11b8c9fe049f04521d686973ee9028a44d03eab30a88c12c5e89306
 Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Name: AppTools15-17(rootless)
 Author: aReo
@@ -4805,6 +4877,25 @@ SHA1: a5b418dbb734b8ee31dec946c01b850b93976970
 SHA256: 1c727585d217af5a107e1e902886d76e443cb629bd34c86247c472d686e5ee35
 SHA512: a4ac94c8dbd83d7e22872613140efec78bbbe111b5cd41878f537a8b8643921dc6392f6709b9fb769a467e0355191ec564a033cee62df78713d77ea97315eb15
 Description: 窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，即可将此程序窗口化/分屏；由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26。
+Name: MilkyWayReborn(rootless)
+Author: MilkyWay Reborn
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/js.json
+
+Package: com.dao.milkywayreborn
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: 嗨-系统
+Maintainer: MilkyWay Reborn
+Installed-Size: 308
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.milkyway.reborn
+Filename: ./rootless/MilkyWayReborn(rootless)_1.4.deb
+Size: 49342
+MD5sum: b98599f4ee8f4d381be037af1e02aa8a
+SHA1: 3ef782ec907c352e14ab1fc32a5a776c1fe80a98
+SHA256: 07290149eed507f5e6a669967c4c899f3276db8d27b07796c5459a45800e1f17
+SHA512: ff6f0d661e2552a81dff45d5a7c52d352ff7146fd6a154cedf9c35d885366e523c78e039b9cfed0a73ab9d4dd5ebf16dcac9f291bc6daea0d9eb30941305800d
+Description: 窗口化分屏，长按APP图标菜单—>窗口分屏；或者后台界面，按住程序卡片1.5秒，即可将此程序分屏；点击红按钮—>关闭窗口(长按彻底杀死)、黄按钮—>最小化(长按胶囊彻底杀死)、绿按钮—>最大化。
 Name: MilkyWayReborn(rootless)
 Author: MilkyWay Reborn
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/js.json
@@ -14617,6 +14708,25 @@ SHA1: 8cdd774b3b37b66053f8e47a3e4ce2a347526c94
 SHA256: 637d68f3aec92a2f9b1f2e0aa0dd9e9fcd0a1ebb8cbf83af610efcd580f49512
 SHA512: f33af0d9d9be96cb60a3693e57f494576c9336ac0e71497df35a1f174e64ecc1e9e8c67fae6885bdb608baf4943fe77f05aeaf6a71de2461b83f6c4010fa2ef9
 Description: 窗口化多任务，也就是分屏；无设置，后台界面，按住程序卡片2秒，即可将此程序窗口化/分屏；由 akusio 基于 MilkyWay2 现代化重写；34306 优化适用于 iOS17–18 和 26。
+Name: MilkyWayReborn
+Author: MilkyWay Reborn
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/js.json
+
+Package: com.dao.milkywayreborn
+Architecture: iphoneos-arm
+Version: 1.4
+Section: 嗨-系统
+Maintainer: MilkyWay Reborn
+Installed-Size: 308
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.milkyway.reborn
+Filename: ./rootful/MilkyWayReborn_1.4.deb
+Size: 49646
+MD5sum: 620529fecd57ee25b8e871a1e2b04f18
+SHA1: 914f2f3a70fee28c85948c9440a4fb341d83d9f4
+SHA256: e7bfd8c5a4a2256cb5ffffc522b0bd8722ae69591428f751c28332e317974f87
+SHA512: b19fe6c7045d0e0b8d09317e9a3072fd6b9df71398896106e7716644b8a6a7e6c84ffb2355a67c67f2d0a194d6586aab83d677d753a20ca83e3308d3a8fbd75f
+Description: 窗口化分屏，长按APP图标菜单—>窗口分屏；或者后台界面，按住程序卡片1.5秒，即可将此程序分屏；点击红按钮—>关闭窗口(长按彻底杀死)、黄按钮—>最小化(长按胶囊彻底杀死)、绿按钮—>最大化。
 Name: MilkyWayReborn
 Author: MilkyWay Reborn
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/milkyway/js.json
