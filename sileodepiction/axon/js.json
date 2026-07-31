@@ -82,17 +82,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.3.1",
+                    "text": "2.4",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "14.0 - 16.7.15",
+                    "text": "14.0 - 17.3.1",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 05 月 31 日",
+                    "text": "2026 年 07 月 30 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -105,6 +105,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "简单适配下 Relaxin iOS17 越狱",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.3.1",

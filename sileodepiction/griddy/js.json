@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "mikifp & 妖刀",
+                    "text": "daodao",
                     "title": "维护者"
                 },
                 {
@@ -105,18 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步更新 v1.0.5 </br> </br> 修复了浮动底座上的图标创建多行的问题 </br> 修复了将 Griddy 数据保存在错误位置的问题 </br> 修复文件夹预览生成不正确的问题 </br> 整体稳定性改进",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.0.4",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "同步更新 v1.0.4 </br> </br> 已修复有关浮动码头位置的问题 </br> 修复了与 Bolders Reborn 调整兼容性有关的文件夹预览问题 </br> 修复因生成文件夹图标图像而导致崩溃的问题 </br> 将存储的位置数据移至设备上的单独位置 </br> 稳定性改进",
+                    "markdown": "不支持 Relaxin iOS17 越狱</br> </br> 同步开源 v1.0.5 编译",
                     "useRawFormat": true
                 }
             ]
