@@ -310,25 +310,6 @@ Author: Sandy0 & 妖刀
 
 Package: com.dao.axon
 Architecture: iphoneos-arm64e
-Version: 2.2
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./roothide/Axon 中文版(RootHide)_2.2.deb
-Size: 150366
-MD5sum: 92d7859eb90e4ddb8fcef7d0185e33bf
-SHA1: c7545612f9d99414859990504f85f3f59942d63e
-SHA256: 2118d5f21e76405e3ea494c8076d4b81bb71d7a06ea2ba58abb5cc1b8d08e6bb
-SHA512: 7a1218a6fe11eba9dc714bf57ad359c524feb2177bdd58cb2a1f5de0a86c49d11ac50c3a0a0d94c3a2ece1539f49955c948bc0dca50fa647ac328911e075f491
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版(RootHide)
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Architecture: iphoneos-arm64e
 Version: 2.3.1
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -341,25 +322,6 @@ MD5sum: f59e4c8f233d4f59909eb9d32a5201ee
 SHA1: 73043c15802c73e68418cf3ff40b6b897544c02f
 SHA256: 0d4a9b75305152774ed38ee019dd86867c7ecaf620489b2927808fa16e2cfa67
 SHA512: 571ef61e4c0a02c24ec15cd9e269de8539a329dcaef8d60104ffe14c3f7c1636535c3163e41c8e2bc90719f4ff8108efcd21ed38621964f297822613d5d31aa5
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版(RootHide)
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Architecture: iphoneos-arm64e
-Version: 2.3
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./roothide/Axon 中文版(RootHide)_2.3.deb
-Size: 152670
-MD5sum: 9b18f84418641d3843d1f42b68eb6001
-SHA1: a751f083d225a061eb6db60c28bd914e3f8d3b17
-SHA256: fcf98172c514fe487745365a893322a30dc663eb4179861a9b8200e8ef54b3f7
-SHA512: 60ff7d6ccc2ca809010f24a2c500664ce1681dc4655e2e7855e76f6da462207c9f0a7a2bfd26104c08dd18d4f50ffe854f3bd1bdc85147d8495cd3b13de9691e
 Description: 锁屏通知聚合插件，刀刀中文优化版。
 Name: Axon 中文版(RootHide)
 Author: Nepeta & daodao
@@ -703,25 +665,6 @@ Author: 妖刀
 
 Package: com.dao.classicfolders3
 Architecture: iphoneos-arm64e
-Version: 3.0.7
-Section: 嗨-工具
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4312
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: ./roothide/ClassicFolders 3(RootHide)_3.0.7.deb
-Size: 3277118
-MD5sum: 15281077805d9c26774256c6bb152705
-SHA1: 055b3b685d5b3ba9025508f942c2bb2e092a5a22
-SHA256: 0f07ca554ef56ca33f252cee4fc4991bae5b51c609a8e985bf586a4ce5eee61f
-SHA512: 46fc2a7b98d5559fcb2d2048cd3ec8d86c36cac7aa86f3c720e743b246ef08de1c4aba1a37f201b8378caf7538029fbb4a65f699e334405d3d6cac3f17b626be
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Name: ClassicFolders 3(RootHide)
-Author: CoolStar & Lizynz
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Architecture: iphoneos-arm64e
 Version: 3.1.2
 Section: 嗨-工具
 Maintainer: CoolStar & Lizynz & 妖刀
@@ -1014,25 +957,6 @@ SHA512: 5822ad1fc9b976881780d5fa05af844e75a9476bc5a6bb6f819e80e891c729fbcb77b34d
 Description: Glow 简体中文包(RootHide)。
 Name: Glow 简体中文包(RootHide)
 Author: Sandy0/妖刀
-
-Package: com.daodao.goodwifi
-Architecture: iphoneos-arm64e
-Version: 1.2
-Section: 嗨-工具
-Maintainer: 妖刀
-Installed-Size: 368
-Depends: mobilesubstrate, preferenceloader, firmware (< 16.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
-Filename: ./roothide/GoodWiFi 中文版(RootHide)_1.2.deb
-Size: 34184
-MD5sum: ee20f9ae1965d50799ff0b5ef8d813ff
-SHA1: 32e9f6cf5936f3875c65d3e541f133add525f8ff
-SHA256: 806d5a68a43880a5d5b8eab09439c5cea535ae7e64897e6b0b548d08eb432122
-SHA512: 1d689ae90a2bbb7fb175b107bc48571b6b3c6cc500b9361a831380e5a1efdd90e3c40faa21e10060cf00c708bc7695ac6725599aef0dcb7d26d7b41238e9bbc4
-Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Name: GoodWiFi 中文版(RootHide)
-Author: julioverne & 妖刀
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
 Package: com.daodao.goodwifi
 Architecture: iphoneos-arm64e
@@ -1366,78 +1290,6 @@ SHA512: cc33cd17a22f9bf0026a62cecd4f2c14f5702e7b34d4c39cb9ccd8f33a36e7c13bab5707
 Description: Mochi15 简体中文包(RootHide)。
 Name: Mochi15 简体中文包(RootHide)
 Author: 妖刀
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
-Version: 5.3-1
-Section: 嗨-工具
-Maintainer: NeoFreeBird & 刀刀
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./roothide/NFB-BHTwitter 中文版(RootHide).deb
-Size: 7762672
-MD5sum: 3b6f060e090f0ed50e56fc2819c671c6
-SHA1: 46184087671d7bb79a85d7353905235f859bb2b4
-SHA256: fe19f90739e03d138fe3e2d314f0f52d46469e1b7fa9c58fff33bd7cd72b77d3
-SHA512: 4255b5272fc3814bc6e0723aaa75ff0b804d46556015b2c611ec131f7b9f1291f7359e37d4c053a617648e2242c5f691553162446d72b9c1254b19685e3259b6
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-BHTwitter 中文版(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
-Version: 5.8
-Section: 嗨-工具
-Maintainer: NeoFreeBird & 刀刀 & theacrat
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./roothide/NFB-BHTwitter 中文版(RootHide)_5.8.deb
-Size: 7754708
-MD5sum: 4fea5e7e2da2ab203ffb92ef69ff6ddb
-SHA1: 3adccc703e34e9a1b1ed9b963d4d380c8ba3eaff
-SHA256: 7c79e25d52f891bd3fa6fffbd8e223e16b2be504500c119721eae50de4b47fa9
-SHA512: b1d33ce5b8365effe6182fc3b4a5c212b3b2bcab804c0522c118d8bdbc9e2409ad1b96813b3b16b1d4bfc82e23acd049df9649bce20540e46e78b05c51fc5829
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-BHTwitter 中文版(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
-Version: 6.0
-Section: 嗨-工具
-Maintainer: NeoFreeBird & 刀刀 & theacrat
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./roothide/NFB-X 中文版(RootHide)_6.0.deb
-Size: 7818872
-MD5sum: 60488d0b3213be8af7122705e4fb9b5f
-SHA1: aa4125608c98b2c9b977a08b51238afaa6af2bd0
-SHA256: 7811fa714686173b4d0d60440e3959df616a7fc4f26635430c2ec71a032c2903
-SHA512: ab5308566653f7a826ea9704315be09c90905515aa8b8ef9d37ef1d04e32a5bdfe4079476c6eed1a6d4446c131821ae08c1369733690ce76a0339a97b71bed75
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-X 中文版(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
-Version: 6.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./roothide/NFB-X 中文版(RootHide)_6.1.deb
-Size: 7829360
-MD5sum: 5972f9e3bc0dc1c8839d2a7b1b08e8c6
-SHA1: e2b21f45c44ef7fc97eeee6256feb4cc8fbfcef2
-SHA256: 79eb89d8a84bd9503a1db980979b305e26ca21093d6c8fd33c9011f58e488ae0
-SHA512: 245b0447b6201f42edd471bf2bc7d63db94d6eeb274c03f6696ed9647ab66473baca8d1654f6193011e659cfa74e9587d4625ddd7e1ac48e7329799d541d9acd
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-X 中文版(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64e
@@ -3098,25 +2950,6 @@ Author: Sandy0
 
 Package: com.dao.axon
 Architecture: iphoneos-arm64
-Version: 2.2
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./rootless/Axon 中文版(rootless)_2.2.deb
-Size: 150810
-MD5sum: 93100f60e5c3f9a1a8dba3b9152b4e48
-SHA1: 2e126c203dab6b3c4d4932e3113c99cd0c34345c
-SHA256: 856e594f64a1cdec62144fa9e1cbcd355d304016a5ea5884d06fa4302d122277
-SHA512: f69c606c376382aa2a9a848a0e2654473bb17cc7a277d0474130fce62e8742cbd167dba5223eb3861dd630ce21f7ef69bfd90e4c7d37a9ad6000c03111e227f4
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版(rootless)
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Architecture: iphoneos-arm64
 Version: 2.3.1
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -3129,25 +2962,6 @@ MD5sum: a05a1a89b23da2da9cc261234842756d
 SHA1: 764ec6cf7f904f6f72d681cf88cd241b0d1c2d0b
 SHA256: 1ef5480e56adfc1a405d5effa5e610f333e312cfe1f11524d33f14b546f00c80
 SHA512: a7a8584a18dd92240afe6f6c30325f408cb3d949e870cda5f1ef49fdb4a879f80cdc0641a14e209bd268c07b96c58f50eac14b09dd9496aaa4eb9453c983296e
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版(rootless)
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Architecture: iphoneos-arm64
-Version: 2.3
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./rootless/Axon 中文版(rootless)_2.3.deb
-Size: 152362
-MD5sum: 6479f09273c7f9c1803114cc23bf1cc2
-SHA1: 43263944d59e17a046bb8e4b6cc908761d31dc71
-SHA256: 8a1ed6e359dfa2985bfa2d761439d2a79720265144e24160e94a3929afd0302d
-SHA512: 297a5311a05a41bc2098cc87f2076cbb8e006c19d1b662d602338931d472defdce8c13fd919e107f90591bff9045d06b9f3ee4a612877e17bb930e923bd14ffe
 Description: 锁屏通知聚合插件，刀刀中文优化版。
 Name: Axon 中文版(rootless)
 Author: Nepeta & daodao
@@ -3610,25 +3424,6 @@ SHA512: d2a2d51e3adb4ec98add7a229bb2313701b36210deea9532a48627274c1a8cbac643cc8c
 Description: ClassicFolders 3 简体中文包(rootless)。
 Name: ClassicFolders 3 简体中文包(rootless)
 Author: 妖刀
-
-Package: com.dao.classicfolders3
-Architecture: iphoneos-arm64
-Version: 3.0.7
-Section: 嗨-工具
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4328
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: ./rootless/ClassicFolders 3(rootless)_3.0.7.deb
-Size: 3278916
-MD5sum: e4a609dbd081f28529e578a85b18d183
-SHA1: 20a3e681669ef875f8132e043ea2b4c17f88a69c
-SHA256: d8ba9d15ae9a0215ef34cc79ff7dc5120bb9ebca6f457bc6a3895d42b8f0e3a7
-SHA512: 4d2b15050789ba6284c86c651a5d7ff6a578a7b6ac73056272a79957f0417b051499adb3ee2c130c211612406a0e180768d2a01a625297d1ce4fafe73d37b282
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Name: ClassicFolders 3(rootless)
-Author: CoolStar & Lizynz
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
 Architecture: iphoneos-arm64
@@ -4204,25 +3999,6 @@ SHA512: aa12da929664b7294b6edf0c46a97ad8c6e8bbb5d22cfc17354f5c6b1a43f669cf44504f
 Description: Glow 简体中文包(rootless)。
 Name: Glow 简体中文包(rootless)
 Author: Sandy0/妖刀
-
-Package: com.daodao.goodwifi
-Architecture: iphoneos-arm64
-Version: 1.2
-Section: 嗨-工具
-Maintainer: 妖刀
-Installed-Size: 384
-Depends: mobilesubstrate, preferenceloader, firmware (< 16.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
-Filename: ./rootless/GoodWiFi 中文版(rootless)_1.2.deb
-Size: 36600
-MD5sum: ff340e7d6dd71ae58944d78f0840aa52
-SHA1: c90fdf3536949d18cbb438d9e476bb0d369986b2
-SHA256: 127efd4266e4eba6b0d84ca60d66ea26e14f5e728b95ed0c20219924861b541c
-SHA512: 69c54ffe588b16a8274e48af31e06afcb483614c31f20c138a50d21f8de10f66ec61416f7c46f2ee3b7f8f3bcbde828d5e73a1e66edca7b31e8e989ab1cd8c57
-Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Name: GoodWiFi 中文版(rootless)
-Author: julioverne & 妖刀
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
 Package: com.daodao.goodwifi
 Architecture: iphoneos-arm64
@@ -4839,78 +4615,6 @@ SHA512: bf32423740acf1ae279e93033e7bbbd123a059f9642c6829739129a7ea18bdc9b1f298a9
 Description: Mochi15 简体中文包(rootless)。
 Name: Mochi15 简体中文包(rootless)
 Author: 妖刀
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64
-Version: 5.3-1
-Section: 嗨-工具
-Maintainer: NeoFreeBird & 刀刀
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootless/NFB-BHTwitter 中文版(rootless).deb
-Size: 7765552
-MD5sum: 871152d30daa95be1551af9489dcaedf
-SHA1: 6f80ddd62073e01926ede7f3599404201a18ce73
-SHA256: a115c957be593b12fe26c1b93880ed128455a6ab4a34358c0d7a80fb532243d6
-SHA512: 3d9b2e208841c0f2e984e22dc9ec41a1a58d52ff84fd08489c4e2141e9718ccc8a1389ca860a847472d5f37ad0d1e82de8d54ae196a06e9689acda3cd89f3755
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-BHTwitter 中文版(rootless)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64
-Version: 5.8
-Section: 嗨-工具
-Maintainer: NeoFreeBird & 刀刀 & theacrat
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootless/NFB-BHTwitter 中文版(rootless)_5.8.deb
-Size: 7764168
-MD5sum: 237303b36200e513fa78ad2187de7509
-SHA1: 8bc30778f31479ebb24ea47a593f177283755319
-SHA256: 7f7f0e538a4a979511fe966afd604d85cb0aca025ca951bb861e8d65c21bb68c
-SHA512: 0cd4941206b2d048c5b2485eb44e086fc64fd601b750d8484501f3c5ec7883c385d52028c3927e14707c06edbe7911881b004c5d2859cde3a4c3af4dff97a03f
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-BHTwitter 中文版(rootless)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64
-Version: 6.0
-Section: 嗨-工具
-Maintainer: NeoFreeBird & 刀刀 & theacrat
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootless/NFB-X 中文版(rootless)_6.0.deb
-Size: 7829232
-MD5sum: 1c130df74daba698c4f6f23373bab31c
-SHA1: 7ccc7db74c0d493bd3fdb7245ac99a75cdf7cb47
-SHA256: 49330d37d3d43e17e72b5848f1f4ab40b24b58589b8c8ec4c1f55f0230c7b3ea
-SHA512: 74d92ba979f5a1065b87a52a6dae2602da542ae568588f67f8e7f787ca11526377c0c05ff72cb7528ada74924b38a7c70e06ff812c53872a009d9349b6cc9e4c
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-X 中文版(rootless)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64
-Version: 6.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootless/NFB-X 中文版(rootless)_6.1.deb
-Size: 7825736
-MD5sum: 1dc2ac7aabe9ad2ddda6d54794fe9efe
-SHA1: e069b8eaac5b43abfa5061497e18a9c466228dc0
-SHA256: cc380cf94334d7b52380575f4704e0f219ae981a46885c216a83de9c49532508
-SHA512: 9eb164a4619afad1fd64512050a5ce339604265bcd449829af093df06a2a79311564c351dd0f0da2197dda5685ba68c5a120d214633c6efb58a36b5f9460c425
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-X 中文版(rootless)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64
@@ -8537,25 +8241,6 @@ Author: Ball <ball@hackcn.net>
 
 Package: com.dao.axon
 Architecture: iphoneos-arm
-Version: 2.2
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./rootful/Axon_ZH_2.2.deb
-Size: 150678
-MD5sum: c5ac1166ba6861254f2bdbb7666b6a0f
-SHA1: e0a2d2f6ff723931d5394cd9297f380e5fcbd2dd
-SHA256: 67e72ba01539538198a703842e0c719f979e808db1f4078418ad5998b382dac6
-SHA512: 8e169e4bcd9e943580028a8168b9b96d37c0ef50038856a8667aa7d0af37ee05fc19242240bec39138668719f765f8e57f491096bc11e006d3a2e3e316a219a9
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Architecture: iphoneos-arm
 Version: 2.3.1
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -8568,25 +8253,6 @@ MD5sum: 5dc411f2b6e7906d3ea7169bea3f74be
 SHA1: d78087b907904ccaaa4fa757c98fb01977318c15
 SHA256: c393604b72645c995c0237917ed6f7be00d450e65b612c1579521595b0fa07e9
 SHA512: 19b67d4dbcae0bea6b6853c24b6d479f4e4105b94be27a3acaf1fbb177c0f7c9815ee718fd97a06a568147fb95b57f937186f494e9d53056344e00be9177bab9
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Architecture: iphoneos-arm
-Version: 2.3
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./rootful/Axon_ZH_2.3.deb
-Size: 151830
-MD5sum: 55221f77f57a46e44f2f5d842e7b6257
-SHA1: 28d68027ba8aaa645a4036dfe59729ac1a5890f5
-SHA256: cde8502bfb1855fa794e5f1ced8572e0912a980d58a13cf74513a5f5b54a6d63
-SHA512: 30cc349a1a6b2fd6fc3874a6412de47281397c0f0041bf73beab78637a28ef2da79d3790420e583595804a3af838f85f373349e15dc6f259afef4d1c59cf33b7
 Description: 锁屏通知聚合插件，刀刀中文优化版。
 Name: Axon 中文版
 Author: Nepeta & daodao
@@ -9911,25 +9577,6 @@ SHA512: b5abc6622aabbe5d37672504cc601e9cb67fa5ccca30f175c023500eeb95a919e0a4b408
 Description: Circle Icons 简体中文包。
 Name: Circle Icons 简体中文包
 Author: dunkston
-
-Package: com.dao.classicfolders3
-Architecture: iphoneos-arm
-Version: 3.0.7
-Section: 嗨-工具
-Maintainer: CoolStar & Lizynz & 妖刀
-Installed-Size: 4328
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: ./rootful/ClassicFolders3_3.0.7.deb
-Size: 3279352
-MD5sum: 972946dd3e41cca6449322d1993997f1
-SHA1: 58d3647039cc101c0be35d627b1d72194a911f52
-SHA256: b7cc9d406323bc7d0578e41b4b53f29f502855584df1cf7652172c07dc5948ed
-SHA512: 3052a6f8e4759dea7c224c4bf618fde4a550cf455fddc4cb15179954b6d882809586c7cb083447fcc19cd947e23f327fe5a18a4a30e093c3d9a9754b965b7256
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Name: ClassicFolders 3
-Author: CoolStar & Lizynz
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
 Architecture: iphoneos-arm
@@ -12370,25 +12017,6 @@ SHA512: 8452a322d2b566785ce99317e449fa1d041847a63e72226bbf3c4b6af97954cd2197eb2d
 Description: Glow 简体中文包。
 Name: Glow 简体中文包
 Author: Sandy0/妖刀
-
-Package: com.daodao.goodwifi
-Architecture: iphoneos-arm
-Version: 1.2
-Section: 嗨-工具
-Maintainer: 妖刀
-Installed-Size: 384
-Depends: mobilesubstrate, preferenceloader, firmware (< 16.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi
-Filename: ./rootful/GoodWiFi_ZH_1.2.deb
-Size: 36724
-MD5sum: e503b1e6f031efe5902a4a8f80263649
-SHA1: 20f836e636597ec2aaf1795fe49d5a44c929d388
-SHA256: 1caadd629ddefd83029ff5f59afa6b78424e596aa34d0a63ee5f62172dea22ba
-SHA512: 42f9e2386ea8323868387b5baf47eb00a2d689ea64b5c887c46565b29715317c885953a17f0dbe60795964dfab83acf9e9f6938166c78b294ba0c2fbd69381bc
-Description: 更好的 WiFi 配置，可查看连接的 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Name: GoodWiFi 中文版
-Author: julioverne & 妖刀
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
 Package: com.daodao.goodwifi
 Architecture: iphoneos-arm
@@ -14852,78 +14480,6 @@ SHA512: 41b8275b6c1634648ccae100913b8ec25e3d9175f65e50534399a2a5217e1ae670d3fe26
 Description: Myriad 简体中文包。
 Name: Myriad 简体中文包
 Author: Sandy0
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 5.3-1
-Section: 嗨-工具
-Maintainer: NeoFreeBird & 刀刀
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootful/NFB-BHTwitte.deb
-Size: 7752508
-MD5sum: c8700788206e07f1b2fa4f7eff82c238
-SHA1: 4d6d83049411a5eb9740fa4e6db5f8983c7ff4b7
-SHA256: 9ce6584b63ccaa553705891e6613a2f86c54abb3dfcd9e1cdf4a437560cd1f3c
-SHA512: 5e1af52e81dd38cfe8a4ff77f28ba226106eae10b66b67ddfedf668353e13b282e62745d8c0a41e3acb46e3ead4fa305c305b83784a180637a71e277a43deac6
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-BHTwitter 中文版
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 5.8
-Section: 嗨-工具
-Maintainer: NeoFreeBird & 刀刀 & theacrat
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootful/NFB-BHTwitter_5.8.deb
-Size: 7758676
-MD5sum: 523143803d015fb5a72da0cb68246d96
-SHA1: 03a5d50585b5080a00c9c607fbd2675bdb93b4a9
-SHA256: cfefb76da874ff763088b37276289120af8d89fce605fc55d174ae05dd8f3c64
-SHA512: e4247559883641c0c48dca8cd82c7d4557bde9796fc3c4ff4cc535bb927cff2ad61203f12bccceca1f2c1d70de383dede3cf789211a8505973d34086d30b200b
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-BHTwitter 中文版
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 6.0
-Section: 嗨-工具
-Maintainer: NeoFreeBird & 刀刀 & theacrat
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootful/NFB-X_6.0.deb
-Size: 7818692
-MD5sum: 70787d44d04ebdb8fd8670cbb4b0be47
-SHA1: aa7c2d0283ef69fe7b623ddec8b6ccd129dfc25f
-SHA256: cf26c0ab7401051939fabbe4b824b3e9a1a2a677127e6818aa335a20b562d8d0
-SHA512: 65e49ece3f09823f1c6bbb8f7f37ef842911792fa40e5c513d5f53add2bd109cf58935590aa74e1040621a6c3b8f248b26e0b172762803cfe1565aba84b4ce43
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-X 中文版
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 6.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootful/NFB-X_6.1.deb
-Size: 7829308
-MD5sum: bd28288d166513dd4a2c8e8c04d066ca
-SHA1: c1f770a57206bdfe230e84d7e82010e1fb717f62
-SHA256: 2452abd0b6a90e7443b2c5b42edff974d0ed643fab8878824486859c0503e4ed
-SHA512: b46a5f73249d299d2c9057c3903cfbff740c9aaf490aa6670e6c0510a3dff239feb5e09786788a1c5d9caa2c3fa937d716d835114d297617ea83addec65c6029
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-X 中文版
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm
