@@ -1725,23 +1725,6 @@ Description: 打乱锁屏的密码盘，每次数字位置随机，无设置项�
 Name: Rode(RootHide)
 Author: rootfs
 
-Package: com.dao.patcher
-Architecture: iphoneos-arm64e
-Version: 2.1.5
-Section: 嗨-系统
-Maintainer: daodao
-Depends: firmware (>= 15.0), libxar1, ldid, file, dpkg, gawk, plutil(>= 0.2.2-1), uikittools(>= 2.1.6-4)
-Conflicts: com.roothide.patcher
-Filename: ./roothide/RootHidePatcher 中文版_2.1.5.deb
-Size: 894700
-MD5sum: 1e19d49380b3db614be1902e14f7ee4c
-SHA1: 155bd5cfa24c11300afacd4bce979fe3fc0149b6
-SHA256: fb3b9204afcb0a23b147c5ecbca1ea822bbed057868c788f0d2d37b6a5dfd64e
-SHA512: 3b0674aa043bcc9c36214769b27602f0302c880b5ef7ab04ac690c7900535eaca385b977e20ef740cd44be5b77a9109613708c96882bf83a741146be7b3c28bb
-Description: 转换工具：将rootless(无根)插件包修补成roothide格式，不保证所有转换包都能正常工作；刀刀简单中英文翻译。
-Name: RootHidePatcher 中文版
-Author: roothide
-
 Package: com.hk.rune.cn.rl
 Architecture: iphoneos-arm64e
 Version: 1.3
