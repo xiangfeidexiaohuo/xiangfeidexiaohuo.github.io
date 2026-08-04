@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.7.7",
+                    "text": "2.7.8",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 07 月 31 日",
+                    "text": "2026 年 08 月 04 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.7.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、锁定 120hz 改为自适应动态高刷，优化掉帧卡顿发热问题（功能改名为动态高刷）；</br> 2、解决降级路线三不能使用问题；</br> 3、优化阴影图标功能以及角标透明问题；</br> 4、增强开屏去广效果；</br> 5、其它细节优化。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.7.7",
