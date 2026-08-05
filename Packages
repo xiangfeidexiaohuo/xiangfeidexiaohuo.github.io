@@ -1309,24 +1309,6 @@ Name: NFB-X 中文版(RootHide)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
-Version: 6.2
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./roothide/NFB-X 中文版(RootHide)_6.2.deb
-Size: 7878580
-MD5sum: 8a7750d9c97e2719315901c2e8305c27
-SHA1: 00eba5dbef3427d98f4ae0f50c228cbaab11c100
-SHA256: 6abf2a2101fbf1b3ee39aa3399fdb77df13541fd2416415b42484d3bbad564aa
-SHA512: 601d0bcfe01391c8b7f0eb427405bd997a8bc151bef80cf757f92345803626bf7401ddc949b87e1de86fad53d67b7dc92946e3f3088a2e97871d257f6793483f
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-X 中文版(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
 Package: com.hk.nfcwriterxs.cn.rl
 Architecture: iphoneos-arm64e
 Version: 4.0
@@ -1343,6 +1325,24 @@ SHA512: 00919618c4a7ee862e50baae7e942383d33c04eb15f15f661621b070f1e89eda6990f111
 Description: NFCWriter XS 简体中文包(RootHide)。
 Name: NFCWriter XS 简体中文包(RootHide)
 Author: Ball
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64e
+Version: 7.0
+Section: 嗨-工具
+Maintainer: 刀刀
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./roothide/NFX 中文版(RootHide)_7.0.deb
+Size: 7883560
+MD5sum: 42b1fa90d5d6e2da34a7b8a92c0bada6
+SHA1: e6cfb2065d97b476bd7d5fb4e34d8f8a733cfc0e
+SHA256: 84291591bd6623c6d800ab9492769e12d2fa5ae462edba282b0dd947300a908d
+SHA512: 0a4043712a9c5782498ebe8bd8272049e22daa2446c696dceaf90877fe4829d09c480f9dc981cfde591fd920c43bf915d79f1811b60cfbfc13cd39b70b9bfdba
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFX 中文版(RootHide)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
 Package: com.daodao.nocshare
 Architecture: iphoneos-arm64e
@@ -2502,6 +2502,23 @@ SHA512: 942bb7efbf0de806915ea068a13da59633448093f3c620ca609d3c389476760c5dcc7ebb
 Description: 去除所有广告，无弹窗。
 Name: 威锋去广告(RootHide)
 Author: 小果子
+
+Package: com.dao.trollstorelite
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: 嗨-系统
+Maintainer: Fluoxetine
+Depends: ldid, ellekit
+Conflicts: com.opa334.trollstorelite, com.fluoxetine.jumor
+Filename: ./roothide/巨魔R(RootHide)_1.0.4.deb
+Size: 592332
+MD5sum: 931f31ff502c59d75b6eac46bdedb522
+SHA1: 6027215b4e6401aecbf9090f83e95f04e27d77ad
+SHA256: 929cea52bdf879a3be4b433099c1eb63e39647d4d98f12dd0937f1b36de89a93
+SHA512: 63fdb4f76367f40bb161cb7ccd9bbf51c809774e589bc5165b94261656a020584582f3d4531c60f74d1890bbf8804b210faed6459e38689e14809a91c508ae8a
+Description: 巨魔R(白巨魔增强版) 由 Fluoxetine 为 Relaxin 越狱特别制作；越狱状态下支持免签安装 IPA、Tipa 应用，支持注入任意 dylib 和deb 插件。反馈及建议：1103945342@qq.com。
+Name: 巨魔R(RootHide)
+Author: Fluoxetine
 
 Package: com.dao.ngc
 Architecture: iphoneos-arm64e
@@ -4634,24 +4651,6 @@ Name: NFB-X 中文版(rootless)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64
-Version: 6.2
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootless/NFB-X 中文版(rootless)_6.2.deb
-Size: 7870924
-MD5sum: 3749c2537820da30ab25848e877ffbb6
-SHA1: 0897d09cd48975dd1dc7f555aacc2fdf1c60ff97
-SHA256: 6b7c0250d536a242692c0091dc8e30c741b36afddfb083cc3ad9868951e86f9a
-SHA512: e2148e05dccd00b88ceaaa810b10a83a453f7d80b0834cb67624ab524da960cadd954b4d3a9c6e5ef3240ad513ab48a15d39db0e93c5a9b4494bd005927c63a4
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-X 中文版(rootless)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
 Package: com.hk.nfcwriterxs.cn.rl
 Architecture: iphoneos-arm64
 Version: 4.0-1
@@ -4668,6 +4667,24 @@ SHA512: 831f32a3497efffbcf58ca1a63cf8dc5d0f4064b1ae185f31f0d0af5afd52673789f2131
 Description: NFCWriter XS 简体中文包(rootless)。
 Name: NFCWriter XS 简体中文包(rootless)
 Author: Ball
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64
+Version: 7.0
+Section: 嗨-工具
+Maintainer: 刀刀
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootless/NFX 中文版(rootless)_7.0.deb
+Size: 7888140
+MD5sum: af0b2fc526cfe7944fae5399b0975fa5
+SHA1: ceac43c81b0f29096a840dea167de042953cc6e9
+SHA256: bf39af65c19a32d287f2541a2497b63cfbc1f120f1e4dc071a573f8c051f2218
+SHA512: 6bd5facd13297c2b0da250d95bc8d3c3cf1db6e09ac3d0868f7dcd8523db1fa6f345f22988e0c467a254ff247c35fcd31fe5507e04cd4e3dbe53a52951b35492
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFX 中文版(rootless)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
 Package: com.dao.noappthinning
 Architecture: iphoneos-arm64
@@ -14499,24 +14516,6 @@ Name: NFB-X 中文版
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 6.2
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootful/NFB-X_6.2.deb
-Size: 7878860
-MD5sum: becc6912efd02fcde7aefa51f23a6695
-SHA1: 08a154238f4f3bc172c884a0aad07c63a11a0b3e
-SHA256: 65750165444d77904062c69136f079791aff7291ff8030ae7a7cd43872deb4ac
-SHA512: 1dd1c44e781db11c3d58e79b680b8b83063c830e17a98959a3f41a991c95eb7634117f8ac6148eb893c584e449b069c5b21f86d793487552aea9a471a7241581
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-X 中文版
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
 Package: com.hk.nfcwriterxs.cn
 Architecture: iphoneos-arm
 Version: 1.1
@@ -14532,6 +14531,24 @@ SHA512: 2e5f1c9e99b814157d0b92ea7cf06fce571bcd23dc11175dceb49bf4c4f4c087fda5f1da
 Description: NFCWriter XS汉化包。大概能汉化的都汉化了。
 Name: NFCWriter XS 简体中文包
 Author: Ball
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm
+Version: 7.0
+Section: 嗨-工具
+Maintainer: 刀刀
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootful/NFX_7.0.deb
+Size: 7882384
+MD5sum: 967c2a9691b75ad61f0d1dbb5bb5e999
+SHA1: 6490cf8fac62d2df625bbb98b60a921fc844d5ff
+SHA256: 7f0ec031857d83b79ed0be02a9adc699c8a4f568d40265879715579aaaebebe4
+SHA512: 218b49b37be4e74832d9b57da77223f11e0c7f18eb3ef656756f6f0defdcff17a02b03e84db79c9073054d5f7cfc66f225b09283c7dacd588245c9290d523fd6
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Name: NFX 中文版
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
 Package: com.hk.npf.cn
 Architecture: iphoneos-arm
