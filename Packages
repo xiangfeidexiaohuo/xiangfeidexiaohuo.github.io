@@ -1696,6 +1696,23 @@ Name: Saily(RootHide)
 Author: Saily Team
 Website: https://sailyteam.github.io/
 
+Package: com.dao.saily
+Architecture: iphoneos-arm64e
+Version: 3.0.1
+Section: 嗨-系统
+Maintainer: Saily Team
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic, wiki.qaq.chromatic.roothide, wiki.qaq.chromatic.rootless
+Filename: ./roothide/Saily(RootHide)_3.0.1.deb
+Size: 3401420
+MD5sum: b74d6da4899fffd61339008ef8f801aa
+SHA1: 7403ced167410c169bf003ad34df3df4762c2d4b
+SHA256: 6e0b940ac07c6070dd6f395483fec39da90fe295e78e4f9f39f1b55521a21813
+SHA512: 8761c3d1f4533b3bc51b1ddad02f6f32680e40a9c4762ff9689914d687a7d895ac9f5f154764364348ed6cab8504987f681e0e28dd97c61d5b9676451b233c21
+Description: 现代化、美观、简洁的越狱软件包管理器！
+Name: Saily(RootHide)
+Author: Saily Team
+
 Package: com.dao.satella.cn
 Architecture: iphoneos-arm64e
 Version: 1.9.0
