@@ -1221,26 +1221,6 @@ Description: Lynx 2 简体中文包(RootHide)。
 Name: Lynx 2 简体中文包(RootHide)
 Author: M哥 & 妖刀
 
-Package: com.dao.fontmanager
-Architecture: iphoneos-arm64e
-Version: 0.3.0
-Section: 嗨-系统
-Maintainer: Hmmzzz
-Depends: firmware (>= 16.0), uikittools
-Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
-Filename: ./roothide/MarkFont(RootHide)_0.3.0.deb
-Size: 434432
-MD5sum: f3a1549bacb196bd5dd17d7fa6d63224
-SHA1: 0ea86098a1596f62eb731965b9723050cc4f0933
-SHA256: d14ce4aa9a9e7950fd2c1244c4525fd90a8419305f02c744cc1a3b91a9c7bf93
-SHA512: 32be4bfdf0c6bd4025ddec656169976143c361b30113cf8bf44bc74d56e81cdef71ddf7609ef67de8243c170de9a72cf623c8c4da7b70ad4f72a6227d468384c
-Homepage: https://hmmzzz.github.io/repo/
-Description: iOS 16+ 全局字体管理器，支持导入 ZIP、TTF、TTC 和 OTF 字体，MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。创建并切换多套字体方案，可以随时恢复系统默认字体。
-Name: MarkFont(RootHide)
-Author: Hmmzzz
-Depiction: https://hmmzzz.github.io/repo/depictions/markfont/
-SileoDepiction: https://hmmzzz.github.io/repo/depictions/markfont/sileo.json
-
 Package: com.hk.milkway4.cn.rl
 Architecture: iphoneos-arm64e
 Version: 0.1.1
