@@ -1242,6 +1242,27 @@ Author: Hmmzzz
 Depiction: https://hmmzzz.github.io/repo/depictions/markfont/
 SileoDepiction: https://hmmzzz.github.io/repo/depictions/markfont/sileo.json
 
+Package: com.dao.fontmanager
+Architecture: iphoneos-arm64e
+Version: 0.3.1
+Section: 嗨-系统
+Maintainer: Hmmzzz
+Installed-Size: 2308
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./roothide/MarkFont(RootHide)_0.3.1.deb
+Size: 436306
+MD5sum: 7acec836fbb320ac52e3179199861ba2
+SHA1: 5b871607591c50d8068238a7e6b4697c9a0dad22
+SHA256: 7c5cbfaa2b64deb48b3b68c671873db9c4fa0dfcc300b1d07e596452896dec22
+SHA512: 8342650aafcfb63d22ca3ce4312d2ddd43db57fd4d92f1934c9d79ee89daf551d9257b75cddd70ba337872c5bc0a575e810b240d98e33b8a4cf295c5c35a7bd7
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 16+ 全局字体管理器，支持导入 ZIP、TTF、TTC 和 OTF 字体，MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。创建并切换多套字体方案，可以随时恢复系统默认字体。
+Name: MarkFont(RootHide)
+Author: Hmmzzz
+Depiction: https://hmmzzz.github.io/repo/depictions/markfont/
+SileoDepiction: https://hmmzzz.github.io/repo/depictions/markfont/sileo.json
+
 Package: com.hk.milkway4.cn.rl
 Architecture: iphoneos-arm64e
 Version: 0.1.1
@@ -4552,6 +4573,27 @@ SHA512: 941c39d4501bd1095133dea551008d565914f29cc4b273fbf3a95d9cc30b049de7ff5a81
 Description: 适用于iOS14+的军刀类多功能插件，汉化包在源内。
 Author: MTAC
 Name: Lynx 2(rootless)
+
+Package: com.dao.fontmanager
+Architecture: iphoneos-arm64
+Version: 0.3.1
+Section: 嗨-系统
+Maintainer: Hmmzzz
+Installed-Size: 2328
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./rootless/MarkFont(rootless)_0.3.1.deb
+Size: 436544
+MD5sum: 6d5c004b16bee337e300dd2427893580
+SHA1: ce6d2f00a8c4d211841deec34df00368cce8991f
+SHA256: bfbbe1eef2a06821a180c5c28df4284630239e2b44f52e149047910d71a2fb5c
+SHA512: 36d6fda9dcabf82eba98e519e1414d6c7a8d1526168836e097de4e5b19cb0b9249583724dcd76fe99466851f3a836d879dd3a8f9eaa8b190cb17b9b6783a0676
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 16+ 全局字体管理器，支持导入 ZIP、TTF、TTC 和 OTF 字体，MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。创建并切换多套字体方案，可以随时恢复系统默认字体。
+Name: MarkFont(rootless)
+Author: Hmmzzz
+Depiction: https://hmmzzz.github.io/repo/depictions/markfont/
+SileoDepiction: https://hmmzzz.github.io/repo/depictions/markfont/sileo.json
 
 Package: com.hk.marker.cn.rl
 Architecture: iphoneos-arm64
