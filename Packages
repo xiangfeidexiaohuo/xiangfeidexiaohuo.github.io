@@ -2549,6 +2549,23 @@ Author: 妖刀
 
 Package: com.dao.watched
 Architecture: iphoneos-arm64e
+Version: 2.0
+Section: 嗨-工具
+Maintainer: Little 34306
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.34306.watched
+Filename: ./roothide/watched 手表配对(RootHide)_2.0.deb
+Size: 5792
+MD5sum: 798e9b53c8040954725bb99c2338535d
+SHA1: 80f2efb395d3d1b472fdbc3243e157ad55f3e445
+SHA256: e291fef8696216c564f7dafd59fa0167f45d9379646b7ed9d49ec5dd077e88b5
+SHA512: e605cf0be426a23e436d07ae0e15da159cde991b8559bd8c5732c64318da199e20c6470888646986c5fefafd204bd2712f069cb9e17250865eb57f2d945a2f1e
+Description: 让旧 iOS 版本配对新 watchOS(自测) 版本，无设置，安装即可生效；2.0：支持iOS17+，添加功能：支持照片同步、支持音乐同步、支持可安装应用同步、支持地图同步。
+Name: watched 手表配对(RootHide)
+Author: 34306
+
+Package: com.dao.watched
+Architecture: iphoneos-arm64e
 Version: 1.2-1
 Section: 嗨-工具
 Maintainer: 34306 & 刀刀
@@ -6745,6 +6762,23 @@ SHA512: bd371da6af85dd1c939a50132b2bffcef3646523770bf12360aa65f11a5a1e6baea08132
 Description: uYou 简体中文包(rootless)。
 Name: uYou 简体中文包(rootless)
 Author: 妖刀
+
+Package: com.dao.watched
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: 嗨-工具
+Maintainer: Little 34306
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: com.34306.watched
+Filename: ./rootless/watched 手表配对(rootless)_2.0.deb
+Size: 5840
+MD5sum: 15cc4992585a098cb96ecb1bea4a4b4e
+SHA1: 0ec7bc15174875b3b8630601c0ccff3b4f2f59a8
+SHA256: b7f9feed71c0cd42414cd0991867a5035d1d0813839437f37303d40aaae24c4d
+SHA512: 9a2607f13618c4e6ff7da5b749ec79df20f4f54fabec3bbd5ceb005bf777345598acb15dee56bac612a64d3e1de3e593fb31abb8495b6e978fa26061cf65a63a
+Description: 让旧 iOS 版本配对新 watchOS(自测) 版本，无设置，安装即可生效；2.0：支持iOS17+，添加功能：支持照片同步、支持音乐同步、支持可安装应用同步、支持地图同步。
+Name: watched 手表配对(rootless)
+Author: 34306
 
 Package: com.dao.watched
 Architecture: iphoneos-arm64
