@@ -1263,6 +1263,27 @@ Author: Hmmzzz
 Depiction: https://hmmzzz.github.io/repo/depictions/markfont/
 SileoDepiction: https://hmmzzz.github.io/repo/depictions/markfont/sileo.json
 
+Package: com.dao.fontmanager
+Architecture: iphoneos-arm64e
+Version: 0.3.3
+Section: 嗨-系统
+Maintainer: Hmmzzz
+Installed-Size: 2376
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./roothide/MarkFont(RootHide)_0.3.3.deb
+Size: 453822
+MD5sum: cfbf9257e59e3ac4003f3dda2f331c53
+SHA1: 498264cf1fdd9265a8a257868b85cc84e71cf161
+SHA256: ea52bdc38392c9ed7d28d015ba74693fc561e5117791caca8f5003a3641edf30
+SHA512: 579dbb457bd4f4e56797cbc5e1c8492a5d5e76cf94626fd1f3d2ee6d65654eb9018d6dc8464a1c40c5e112e3e5b1b33cd0c95c58160fc19922a922dba677f672
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 16+ 全局字体管理器，支持导入 ZIP、TTF、TTC 和 OTF 字体，MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。创建并切换多套字体方案，可以随时恢复系统默认字体。
+Name: MarkFont(RootHide)
+Author: Hmmzzz
+Depiction: https://hmmzzz.github.io/repo/depictions/markfont/
+SileoDepiction: https://hmmzzz.github.io/repo/depictions/markfont/sileo.json
+
 Package: com.hk.milkway4.cn.rl
 Architecture: iphoneos-arm64e
 Version: 0.1.1
@@ -2353,44 +2374,6 @@ Description: vivo OriginOS 风格的陀螺仪「翻转卡片」锁屏壁纸 —�
 Name: VivoStyle(RootHide)
 Author: huy
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64e
-Version: 0.7.4
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 3864
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./roothide/YTKACE(RootHide)_0.7.4.deb
-Size: 911314
-MD5sum: 2e112687410ab2875782c67bf1087be9
-SHA1: 3aee6b3da9df4748e1737dff649563c771272b45
-SHA256: 69874db038db77887b683a921e05c5a18b665f307e109ca2c289854c0dc9fc62
-SHA512: 66951c92a2362ca9696d13c881535e5114d361c39f5a7f3607f9e197c5a50e172797d55b4b8da9afc625da3348f37733df7c3dd44eed6156d45ac0403aa06396
-Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，改造插件并优化部分功能。
-Name: YTKACE(RootHide)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64e
-Version: 0.8.0
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 3640
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./roothide/YTKACE(RootHide)_0.8.0.deb
-Size: 883226
-MD5sum: 37b498d79231a10e47a47709b9bd1868
-SHA1: 339083ef14f98d86dd277fe9362cc85f894088e5
-SHA256: fd6f1f3f835fff74a7eb71e5c3ccd32df460846bc2aca35b8eb3ed8aab6db0e1
-SHA512: ca4eb09a4b46e2144d75589988082d291a8e2d11a5f6e7d8d4d6a39cfaa321e5c3c608c2984ddfad7cccf56d44c913c79c6fd81a269897a9bfdf59af935f7cf5
-Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，改造插件并优化部分功能。
-Name: YTKACE(RootHide)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
@@ -4669,6 +4652,27 @@ Author: Hmmzzz
 Depiction: https://hmmzzz.github.io/repo/depictions/markfont/
 SileoDepiction: https://hmmzzz.github.io/repo/depictions/markfont/sileo.json
 
+Package: com.dao.fontmanager
+Architecture: iphoneos-arm64
+Version: 0.3.3
+Section: 嗨-系统
+Maintainer: Hmmzzz
+Installed-Size: 2392
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./rootless/MarkFont(rootless)_0.3.3.deb
+Size: 464132
+MD5sum: 03540d88d21a5ec650f35ef06294fdcb
+SHA1: ec65a9aa65b81d50374001ec8cb61dfa3938c931
+SHA256: 309aa6fddd6ed23fbee809e0902a1a60c46036ddb61643848dfeaa816618921d
+SHA512: b610397b37939451d0cf80373ac6bf9124f1650ed4fd6720d5c7e53cd08152ccd15e7f667ae302c4d52e18009b92f0187bb494ab883bde86928a966ca4972551
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 16+ 全局字体管理器，支持导入 ZIP、TTF、TTC 和 OTF 字体，MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。创建并切换多套字体方案，可以随时恢复系统默认字体。
+Name: MarkFont(rootless)
+Author: Hmmzzz
+Depiction: https://hmmzzz.github.io/repo/depictions/markfont/
+SileoDepiction: https://hmmzzz.github.io/repo/depictions/markfont/sileo.json
+
 Package: com.hk.marker.cn.rl
 Architecture: iphoneos-arm64
 Version: 2.0-1
@@ -6559,44 +6563,6 @@ Author: Alucard
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64
-Version: 0.7.4
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 3864
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootless/YTKACE(rootless)_0.7.4.deb
-Size: 911828
-MD5sum: 612e374835d6890e36748be36cab9a0b
-SHA1: a1d9f8876c48b93ccf4831663716cc1d554abd5d
-SHA256: d93718ec4e07acd3b74925e316de139933ca0bc1018eef6e341008a467752fae
-SHA512: 1487b5d9585971ea73df624921e698e5e143ea5f387da2066dbb7a00e26c1b31e2091adaf03ee9e27d8ee4f41ea27226e2765a7157e69a71338e88070e3be62c
-Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，改造插件并优化部分功能。
-Name: YTKACE(rootless)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64
-Version: 0.8.0
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 3640
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootless/YTKACE(rootless)_0.8.0.deb
-Size: 883278
-MD5sum: 9f4d37becdccf1095bc24cd845034ace
-SHA1: 498f61b887b665f70bd02fce7ce07ea6f09931a4
-SHA256: 81401a69e5e4e0416cad76c544a7431a6ba5d5b5034a5d95b9b89eff22f420c6
-SHA512: 4be599c3889289365669a3c656500ae576160b866e28b500a5e45f9ab6683dc7b13746005dfd8c23fb27baad8c4c2741f84e3bf6433d90b99b17f5715f484d81
-Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，改造插件并优化部分功能。
-Name: YTKACE(rootless)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64
 Version: 0.8.1
 Section: 嗨-工具
 Maintainer: daodao
@@ -6683,24 +6649,6 @@ SHA512: 5a5b902e6b46ff6486cee0b20aa9389aac59b2c963c98afdbd08af58558fa97e6284a02f
 Description: YouTube Music 多功能插件，可下载，还有更多实用功能。
 Name: YTMusicUltimate(rootless)
 Author: Ginsu & dvntm
-
-Package: com.dao.youtubereborn
-Architecture: iphoneos-arm64
-Version: 4.2.6-2
-Section: 嗨-工具
-Maintainer: arichornlover & 妖刀
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
-Filename: ./rootless/YTR 中文版(rootless)_4.2.6.deb
-Size: 9098368
-MD5sum: b80ad1b9cfbe64aa5430c9388b58c09c
-SHA1: 632ef659ce65b8bbb8869ce6d1bc7eef861e9219
-SHA256: bec92cff0a7565ecd5f64c759141fed84fb8c22f6ca2a508ee22bdfc6d76347f
-SHA512: e4ffdfe47b6cfab05fb19621c6c0df98e3a389265dd2f34914e2536a4ffbff550f8bb43f35c5325382bb2fe76995b7f1436610eaae66d1710d90d0957125a101
-Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
-Name: YTR 中文版(rootless)
-Author: Lillie & arichornlover
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytr/js.json
 
 Package: com.dao.youmod
 Architecture: iphoneos-arm64
@@ -19854,44 +19802,6 @@ SHA512: bd945f4260ea62ce48b47bc42f2304e2a1329a2d5e250bd296b0c94d2447aeb26849cbb9
 Description: Xina1专版NewTerm3，Xina1用户千万不要更新Procursus源提示的三十几个依赖更新，千万别更新！！！
 Name: NewTerm 3(Xina1)
 Author: HASHBANG Productions
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm
-Version: 0.7.4
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 3864
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootful/YTKACE_0.7.4.deb
-Size: 911456
-MD5sum: f3bb1676299b74e4f8292d849732af80
-SHA1: c5829959fae4a296845d9d814e8d1d2dfb8a75ad
-SHA256: 940126f39961a9d70d88038875bf61c8cca53c6561ce4dc4c7a3d6b9841f9730
-SHA512: a30f6fd680da22b18338eb12f81319a8e78fe26d1de55b6c0ba3af4b9253cef586cd3add31c184b9fb36fbb92df387488150a4d7dd3bfa157ac0c20da2b596d5
-Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，改造插件并优化部分功能。
-Name: YTKACE
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm
-Version: 0.8.0
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 3640
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootful/YTKACE_0.8.0.deb
-Size: 883532
-MD5sum: 15ee10626ac19765f05c52b3e1b684cd
-SHA1: 16fc030b5f706e8646e619d32e0b66342f294023
-SHA256: 3c62061a9a5a4f914e4230bd112cdafe7eab0aa963f59a4e756426ea5b59de2c
-SHA512: 47414c6628879bd04ba2d7e8bb4955aa94bb2700e4c432e8517f21763fa2c37beb7fc7f6c52e532bda4874ad0e13b9cf39767ca926b1726db702d9114d7977ec
-Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，改造插件并优化部分功能。
-Name: YTKACE
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm
