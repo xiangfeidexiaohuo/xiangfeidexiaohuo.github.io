@@ -2335,6 +2335,25 @@ Name: VivoStyle(RootHide)
 Author: huy
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
 
+Package: com.dao.vivostyle
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: 嗨-工具
+Maintainer: huy
+Installed-Size: 452
+Depends: ellekit, preferenceloader, firmware (>= 15.0)
+Conflicts: com.vivostyle.tweak
+Filename: ./roothide/VivoStyle(RootHide)_1.0.1.deb
+Size: 46696
+MD5sum: ac28c395e1b43642351e7a15801378c7
+SHA1: c537b8d3833a6626ffe3a26075a3b82bd6227ed2
+SHA256: b0b4c8eae4cebf80007b68a2e242e3327441d826fdc59d8050313ee2add0569e
+SHA512: 9f3e185674680341f5976ba009d8dd5fc27c568a6da5ec15bda88f31b4b2ddd89243e6498c0ba21fe6bf55267c0f9095b53bce63b284b5ff1a1fdb17b9cfec07
+Description: vivo OriginOS 风格的陀螺仪「翻转卡片」锁屏壁纸 —— 倾斜手机时，可在自己的照片之间进行交叉淡入淡出切换，并带有视差景深效果。
+Name: VivoStyle(RootHide)
+Author: huy
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
+
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
 Version: 0.7.4
@@ -2388,6 +2407,25 @@ SHA1: a1bc73db3e4d4ce59f9c6ba1b8cf41bde9e5ce9b
 SHA256: d672cd748a9cfcd2d47148864ed72913e6b825930a3cc0a67e605d2c3c01ec3b
 SHA512: 780b37a536fd6857c17f731e3f347d26b3497fcb6dc1ee3bf65581532c85b991e2b44baf4cb42aefe00c729a720810a3c2754b558d586ec3edeb4d656f25d53b
 Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，改造插件并优化部分功能。
+Name: YTKACE(RootHide)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64e
+Version: 0.8.2
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 2684
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.itzzace.ytkace
+Filename: ./roothide/YTKACE(RootHide)_0.8.2.deb
+Size: 795468
+MD5sum: ce4d83ba1ada1a241282c9ef848e48cc
+SHA1: c9d0c0fe6f0fdbf2f45bb49ec3b5ae8c53a24927
+SHA256: 57b9ca029abbe44fd693db451ddaeee1804458c18230eea0a8644ff42d52d76f
+SHA512: 87c8efd0453c67d1a5fb5f0d271579b8f93818695b921437568a0b7f7904b0516aa3a8442594a8081e840bc9576ea2e7fd4addd69c006178e773026c4bb86cb2
+Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
 Name: YTKACE(RootHide)
 Author: itzzace & daodao
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
@@ -6466,6 +6504,25 @@ Name: VivoStyle(rootless)
 Author: huy
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
 
+Package: com.dao.vivostyle
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: 嗨-工具
+Maintainer: huy
+Installed-Size: 452
+Depends: ellekit, preferenceloader, firmware (>= 15.0)
+Conflicts: com.vivostyle.tweak
+Filename: ./rootless/VivoStyle(rootless)_1.0.1.deb
+Size: 47790
+MD5sum: 62eabbc69a6c5c5ae0ef8ef8b3f89e89
+SHA1: 546c4713df6be6930bd2b9ddff57188039c3d71c
+SHA256: 26e4c06e7c6a1a0eaeb151c90da993f48711ba4c5e78f73269df09c19b9e3aa9
+SHA512: 1ce1eaa223fe7e5b7396a9dab21089f375951ae4ce327e71ec016eb9c3fd55ae5a1601eeb0c33f00c598a6bf5661ad03a025e3f5eb737984976818388e0ba733
+Description: vivo OriginOS 风格的陀螺仪「翻转卡片」锁屏壁纸 —— 倾斜手机时，可在自己的照片之间进行交叉淡入淡出切换，并带有视差景深效果。
+Name: VivoStyle(rootless)
+Author: huy
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
+
 Package: com.daodao.wicellswitcher
 Architecture: iphoneos-arm64
 Version: 1.2
@@ -6553,6 +6610,25 @@ SHA1: 97c275ead1424fa3fd4197f3d1893c1ce9027231
 SHA256: fca015f59d1370be7c48ac847348468f8c61c0ed5d1dcb3edd3d0ce718efb4c7
 SHA512: 1b585b10753df518542c8cbdf0bb6c34ef408c783b7903bcf3a61028072bd2dde17325728479b6ecb7f359f0904178e8a38f32d734023c84766e6f930f8f1fdf
 Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，改造插件并优化部分功能。
+Name: YTKACE(rootless)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64
+Version: 0.8.2
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 2684
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.itzzace.ytkace
+Filename: ./rootless/YTKACE(rootless)_0.8.2.deb
+Size: 795632
+MD5sum: 9a42e783724f5f5ab95e4bc4c0e70b53
+SHA1: db80b949d9034f5ecb3841b0c6ded08feb89d8ae
+SHA256: e373f781947d007127602458d654b45bc315079739f4265f5ab430a63be3cb71
+SHA512: e8855fc00d8a58e9808224787722e3d88535082ad86c35b8c27612741aa06cfc45a67115dc287b5f22926ebeb9255d3e894edf1283f120567dd7c396d5b63e90
+Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
 Name: YTKACE(rootless)
 Author: itzzace & daodao
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
@@ -19832,6 +19908,25 @@ SHA1: 3c9d4eae0df36ef87bd61a912805ea2d93d9c342
 SHA256: da003ab1fbd15705b1c7dd7fde3bbca6e42fb9a0c53ef2eef9bc48b38b4ee5f6
 SHA512: a960fa6ae4400ad1b17965a633303258f949a2ec29853ea3470300214ae3a9969f2c638a35c77f2ade991f66ea48adcc4ede8939afad9eb288315816f98f5a78
 Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，改造插件并优化部分功能。
+Name: YTKACE
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm
+Version: 0.8.2
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 2684
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.itzzace.ytkace
+Filename: ./rootful/YTKACE_0.8.2.deb
+Size: 795470
+MD5sum: 989edde1ec74d2eaf694282bd0d2bcc8
+SHA1: ee41b0404782fc3cca53c795f6a8760ba2b6cb6a
+SHA256: 77be39f2f84020f675674d0febaaccaf94da5e17998ece7759399620371e6dbc
+SHA512: 0319ee1fdbf86021b49cc41741d1c7d32275de57f955b477887a9c7cd759d587b0353a842b95deac79f3d9ed2b466ba1329b48f24a891c06c411c4fa7f665455
+Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
 Name: YTKACE
 Author: itzzace & daodao
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json

@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，改造插件并优化部分功能。",
+                    "markdown": "YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。",
                     "useRawFormat": true,
                 },
                 {
@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.8.1",
+                    "text": "0.8.2",
                     "title": "最新版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 07 日",
+                    "text": "2026 年 08 月 09 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -103,13 +103,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "0.8.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步源码 0.8.2</br> 补全缺失的翻译，翻译更完整",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "0.8.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步源码 0.8.0</br> 补全缺失的翻译，翻译更完整</br> 修复播放器投屏按钮和导航栏通知按钮隐藏功能",
+                    "markdown": "同步源码 0.8.1</br> 补全缺失的翻译，翻译更完整</br> 修复播放器投屏按钮和导航栏通知按钮隐藏功能",
                     "useRawFormat": true
                 },
                 {
