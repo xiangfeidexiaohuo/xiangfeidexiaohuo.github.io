@@ -2435,15 +2435,15 @@ Architecture: iphoneos-arm64e
 Version: 0.8.3
 Section: 嗨-工具
 Maintainer: daodao
-Installed-Size: 2668
+Installed-Size: 2596
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.itzzace.ytkace
 Filename: ./roothide/YTKACE(RootHide)_0.8.3.deb
-Size: 794792
-MD5sum: b2a9c7f7ca91b05e8a95e7dd1a2bdfd7
-SHA1: dbf75e5d5c763019dd9e4aa997ed6945ff7bdbea
-SHA256: aa849380ba4f38f765b508c392418733ad9f7cd5d83839c08d2c8c66eea62420
-SHA512: 67e36b2835a8b8c5e218f291f02d87385b5ecb9f5685165bda61d93f1e11394f67788dc02aae5e06bec76c703066622bfb0e3922ce1664944d2aba851565597f
+Size: 795054
+MD5sum: 137503234a5e5167babd58cfeb069ea7
+SHA1: 67f68932fe67b8117652be941abff46b2551ac20
+SHA256: 8395290ceb2d6ff6a58a5da17ec5e48e3fcb2f3c9155cff6952722a8c568325c
+SHA512: 71614edff27eaada2792e63ba022b6c65f1dd73e397f4eaf3ec5c3eade6776283be45bb8d56a09771a5c84258dc180ccd45126cb84bfd7870a1e6cd4d4ff1ac8
 Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
 Name: YTKACE(RootHide)
 Author: itzzace & daodao
@@ -6657,15 +6657,15 @@ Architecture: iphoneos-arm64
 Version: 0.8.3
 Section: 嗨-工具
 Maintainer: daodao
-Installed-Size: 2668
+Installed-Size: 2596
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.itzzace.ytkace
 Filename: ./rootless/YTKACE(rootless)_0.8.3.deb
-Size: 795070
-MD5sum: 22d4ea39006807ead222a32b91d93391
-SHA1: 03afb4c699b694cecb4c9229d044d7a44482ec6a
-SHA256: 56fa192e95bdd54271683f278b7952b6ee76ac56509cfa5017a6cb2e2bd715da
-SHA512: 8856847293ebd292091680c2bf7c50349fec258c9b9184d9a0c1f62634ef32659043e24954e659d2377f6cd2c49b34273aa19e83b4be3b562e2941020c728d17
+Size: 794968
+MD5sum: bcb05c95e77caa3f059fd97749bb3abb
+SHA1: 79388967046c6e9367b8fb8a130fb0b04546c1a5
+SHA256: 788b90fd96065b2967ff959557a4fde8b7b57ce57aff31d2c1f48eb37a25d002
+SHA512: ccc29112c2ac99f0eb89668692ac58298683e7b1fa2d8fe0e07d6430df3312c1039e28c53fcdd022e1668abe4efa50be2c1ccffed96f2682c88935e199ef1d39
 Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
 Name: YTKACE(rootless)
 Author: itzzace & daodao
@@ -19935,15 +19935,15 @@ Architecture: iphoneos-arm
 Version: 0.8.3
 Section: 嗨-工具
 Maintainer: daodao
-Installed-Size: 2668
+Installed-Size: 2596
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.itzzace.ytkace
 Filename: ./rootful/YTKACE_0.8.3.deb
-Size: 794734
-MD5sum: 68f0e7842a48e50a1a31ec0a91a2e76c
-SHA1: bd73366e68b27940d3d7ae7814f8c2beffe1f60d
-SHA256: 7ac173d68be78c7e806294c595d6bdf8c1954b47bab1884caa2d0fc2a70b9f90
-SHA512: 31a2f0f96006d8ac3724df4e2022dd4540291e1396452b4cf948230aeb5b65d5691cfa876ce1205b236fa97273642eed84ef352cccef3ead87babde709ca8096
+Size: 795108
+MD5sum: c590a8833332def4dfcb152907a6ea8d
+SHA1: 9269726602e9244d0f2d930fe272c04d992d8772
+SHA256: 78ecf7689d1714fa39ec973b64d7b59fdccb2ed0272b7e0db2bd072a2af5658b
+SHA512: 7820448f53213af5108e78f58dbaa53f7c13ce8b61a6c3147c43f4bf561f9021da107a13de44a44b86ee5cf4cd153639fd0918dea899476264467e1f710b417f
 Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
 Name: YTKACE
 Author: itzzace & daodao
