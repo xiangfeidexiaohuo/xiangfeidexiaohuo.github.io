@@ -1114,6 +1114,23 @@ Description: KBApp 简体中文包(RootHide)。
 Name: KBApp 简体中文包(RootHide)
 Author: 妖刀
 
+Package: com.dao.kwcrack
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: 嗨-工具
+Installed-Size: 168
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: com.macxk.kwcrack
+Filename: ./roothide/KWSimpleCrack(RootHide).deb
+Size: 3640
+MD5sum: 3cab60b7d83426cb565b2150386b8bb9
+SHA1: 108bc41249725ab6a509ce5a4ea3d421df051d54
+SHA256: be69d55707c0497b4c3338af8bc164cd112847f8b1a2aed58197d69f4b43401a
+SHA512: faf750fe14a77e78301d395024557daf129afb9b5e0bf2f3464bac897a7aa63e58e77dcc7c1becbbfd815867015776e40cc4a857c8d7bc3660592516521a1a02
+Description: 酷我音乐纯净版（1.0.5）开心插件。
+Name: KWSimpleCrack(RootHide)
+Author: MacXK
+
 Package: com.dao.kayoko
 Architecture: iphoneos-arm64e
 Version: 3.2
@@ -2408,6 +2425,25 @@ MD5sum: ce4d83ba1ada1a241282c9ef848e48cc
 SHA1: c9d0c0fe6f0fdbf2f45bb49ec3b5ae8c53a24927
 SHA256: 57b9ca029abbe44fd693db451ddaeee1804458c18230eea0a8644ff42d52d76f
 SHA512: 87c8efd0453c67d1a5fb5f0d271579b8f93818695b921437568a0b7f7904b0516aa3a8442594a8081e840bc9576ea2e7fd4addd69c006178e773026c4bb86cb2
+Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
+Name: YTKACE(RootHide)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64e
+Version: 0.8.3
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 2668
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.itzzace.ytkace
+Filename: ./roothide/YTKACE(RootHide)_0.8.3.deb
+Size: 794792
+MD5sum: b2a9c7f7ca91b05e8a95e7dd1a2bdfd7
+SHA1: dbf75e5d5c763019dd9e4aa997ed6945ff7bdbea
+SHA256: aa849380ba4f38f765b508c392418733ad9f7cd5d83839c08d2c8c66eea62420
+SHA512: 67e36b2835a8b8c5e218f291f02d87385b5ecb9f5685165bda61d93f1e11394f67788dc02aae5e06bec76c703066622bfb0e3922ce1664944d2aba851565597f
 Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
 Name: YTKACE(RootHide)
 Author: itzzace & daodao
@@ -4392,6 +4428,23 @@ SHA512: f0026e4746e68b094f0b69625d6cfdb077acce581f5ee82a3ef0a1fa44c0353d8e016acb
 Description: KBApp 简体中文包(rootless)。
 Name: KBApp 简体中文包(rootless)
 Author: 妖刀
+
+Package: com.dao.kwcrack
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: 嗨-工具
+Installed-Size: 168
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: com.macxk.kwcrack
+Filename: ./rootless/KWSimpleCrack(rootless).deb
+Size: 3708
+MD5sum: d158b9bfe0d71d485c61414e358fd14e
+SHA1: ad7387c3e991bda58ed3e75f045c5c278b8039bf
+SHA256: c8f66eb220e324985f614d64994a6b10f51cea447ab57ddb4a50551b19b80e13
+SHA512: ee5c4b60c1b0559a5b02ab0dc37c35108bd3ddfb24bd3296097c74da39eaa45c629ff227113260cfe5b9dbfde903e78b9c3a41f0d060ce9dde4092b778a9e98b
+Description: 酷我音乐纯净版（1.0.5）开心插件。
+Name: KWSimpleCrack(rootless)
+Author: MacXK
 
 Package: com.dao.kayoko
 Architecture: iphoneos-arm64
@@ -6594,6 +6647,25 @@ MD5sum: 9a42e783724f5f5ab95e4bc4c0e70b53
 SHA1: db80b949d9034f5ecb3841b0c6ded08feb89d8ae
 SHA256: e373f781947d007127602458d654b45bc315079739f4265f5ab430a63be3cb71
 SHA512: e8855fc00d8a58e9808224787722e3d88535082ad86c35b8c27612741aa06cfc45a67115dc287b5f22926ebeb9255d3e894edf1283f120567dd7c396d5b63e90
+Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
+Name: YTKACE(rootless)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64
+Version: 0.8.3
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 2668
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.itzzace.ytkace
+Filename: ./rootless/YTKACE(rootless)_0.8.3.deb
+Size: 795070
+MD5sum: 22d4ea39006807ead222a32b91d93391
+SHA1: 03afb4c699b694cecb4c9229d044d7a44482ec6a
+SHA256: 56fa192e95bdd54271683f278b7952b6ee76ac56509cfa5017a6cb2e2bd715da
+SHA512: 8856847293ebd292091680c2bf7c50349fec258c9b9184d9a0c1f62634ef32659043e24954e659d2377f6cd2c49b34273aa19e83b4be3b562e2941020c728d17
 Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
 Name: YTKACE(rootless)
 Author: itzzace & daodao
@@ -13257,6 +13329,23 @@ Description: Juice 简体中文包。设置选项简单汉化了下。
 Name: Juice 简体中文包
 Author: 妖刀
 
+Package: com.dao.kwcrack
+Architecture: iphoneos-arm
+Version: 0.1
+Section: 嗨-工具
+Installed-Size: 168
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: com.macxk.kwcrack
+Filename: ./rootful/KWSimpleCrack.deb
+Size: 3612
+MD5sum: 59cdc00ee690ac969e420f4f93f4edd4
+SHA1: a4d5a5dbd8bf6a01afdde51f13ee1ec5cdea80fb
+SHA256: 32c389e446e3965c71fa8a59818ce4a4ba3359468ac9a3ab7435cc7448a10e9d
+SHA512: 3fb26300fe20d454c1431e0bf6451d3f6ae1f54b798976aed1fe913928f98a6743c91349693521fc6b5425ebbfc0d242dcbcc7825b447a42a7bf333c01f5d837
+Description: 酷我音乐纯净版（1.0.5）开心插件。
+Name: KWSimpleCrack
+Author: MacXK
+
 Package: com.hk.kaleidoscope.cn
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -19836,6 +19925,25 @@ MD5sum: 989edde1ec74d2eaf694282bd0d2bcc8
 SHA1: ee41b0404782fc3cca53c795f6a8760ba2b6cb6a
 SHA256: 77be39f2f84020f675674d0febaaccaf94da5e17998ece7759399620371e6dbc
 SHA512: 0319ee1fdbf86021b49cc41741d1c7d32275de57f955b477887a9c7cd759d587b0353a842b95deac79f3d9ed2b466ba1329b48f24a891c06c411c4fa7f665455
+Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
+Name: YTKACE
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm
+Version: 0.8.3
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 2668
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.itzzace.ytkace
+Filename: ./rootful/YTKACE_0.8.3.deb
+Size: 794734
+MD5sum: 68f0e7842a48e50a1a31ec0a91a2e76c
+SHA1: bd73366e68b27940d3d7ae7814f8c2beffe1f60d
+SHA256: 7ac173d68be78c7e806294c595d6bdf8c1954b47bab1884caa2d0fc2a70b9f90
+SHA512: 31a2f0f96006d8ac3724df4e2022dd4540291e1396452b4cf948230aeb5b65d5691cfa876ce1205b236fa97273642eed84ef352cccef3ead87babde709ca8096
 Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
 Name: YTKACE
 Author: itzzace & daodao

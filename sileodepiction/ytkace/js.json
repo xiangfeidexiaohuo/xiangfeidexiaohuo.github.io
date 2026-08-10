@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.8.2",
+                    "text": "0.8.3",
                     "title": "最新版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 09 日",
+                    "text": "2026 年 08 月 10 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -101,6 +101,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.8.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步源码 0.8.3</br> 补全缺失的翻译，翻译更完整</br> 优化 导航-移除通知和消息 功能",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "0.8.2",
