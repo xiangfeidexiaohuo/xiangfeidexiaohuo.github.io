@@ -995,6 +995,25 @@ Name: Griddy 随意摆(RootHide)
 Author: mikifp
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
 
+Package: com.dao.griddy
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: 嗨-工具
+Maintainer: mikifp
+Installed-Size: 272
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: ./roothide/Griddy 随意摆(RootHide)_1.1.deb
+Size: 26316
+MD5sum: 608c2b94456649174227b7fc85c899a2
+SHA1: d2808ce5f51f60c145a49cd8a6e298cd68204c96
+SHA256: 19646f925536ddac3e5ba9f5725c512d6f80f13548d4f7db678b5bacba11e538
+SHA512: 093ee63a81f95fb910647d76f008df36ac6a3b44792da3ea7179c24c18372ba2944139d6f7e83aace90f324e8d9608d8d93d71cc0ef35019d985d28f1b1eef6b
+Description: 让你的程序图标在桌面随意摆放；适iOS15-17+。
+Name: Griddy 随意摆(RootHide)
+Author: mikifp
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
 Package: com.hk.halo.cn.rl
 Architecture: iphoneos-arm64e
 Version: 2.2
@@ -4221,6 +4240,25 @@ SHA1: d06a183b8e7eee1a168736568170c32294c05cda
 SHA256: 1cbe224479ac9f68e2fef42a261fe97758df68505a29f47a25aec6e3d4dfe5a7
 SHA512: 718128c2b097ec3b9522b57a7a19c1d15756cf08afe3d588d971d6b6c8c6869a1493655a8c388e3ddb9e0d65743bc58dee3bd01140d527edbba3de97e4758f2c
 Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
+Name: Griddy 随意摆(rootless)
+Author: mikifp
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
+Package: com.dao.griddy
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: 嗨-工具
+Maintainer: mikifp
+Installed-Size: 272
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: ./rootless/Griddy 随意摆(rootless)_1.1.deb
+Size: 27538
+MD5sum: ee395e38c23831f90b66421038f31216
+SHA1: 6b0e9dd94ad544e496d2bdbbd937aa8531e2c6cf
+SHA256: 155f298ae0bfa014ec6fd7f4ad4f6fa2f47b3c614fadafd9f7179ddb33ec62e0
+SHA512: e53694c0e1da7a60bda5600511ee45cf0c3bd0158776c54759f766f3a3a44c59c4646bf4f5941a56d510262534256d214bfaccedfda97f7784ded2606ff6d303
+Description: 让你的程序图标在桌面随意摆放；适iOS15-17+。
 Name: Griddy 随意摆(rootless)
 Author: mikifp
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json

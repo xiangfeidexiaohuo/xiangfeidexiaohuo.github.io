@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "可以将应用程序拖到桌面任何地方摆放，甚至留下空白区域或者整行都可以；基于作者开源，重新编译，不需要付费！",
+                    "markdown": "可以将程序图标拖到桌面任何地方摆放，甚至留下空白区域或者整行都可以！",
                     "useRawFormat": true,
                 },
                 {
@@ -74,17 +74,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.5",
+                    "text": "1.1",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "15.0 - 16.6.1",
+                    "text": "15.0 - 17.3.1",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 12 月 23 日",
+                    "text": "2026 年 08 月 11 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -99,13 +99,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "1.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "参考 Yves000/griddy 源码适配 iOS17，感谢！</br> 修复文件夹图标概率飞入</br> 修复文件夹预览（因其他插件可能会重新排布）</br> 修复某些情况下长按无法拖动的问题</br> 17.1 自测没啥大问题",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "1.0.5",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "不支持 Relaxin iOS17 越狱</br> </br> 同步开源 v1.0.5 编译",
+                    "markdown": "同步开源 v1.0.5 编译",
                     "useRawFormat": true
                 }
             ]
