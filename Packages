@@ -717,6 +717,24 @@ Description: 自定义X键盘底部高度，地球底部高度等；Netskao新�
 Name: ClassicKeyboardXS(RootHide)
 Author: Netskao
 
+Package: cn.dao.relaxin.cocoatop
+Architecture: iphoneos-arm64e
+Version: 2.3.3
+Section: 嗨-系统
+Maintainer: SXX, Domo
+Installed-Size: 936
+Conflicts: ru.domo.cocoatop, ru.domo.cocoatop64, cn.zqbb.cocoatop64.inject.roothide, zp.cocoatop64.unject, zp.cocoatop64.unject.xina, zp.cocoatop64.inject, cn.zqbb.cocoatop64.relaxin
+Replaces: ru.domo.cocoatop, ru.domo.cocoatop64, cn.zqbb.cocoatop64.inject.roothide, zp.cocoatop64.unject, zp.cocoatop64.unject.xina, zp.cocoatop64.inject
+Filename: ./roothide/CocoaTop64 中文版(Relaxin)_2.3.3.deb
+Size: 243858
+MD5sum: ab409d00bda636a5f0dcb778a55e694a
+SHA1: 30966060e399ebf776ff2c844775976983edc94a
+SHA256: 52ef729253cbbe211082f30f55d7516991a569c26de7ca2d975007197f9fc0ad
+SHA512: adc1a5747a725f9e597982fb15fe3f14c0e49b7aba463dad0ec720e956446b859926ba1283b693c0c5be186cba7ef0b60e3e1500b23a4639b2954637862ee8cc
+Description: CocoaTop64 进程查看，基于真皮版定制：中文翻译+UI微调+更新图标等。
+Name: CocoaTop64 中文版(Relaxin)
+Author: Domo, SXX
+
 Package: com.dao.coolcc
 Architecture: iphoneos-arm64e
 Version: 2.1
