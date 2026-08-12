@@ -1638,6 +1638,23 @@ Description: PrimalFolder2 简体中文包(RootHide)。
 Name: PrimalFolder2 简体中文包(RootHide)
 Author: 妖刀
 
+Package: com.dao.pulloverx
+Architecture: iphoneos-arm64e
+Version: 1.5
+Section: 嗨-工具
+Maintainer: daodao
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Replaces: com.mlgm.pulloverx.preferences
+Filename: ./roothide/PullOverX(RootHide)_1.5.deb
+Size: 263180
+MD5sum: 9086925180243cde55cff926b4846c27
+SHA1: 94b8178ada7fdb1320df5d2e0ff5d27c4356001f
+SHA256: 3b2e6b88e9e38f388e482330bf8488753acc5ee75ebf75a835d452e5802e81da
+SHA512: 0975a7511228980f0dd9658a4e3bce533a8f1376201afbe2a98a7eb18a36357e5b60e413cbe1a7bea06f0b434a823bc3101cc22f720a3584f9a08db1d9ceabe8
+Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Name: PullOverX(RootHide)
+Author: mlgm
+
 Package: com.dao.noline
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -5386,6 +5403,23 @@ SHA512: fc1782830ebe927950107dc6ba94de4a9954874cc51a4d81f17c7336e63527f10227a06f
 Description: 更好的窗口多任务分屏，屏幕侧边呼出，由Netskao适配优化支持iOS15+。Netskao新更的版本，上架备份。
 Name: PullOver Pro(rootless)
 Author: c1d3r
+
+Package: com.dao.pulloverx
+Architecture: iphoneos-arm64
+Version: 1.5
+Section: 嗨-工具
+Maintainer: daodao
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Replaces: com.mlgm.pulloverx.preferences
+Filename: ./rootless/PullOverX(rootless)_1.5.deb
+Size: 266362
+MD5sum: afa2aefc014337affe0f38a989a8905b
+SHA1: 107fa1c2d9994f1fb1409c3d84a19670fbc59005
+SHA256: 24283f62e3e6afc051596f57acd95280cbeda1083b5e30cf43930d73a308de0a
+SHA512: ffcae51913a727d86a91f48f1e6e2619f12dc446473cb8c02c36044a2ceddc8f27580a0c32711845a4c77426b4c7eee106fbace9435edc1fa2887f2716c16942
+Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Name: PullOverX(rootless)
+Author: mlgm
 
 Package: com.dao.noline
 Architecture: iphoneos-arm64
