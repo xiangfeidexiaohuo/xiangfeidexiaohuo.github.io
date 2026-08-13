@@ -737,6 +737,24 @@ Author: Netskao
 
 Package: cn.dao.relaxin.cocoatop
 Architecture: iphoneos-arm64e
+Version: 2.3.3.1
+Section: 嗨-系统
+Maintainer: SXX, Domo
+Installed-Size: 936
+Conflicts: ru.domo.cocoatop, ru.domo.cocoatop64, cn.zqbb.cocoatop64.inject.roothide, zp.cocoatop64.unject, zp.cocoatop64.unject.xina, zp.cocoatop64.inject, cn.zqbb.cocoatop64.relaxin
+Replaces: ru.domo.cocoatop, ru.domo.cocoatop64, cn.zqbb.cocoatop64.inject.roothide, zp.cocoatop64.unject, zp.cocoatop64.unject.xina, zp.cocoatop64.inject
+Filename: ./roothide/CocoaTop64 中文版(Relaxin)_2.3.3.1.deb
+Size: 243830
+MD5sum: d7b86bb1c0e3bc80fa8d156eb3cff44b
+SHA1: 7cdfd0e8032765aee190065210926b98bbf69f2e
+SHA256: 3dd6512aab08107dc50234ca9b5ab2eb8ed0b3c2e18be3e18cd000186e478250
+SHA512: 2fca811d6d88227f5daa6a06f97c9dce53b4b353fe7a621b1e843b2cfb0d26b8591732273b934f9766fd94b00cbbdbe8c8a9a8a9f0b9cfa54644d1ae3378347d
+Description: CocoaTop64 进程查看，基于真皮版定制：中文翻译+UI微调+更新图标等。
+Name: CocoaTop64 中文版(Relaxin)
+Author: Domo, SXX
+
+Package: cn.dao.relaxin.cocoatop
+Architecture: iphoneos-arm64e
 Version: 2.3.3
 Section: 嗨-系统
 Maintainer: SXX, Domo
