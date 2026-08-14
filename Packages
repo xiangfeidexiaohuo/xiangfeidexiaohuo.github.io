@@ -1050,6 +1050,25 @@ Name: GoodWiFi 中文版(RootHide)
 Author: julioverne & 妖刀
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
+Package: com.daodao.goodwifi
+Architecture: iphoneos-arm64e
+Version: 1.7
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 472
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: ./roothide/GoodWiFi 中文版(RootHide)_1.7.deb
+Size: 80956
+MD5sum: 29f8382e5d07f91cdbd6ef24c215fa26
+SHA1: 4a247016cb043dd253edaa9d375c4c6c3384b47e
+SHA256: b80244482ba2296b538b89bab5fcccd37bdeeeb8dbf298f98e6fa75c6d85c8a7
+SHA512: 0fbbf51e9b3123dafcd52d99d3938ad8f567256a59d40576d4b78f2ab1f516870d32d5e1c19fa125ffde960e2fff67914303a7dad1b93d11d8dc8b908045497b
+Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
+Name: GoodWiFi 中文版(RootHide)
+Author: julioverne & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
 Package: com.dao.griddy
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -1708,6 +1727,25 @@ SHA256: b684b63cfbbfb8b3cb564121057eb96d2da10cad1fa9249f7db3a06cc434dc58
 SHA512: 9b4c6d8ea5a095ea0f036edc66f5bdc8b78edab4f42b084d31bd41f91190a144637879263c5c28c693e6c7f94317f7f26d1ce425e2d56ca4e59c329b0f4b95f6
 Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
 Name: PullOverX
+Author: mlgm
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: 嗨-工具
+Maintainer: daodao
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: ./roothide/PullOverX(RootHide)_2.1.deb
+Size: 266574
+MD5sum: 5b0774f04d587448dbf341792b73e28d
+SHA1: b4d82ff103188059c6529f5bdfd652e212ac7b72
+SHA256: 6341723af9dce0c07e769a08bcee43c8d5e4e10becec72ba0939c612333292e2
+SHA512: 314a5b924f4335db798d8804c9d916ad3c8ac73d9913d8a4840b32f45899bf48eee1d870ba65051980d38487b0a35b474f904f4cff582a19424aa7d46b943424
+Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Name: PullOverX(RootHide)
 Author: mlgm
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
 
@@ -4373,6 +4411,25 @@ Name: GoodWiFi 中文版(rootless)
 Author: julioverne & 妖刀
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
+Package: com.daodao.goodwifi
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 504
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: ./rootless/GoodWiFi 中文版(rootless)_1.7.deb
+Size: 82582
+MD5sum: 72a5162eea4929e8fa0b67810caa1f50
+SHA1: 76783fb004f851224c1dbb1004ccdd9a21acc015
+SHA256: 8f5dcbf237d42e79e7c10db7d554f148083ee2faeb0a75109060c698cd4d360c
+SHA512: 506b5dae34de129681d578ccf4d448feb762ef84a2e8fdabe7660e8d46acb3dc268a6eda306523f839aec5255aee91e42278ca08f54584a8294d9be44848bd79
+Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
+Name: GoodWiFi 中文版(rootless)
+Author: julioverne & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
 Package: com.dao.griddy
 Architecture: iphoneos-arm64
 Version: 1.0.5
@@ -5529,6 +5586,25 @@ MD5sum: 4ee1963a1046a67829d2e30cf5ae5a63
 SHA1: acc53f9f2af3e5224598922030302846643009f9
 SHA256: 550a69da67d30530b29d96b5df4dfa8a2aae429a7173224c9432ee4087633792
 SHA512: 73665db01b8fd6b35d00b9c32e85dd7586fafdc3167304a8d28700a7cfca2ae65d71be2c0b819e2ff5bbe0288a2dc6005904816a3f0cb818805d0838af738b9c
+Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Name: PullOverX(rootless)
+Author: mlgm
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: 嗨-工具
+Maintainer: daodao
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: ./rootless/PullOverX(rootless)_2.1.deb
+Size: 268584
+MD5sum: 503c797f072682dd6283c8d47a10c330
+SHA1: 49b8bba470f8d966fcbe8fe39fdc5b232a24d1de
+SHA256: 6535c849a343d982931dab2ab3a054ff41800012e0767c41328c335141d78643
+SHA512: 3e7dab3e9dce9bfc42645702b5661bc1f9224d5d5a0e837dbdb5cb62e3b1b9200c38241029d8208121db558425d81663165d941ebe8990195997508faa84466a
 Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
 Name: PullOverX(rootless)
 Author: mlgm
@@ -12525,6 +12601,25 @@ SHA512: 8452a322d2b566785ce99317e449fa1d041847a63e72226bbf3c4b6af97954cd2197eb2d
 Description: Glow 简体中文包。
 Name: Glow 简体中文包
 Author: Sandy0/妖刀
+
+Package: com.daodao.goodwifi
+Architecture: iphoneos-arm
+Version: 1.7
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 504
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: ./rootful/GoodWiFi_1.7.deb
+Size: 82546
+MD5sum: c616f4125b850080c920875056b492d5
+SHA1: a4a163de576e76ea1f40ecf03cbd3c2994ccb3fd
+SHA256: 804a42c095a90b569f558623da11dcb37fb2ba2d2a983cacfa2eab686cefd1ed
+SHA512: 97cf6a381801c78a4121271aefb38fc2a7f3ec9916740668c169eaf7c1aaee47e09913053f5fb4774ba5e4a11a2aa5f237c4a46487cea50f50befdcd08b07722
+Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
+Name: GoodWiFi 中文版
+Author: julioverne & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
 Package: com.daodao.goodwifi
 Architecture: iphoneos-arm
