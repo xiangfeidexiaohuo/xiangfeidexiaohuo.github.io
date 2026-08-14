@@ -1732,6 +1732,25 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.
 
 Package: com.dao.pulloverx
 Architecture: iphoneos-arm64e
+Version: 2.1.1
+Section: 嗨-工具
+Maintainer: daodao
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: ./roothide/PullOverX(RootHide)_2.1.1.deb
+Size: 267598
+MD5sum: d15e112bcb341fdaef57e8493faad1a8
+SHA1: c4721b15cee02bdd186540ed01777c6d39aa7752
+SHA256: becfb5d0011a48235580581cccf360f88aafac80eb32b99f57e48039c9a922b9
+SHA512: 4fc166cd51024af9c3028e2f8bbe60bb5a9cced1b2fa7bec56d6f1303d15cc31fe9240ecf8a84c66901c59da2dd92825a3ba7f90e9efe41075936e951e659094
+Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Name: PullOverX(RootHide)
+Author: mlgm
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Architecture: iphoneos-arm64e
 Version: 2.1
 Section: 嗨-工具
 Maintainer: daodao
@@ -5586,6 +5605,25 @@ MD5sum: 4ee1963a1046a67829d2e30cf5ae5a63
 SHA1: acc53f9f2af3e5224598922030302846643009f9
 SHA256: 550a69da67d30530b29d96b5df4dfa8a2aae429a7173224c9432ee4087633792
 SHA512: 73665db01b8fd6b35d00b9c32e85dd7586fafdc3167304a8d28700a7cfca2ae65d71be2c0b819e2ff5bbe0288a2dc6005904816a3f0cb818805d0838af738b9c
+Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Name: PullOverX(rootless)
+Author: mlgm
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
+
+Package: com.dao.pulloverx
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: 嗨-工具
+Maintainer: daodao
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: ./rootless/PullOverX(rootless)_2.1.1.deb
+Size: 269412
+MD5sum: 1c976dc094ec1da3c92916d524ce7393
+SHA1: f61142bb151d76ebf19a83a30fd0b64b630fc07f
+SHA256: 2ee379c585fc906b3e8ddbfbb859056c10d8897b420f12dcec7b91df5e4ea8c7
+SHA512: 4dd80f72f50949a80421f07531b8ca6d7265e2b14e53aee3339763c827a2f27a09b2313be7ac76d2198e2b0d5db166573e7e186b3737ebe7f9dd1b79ec32fa1c
 Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
 Name: PullOverX(rootless)
 Author: mlgm
