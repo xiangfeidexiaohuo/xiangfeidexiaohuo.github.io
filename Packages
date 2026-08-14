@@ -8732,44 +8732,6 @@ Description: AwesomePageDots 简体中文包。
 Name: AwesomePageDots 简体中文包
 Author: 妖刀
 
-Package: com.dao.axon
-Architecture: iphoneos-arm
-Version: 2.4
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 14.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./rootful/Axon_2.4.deb
-Size: 154268
-MD5sum: ba58749d2e336d811dbeab882f0e2ddd
-SHA1: 16f5cf5add928f316677b6ca747b24c688cebde5
-SHA256: 1121d3bf273191fd39eb55217fd4bc04b61e3dba5e35cdfe57802d7368d6ff9b
-SHA512: f79359b721202be581ec1d7aa81fe3ccc2897a2133642173925693b22ed9aad10b8ed1d03ef9654534bb02fdd2b9ef9558823ce2b63d8fe9d9136ecbbf133be4
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Architecture: iphoneos-arm
-Version: 2.5
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 14.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./rootful/Axon_2.5.deb
-Size: 156610
-MD5sum: 8abd9525e045ca1b9c2612ea8fb3cda5
-SHA1: 5ad5567171c714c4657c12f4e4b325f500af1e07
-SHA256: ac2cd1f55b2bbbadf6f622f55b3a01664542235e84a01d97532c34d513507ec5
-SHA512: 4f51c67be999324c0a183e86e1a3d44f2ce49ff7f579aa991b951a4fdf398fc1321a437e7a7fff729ee05ae7d42338eb3f93f48f1226a7d85dd5da076bd18721
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
 Package: com.hk.axon.cn
 Architecture: iphoneos-arm
 Version: 2.0.0-3
@@ -16350,25 +16312,6 @@ SHA512: 11575bae3cf50a3b304b4926642a32af811347512bb09848564c82b81c81493ca038366c
 Description: PullOver Pro 简体中文包。
 Name: PullOver Pro 简体中文包
 Author: Sandy0
-
-Package: com.dao.pulloverx
-Architecture: iphoneos-arm
-Version: 2.0
-Section: 嗨-工具
-Maintainer: daodao
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Filename: ./rootful/PullOverX_2.0.deb
-Size: 171166
-MD5sum: f847c7629962ae34ee14264136f3c1d6
-SHA1: dd5a803baf4f2a8612856b794dd374e6b32fb8e4
-SHA256: bfdfdd88bdaee97447df7d41aab831b0c7518f1172b446f459f9c0ca83b73f48
-SHA512: caca57688dd2007b39983c3bbc3be98de3cedc66472734822e0c9c842c49f5ee6e922e7205e548292d7223d224c44368277d28ebc0247e62bfb4ed95295a10e0
-Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
-Name: PullOverX
-Author: mlgm
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
 
 Package: com.dao.noline
 Architecture: iphoneos-arm
