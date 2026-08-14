@@ -69,22 +69,22 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "妖刀",
+                    "text": "daodao",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2",
+                    "text": "2.3",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "15.0 - 16.6.1",
+                    "text": "15.0 - 17.3.1",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024 年 04 月 02 日",
+                    "text": "2026 年 08 月 14 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,6 +97,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "适配 iOS17+",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.2",
