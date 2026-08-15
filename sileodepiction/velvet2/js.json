@@ -131,7 +131,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "优化",
+                    "markdown": "iOS15及以下没必要更新，停留在此版本！</br> </br> 优化",
                     "useRawFormat": true
                 }
             ]
