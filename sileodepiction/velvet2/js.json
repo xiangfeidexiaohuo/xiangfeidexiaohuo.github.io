@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。",
+                    "markdown": "通知横幅变色，更随图标颜色变色，也可自定义静态颜色；横幅背景/边线/文字颜色完全可调。",
                     "useRawFormat": true,
                 },
                 {
@@ -38,6 +38,10 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/Screenshot_02.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/Screenshot_03.png"
                         }
                     ]
                 },
@@ -74,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.3",
+                    "text": "2.4",
                     "title": "最新版本"
                 },
                 {
@@ -84,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 14 日",
+                    "text": "2026 年 08 月 15 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,6 +101,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新功能：仅锁屏生效",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.3",

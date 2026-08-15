@@ -34,6 +34,12 @@
    "hideShadow": false
   },
   {
+   "url": "https://xiangfeidexiaohuo.github.io/images/velvet2.png",
+   "title": "Velvet 2",
+   "package": "com.dao.velvet2",
+   "hideShadow": false
+  },
+  {
    "url": "https://xiangfeidexiaohuo.github.io/images/reverie.png",
    "title": "Reverie",
    "package": "com.dao.reverie",
