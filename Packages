@@ -348,6 +348,25 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.axon
 Architecture: iphoneos-arm64e
+Version: 2.5.1
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: ./roothide/Axon 中文版(RootHide)_2.5.1.deb
+Size: 156708
+MD5sum: 2a93ed40fe866311f3705e0bcb325e1a
+SHA1: 20877fda2dc7fc292719683a0d3c9dd4592cd5a7
+SHA256: e754ff2506d4102b8f46f6e8daf4471f563e68eaef2b0dc7ef7d066e500df62e
+SHA512: 04bdeffcd34b4311181d8e9db73732cd72d6517f914e86f2aa4fa661a9feb87661c66a9c3d6a6009d362bd71f3c80abfd7398f6054341744c684cb0c64b9d617
+Description: 锁屏通知聚合插件，刀刀中文优化版。
+Name: Axon 中文版(RootHide)
+Author: Nepeta & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Architecture: iphoneos-arm64e
 Version: 2.5
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -3392,6 +3411,25 @@ MD5sum: 34669e5194b9cbb9697eb1e65852c0f7
 SHA1: d59a29726310404749eaf6c88a369b226256b1c8
 SHA256: 1facea7e918fb9f2a9e39ba2bd71de0dea94f9e824ff4321f4b4626060a7adea
 SHA512: bc8fa3840aa214121a5472a7917a51c99007482b2ce7f29c920662fa05bbbe2469ecb908c74b71dc542af07a78c9850bf0ea3559c94243f4a55d65ef1c837154
+Description: 锁屏通知聚合插件，刀刀中文优化版。
+Name: Axon 中文版(rootless)
+Author: Nepeta & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Architecture: iphoneos-arm64
+Version: 2.5.1
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: ./rootless/Axon 中文版(rootless)_2.5.1.deb
+Size: 156712
+MD5sum: c9b21c034c224ef7643fab33d3352c3d
+SHA1: d379187036bc29179b00b92cc341ab06d915bef2
+SHA256: df3dbf0b6e0cc38cf740280de3909e299b4c9ec1963a5ac3ba745fb7d07504a5
+SHA512: 90fbf99f9761922d8551f502d5c17895ca492c6372817597faba7414bfb765c69781e68d43ac14da2d54ba2e89f7b1d7ad58a30783bb598503f56e7a4eea47a0
 Description: 锁屏通知聚合插件，刀刀中文优化版。
 Name: Axon 中文版(rootless)
 Author: Nepeta & daodao
