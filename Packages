@@ -367,6 +367,25 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.axon
 Architecture: iphoneos-arm64e
+Version: 2.5.2
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 704
+Depends: mobilesubstrate, firmware (>= 16.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: ./roothide/Axon 中文版(RootHide)_2.5.2.deb
+Size: 158260
+MD5sum: fb07413fee643eeeea858e766b7bed8c
+SHA1: 49bb901deeb6128e428ade506636c70667f542cb
+SHA256: 7c6197985c25680dd7755b1dceadc2999f711c5803fe5d353d36a2c1ebd81438
+SHA512: 7bd5b8acd481b919ba6885ca7f60b4ba244f639009c66b72ed9350b293be99d1423e2fc0dda92ffe1943384ceac1b29a57f00c6070e4c0f6aa04281ddbd1ca39
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
+Name: Axon 中文版(RootHide)
+Author: Nepeta & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Architecture: iphoneos-arm64e
 Version: 2.5
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -775,6 +794,25 @@ Name: ClassicFolders 3(RootHide)
 Author: Lizynz & sini921
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
+Package: com.dao.classicfolders3
+Architecture: iphoneos-arm64e
+Version: 3.4
+Section: 嗨-工具
+Maintainer: sini921 & daodao
+Installed-Size: 3860
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: ./roothide/ClassicFolders 3(RootHide)_3.4.deb
+Size: 2878422
+MD5sum: 8929d3ffebc48b26a26dd73d3c69df6c
+SHA1: f298ef30f44cf6697db9e1a02fecae075ea235ff
+SHA256: 4c90b071ba9cbc4c5d4027c116045cfd961f7fe1181a0d93412c8cd4d42028e8
+SHA512: ad7acfdcaf46daee408ca3f3035a6604a61ed18e12285c22d0ef7eaf4434f32f6d7fc4cac1de3a7dd07c76fcc3b0c9354c245750cbfc60dc2a98ce8892bd8552
+Description: CoolStar的经典文件夹3，基于开源定制。
+Name: ClassicFolders 3(RootHide)
+Author: Lizynz & sini921
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
+
 Package: com.dao.classickeyboardxs
 Architecture: iphoneos-arm64e
 Version: 1.1-9
@@ -1094,14 +1132,14 @@ Version: 1.7
 Section: 嗨-工具
 Maintainer: daodao
 Installed-Size: 472
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
 Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
 Filename: ./roothide/GoodWiFi 中文版(RootHide)_1.7.deb
-Size: 80956
-MD5sum: 29f8382e5d07f91cdbd6ef24c215fa26
-SHA1: 4a247016cb043dd253edaa9d375c4c6c3384b47e
-SHA256: b80244482ba2296b538b89bab5fcccd37bdeeeb8dbf298f98e6fa75c6d85c8a7
-SHA512: 0fbbf51e9b3123dafcd52d99d3938ad8f567256a59d40576d4b78f2ab1f516870d32d5e1c19fa125ffde960e2fff67914303a7dad1b93d11d8dc8b908045497b
+Size: 80684
+MD5sum: b8b73d17112eb3f74372f4f07fe769b3
+SHA1: e49dd620795abdf9b76f0c64152da2dc5a6c4b57
+SHA256: 3b8d5c297f691f56f7869bf8e5214fa2fc65469cb60e9587be91d15823667118
+SHA512: ba7d7e4f388103d2265d4e0b44d64f0d52cdae4924fa2fe47e7f0562a8f3e449d4221d7c86c8c515cfd73c5e9685e122a0cd8c008acb17c6c274cfcca9b6aeb7
 Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
 Name: GoodWiFi 中文版(RootHide)
 Author: julioverne & daodao
@@ -3475,6 +3513,25 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.axon
 Architecture: iphoneos-arm64
+Version: 2.5.2
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 704
+Depends: mobilesubstrate, firmware (>= 16.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: ./rootless/Axon 中文版(rootless)_2.5.2.deb
+Size: 158274
+MD5sum: 136bfe150a95ffb650f753c34d3a808d
+SHA1: 5d7ff5d77f7885e8dfb1f311dcf5a7c1ea3d6a2b
+SHA256: 545d3b3663754d5f604af6c1e0c3e964ecfd5bcc5e6edb4db949c733d79b1d07
+SHA512: 07ee73e11ee84736d3d584438869de4f9753c195aeb3b4c6062c6c17474fabe2d7458b9f1d86d062cef1ea9af7679867f7f5b5c7661d1260a316f5b9e8baa445
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
+Name: Axon 中文版(rootless)
+Author: Nepeta & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Architecture: iphoneos-arm64
 Version: 2.5
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -3982,6 +4039,25 @@ MD5sum: 690fa0b3f889894a7ca6da4690c9e657
 SHA1: acccb144b293b13255c971bc8bb53f00ab2fa654
 SHA256: 3411699e412f51af858e6d1492ee826f36af15aeacbd15d8fd5cdb36f966490c
 SHA512: 60e0c7a4fb1f9a5c6cd8ffd23905b9c86bacd312e67888df5b852008e4caf68c1dd2b1bf68b644f2eff6028e1a40cb7071891f0996209f904b8e166816920106
+Description: CoolStar的经典文件夹3，基于开源定制。
+Name: ClassicFolders 3(rootless)
+Author: Lizynz & sini921
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
+
+Package: com.dao.classicfolders3
+Architecture: iphoneos-arm64
+Version: 3.4
+Section: 嗨-工具
+Maintainer: sini921 & daodao
+Installed-Size: 3860
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
+Filename: ./rootless/ClassicFolders 3(rootless)_3.4.deb
+Size: 2880540
+MD5sum: 464ba00be2770cf61639a08f6cac429f
+SHA1: 50f0acaf83e13f7c8eb059ffe4bdd79cb5b061b6
+SHA256: 112ce0fe5f45b3558ff2bd953bb3e066ab559ff7ec9c974ff3b563ef5b872fe9
+SHA512: 122b7e20a356e94a3abd98321af1430317a594e30456a624f7cb3c39ee7fae6121d688fc39f44e3406ed911c52c6a89b5be5c4efadf8abf8c3307449086520a9
 Description: CoolStar的经典文件夹3，基于开源定制。
 Name: ClassicFolders 3(rootless)
 Author: Lizynz & sini921
@@ -4550,14 +4626,14 @@ Version: 1.7
 Section: 嗨-工具
 Maintainer: daodao
 Installed-Size: 504
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
 Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
 Filename: ./rootless/GoodWiFi 中文版(rootless)_1.7.deb
-Size: 82582
-MD5sum: 72a5162eea4929e8fa0b67810caa1f50
-SHA1: 76783fb004f851224c1dbb1004ccdd9a21acc015
-SHA256: 8f5dcbf237d42e79e7c10db7d554f148083ee2faeb0a75109060c698cd4d360c
-SHA512: 506b5dae34de129681d578ccf4d448feb762ef84a2e8fdabe7660e8d46acb3dc268a6eda306523f839aec5255aee91e42278ca08f54584a8294d9be44848bd79
+Size: 82574
+MD5sum: 5791ca8f628ed4ab46be53d75da95f65
+SHA1: 342900ad49247d1114fa76bb93ccc51c913195de
+SHA256: cd6e4c0fb2fc76764a8e770048e1d7f318d5ee38a34cf5a116cd0642ba642355
+SHA512: 65bbd08f2433e2cfc0fb876abce9cee9fec7d76d4c242f38a61a2a4b90f5faf5f877db94a8169edeef33e7f3a836b877b176c3081d1854f9567443b42cfed025
 Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
 Name: GoodWiFi 中文版(rootless)
 Author: julioverne & daodao
@@ -10371,25 +10447,6 @@ Name: ClassicFolders 3
 Author: CoolStar & Lizynz & sini921 & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
-Package: com.dao.classicfolders3
-Architecture: iphoneos-arm
-Version: 3.3
-Section: 嗨-工具
-Maintainer: sini921 & daodao
-Installed-Size: 3844
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: ./rootful/ClassicFolders3_3.3.deb
-Size: 2877264
-MD5sum: a932c759a56ba9f0be7b828d8790beff
-SHA1: 451eed4ee4ab05eb819a90a8c93e7b2cb291f888
-SHA256: f28176a539d31613cde2969a3fae3c1800634d1f52ad411afc85e2067fae3a94
-SHA512: e51d864a0704e426d06164841b17faf9b95b634d3fd46869deca6170927d670063acec3f232fa39b032d1ed0f789976887eb1a21db6f62d05e833dd270539c57
-Description: CoolStar的经典文件夹3，基于开源定制。
-Name: ClassicFolders 3
-Author: Lizynz & sini921
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
 Package: com.hk.classicfolders3.cn
 Architecture: iphoneos-arm
 Version: 3.0.5
@@ -12810,25 +12867,6 @@ SHA512: 8452a322d2b566785ce99317e449fa1d041847a63e72226bbf3c4b6af97954cd2197eb2d
 Description: Glow 简体中文包。
 Name: Glow 简体中文包
 Author: Sandy0/妖刀
-
-Package: com.daodao.goodwifi
-Architecture: iphoneos-arm
-Version: 1.7
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 504
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: ./rootful/GoodWiFi_1.7.deb
-Size: 82546
-MD5sum: c616f4125b850080c920875056b492d5
-SHA1: a4a163de576e76ea1f40ecf03cbd3c2994ccb3fd
-SHA256: 804a42c095a90b569f558623da11dcb37fb2ba2d2a983cacfa2eab686cefd1ed
-SHA512: 97cf6a381801c78a4121271aefb38fc2a7f3ec9916740668c169eaf7c1aaee47e09913053f5fb4774ba5e4a11a2aa5f237c4a46487cea50f50befdcd08b07722
-Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
-Name: GoodWiFi 中文版
-Author: julioverne & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
 Package: com.daodao.goodwifi
 Architecture: iphoneos-arm
