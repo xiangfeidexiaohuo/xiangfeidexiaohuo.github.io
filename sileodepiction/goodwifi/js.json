@@ -120,7 +120,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "顶部卡片微调",
+                    "markdown": "iOS15及以下没必要更新，停留在此版本！</br> </br> 顶部卡片微调",
                     "useRawFormat": true
                 },
                 {
