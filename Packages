@@ -1071,19 +1071,19 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.jso
 
 Package: com.dao.griddy
 Architecture: iphoneos-arm64e
-Version: 1.1
+Version: 1.2
 Section: 嗨-工具
 Maintainer: mikifp
 Installed-Size: 272
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 16.0)
 Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
-Filename: ./roothide/Griddy 随意摆(RootHide)_1.1.deb
-Size: 26316
-MD5sum: 608c2b94456649174227b7fc85c899a2
-SHA1: d2808ce5f51f60c145a49cd8a6e298cd68204c96
-SHA256: 19646f925536ddac3e5ba9f5725c512d6f80f13548d4f7db678b5bacba11e538
-SHA512: 093ee63a81f95fb910647d76f008df36ac6a3b44792da3ea7179c24c18372ba2944139d6f7e83aace90f324e8d9608d8d93d71cc0ef35019d985d28f1b1eef6b
-Description: 让你的程序图标在桌面随意摆放；适iOS15-17+。
+Filename: ./roothide/Griddy 随意摆(RootHide)_1.2.deb
+Size: 26502
+MD5sum: 0a01489f770a6886e3af5852aaf834a9
+SHA1: ccd74718f1f623e85898435ed32cda790f7326a4
+SHA256: ed5c765f0792ebff27fafe67a9fab6b6fb12c601ca405ba19566e33b892e07eb
+SHA512: 1784f73988ae0d23ecfa362bf99d0b76cf57d764f35b3d6f72ca5754b0dd49dc3dcf46b7ed0d4937d61392d4ad3267a2844d3ca7fa1cd283cd92571104803858
+Description: 让你的程序图标在桌面随意摆放。
 Name: Griddy 随意摆(RootHide)
 Author: mikifp
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
@@ -1731,25 +1731,6 @@ Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版
 Name: PurifyLine(RootHide)
 Author: 妖刀
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
-
-Package: com.dao.reverie
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 832
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
-Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
-Filename: ./roothide/Reverie 中文版(RootHide)_1.0.1.deb
-Size: 121308
-MD5sum: 48adcf73d13164ab1fc5cb579da1f665
-SHA1: 87c8125992a02959fe4b7daa2b24c5ce8472f681
-SHA256: 07b5158212e5a2589e9f3e85418c8198a0e614d5424cc80154e0aacc4f46c615
-SHA512: 9a96f682a770dbf7d2a286476fbab03333a541f9bfd06cd305257b6dbe9e40f803cf3a219e8c564e036edc0509f06c086ca80ef5953fb21c0306f083f25db030
-Description: 自由的休眠设备来节省电量。
-Name: Reverie 中文版(RootHide)
-Author: Paisseon
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.reverie
 Architecture: iphoneos-arm64e
@@ -4359,19 +4340,19 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.jso
 
 Package: com.dao.griddy
 Architecture: iphoneos-arm64
-Version: 1.1
+Version: 1.2
 Section: 嗨-工具
 Maintainer: mikifp
 Installed-Size: 272
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (>= 16.0)
 Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
-Filename: ./rootless/Griddy 随意摆(rootless)_1.1.deb
-Size: 27538
-MD5sum: ee395e38c23831f90b66421038f31216
-SHA1: 6b0e9dd94ad544e496d2bdbbd937aa8531e2c6cf
-SHA256: 155f298ae0bfa014ec6fd7f4ad4f6fa2f47b3c614fadafd9f7179ddb33ec62e0
-SHA512: e53694c0e1da7a60bda5600511ee45cf0c3bd0158776c54759f766f3a3a44c59c4646bf4f5941a56d510262534256d214bfaccedfda97f7784ded2606ff6d303
-Description: 让你的程序图标在桌面随意摆放；适iOS15-17+。
+Filename: ./rootless/Griddy 随意摆(rootless)_1.2.deb
+Size: 27566
+MD5sum: 15b00ab6dddac26d19dcf4160f19638b
+SHA1: 8b60a6fa44196f289dfad358f3df2126a86a2567
+SHA256: 7d59ede193489f30e5f6667cd0461ee22fd3f47afe370a7eb07a67f620d6520b
+SHA512: 7fe45de7a8c3fc05d155ca5eb1cb70992d133d007a0df447a23a43984ed3c83155831e4b88bd8e04a71a1fec63675fe41588192a58b2e69827c776bcbe074982
+Description: 让你的程序图标在桌面随意摆放。
 Name: Griddy 随意摆(rootless)
 Author: mikifp
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
@@ -5551,25 +5532,6 @@ SHA512: e73d8d8329259ef47e2c6775cc484bab531a6af2ec81f6b2c62355050b0524bd032f7f90
 Description: RetroVol 简体中文包(rootless)。
 Name: RetroVol 简体中文包(rootless)
 Author: 妖刀
-
-Package: com.dao.reverie
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 832
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
-Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
-Filename: ./rootless/Reverie 中文版(rootless)_1.0.1.deb
-Size: 121506
-MD5sum: 1bb0287c409b598d249c4cd9674e390b
-SHA1: 21173baf6610488b58db3bca5981492397827e67
-SHA256: b6bc833c18f3a09f63c9416463ba383a727129859668fd6d2151cf5f82796332
-SHA512: 892a5d76d67cf257113ea46611784ee927b58c211aa46e782daa8cdb160e10c11ad3ab62367318cb0aba89bccf1783d17bd5e23edb28ef61ccbec1843ab88eca
-Description: 自由的休眠设备来节省电量。
-Name: Reverie 中文版(rootless)
-Author: Paisseon
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.reverie
 Architecture: iphoneos-arm64
@@ -16478,25 +16440,6 @@ SHA512: bc0c3ab0b991e7d1e107401684145e330987837230d314cf2b5e4bcd338fe9d5d10577c4
 Description: Relocate 简体中文！ Relocate 介绍: 简易的虚拟定位插件！
 Name: Relocate 简体中文包
 Author: Ball <ball@hackcn.net>
-
-Package: com.dao.reverie
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 832
-Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
-Conflicts: lilliana.reverie, com.hk.reverie, com.qms.reverie
-Filename: ./rootful/Reverie_ZH_1.0.1.deb
-Size: 121362
-MD5sum: 5a20ac11d72a9f7bb21dfcf2a5708a3e
-SHA1: 1cc77d76bf38eb5bdf5a49c7bfbd30b56bdf6fe3
-SHA256: afb0f50f01e33585313bf689ed6aa58ea38a99441cbcfc1d5c5b6f1f4d540c18
-SHA512: 764a296d2dc6a2f90c74504c737150454c2a3b11b5a2bdd21463e3a6180efd6cbeae88125f85e41d04d3908a2820ab7aacc5cdfe9d763d9a06819bb766c45d1c
-Description: 自由的休眠设备来节省电量。
-Name: Reverie 中文版
-Author: Paisseon
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/reverie/js.json
 
 Package: com.dao.reverie
 Architecture: iphoneos-arm

@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1",
+                    "text": "1.2",
                     "title": "最新版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 11 日",
+                    "text": "2026 年 08 月 18 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,6 +97,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化图标拖动与布局处理逻辑</br> 修复部分情况下长按图标无法进入编辑模式的问题</br> 修复拖动图标后意外回到桌面左上角的问题</br> 修复拖动到桌面边缘时的坐标越界问题</br> 移除无效变量，提升代码稳定性</br> 优化插件兼容性",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.1",
@@ -116,7 +127,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步开源 v1.0.5 编译",
+                    "markdown": "iOS15及以下没必要更新，停留在此版本！</br> </br> 同步开源 v1.0.5 编译",
                     "useRawFormat": true
                 }
             ]
