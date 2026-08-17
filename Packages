@@ -329,44 +329,6 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.axon
 Architecture: iphoneos-arm64e
-Version: 2.4
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 14.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./roothide/Axon 中文版(RootHide)_2.4.deb
-Size: 155578
-MD5sum: 4fbb60a0a71cbb011c6dd7530ac0b707
-SHA1: 6043a1c24a8dbd46ede286ad8178096a715bdc6f
-SHA256: 82df73b0ad920879aefca51e90eca03385dc99752bb9b5517682fe8bab968774
-SHA512: 3e504387cba7761ddf7ccf6703441d059bec5dd94e51854d25fce65beea7c9e9f9f67a04a149f13c98df428d8fa667e5e8290e7f73f7291d464b772d3fe5b35b
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版(RootHide)
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Architecture: iphoneos-arm64e
-Version: 2.5.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 14.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./roothide/Axon 中文版(RootHide)_2.5.1.deb
-Size: 156708
-MD5sum: 2a93ed40fe866311f3705e0bcb325e1a
-SHA1: 20877fda2dc7fc292719683a0d3c9dd4592cd5a7
-SHA256: e754ff2506d4102b8f46f6e8daf4471f563e68eaef2b0dc7ef7d066e500df62e
-SHA512: 04bdeffcd34b4311181d8e9db73732cd72d6517f914e86f2aa4fa661a9feb87661c66a9c3d6a6009d362bd71f3c80abfd7398f6054341744c684cb0c64b9d617
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版(RootHide)
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Architecture: iphoneos-arm64e
 Version: 2.5.2
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -380,25 +342,6 @@ SHA1: 49bb901deeb6128e428ade506636c70667f542cb
 SHA256: 7c6197985c25680dd7755b1dceadc2999f711c5803fe5d353d36a2c1ebd81438
 SHA512: 7bd5b8acd481b919ba6885ca7f60b4ba244f639009c66b72ed9350b293be99d1423e2fc0dda92ffe1943384ceac1b29a57f00c6070e4c0f6aa04281ddbd1ca39
 Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
-Name: Axon 中文版(RootHide)
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Architecture: iphoneos-arm64e
-Version: 2.5
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 14.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./roothide/Axon 中文版(RootHide)_2.5.deb
-Size: 156916
-MD5sum: a502cf47aaae82bbf7a8bf9972cc7046
-SHA1: 7471e5b3f35e443a8761e19ea00d3dbe95fd307c
-SHA256: 71d67fb31fe262d2c9dac348c1f252341652da5a5a87520c08ecaa59706beb0a
-SHA512: 39160661cf9d140fa13cf1ac3ac3a26251ca0e71d95de15b075ea4f9abaae3ad310837d758db5a9418bc32c6356241ad9373d1e07a98e980d5eb76d5853721f0
-Description: 锁屏通知聚合插件，刀刀中文优化版。
 Name: Axon 中文版(RootHide)
 Author: Nepeta & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
@@ -740,24 +683,6 @@ Author: 妖刀
 
 Package: com.dao.classicfolders3
 Architecture: iphoneos-arm64e
-Version: 3.1.2
-Section: 嗨-工具
-Maintainer: CoolStar & Lizynz & 妖刀
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: ./roothide/ClassicFolders 3(RootHide)_3.1.2.deb
-Size: 2865964
-MD5sum: 1cd37ffc6fab16fbfc4f0bd702c7d5f8
-SHA1: dd4879be5182e1ffe51564f6f932dda8671d4f3c
-SHA256: a35a9bd3df307efd03fdded99e4604e0d0df110e6c9a4ba89d20b0eb9b85773d
-SHA512: f9a076318f8cb74c76506da7ffdd813d42c53c4eedf878610d2c49116a355e5e932c721546ca0a1232888773d853132b555b0f3c4a04c92b0f9a1bef17d6c226
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Name: ClassicFolders 3(RootHide)
-Author: CoolStar & Lizynz
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Architecture: iphoneos-arm64e
 Version: 3.2
 Section: 嗨-工具
 Maintainer: sini921 & daodao
@@ -773,25 +698,6 @@ SHA512: ce84579f400621059c82ab3f5b08debccb11278acf28d66dba98ff03c70e406b3d026a37
 Description: CoolStar的经典文件夹3，基于开源定制。
 Name: ClassicFolders 3(RootHide)
 Author: CoolStar & Lizynz & sini921 & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Architecture: iphoneos-arm64e
-Version: 3.3
-Section: 嗨-工具
-Maintainer: sini921 & daodao
-Installed-Size: 3844
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: ./roothide/ClassicFolders 3(RootHide)_3.3.deb
-Size: 2875440
-MD5sum: 01ffbcd6109094714a121ca3fb65d688
-SHA1: be3209255f603fe6c436ff27c2d74cd82cdb061a
-SHA256: 4a479bcdfa9731c397d4d3740c5ba50c8fef1457868f70365e24f24b398583b1
-SHA512: 5878d0b68b7b4c94a1af99b523274381155f69fdc945e895edbc49a83958880b85d74d86b03b51f02c957c9595c54b05cf5c1477767b169201c7dc035685d869
-Description: CoolStar的经典文件夹3，基于开源定制。
-Name: ClassicFolders 3(RootHide)
-Author: Lizynz & sini921
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
@@ -1772,42 +1678,6 @@ Author: 妖刀
 
 Package: com.dao.pulloverx
 Architecture: iphoneos-arm64e
-Version: 1.5
-Section: 嗨-工具
-Maintainer: daodao
-Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
-Replaces: com.mlgm.pulloverx.preferences
-Filename: ./roothide/PullOverX(RootHide)_1.5.deb
-Size: 263180
-MD5sum: 9086925180243cde55cff926b4846c27
-SHA1: 94b8178ada7fdb1320df5d2e0ff5d27c4356001f
-SHA256: 3b2e6b88e9e38f388e482330bf8488753acc5ee75ebf75a835d452e5802e81da
-SHA512: 0975a7511228980f0dd9658a4e3bce533a8f1376201afbe2a98a7eb18a36357e5b60e413cbe1a7bea06f0b434a823bc3101cc22f720a3584f9a08db1d9ceabe8
-Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
-Name: PullOverX(RootHide)
-Author: mlgm
-
-Package: com.dao.pulloverx
-Architecture: iphoneos-arm64e
-Version: 2.0
-Section: 嗨-工具
-Maintainer: daodao
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Filename: ./roothide/PullOverX(RootHide)_2.0.deb
-Size: 266654
-MD5sum: 432fb85b4698db2fadea6f8845966cab
-SHA1: 5e8663bfa7712787b97e16c8f6114b98b87722bf
-SHA256: b684b63cfbbfb8b3cb564121057eb96d2da10cad1fa9249f7db3a06cc434dc58
-SHA512: 9b4c6d8ea5a095ea0f036edc66f5bdc8b78edab4f42b084d31bd41f91190a144637879263c5c28c693e6c7f94317f7f26d1ce425e2d56ca4e59c329b0f4b95f6
-Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
-Name: PullOverX
-Author: mlgm
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
-
-Package: com.dao.pulloverx
-Architecture: iphoneos-arm64e
 Version: 2.1.1
 Section: 嗨-工具
 Maintainer: daodao
@@ -2617,25 +2487,6 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.js
 
 Package: com.dao.velvet2
 Architecture: iphoneos-arm64e
-Version: 2.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 684
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
-Filename: ./roothide/Velvet2 中文版(RootHide)_2.3.deb
-Size: 119428
-MD5sum: 6bb2b74c2f997cc4803c63a4e3eee6eb
-SHA1: 544bf9968c2f9aa4e38b5430b3a1d48bff2352a4
-SHA256: 97d70ece0358dcca3248db616491d0e0699c0873a1df2165c83fbd70062a52ff
-SHA512: 4820485fc2e9336c81c29e5320afee1f7a63c07a87c3e752bac38c448c40b85d208c5fa69429558ee13bc39a100e7e130478a5a0ad18909068cb18c617c6a6a5
-Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
-Name: Velvet2 中文版(RootHide)
-Author: NoisyFlake
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
-
-Package: com.dao.velvet2
-Architecture: iphoneos-arm64e
 Version: 2.4.1
 Section: 嗨-工具
 Maintainer: daodao
@@ -2648,25 +2499,6 @@ MD5sum: c987ddab70abf538c813c1cc071384bb
 SHA1: 99664dc1d61d373cc187e4b59f8d04b0c1bad09f
 SHA256: e20d29572f2eebff74581b694bd52861aa76315826cb8b302f53af6666276016
 SHA512: 063c312286ede629b9fcfa9e7363b0e8b31ce11e93a54358f6471055746a9f21075be76cdc075903428148d4fec9574633ea4fb738d67bd8704dee245ef14cbe
-Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
-Name: Velvet2 中文版(RootHide)
-Author: NoisyFlake
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
-
-Package: com.dao.velvet2
-Architecture: iphoneos-arm64e
-Version: 2.4
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 664
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
-Filename: ./roothide/Velvet2 中文版(RootHide)_2.4.deb
-Size: 105566
-MD5sum: fdfadaeea57a8bb6c56dbd0e4453a1c1
-SHA1: f99800c93f50e49110a4ea449db6eb08e0848bff
-SHA256: 9c64a685f525b4e688d9215fdf515ba4c31c73c6e57a6e8396e7aedb26bcab7e
-SHA512: 310580db2a4661cfbc4dc8af2709374612e3e441360caccb838d53a45d23554fadabccf111887542ed012f0cdd19dcf15b6a4244a956dbaca296633de2eec649
 Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
 Name: Velvet2 中文版(RootHide)
 Author: NoisyFlake
@@ -2712,25 +2544,6 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
-Version: 0.8.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 2596
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./roothide/YTKACE(RootHide)_0.8.3.deb
-Size: 795054
-MD5sum: 137503234a5e5167babd58cfeb069ea7
-SHA1: 67f68932fe67b8117652be941abff46b2551ac20
-SHA256: 8395290ceb2d6ff6a58a5da17ec5e48e3fcb2f3c9155cff6952722a8c568325c
-SHA512: 71614edff27eaada2792e63ba022b6c65f1dd73e397f4eaf3ec5c3eade6776283be45bb8d56a09771a5c84258dc180ccd45126cb84bfd7870a1e6cd4d4ff1ac8
-Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
-Name: YTKACE(RootHide)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64e
 Version: 0.8.4.1
 Section: 嗨-工具
 Maintainer: daodao
@@ -2743,25 +2556,6 @@ MD5sum: c072ac4a9ec4b1e36971ea8c82e067fe
 SHA1: f2cf037c9037db5e15edc37a331f8660e5d5c130
 SHA256: f0e40204eb67bfe70571d3ff87dfc830e1beff837a8b42e0feffd6f7aef686e6
 SHA512: 1f451356253118b804c7ee33e92be77b6ee98ff519ef595a2cd8d923f2402396adf0e2da575d47070309e4eb80071f3de4f0cd92a532b7092f8bb7aeef15827b
-Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
-Name: YTKACE(RootHide)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64e
-Version: 0.8.4
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 2644
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./roothide/YTKACE(RootHide)_0.8.4.deb
-Size: 803110
-MD5sum: f956b0cc736956ae178368da76ca4bb7
-SHA1: d53abbf0310944cb4f15c85dc681bc5143732261
-SHA256: ba3ea2a8f51d229ebb70836cc0961ff490b15fa4b7a7e4ea253214643ad4c799
-SHA512: 5a61d58e8930e447232fc05bd4ec8f13851e37db7c56aa7a2a40967f886c4dad01644959246c041e43db6fd9bd4602f75d6838755f85163f588950a6200c6478
 Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
 Name: YTKACE(RootHide)
 Author: itzzace & daodao
@@ -3475,44 +3269,6 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.axon
 Architecture: iphoneos-arm64
-Version: 2.4
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 14.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./rootless/Axon 中文版(rootless)_2.4.deb
-Size: 154314
-MD5sum: 34669e5194b9cbb9697eb1e65852c0f7
-SHA1: d59a29726310404749eaf6c88a369b226256b1c8
-SHA256: 1facea7e918fb9f2a9e39ba2bd71de0dea94f9e824ff4321f4b4626060a7adea
-SHA512: bc8fa3840aa214121a5472a7917a51c99007482b2ce7f29c920662fa05bbbe2469ecb908c74b71dc542af07a78c9850bf0ea3559c94243f4a55d65ef1c837154
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版(rootless)
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Architecture: iphoneos-arm64
-Version: 2.5.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 14.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./rootless/Axon 中文版(rootless)_2.5.1.deb
-Size: 156712
-MD5sum: c9b21c034c224ef7643fab33d3352c3d
-SHA1: d379187036bc29179b00b92cc341ab06d915bef2
-SHA256: df3dbf0b6e0cc38cf740280de3909e299b4c9ec1963a5ac3ba745fb7d07504a5
-SHA512: 90fbf99f9761922d8551f502d5c17895ca492c6372817597faba7414bfb765c69781e68d43ac14da2d54ba2e89f7b1d7ad58a30783bb598503f56e7a4eea47a0
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版(rootless)
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Architecture: iphoneos-arm64
 Version: 2.5.2
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -3526,25 +3282,6 @@ SHA1: 5d7ff5d77f7885e8dfb1f311dcf5a7c1ea3d6a2b
 SHA256: 545d3b3663754d5f604af6c1e0c3e964ecfd5bcc5e6edb4db949c733d79b1d07
 SHA512: 07ee73e11ee84736d3d584438869de4f9753c195aeb3b4c6062c6c17474fabe2d7458b9f1d86d062cef1ea9af7679867f7f5b5c7661d1260a316f5b9e8baa445
 Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
-Name: Axon 中文版(rootless)
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
-
-Package: com.dao.axon
-Architecture: iphoneos-arm64
-Version: 2.5
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 14.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./rootless/Axon 中文版(rootless)_2.5.deb
-Size: 157114
-MD5sum: c3f73b956088d3847207a91b74fed75d
-SHA1: d5d524ef4d97f644b8ddaa00d5a2d24d31507ce6
-SHA256: ea7c3bdd6d0f1d6e399c757a483c6e515367226f07834b2e7593f7b6ed44f19e
-SHA512: 921d369b8f3f318458ad02dbac17072036d254f8080502b2a14fd47614519bf7ab4464fbf69c2a0b954636075ffca17fc9a1a0a214d865d2336933e031740821
-Description: 锁屏通知聚合插件，刀刀中文优化版。
 Name: Axon 中文版(rootless)
 Author: Nepeta & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
@@ -3990,24 +3727,6 @@ Author: 妖刀
 
 Package: com.dao.classicfolders3
 Architecture: iphoneos-arm64
-Version: 3.1.2
-Section: 嗨-工具
-Maintainer: CoolStar & Lizynz & 妖刀
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: ./rootless/ClassicFolders 3(rootless)_3.1.2.deb
-Size: 2867348
-MD5sum: 93390449b0ac1f549a0f63875ade19f0
-SHA1: 19859ce752b03b6ce6c44cdbe198d07eae12eeb5
-SHA256: 1bd5891310a8f69713627be67b6c7bac36b9917b4be23f48171d85e7cfbccf45
-SHA512: f0dc3b4edb4feb0482425b58a83277ff445b5fae3fec664a7c2592159a909709b9c00a469f8aa79d3c937d4ba0bf1f29ba132ecc03d32fefa5658761b46e0804
-Description: CoolStar的经典文件夹3，刀刀基于Lizynz的开源，简单定制。
-Name: ClassicFolders 3(rootless)
-Author: CoolStar & Lizynz
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Architecture: iphoneos-arm64
 Version: 3.2
 Section: 嗨-工具
 Maintainer: sini921 & daodao
@@ -4023,25 +3742,6 @@ SHA512: 391423858e37aea75d73d5d40067db81e07595b5e8563f42eb66aa9d45cb08c7e63c2e6b
 Description: CoolStar的经典文件夹3，基于开源定制。
 Name: ClassicFolders 3(rootless)
 Author: CoolStar & Lizynz & sini921 & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
-
-Package: com.dao.classicfolders3
-Architecture: iphoneos-arm64
-Version: 3.3
-Section: 嗨-工具
-Maintainer: sini921 & daodao
-Installed-Size: 3844
-Depends: mobilesubstrate, preferenceloader
-Conflicts: org.coolstar.classicfolders2, org.coolstar.classicfolders3, com.hk.classicfolders3.cn.rl, com.hk.classicfolders3.cn, com.ikilledappl3.autofolderclose-rootless
-Filename: ./rootless/ClassicFolders 3(rootless)_3.3.deb
-Size: 2877318
-MD5sum: 690fa0b3f889894a7ca6da4690c9e657
-SHA1: acccb144b293b13255c971bc8bb53f00ab2fa654
-SHA256: 3411699e412f51af858e6d1492ee826f36af15aeacbd15d8fd5cdb36f966490c
-SHA512: 60e0c7a4fb1f9a5c6cd8ffd23905b9c86bacd312e67888df5b852008e4caf68c1dd2b1bf68b644f2eff6028e1a40cb7071891f0996209f904b8e166816920106
-Description: CoolStar的经典文件夹3，基于开源定制。
-Name: ClassicFolders 3(rootless)
-Author: Lizynz & sini921
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/js.json
 
 Package: com.dao.classicfolders3
@@ -5766,42 +5466,6 @@ Author: c1d3r
 
 Package: com.dao.pulloverx
 Architecture: iphoneos-arm64
-Version: 1.5
-Section: 嗨-工具
-Maintainer: daodao
-Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
-Replaces: com.mlgm.pulloverx.preferences
-Filename: ./rootless/PullOverX(rootless)_1.5.deb
-Size: 266362
-MD5sum: afa2aefc014337affe0f38a989a8905b
-SHA1: 107fa1c2d9994f1fb1409c3d84a19670fbc59005
-SHA256: 24283f62e3e6afc051596f57acd95280cbeda1083b5e30cf43930d73a308de0a
-SHA512: ffcae51913a727d86a91f48f1e6e2619f12dc446473cb8c02c36044a2ceddc8f27580a0c32711845a4c77426b4c7eee106fbace9435edc1fa2887f2716c16942
-Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
-Name: PullOverX(rootless)
-Author: mlgm
-
-Package: com.dao.pulloverx
-Architecture: iphoneos-arm64
-Version: 2.0
-Section: 嗨-工具
-Maintainer: daodao
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Filename: ./rootless/PullOverX(rootless)_2.0.deb
-Size: 269850
-MD5sum: 4ee1963a1046a67829d2e30cf5ae5a63
-SHA1: acc53f9f2af3e5224598922030302846643009f9
-SHA256: 550a69da67d30530b29d96b5df4dfa8a2aae429a7173224c9432ee4087633792
-SHA512: 73665db01b8fd6b35d00b9c32e85dd7586fafdc3167304a8d28700a7cfca2ae65d71be2c0b819e2ff5bbe0288a2dc6005904816a3f0cb818805d0838af738b9c
-Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
-Name: PullOverX(rootless)
-Author: mlgm
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
-
-Package: com.dao.pulloverx
-Architecture: iphoneos-arm64
 Version: 2.1.1
 Section: 嗨-工具
 Maintainer: daodao
@@ -7053,25 +6717,6 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.js
 
 Package: com.dao.velvet2
 Architecture: iphoneos-arm64
-Version: 2.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 684
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
-Filename: ./rootless/Velvet2 中文版(rootless)_2.3.deb
-Size: 119124
-MD5sum: c260091d6cf372b10a88fe5ce678561f
-SHA1: d8e8170ac873cb7f72a628d0b7d438c373c0f678
-SHA256: daff8896bceef93fc3be07c651a965a9fef7a93741c728c9d5d77574e69bdb0f
-SHA512: 5293a2505ce6e4c411614ff7d9f4aa6ebefe30bc02e6a78c932ae33c81975f3ff34c2179b8a3e43cbc4d448b59a67b016fb2b1254646b8b23397a835c80ccb33
-Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
-Name: Velvet2 中文版(rootless)
-Author: NoisyFlake
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
-
-Package: com.dao.velvet2
-Architecture: iphoneos-arm64
 Version: 2.4.1
 Section: 嗨-工具
 Maintainer: daodao
@@ -7084,25 +6729,6 @@ MD5sum: e9f578d444813efc6f100e1420360532
 SHA1: bee09534cd8d4fca5aa087f6ba6f874751c72b6b
 SHA256: c78447dbc6ce8d25e0be0fc19fa5b1b24f71e38147e2fb0a72560a265edd80bc
 SHA512: 23db227fe76e07f13fbc947de6a03325dcb914b872ec9c776d11b2565d75421002e5fd9c43e7efe07c30aed0d842c1dc3ff65504f785c794ef97313f7f6d9f1c
-Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
-Name: Velvet2 中文版(rootless)
-Author: NoisyFlake
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
-
-Package: com.dao.velvet2
-Architecture: iphoneos-arm64
-Version: 2.4
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 664
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
-Filename: ./rootless/Velvet2 中文版(rootless)_2.4.deb
-Size: 105770
-MD5sum: 83529c1e9f4e54247b3b15dfa99ea0c7
-SHA1: c6f986c348fb38d72dcf687a39d4e9042f95c54e
-SHA256: 4dc0032bf6c73406f079539b5ccfac3d6454ec420f668900258eb850bc0da0ad
-SHA512: 1c8f68984e2d393b803c8c42da109050333f8ce72373c6a23ccbae524dc70864083a99314008c3c0b22ec270d4666f21f15bba2fbbed25dbae2fc93bb75b4cb8
 Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
 Name: Velvet2 中文版(rootless)
 Author: NoisyFlake
@@ -7182,25 +6808,6 @@ Author: Alucard
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64
-Version: 0.8.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 2596
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootless/YTKACE(rootless)_0.8.3.deb
-Size: 794968
-MD5sum: bcb05c95e77caa3f059fd97749bb3abb
-SHA1: 79388967046c6e9367b8fb8a130fb0b04546c1a5
-SHA256: 788b90fd96065b2967ff959557a4fde8b7b57ce57aff31d2c1f48eb37a25d002
-SHA512: ccc29112c2ac99f0eb89668692ac58298683e7b1fa2d8fe0e07d6430df3312c1039e28c53fcdd022e1668abe4efa50be2c1ccffed96f2682c88935e199ef1d39
-Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
-Name: YTKACE(rootless)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64
 Version: 0.8.4.1
 Section: 嗨-工具
 Maintainer: daodao
@@ -7213,25 +6820,6 @@ MD5sum: ab99df848da59f8828f55cb500e0bfff
 SHA1: d2d480a3d15135a7fa375aed045d7aae532c61b5
 SHA256: be41baf8c17d224ee50b32f4a31aeb5eaf37dcf899ac2ff4d635a1cb09347409
 SHA512: 700187efc90673467f3ba6ddf13fef4c99f2ee81c6cd40530ac9b9696bf10b40c3f438f7973d1200bdd5db65f1aa558ecb67aa29c9d88e11cca239bac6c1b961
-Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
-Name: YTKACE(rootless)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64
-Version: 0.8.4
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 2644
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootless/YTKACE(rootless)_0.8.4.deb
-Size: 803344
-MD5sum: bda637efa5ddd9c9d98fee2c193d8125
-SHA1: 60d40f628eeb851dc39d8b70897ea0530d4c4e5e
-SHA256: c91da8b00a7935fac96ae4823862405563b3577ae9123b3c163eb530db993e40
-SHA512: b945c179b17fd9042c9356617d1a6ce70e705b9cade8d93c3b80975b22069432adb145c4bea049f4b5a33f8699c30e671c094d5cd5120414ad282688e112964a
 Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
 Name: YTKACE(rootless)
 Author: itzzace & daodao
@@ -20441,25 +20029,6 @@ Author: HASHBANG Productions
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm
-Version: 0.8.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 2596
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootful/YTKACE_0.8.3.deb
-Size: 795108
-MD5sum: c590a8833332def4dfcb152907a6ea8d
-SHA1: 9269726602e9244d0f2d930fe272c04d992d8772
-SHA256: 78ecf7689d1714fa39ec973b64d7b59fdccb2ed0272b7e0db2bd072a2af5658b
-SHA512: 7820448f53213af5108e78f58dbaa53f7c13ce8b61a6c3147c43f4bf561f9021da107a13de44a44b86ee5cf4cd153639fd0918dea899476264467e1f710b417f
-Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
-Name: YTKACE
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm
 Version: 0.8.4.1
 Section: 嗨-工具
 Maintainer: daodao
@@ -20472,25 +20041,6 @@ MD5sum: 3d3b8b047bf8593456b7afea9a9e6f94
 SHA1: 20df2a5d58d8ce099d57378498ed1e737b30dccb
 SHA256: 12b2087ec6d6e1337ca3e8bc9f464baebc436825e57579a102c35c72bbf487b5
 SHA512: d91b0f9242e1139d07924b8667669cd6734230c40ecf84b270021eb6bcdd2798d3f7201a56990861e0311f04ebcb35ca7d33dc0bd40882e31ef040e39d248c47
-Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
-Name: YTKACE
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm
-Version: 0.8.4
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 2644
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootful/YTKACE_0.8.4.deb
-Size: 803286
-MD5sum: 4d146ac0b5fdb0d3b8d55fd6c98b7f05
-SHA1: de5f1ba9150213d3916e2056347a7e18914c9f18
-SHA256: 8aaa5ca27f5098bbcfd95caf95288fe9329bdf08804630509b5bf3d9efcbcdee
-SHA512: f6eb7be3427169f8e5c85092574de20a38e0fefe8d57ea33a93c8c5dd705afd16503fd5d8facd6daad0a43a13845f4396c2dc69494c26b3b81eb91c335c23ec8
 Description: YouTube 多功能插件，根据开源编译，刀刀增加/补全翻译，并优化部分功能。
 Name: YTKACE
 Author: itzzace & daodao
