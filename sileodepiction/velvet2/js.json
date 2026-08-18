@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.4.1",
+                    "text": "2.4.2",
                     "title": "最新版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 17 日",
+                    "text": "2026 年 08 月 19 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -103,24 +103,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "2.4.1",
+                    "title": "2.4.2",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "代码微调",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "2.4",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "新功能：仅锁屏生效",
+                    "markdown": "新功能：仅锁屏生效</br> 代码微调",
                     "useRawFormat": true
                 },
                 {
@@ -142,7 +131,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "iOS15及以下没必要更新，停留在此版本！</br> </br> 优化",
+                    "markdown": "优化",
                     "useRawFormat": true
                 }
             ]

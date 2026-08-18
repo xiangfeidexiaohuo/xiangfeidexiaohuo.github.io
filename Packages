@@ -1069,25 +1069,6 @@ Name: GoodWiFi 中文版(RootHide)
 Author: julioverne & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
-Package: com.daodao.goodwifi
-Architecture: iphoneos-arm64e
-Version: 1.7
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 472
-Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: ./roothide/GoodWiFi 中文版(RootHide)_1.7.deb
-Size: 80684
-MD5sum: b8b73d17112eb3f74372f4f07fe769b3
-SHA1: e49dd620795abdf9b76f0c64152da2dc5a6c4b57
-SHA256: 3b8d5c297f691f56f7869bf8e5214fa2fc65469cb60e9587be91d15823667118
-SHA512: ba7d7e4f388103d2265d4e0b44d64f0d52cdae4924fa2fe47e7f0562a8f3e449d4221d7c86c8c515cfd73c5e9685e122a0cd8c008acb17c6c274cfcca9b6aeb7
-Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
-Name: GoodWiFi 中文版(RootHide)
-Author: julioverne & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
 Package: com.dao.griddy
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -1120,25 +1101,6 @@ MD5sum: a96165151ef2b1418dcaebbf24da1773
 SHA1: 4902e6873532139e9d01d372b933bb5fa4fbe9f7
 SHA256: a52a5382b3ee6402e811a61a2a90785d51ba67f8a07b750dd7c031f128774227
 SHA512: 88b0a23b03b8bf7f864920d56bd74242acfa3192d0a0da98bf9546e8ce358a09deff6982f1f4885b577a7bd5e904865f964486ed8201ae67bef60f9b8e9e5aed
-Description: 让你的程序图标在桌面随意摆放。
-Name: Griddy 随意摆(RootHide)
-Author: mikifp
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
-
-Package: com.dao.griddy
-Architecture: iphoneos-arm64e
-Version: 1.2
-Section: 嗨-工具
-Maintainer: mikifp
-Installed-Size: 272
-Depends: mobilesubstrate, firmware (>= 16.0)
-Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
-Filename: ./roothide/Griddy 随意摆(RootHide)_1.2.deb
-Size: 26502
-MD5sum: 0a01489f770a6886e3af5852aaf834a9
-SHA1: ccd74718f1f623e85898435ed32cda790f7326a4
-SHA256: ed5c765f0792ebff27fafe67a9fab6b6fb12c601ca405ba19566e33b892e07eb
-SHA512: 1784f73988ae0d23ecfa362bf99d0b76cf57d764f35b3d6f72ca5754b0dd49dc3dcf46b7ed0d4937d61392d4ad3267a2844d3ca7fa1cd283cd92571104803858
 Description: 让你的程序图标在桌面随意摆放。
 Name: Griddy 随意摆(RootHide)
 Author: mikifp
@@ -2486,24 +2448,6 @@ Description: UnderDock 简体中文包(RootHide)。
 Name: UnderDock 简体中文包(RootHide)
 Author: 妖刀
 
-Package: com.dao.ve
-Architecture: iphoneos-arm64e
-Version: 2.0.beta1
-Section: 嗨-工具
-Maintainer: Alexandra Aurora Göttlicher
-Installed-Size: 716
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: codes.aurora.ve
-Filename: ./roothide/Ve 通知记录(RootHide).deb
-Size: 65164
-MD5sum: 9f59a2525b6c1ff52db30d1c07091a55
-SHA1: 0b409a8d5500dac4cb064c87991bec15493111a9
-SHA256: ba094b28b713dc3ede3117537afdd26dc408c100dd2348e60f2a22d253bc0a28
-SHA512: b3502fcac2c29ff64850083c3fa7e571233d7215acf37bbff9b679e6b5cb126ddf97fbd86f6dbecfdbba9e54ad6a9bd4b369a9c09e6c037d4fcd03cdf8193d0c
-Description: 通知记录器，记录设备收到的所有通知。基于AlexandraAurora的开源源码制作，完善中文翻译。
-Name: Vē 通知记录(RootHide)
-Author: Alexandra Aurora Göttlicher, 74k1_
-
 Package: com.dao.velvet2
 Architecture: iphoneos-arm64e
 Version: 2.2
@@ -2524,18 +2468,18 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.js
 
 Package: com.dao.velvet2
 Architecture: iphoneos-arm64e
-Version: 2.4.1
+Version: 2.4.2
 Section: 嗨-工具
 Maintainer: daodao
-Installed-Size: 664
+Installed-Size: 668
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
-Filename: ./roothide/Velvet2 中文版(RootHide)_2.4.1.deb
-Size: 105968
-MD5sum: c987ddab70abf538c813c1cc071384bb
-SHA1: 99664dc1d61d373cc187e4b59f8d04b0c1bad09f
-SHA256: e20d29572f2eebff74581b694bd52861aa76315826cb8b302f53af6666276016
-SHA512: 063c312286ede629b9fcfa9e7363b0e8b31ce11e93a54358f6471055746a9f21075be76cdc075903428148d4fec9574633ea4fb738d67bd8704dee245ef14cbe
+Filename: ./roothide/Velvet2 中文版(RootHide)_2.4.2.deb
+Size: 104502
+MD5sum: 5035970d249baece77d39751e7725465
+SHA1: e29726147ce82993cb25cc5b7b93b3e8a286f11b
+SHA256: 047f4fe8f29fa989c0cb26af1551b67eee01d9f4bdde4d6a00ab23ff519ecfd4
+SHA512: d8a1e57034021d376800c1726b1873d72c56a9eb1b79635f4f8dc06399cbe2943669c264f285b3145ba4d2133490b3fb148b48ab7952aa4a9fc8776935057663
 Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
 Name: Velvet2 中文版(RootHide)
 Author: NoisyFlake
@@ -4394,25 +4338,6 @@ Name: GoodWiFi 中文版(rootless)
 Author: julioverne & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
-Package: com.daodao.goodwifi
-Architecture: iphoneos-arm64
-Version: 1.7
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 504
-Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: ./rootless/GoodWiFi 中文版(rootless)_1.7.deb
-Size: 82574
-MD5sum: 5791ca8f628ed4ab46be53d75da95f65
-SHA1: 342900ad49247d1114fa76bb93ccc51c913195de
-SHA256: cd6e4c0fb2fc76764a8e770048e1d7f318d5ee38a34cf5a116cd0642ba642355
-SHA512: 65bbd08f2433e2cfc0fb876abce9cee9fec7d76d4c242f38a61a2a4b90f5faf5f877db94a8169edeef33e7f3a836b877b176c3081d1854f9567443b42cfed025
-Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
-Name: GoodWiFi 中文版(rootless)
-Author: julioverne & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
 Package: com.dao.griddy
 Architecture: iphoneos-arm64
 Version: 1.0.5
@@ -4445,25 +4370,6 @@ MD5sum: f6149be50a4152e29798e3871ea05aa9
 SHA1: 5ea1c26561bef227eb3ade7d3d9c8ac88dacb35c
 SHA256: 0f6c9be6f830f4379565cc016ed57539c213be7f4e72355a42b0d1d70ae0cbd7
 SHA512: e879a249c0acad9aa97faa3efcaa68b1a07c9d1828b7483beaacd0be1efcad1d98641a7414ce6d5a6b7d7d3e4032a4563b1ce9446e69496296d81dc0f21655f0
-Description: 让你的程序图标在桌面随意摆放。
-Name: Griddy 随意摆(rootless)
-Author: mikifp
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
-
-Package: com.dao.griddy
-Architecture: iphoneos-arm64
-Version: 1.2
-Section: 嗨-工具
-Maintainer: mikifp
-Installed-Size: 272
-Depends: mobilesubstrate, firmware (>= 16.0)
-Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
-Filename: ./rootless/Griddy 随意摆(rootless)_1.2.deb
-Size: 27566
-MD5sum: 15b00ab6dddac26d19dcf4160f19638b
-SHA1: 8b60a6fa44196f289dfad358f3df2126a86a2567
-SHA256: 7d59ede193489f30e5f6667cd0461ee22fd3f47afe370a7eb07a67f620d6520b
-SHA512: 7fe45de7a8c3fc05d155ca5eb1cb70992d133d007a0df447a23a43984ed3c83155831e4b88bd8e04a71a1fec63675fe41588192a58b2e69827c776bcbe074982
 Description: 让你的程序图标在桌面随意摆放。
 Name: Griddy 随意摆(rootless)
 Author: mikifp
@@ -6753,24 +6659,6 @@ Description: UnderDock 简体中文包(rootless)。
 Name: UnderDock 简体中文包(rootless)
 Author: 妖刀
 
-Package: com.dao.ve
-Architecture: iphoneos-arm64
-Version: 2.0.beta1
-Section: 嗨-工具
-Maintainer: Alexandra Aurora Göttlicher
-Installed-Size: 716
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: codes.aurora.ve
-Filename: ./rootless/Ve 通知记录(rootless).deb
-Size: 65260
-MD5sum: 92d81476c34f214175db967b63dabb48
-SHA1: 1c02626f11ff87b6b640660a80d6fcbc17ba2ed3
-SHA256: d8503270cfc9230e0578d1dc7059a5acd43ed996eca47f3322645720c7e15237
-SHA512: 10be785778e976c0d651339e4a72c5f550f9743eb1c1e77c1a5c9b09ed8dcd87d7e95eafd238e8248b9766a5abab907114392a9bb5b4f23c3e7ee3918dcb6ef1
-Description: 通知记录器，记录设备收到的所有通知。基于AlexandraAurora的开源源码制作，完善中文翻译。
-Name: Vē 通知记录(rootless)
-Author: Alexandra Aurora Göttlicher, 74k1_
-
 Package: com.dao.velvet2
 Architecture: iphoneos-arm64
 Version: 2.2
@@ -6791,18 +6679,18 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.js
 
 Package: com.dao.velvet2
 Architecture: iphoneos-arm64
-Version: 2.4.1
+Version: 2.4.2
 Section: 嗨-工具
 Maintainer: daodao
-Installed-Size: 664
+Installed-Size: 668
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
-Filename: ./rootless/Velvet2 中文版(rootless)_2.4.1.deb
-Size: 105962
-MD5sum: e9f578d444813efc6f100e1420360532
-SHA1: bee09534cd8d4fca5aa087f6ba6f874751c72b6b
-SHA256: c78447dbc6ce8d25e0be0fc19fa5b1b24f71e38147e2fb0a72560a265edd80bc
-SHA512: 23db227fe76e07f13fbc947de6a03325dcb914b872ec9c776d11b2565d75421002e5fd9c43e7efe07c30aed0d842c1dc3ff65504f785c794ef97313f7f6d9f1c
+Filename: ./rootless/Velvet2 中文版(rootless)_2.4.2.deb
+Size: 105016
+MD5sum: bf063226645eab00fe20a59cfcce7afc
+SHA1: b5cf45ce7feb49461b1da04fa2cd0871a2ea5b7f
+SHA256: 9b8ec032721a9400e9079076f8d73594840e3a185c4b628e7587537db1297aac
+SHA512: c94651243c726409c67acb98ff583a4a3ff79c20c3c4180e4162590b65fba337bcf84a5c7118b984be135ffc3cbed4d9b2fe9ac586f5ac699d229f7f4cf311af
 Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
 Name: Velvet2 中文版(rootless)
 Author: NoisyFlake
