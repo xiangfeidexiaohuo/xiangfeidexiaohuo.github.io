@@ -1052,6 +1052,25 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.j
 
 Package: com.daodao.goodwifi
 Architecture: iphoneos-arm64e
+Version: 1.7.1
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 472
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: ./roothide/GoodWiFi 中文版(RootHide)_1.7.1.deb
+Size: 80244
+MD5sum: 9cc3fd032c4a9ceaca339cf9d7439f5d
+SHA1: d4588ea9d3af5b5692ba5dafdc51326cf49d9afe
+SHA256: 546c791a3ece2454be37e5656c49080e13bbc52c0ad90537f7225bdcbac5c8b2
+SHA512: 61d9f5f9c7d75d789a186e0e65e9a03ac81c973290e7ea47bff82139f639e1ffe3097baf33eef917263834eb53c095988d32c38e2fa26116b06bd27c5d8e4d2b
+Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
+Name: GoodWiFi 中文版(RootHide)
+Author: julioverne & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi
+Architecture: iphoneos-arm64e
 Version: 1.7
 Section: 嗨-工具
 Maintainer: daodao
@@ -4335,6 +4354,25 @@ SHA512: a1d4d1b57ed88f930754017af7053bcf855f90175316da0c98d1c3c0fe0625d90710a58b
 Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
 Name: GoodWiFi 中文版(rootless)
 Author: julioverne & 妖刀
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi
+Architecture: iphoneos-arm64
+Version: 1.7.1
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 504
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: ./rootless/GoodWiFi 中文版(rootless)_1.7.1.deb
+Size: 82516
+MD5sum: bf736c429b52ee09186b906b5a8762be
+SHA1: 5ac44d7f125ef5b499696582702ada7ffa725541
+SHA256: 9eaf08afc384fc9e06360906a4699566644f29946b90425b6285f59256174003
+SHA512: 6249d099e6333cd850475aee4de7d6ece458ed206153972cfb34dc576f47fa80c8aae5595d623ea7f011dcafc6a2628cf0991d8cfa6912977b02ae659f92b60b
+Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
+Name: GoodWiFi 中文版(rootless)
+Author: julioverne & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
 Package: com.daodao.goodwifi
@@ -12453,6 +12491,25 @@ SHA512: 8452a322d2b566785ce99317e449fa1d041847a63e72226bbf3c4b6af97954cd2197eb2d
 Description: Glow 简体中文包。
 Name: Glow 简体中文包
 Author: Sandy0/妖刀
+
+Package: com.daodao.goodwifi
+Architecture: iphoneos-arm
+Version: 1.7.1
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 504
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: ./rootful/GoodWiFi_1.7.1.deb
+Size: 82576
+MD5sum: 95a4f041b1df4469ad4acb1b33b927ae
+SHA1: d60e6eb3f2426b1abb4a030fef68c67324e8c54c
+SHA256: 174d52302b264bbbeeeac363b9ad61c34a5d97baf4cca49a7dbfe6a720b797e6
+SHA512: 41c6e6767f2d7ec214d2166906a85727033946306b43196538cceb82a8a77d555f6ab3d28d98c3e66019b56e55593a2825e8da8b25e8f7f78a9090cc5d9125cb
+Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
+Name: GoodWiFi 中文版
+Author: julioverne & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
 Package: com.daodao.goodwifi
 Architecture: iphoneos-arm
