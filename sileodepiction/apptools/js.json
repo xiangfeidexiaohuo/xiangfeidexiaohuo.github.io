@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.7.9",
+                    "text": "2.8.0",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 12 日",
+                    "text": "2026 年 08 月 19 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.8.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增省电模式：当应用在前台时自动开启低电量。适用于视频、阅读、导航等需要长期亮屏、操作频率小且低占用CPU的场景（原更改名称功能请通过面板菜单应用名称右侧触发）；</br> </br> 2、优化备份文档功能：解决备份微信等超大文件崩溃问题；支持后台备份，无需等待备份操完成；</br> </br> 3、优化自动清理缓存机制</br> 清理时机：1、点击图标打开应用；2、从后台划掉应用卡片。</br> 清理内容：文档路径下的Caches与tmp临时目录。</br> </br> 4、增强开屏去广功能。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.7.9",
