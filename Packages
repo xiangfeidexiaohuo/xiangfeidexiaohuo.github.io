@@ -682,6 +682,24 @@ Description: 高级插件配置器，可单独为每个程序启用/禁用插件
 Name: Choicy(RootHide)
 Author: opa334 <opa334@protonmail.com>
 
+Package: com.dao.choicy
+Architecture: iphoneos-arm64e
+Version: 1.5.4-2
+Section: 嗨-系统
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1104
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Conflicts: com.opa334.choicy
+Filename: ./roothide/Choicy(RootHide)_1.5.4-2.deb
+Size: 163188
+MD5sum: eb4ae78999b62c4b0b4eb2aa84143e28
+SHA1: 0ef3c8e57a1a7b5e761f0169a961a7257f856dce
+SHA256: 965ef9ea6c525746d4f1c49c9894c063e53d6bdbfe23762595a9e5c9b1b16180
+SHA512: 35d328c4991c7c561656b1bb6443e7cd4e1f3b0e9874475aee48efbde4b637c95f7d0daf665ddabf2052aed5fcabcb6d3beccc4693b49d9d058208db91a588e0
+Description: 高级插件配置器，可单独为每个程序启用/禁用插件等。
+Name: Choicy(RootHide)
+Author: opa334 <opa334@protonmail.com>
+
 Package: com.hk.classicfolders3.cn.rl
 Architecture: iphoneos-arm64e
 Version: 3.0.5
