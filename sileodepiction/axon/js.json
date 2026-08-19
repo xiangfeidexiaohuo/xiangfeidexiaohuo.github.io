@@ -82,7 +82,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.5.2",
+                    "text": "2.5.3",
                     "title": "最新版本"
                 },
                 {
@@ -92,7 +92,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 17 日",
+                    "text": "2026 年 08 月 19 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -107,24 +107,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "2.5.2",
+                    "title": "2.5.3",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修复某些通知遗漏",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "2.5.1",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "修复闹钟通知无法消除</br> 优化偏好缓存",
+                    "markdown": "修复某些通知遗漏</br> 修复闹钟通知无法消除</br> 优化偏好缓存",
                     "useRawFormat": true
                 },
                 {
