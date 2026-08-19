@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.1.1",
+                    "text": "2.2",
                     "title": "最新版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 15 日",
+                    "text": "2026 年 08 月 20 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,6 +97,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "整体重构，简化代码</br> 设置页优化</br> 更美观的玻璃质感呼出面板</br> 优化兼容性",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.1.1",

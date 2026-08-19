@@ -1751,18 +1751,19 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.
 
 Package: com.dao.pulloverx
 Architecture: iphoneos-arm64e
-Version: 2.1
+Version: 2.2
 Section: 嗨-工具
 Maintainer: daodao
+Installed-Size: 796
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
 Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Filename: ./roothide/PullOverX(RootHide)_2.1.deb
-Size: 266574
-MD5sum: 5b0774f04d587448dbf341792b73e28d
-SHA1: b4d82ff103188059c6529f5bdfd652e212ac7b72
-SHA256: 6341723af9dce0c07e769a08bcee43c8d5e4e10becec72ba0939c612333292e2
-SHA512: 314a5b924f4335db798d8804c9d916ad3c8ac73d9913d8a4840b32f45899bf48eee1d870ba65051980d38487b0a35b474f904f4cff582a19424aa7d46b943424
+Filename: ./roothide/PullOverX(RootHide)_2.2.deb
+Size: 175158
+MD5sum: 3c121aa94b2e67b40546a6bba95d3216
+SHA1: 1cfddc3a90359e5123e53ab380f3fc574ded19e1
+SHA256: 128959ceab7310c38b95ac4bd2c25eee21d3bc2132e953c9179b05e53c0c8076
+SHA512: b2ca9a45f030b13a8b4d8b9041704f5e11a4e91b84b6a9e978060de68169b39352dc817a7b4b7089e577cd5f4dec227b3d2f0459bad5de7c5cefb4cd283d359f
 Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
 Name: PullOverX(RootHide)
 Author: mlgm
@@ -5521,18 +5522,19 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.
 
 Package: com.dao.pulloverx
 Architecture: iphoneos-arm64
-Version: 2.1
+Version: 2.2
 Section: 嗨-工具
 Maintainer: daodao
+Installed-Size: 796
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
 Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Filename: ./rootless/PullOverX(rootless)_2.1.deb
-Size: 268584
-MD5sum: 503c797f072682dd6283c8d47a10c330
-SHA1: 49b8bba470f8d966fcbe8fe39fdc5b232a24d1de
-SHA256: 6535c849a343d982931dab2ab3a054ff41800012e0767c41328c335141d78643
-SHA512: 3e7dab3e9dce9bfc42645702b5661bc1f9224d5d5a0e837dbdb5cb62e3b1b9200c38241029d8208121db558425d81663165d941ebe8990195997508faa84466a
+Filename: ./rootless/PullOverX(rootless)_2.2.deb
+Size: 175270
+MD5sum: a5ee76732e4e9e3d571a6cc640a705b8
+SHA1: dcc8c9892214656f763c9efdc64a73810bbb3028
+SHA256: c01aeeb230da5b977500d2aa978f303ef619c0bbeb54647c1f72a909d6731b06
+SHA512: e7d7848bff77034d9915aa0e77c77fdb9701edb8649ab386145ae634c7a0433e054cf3b5f20bb025759ca2311868b3d1e6c4dd22ee53296b7fe5972be935c299
 Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
 Name: PullOverX(rootless)
 Author: mlgm
@@ -16299,6 +16301,26 @@ SHA512: 11575bae3cf50a3b304b4926642a32af811347512bb09848564c82b81c81493ca038366c
 Description: PullOver Pro 简体中文包。
 Name: PullOver Pro 简体中文包
 Author: Sandy0
+
+Package: com.dao.pulloverx
+Architecture: iphoneos-arm
+Version: 2.2
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 796
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
+Filename: ./rootful/PullOverX_2.2.deb
+Size: 174928
+MD5sum: fb5f21e5c48085e6b0410c16d615a880
+SHA1: a796bca94bb4c694f64aaadc3dc73777752d1a59
+SHA256: 5a6f537683b47f4cf645450e28dd762046f0ec9a52c834052e71e4d4fd6933c6
+SHA512: 1699dce887453757689f5b1f32d4641a0e666a1ff1e48d6d6570cbaeb18cab4e36cfc5f766623bb28cbbb8f41af70b2a0bee243968f4e1489caf355375a8ab0c
+Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
+Name: PullOverX
+Author: mlgm
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
 
 Package: com.dao.noline
 Architecture: iphoneos-arm
