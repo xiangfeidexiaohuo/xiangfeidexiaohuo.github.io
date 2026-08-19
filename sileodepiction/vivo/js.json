@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.1",
+                    "text": "1.1",
                     "title": "最新版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 10 日",
+                    "text": "2026 年 08 月 19 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -99,13 +99,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.0.1",
+                    "title": "1.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "添加多语言支持",
+                    "markdown": "添加多语言支持</br> 代码微调",
                     "useRawFormat": true
                 },
                 {

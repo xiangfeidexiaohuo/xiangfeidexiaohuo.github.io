@@ -146,7 +146,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "iOS15及以下没必要更新，停留在此版本！</br> </br> 清理通知后同步刷新本地状态</br> 更稳的通知恢复路径",
+                    "markdown": "清理通知后同步刷新本地状态</br> 更稳的通知恢复路径",
                     "useRawFormat": true
                 },
                 {

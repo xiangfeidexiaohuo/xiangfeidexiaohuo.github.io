@@ -1630,11 +1630,30 @@ Installed-Size: 820
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.liddell, dev.traurige.liddell
 Filename: ./roothide/PicoBanner(RootHide)_1.1.deb
-Size: 127220
-MD5sum: 2a4da327b3ae5486bcf29186ff43fd92
-SHA1: 6a33e4cd340b976af4c660347cada5e0e5d41516
-SHA256: 420d1cbdcd5d77d7777083350d8f12b6033e9ddf4c8f94cfe34b80e9dec1c594
-SHA512: 435dc8f368aff14558df572eb5da747e3474a731c920d97e09f750a1b16f045c1f35fa1f4de113576826b0d5eb4a46509e537e9e7535d54aaf9677811a5c43eb
+Size: 126010
+MD5sum: add85d125355ce5f98f40b55ea93f664
+SHA1: f5028f7cf556a6c52467c9830a57a9b06ba4ed19
+SHA256: 610dcda3d54c32e3b4cd27dc1b5cd5e5397b54078693340b91548d4d22ab08f9
+SHA512: 2057ed65d62782077881e2ad6e5cc3d0a594f387ed3e75b7152871474ef41a83ebfa0ffe8f5766cd4e7aef9f46a0d353b745cb5e312632752461c5a04182b575
+Description: 样式丰富多彩的小巧通知横幅。
+Name: PicoBanner(RootHide)
+Author: daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.picobanner
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: ./roothide/PicoBanner(RootHide)_1.2.deb
+Size: 126230
+MD5sum: aefa99f05f6a478d2381db8fae1a3b44
+SHA1: 1afc7ce932bba43ca1c2d2a907ca14ac5947e941
+SHA256: f1c13e26fcc23b540126ad6e177c03e2f63dbc48e1206c55e9672e7fe1e0d625
+SHA512: 176fa5d25c46e45b846392b7fa1809de570fbc8df62f4736accd7db3af8f33e8b3de3a492e0d086bee2da0c6177be39f4b894a2a3b963b15499f5e53bb5d4242
 Description: 样式丰富多彩的小巧通知横幅。
 Name: PicoBanner(RootHide)
 Author: daodao
@@ -2506,21 +2525,21 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
 
 Package: com.dao.vivostyle
 Architecture: iphoneos-arm64e
-Version: 1.0.1
+Version: 1.1
 Section: 嗨-工具
-Maintainer: huy
+Maintainer: 34306
 Installed-Size: 452
 Depends: ellekit, preferenceloader, firmware (>= 15.0)
 Conflicts: com.vivostyle.tweak
-Filename: ./roothide/VivoStyle(RootHide)_1.0.1.deb
-Size: 46696
-MD5sum: ac28c395e1b43642351e7a15801378c7
-SHA1: c537b8d3833a6626ffe3a26075a3b82bd6227ed2
-SHA256: b0b4c8eae4cebf80007b68a2e242e3327441d826fdc59d8050313ee2add0569e
-SHA512: 9f3e185674680341f5976ba009d8dd5fc27c568a6da5ec15bda88f31b4b2ddd89243e6498c0ba21fe6bf55267c0f9095b53bce63b284b5ff1a1fdb17b9cfec07
+Filename: ./roothide/VivoStyle(RootHide)_1.1.deb
+Size: 46138
+MD5sum: e957fe0da0cb62785df80ca373dc05e6
+SHA1: ba7a00ad28741a50291bafb9f13b088d0c516e87
+SHA256: 95592e3722aa8f80257550ee078967c8fda89e959dad94c84523e2c992e119df
+SHA512: 0d14a476bbb2ef495cc9fafc801ccb0a0044109b186834a82a771602c8e83855e1224a126117dbfa2328cda5430cb85b44c4986b764fdea9cad7553fbb4ac145
 Description: vivo OriginOS 风格的陀螺仪「翻转卡片」锁屏壁纸 —— 倾斜手机时，可在自己的照片之间进行交叉淡入淡出切换，并带有视差景深效果。
 Name: VivoStyle(RootHide)
-Author: huy
+Author: 34306
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
 
 Package: com.dao.ytkace
@@ -5298,11 +5317,30 @@ Installed-Size: 820
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.liddell, dev.traurige.liddell
 Filename: ./rootless/PicoBanner(rootless)_1.1.deb
-Size: 128632
-MD5sum: d4229614aad43df59053473b2c14ecd5
-SHA1: 05ef4aaf668b6399f0000a1d27132b4d1a178278
-SHA256: 3778249766198f3bfb921f8beaea1733ca5ff6bc40ac1f5d835a4856ec258262
-SHA512: bb0dd1374d45a046384d9f3d903b42e86e596c61f3cd7d520f008679052d35e9795e1c47d082ebbf19b322b48b489ab9cffce024880150941f0d6aecdf811e3d
+Size: 126836
+MD5sum: 50cb3e6abbdfd1325fd45cda73946337
+SHA1: f1b3493fd2533f732b1ca687fe217168ec8bc1e2
+SHA256: e921afec1db835606312e19a1402420706cf6eb30af08efabc536c9a466b5137
+SHA512: efd24f91b071004acb48fe01b90005a88ca2aa7001c67e5697eba0ed619f68fa9cbc44bf33eeb348fa49cbf9d5fe8d78d8a6dfa1983ffc0651340ff348488713
+Description: 样式丰富多彩的小巧通知横幅。
+Name: PicoBanner(rootless)
+Author: daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.picobanner
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: ./rootless/PicoBanner(rootless)_1.2.deb
+Size: 128082
+MD5sum: 217f2e1dbecb230364733e5cceaaddec
+SHA1: 1b2c17c2efb5d2d65c19a802a334f5c78948f436
+SHA256: c70167c6616d5876a3f01e285875ce55cdfa8300a26878937db1de88c6a6c73c
+SHA512: b5d39d5f733b6cdb64ea2f0b8feb05dcce036614e88bf7b3d413100a6e8d2637e52f125b16fdb23f6b62beae410a1496fe2d09745edf9f13cd70feb56793914f
 Description: 样式丰富多彩的小巧通知横幅。
 Name: PicoBanner(rootless)
 Author: daodao
@@ -6717,21 +6755,21 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
 
 Package: com.dao.vivostyle
 Architecture: iphoneos-arm64
-Version: 1.0.1
+Version: 1.1
 Section: 嗨-工具
-Maintainer: huy
+Maintainer: 34306
 Installed-Size: 452
 Depends: ellekit, preferenceloader, firmware (>= 15.0)
 Conflicts: com.vivostyle.tweak
-Filename: ./rootless/VivoStyle(rootless)_1.0.1.deb
-Size: 47790
-MD5sum: 62eabbc69a6c5c5ae0ef8ef8b3f89e89
-SHA1: 546c4713df6be6930bd2b9ddff57188039c3d71c
-SHA256: 26e4c06e7c6a1a0eaeb151c90da993f48711ba4c5e78f73269df09c19b9e3aa9
-SHA512: 1ce1eaa223fe7e5b7396a9dab21089f375951ae4ce327e71ec016eb9c3fd55ae5a1601eeb0c33f00c598a6bf5661ad03a025e3f5eb737984976818388e0ba733
+Filename: ./rootless/VivoStyle(rootless)_1.1.deb
+Size: 47238
+MD5sum: 283fb498f920c090ff1fe073d7ced967
+SHA1: 89ccd4fc18bfc9a5c7da90770e26a76d15198cb1
+SHA256: 098239ee83ac66d329db67a6fb2b4972a97aa99afaa8557a59718016f4c6298e
+SHA512: eda65d63b29e2a22a1ec480d27c875bcff0673ca17069a966a32e6dc395837c3b71fd9aa6b064a3aba13e4a2b582a13f18461438562abda98d024a8c4fc3983b
 Description: vivo OriginOS 风格的陀螺仪「翻转卡片」锁屏壁纸 —— 倾斜手机时，可在自己的照片之间进行交叉淡入淡出切换，并带有视差景深效果。
 Name: VivoStyle(rootless)
-Author: huy
+Author: 34306
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
 
 Package: com.daodao.wicellswitcher
@@ -15884,11 +15922,30 @@ Installed-Size: 820
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.liddell, dev.traurige.liddell
 Filename: ./rootful/PicoBanner_1.1.deb
-Size: 127594
-MD5sum: d56ecfc5670c265e17032ca6661b871f
-SHA1: 9d7cd96b08c124e79becc1d2f6c68f7b52bf3098
-SHA256: 226f147287dce82d14339d07678bbbc48c97da7329c0bdc3d434375864231c83
-SHA512: 7498e14247c971bc4e51c9b32a9d931d0358bd4beeda6eaa0ee5b983c2192d1a4e7be6c0f16187bbbdabe1b27c1f8c536dd2fb44acd6dd2514052f9ede61f2ca
+Size: 126402
+MD5sum: 080477a007e954874be1283b4a3b586f
+SHA1: 0f68519e9e9c8394e62c3ef4348b11a7d7b0deda
+SHA256: 0e44431a851ddd642d4839508ef8ef36a2218d96e30578dab177bc5644dd3fce
+SHA512: 48c341afd602892a8772a169ad025d2a343547d002bea6d23250fb56da29517cdd768dc14465e062a21a10d18c2f437e7f8c76ad4e8419282d08056e643e2118
+Description: 样式丰富多彩的小巧通知横幅。
+Name: PicoBanner
+Author: daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
+
+Package: com.dao.picobanner
+Architecture: iphoneos-arm
+Version: 1.2
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 820
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.liddell, dev.traurige.liddell
+Filename: ./rootful/PicoBanner_1.2.deb
+Size: 127200
+MD5sum: d1b641562a5e34cd67bee8ab24693112
+SHA1: f856ca6e89bf002b1b6b97352602bcb1613195e1
+SHA256: cff97b5bd40c592cf6f1f6fd1f2961038c8db7bd7986ac55da0df663bbd819ae
+SHA512: 14f0f0bd23dcb53c2b0ff1e89d4b1284acbac6b61543dc60961f9d8ec88af6af652dbb22c5f1b68e74e1f2a57b94453fa653456c8a20a312a7cfb34fd929941e
 Description: 样式丰富多彩的小巧通知横幅。
 Name: PicoBanner
 Author: daodao
