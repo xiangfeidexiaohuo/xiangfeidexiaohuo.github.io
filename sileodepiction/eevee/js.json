@@ -56,22 +56,22 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "Eevee & Lessica",
+                    "text": "jaydenjcpy",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "6.2.2",
+                    "text": "6.6.8",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "14.0 - 16.6.1",
+                    "text": "14.0 - 26.0.1",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 11 月 14 日",
+                    "text": "2026 年 08 月 20 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,101 +86,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "6.2.2",
+                    "title": "6.6.8",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修复支持最新 Spotify 9.0.96",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "6.2.1",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "修复支持最新 Spotify",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "6.1.x",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Eevee v6.1.6 仅支持到 Spotify 9.0.86！",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "6.0.2",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "同步乌龙工作室优化版 v6.0.2",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "6.0",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "更换为💋乌龙工作室优化版：在官方Eevee基础上新增控制中心/锁屏显示歌词</br> 启用：Eevee——>歌词——>发送到媒体控制",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "5.9.x",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "同步更新",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "5.8.8",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "同步更新，修复支持9.0.22。",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "5.8.7",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "同步更新",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "5.8.3",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "同步更新，参与者内容也汉化了！",
+                    "markdown": "复活重生版，支持 Spotify 9.1.74",
                     "useRawFormat": true
                 }
             ]

@@ -966,20 +966,19 @@ Author: 妖刀
 
 Package: com.dao.spotify
 Architecture: iphoneos-arm64e
-Version: 6.2.2
+Version: 6.6.8
 Section: 嗨-工具
-Maintainer: Eevee
-Installed-Size: 3300
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Maintainer: jaydenjcpy
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
 Conflicts: com.eevee.spotify
-Filename: ./roothide/EeveeSpotify(RootHide).deb
-Size: 716316
-MD5sum: c5e7bfa8a573b9e779944e8ad5b655cd
-SHA1: 1c89ef30fbe8a570ced1654916d62d108bd82617
-SHA256: 34d40b8ac9323a14f8254114d41ec07c02f5e623f8037bac1f43d6b0fe86b460
-SHA512: ac028daf40a423bc1ade98dba95b2d149e64fb560b2bf2c43509ae40815307f963106369e0d913af37cb274e2484fe5ff3fe5e5f690126fd4a6a88bdf01754dc
+Filename: ./roothide/EeveeReincarnated(RootHide)_6.6.8.deb
+Size: 2073376
+MD5sum: 452a3c8ca8d191e09e328290f8e6f917
+SHA1: 7b97b77a9a097e974c9850afa3e67bebe97dbf1a
+SHA256: ae4fa1e3d395787f3fe1cc442bce58c0b91b6fed988d00286f5867d527a6e590
+SHA512: 5243726fee2415749a4ebfadb49aeaf902bc405f54bb9775c0b5f62424ae4f9cc443ae3f26a5c4d52cc84eca5ed0befaac7f749debdc902be3e42d28c2a535ae
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
-Name: EeveeSpotify(RootHide)
+Name: EeveeReincarnated(RootHide)
 Author: Eevee
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
 
@@ -4221,37 +4220,19 @@ Author: 妖刀
 
 Package: com.dao.spotify
 Architecture: iphoneos-arm64
-Version: 6.2.2
+Version: 6.6.8
 Section: 嗨-工具
-Maintainer: Eevee
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
+Maintainer: jaydenjcpy
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
 Conflicts: com.eevee.spotify
-Filename: ./rootless/EeveeSpotify(rootless).deb
-Size: 715120
-MD5sum: 9d4f19a026c17d05edc7ed1aa298007e
-SHA1: 16d0860ab5744de05b28470988c9d07cf7166866
-SHA256: d7fba9fd93643e0e19e5e26fe79c236b7c2cd6bad067130280b8f20b16300372
-SHA512: 8e4361f720b4ec9a52ca44574964d35d67ba24726c0c1d423a3aadf44c556f1b94e03a45bd539bd30025669e003538aa302da3b60bf8d8b72c181782c62c0e53
+Filename: ./rootless/EeveeReincarnated(rootless)_6.6.8.deb
+Size: 1998424
+MD5sum: 4ea09e2d2dde5c96bc0a2253fb348ef9
+SHA1: 6dab1757fe9995cda58e65a62cd9af1e3ac2d1a2
+SHA256: e556d06803613aaff85f07c532477fd352d75030686465c0391dc1e6b0173d5c
+SHA512: b4e114fc6a6f632bbabe32e5595aa38ce177567c833cd9b69357e123abee282fa4ba91c1413871725faa224ba6332c891e9e0ce80545417974e327580ef4b19f
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
-Name: EeveeSpotify(rootless)
-Author: Eevee
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
-
-Package: com.dao.spotify
-Architecture: iphoneos-arm64
-Version: 6.0.2
-Section: 嗨-工具
-Maintainer: Lessica <82flex@gmail.com>
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
-Conflicts: com.eevee.spotify
-Filename: ./rootless/EeveeSpotify(rootless)_6.0.2.deb
-Size: 433000
-MD5sum: eda50f00299942bf1f17f62734d9edd6
-SHA1: b9a1c32b64a4625f8f8a38dbfbef06e5f3dd6588
-SHA256: 4b891e956491fc093a07ea1d1a67ac07f05b20f0fabb17e14405fd976b87ab87
-SHA512: 9e9edf0499303dc5265f06544ca3194b7a195dac84c48f0d6b63b99377806564395d1e312c1e5c7fc49d1a744bd9b3597193873d7e4fb196b0f4f26eb8b98e6e
-Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
-Name: EeveeSpotify(rootless)
+Name: EeveeReincarnated(rootless)
 Author: Eevee
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
 
@@ -11544,24 +11525,6 @@ SHA512: 979eaac673518838d92dbe13b7e607230cb7da9eb15bac574684de8584202bbc53ddd20e
 Description: Edge 简体中文包！Edge介绍：为iPhone X与非iPhone X 增加屏幕边缘线
 Name: Edge 简体中文包
 Author: Ball <ball@hackcn.net>
-
-Package: com.dao.spotify
-Architecture: iphoneos-arm
-Version: 6.2.2
-Section: 嗨-工具
-Maintainer: Eevee
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf (>= 1.29.0)
-Conflicts: com.eevee.spotify
-Filename: ./rootful/EeveeSpotify.deb
-Size: 716392
-MD5sum: b3fc165820764fac07935a9c274079d6
-SHA1: 28833a0d82baaa4f7dc3339b719465f6379311c5
-SHA256: 9854bafb75405c7f71c588f4bd7c97822585b4961e171b92c379f5999153b828
-SHA512: 3971ffccb42bf1b9bb8568f650eaaa79c220a723987ba3f49c28e1d9b7d1772ef312a3cb616ac9f9baac37e2da238ebeed1244fd785cfae85f3be12a77752d58
-Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
-Name: EeveeSpotify
-Author: Eevee
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
 
 Package: com.hk.elasticfolderanimations.cn
 Architecture: iphoneos-arm
