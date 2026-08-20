@@ -966,6 +966,24 @@ Author: 妖刀
 
 Package: com.dao.spotify
 Architecture: iphoneos-arm64e
+Version: 6.6.8.2
+Section: 嗨-工具
+Maintainer: jaydenjcpy
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Conflicts: com.eevee.spotify
+Filename: ./roothide/EeveeReincarnated(RootHide)_6.6.8.2.deb
+Size: 2071464
+MD5sum: bae10be4238b9bb8a6d0960e14d33b99
+SHA1: 496516bed982edcc50c7f9dc57ff02c836bc37a5
+SHA256: e211c1b88b09c3a93bec053d2202171525c32eb80350c74206aa55c40224719f
+SHA512: b15fdd5f32e5f24f028117ea60ca83f63a9466147788ead334aaf9f176d0b93a9709bbc6d874b857f1bd1e8d377d78c820d3ecfa206494b5cb7826e80a0786ce
+Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
+Name: EeveeReincarnated(RootHide)
+Author: Eevee
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
+
+Package: com.dao.spotify
+Architecture: iphoneos-arm64e
 Version: 6.6.8
 Section: 嗨-工具
 Maintainer: jaydenjcpy
@@ -1368,48 +1386,6 @@ Author: M哥 & 妖刀
 
 Package: com.dao.fontmanager
 Architecture: iphoneos-arm64e
-Version: 0.3.0
-Section: 嗨-系统
-Maintainer: Hmmzzz
-Installed-Size: 2308
-Depends: firmware (>= 16.0), uikittools
-Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
-Filename: ./roothide/MarkFont(RootHide)_0.3.0.deb
-Size: 433888
-MD5sum: 827fa5f6e1c393800819ace0b1739ef3
-SHA1: f188e82a63ad9e70a37ca74c5fd09b88cff294ac
-SHA256: 9415128e979eab74abf62b570e4ff92432fabf69c246326ac0926b8ec1bb638c
-SHA512: e4ed0318fe7417d44ba1725df28dc30a08425cbc785751f43ce69c84ef07fb979dc942eb0ea55ff624a9c6f408bfdec2109d9300cc90701d4e507f2e32384b77
-Homepage: https://hmmzzz.github.io/repo/
-Description: iOS 16+ 全局字体管理器，支持导入 ZIP、TTF、TTC 和 OTF 字体，MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。创建并切换多套字体方案，可以随时恢复系统默认字体。
-Name: MarkFont(RootHide)
-Author: Hmmzzz
-Depiction: https://hmmzzz.github.io/repo/depictions/markfont/
-SileoDepiction: https://hmmzzz.github.io/repo/depictions/markfont/sileo.json
-
-Package: com.dao.fontmanager
-Architecture: iphoneos-arm64e
-Version: 0.3.1
-Section: 嗨-系统
-Maintainer: Hmmzzz
-Installed-Size: 2308
-Depends: firmware (>= 16.0), uikittools
-Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
-Filename: ./roothide/MarkFont(RootHide)_0.3.1.deb
-Size: 436306
-MD5sum: 7acec836fbb320ac52e3179199861ba2
-SHA1: 5b871607591c50d8068238a7e6b4697c9a0dad22
-SHA256: 7c5cbfaa2b64deb48b3b68c671873db9c4fa0dfcc300b1d07e596452896dec22
-SHA512: 8342650aafcfb63d22ca3ce4312d2ddd43db57fd4d92f1934c9d79ee89daf551d9257b75cddd70ba337872c5bc0a575e810b240d98e33b8a4cf295c5c35a7bd7
-Homepage: https://hmmzzz.github.io/repo/
-Description: iOS 16+ 全局字体管理器，支持导入 ZIP、TTF、TTC 和 OTF 字体，MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。创建并切换多套字体方案，可以随时恢复系统默认字体。
-Name: MarkFont(RootHide)
-Author: Hmmzzz
-Depiction: https://hmmzzz.github.io/repo/depictions/markfont/
-SileoDepiction: https://hmmzzz.github.io/repo/depictions/markfont/sileo.json
-
-Package: com.dao.fontmanager
-Architecture: iphoneos-arm64e
 Version: 0.3.3
 Section: 嗨-系统
 Maintainer: Hmmzzz
@@ -1422,6 +1398,27 @@ MD5sum: cfbf9257e59e3ac4003f3dda2f331c53
 SHA1: 498264cf1fdd9265a8a257868b85cc84e71cf161
 SHA256: ea52bdc38392c9ed7d28d015ba74693fc561e5117791caca8f5003a3641edf30
 SHA512: 579dbb457bd4f4e56797cbc5e1c8492a5d5e76cf94626fd1f3d2ee6d65654eb9018d6dc8464a1c40c5e112e3e5b1b33cd0c95c58160fc19922a922dba677f672
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 16+ 全局字体管理器，支持导入 ZIP、TTF、TTC 和 OTF 字体，MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。创建并切换多套字体方案，可以随时恢复系统默认字体。
+Name: MarkFont(RootHide)
+Author: Hmmzzz
+Depiction: https://hmmzzz.github.io/repo/depictions/markfont/
+SileoDepiction: https://hmmzzz.github.io/repo/depictions/markfont/sileo.json
+
+Package: com.dao.fontmanager
+Architecture: iphoneos-arm64e
+Version: 0.3.7
+Section: 嗨-系统
+Maintainer: Hmmzzz
+Installed-Size: 2512
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./roothide/MarkFont(RootHide)_0.3.7.deb
+Size: 493844
+MD5sum: 26afe6fa736250566e9a27ff7bf8a633
+SHA1: d24167ca28ef83346c3d57bea5ac611ddefb3c39
+SHA256: b9142e1d31c6363619743a8a806771fc7516eb09eb171312ee2c46d34621eac1
+SHA512: 8820fbd51e5797d059cfce24702a50b66d7ed95ffc1a4653dbccd3f593a4a8101f98f857fc463faec4986a309fb606e1faab49e46510e646f21ea6ee6c4663a5
 Homepage: https://hmmzzz.github.io/repo/
 Description: iOS 16+ 全局字体管理器，支持导入 ZIP、TTF、TTC 和 OTF 字体，MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。创建并切换多套字体方案，可以随时恢复系统默认字体。
 Name: MarkFont(RootHide)
@@ -4221,6 +4218,24 @@ Author: 妖刀
 
 Package: com.dao.spotify
 Architecture: iphoneos-arm64
+Version: 6.6.8.2
+Section: 嗨-工具
+Maintainer: jaydenjcpy
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Conflicts: com.eevee.spotify
+Filename: ./rootless/EeveeReincarnated(rootless)_6.6.8.2.deb
+Size: 1999140
+MD5sum: 78199e1ddd1a9f988d8788263e0db988
+SHA1: 3e7e9258e140c95fc0284ffeebec2eb537a7f96b
+SHA256: 269fc8bf9c3534f93f1cac258f9ac8a3a5ea3ee3f0c050dd25627f11c613bf80
+SHA512: 97d9b7cc3edb664dab68c5168f84d871865c42b9a79467594e9757b70a3c6231dde5f86e2e1a27bcdb6cdcd22ab500baa353edbf5d40eb7c9e9f9edd7115b744
+Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
+Name: EeveeReincarnated(rootless)
+Author: Eevee
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
+
+Package: com.dao.spotify
+Architecture: iphoneos-arm64
 Version: 6.6.8
 Section: 嗨-工具
 Maintainer: jaydenjcpy
@@ -4855,27 +4870,6 @@ Name: Lynx 2(rootless)
 
 Package: com.dao.fontmanager
 Architecture: iphoneos-arm64
-Version: 0.3.1
-Section: 嗨-系统
-Maintainer: Hmmzzz
-Installed-Size: 2328
-Depends: firmware (>= 16.0), uikittools
-Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
-Filename: ./rootless/MarkFont(rootless)_0.3.1.deb
-Size: 436544
-MD5sum: 6d5c004b16bee337e300dd2427893580
-SHA1: ce6d2f00a8c4d211841deec34df00368cce8991f
-SHA256: bfbbe1eef2a06821a180c5c28df4284630239e2b44f52e149047910d71a2fb5c
-SHA512: 36d6fda9dcabf82eba98e519e1414d6c7a8d1526168836e097de4e5b19cb0b9249583724dcd76fe99466851f3a836d879dd3a8f9eaa8b190cb17b9b6783a0676
-Homepage: https://hmmzzz.github.io/repo/
-Description: iOS 16+ 全局字体管理器，支持导入 ZIP、TTF、TTC 和 OTF 字体，MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。创建并切换多套字体方案，可以随时恢复系统默认字体。
-Name: MarkFont(rootless)
-Author: Hmmzzz
-Depiction: https://hmmzzz.github.io/repo/depictions/markfont/
-SileoDepiction: https://hmmzzz.github.io/repo/depictions/markfont/sileo.json
-
-Package: com.dao.fontmanager
-Architecture: iphoneos-arm64
 Version: 0.3.3
 Section: 嗨-系统
 Maintainer: Hmmzzz
@@ -4888,6 +4882,27 @@ MD5sum: 03540d88d21a5ec650f35ef06294fdcb
 SHA1: ec65a9aa65b81d50374001ec8cb61dfa3938c931
 SHA256: 309aa6fddd6ed23fbee809e0902a1a60c46036ddb61643848dfeaa816618921d
 SHA512: b610397b37939451d0cf80373ac6bf9124f1650ed4fd6720d5c7e53cd08152ccd15e7f667ae302c4d52e18009b92f0187bb494ab883bde86928a966ca4972551
+Homepage: https://hmmzzz.github.io/repo/
+Description: iOS 16+ 全局字体管理器，支持导入 ZIP、TTF、TTC 和 OTF 字体，MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。创建并切换多套字体方案，可以随时恢复系统默认字体。
+Name: MarkFont(rootless)
+Author: Hmmzzz
+Depiction: https://hmmzzz.github.io/repo/depictions/markfont/
+SileoDepiction: https://hmmzzz.github.io/repo/depictions/markfont/sileo.json
+
+Package: com.dao.fontmanager
+Architecture: iphoneos-arm64
+Version: 0.3.7
+Section: 嗨-系统
+Maintainer: Hmmzzz
+Installed-Size: 2528
+Depends: firmware (>= 16.0), uikittools
+Conflicts: com.nan.bindfs, cn.zqbb.hello.mnt, com.hmmzzz.fontmanager
+Filename: ./rootless/MarkFont(rootless)_0.3.7.deb
+Size: 503358
+MD5sum: 0872195944b12d397cf460a0f6b1e712
+SHA1: ffd2d8f00ec07bd7ab37e8fc037713a408227407
+SHA256: 1f6209637f14b22627c843c739874be5b8b6f6fa3b3bad99f488c5ce452fb713
+SHA512: e37cb8cacd4ac1ec59abea0a9b0ea8d02d2f811c045fd3b8d3025422e5aad17f1f05a83bc7eecb3b38aef80fec6971ab93398c1ea54877ecb91fee877dc8bf91
 Homepage: https://hmmzzz.github.io/repo/
 Description: iOS 16+ 全局字体管理器，支持导入 ZIP、TTF、TTC 和 OTF 字体，MarkFont 使用只读字体镜像，不直接修改系统字体文件，并支持重新越狱后自动恢复已启用的字体。创建并切换多套字体方案，可以随时恢复系统默认字体。
 Name: MarkFont(rootless)
