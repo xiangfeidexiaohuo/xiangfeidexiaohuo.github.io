@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2",
+                    "text": "2.2.1",
                     "title": "最新版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 20 日",
+                    "text": "2026 年 08 月 21 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -99,13 +99,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "2.2.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新增：把手拉出震动</br> 新增：重置按钮：可重置插件设置</br> 新增：窗口贴边（实际离屏幕边还有一丝丝距离）</br> 修复：部分机器的兼容性，现支持iOS14、15、16、17+",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "2.2",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "整体重构，简化代码</br> 设置页优化</br> 更美观的玻璃质感呼出面板</br> 优化兼容性",
+                    "markdown": "整体重构，简化代码</br> 设置页优化</br> 更美观的玻璃质感呼出面板</br> 其他微调",
                     "useRawFormat": true
                 },
                 {
