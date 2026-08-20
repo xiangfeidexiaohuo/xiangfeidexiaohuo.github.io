@@ -5499,23 +5499,6 @@ Description: 将文件夹显示为图标等多功能文件夹，源内有中文�
 Author: ichitaso
 Name: PrimalFolder2(rootless)
 
-Package: com.dao.pulloverpro
-Architecture: iphoneos-arm64
-Version: 2.1.6
-Section: 嗨-工具
-Maintainer: Nets
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Conflicts: com.netskao.pulloverpro, netskao.pulloverpro, com.daodao.pulloverpro, com.c1d3r.pulloverpro
-Filename: ./rootless/PullOver Pro(rootless).deb
-Size: 696392
-MD5sum: 627dc08842c2d5273e0d3c24fe3fa3b2
-SHA1: c27ffa6616df375cdd5ba1c5fa720096867ae243
-SHA256: 781bba661215f3f459dab78d94e008262ab15cab06582856f47b8f204705147d
-SHA512: fc1782830ebe927950107dc6ba94de4a9954874cc51a4d81f17c7336e63527f10227a06f601389b91be9fb42006206a937011bb7bbe5cc7d34cd0248e934168e
-Description: 更好的窗口多任务分屏，屏幕侧边呼出，由Netskao适配优化支持iOS15+。Netskao新更的版本，上架备份。
-Name: PullOver Pro(rootless)
-Author: c1d3r
-
 Package: com.dao.pulloverx
 Architecture: iphoneos-arm64
 Version: 2.1.1
@@ -16282,24 +16265,6 @@ Description: 轻量级下拉清理通知，通知栏快速下拉即可清理，�
 Name: PullClearNC(下拉清通知)
 Author: Netskao
 
-Package: com..hk.netskao.pulloverpro
-Architecture: iphoneos-arm
-Version: 2.1.2
-Section: 嗨-工具
-Maintainer: Nets
-Installed-Size: 1468
-Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
-Conflicts: com.c1d3r.pulloverpro, com.hk.pulloverpro.ios14, com.hk.pulloverpro2.0
-Filename: ./rootful/PullOverPro.deb
-Size: 371192
-MD5sum: 3cd61773c664137132353685d95c2078
-SHA1: 4bdf3da1e0b771588eb31fa71e3338b7a963d7ed
-SHA256: bc2c0d0b688b348d771d41de199abb95fd953134227438e3629fd818c770c266
-SHA512: 881c25acbd0c333264de35f206373f911860bcdc4093bacd68d71b92d5d7b6a25c0ef6010e640fee5d8eff988b330a6646ea46ae471ae49e6a8a49065901baba
-Description: 侧边便捷分屏，键盘修复的开源编译版本，不需要购买，源内有汉化包。
-Name: PullOver Pro(编译版)
-Author: c1d3r/Netskao
-
 Package: com.hk.pulloverpro.cn
 Architecture: iphoneos-arm
 Version: 2.1.1-1
@@ -16316,26 +16281,6 @@ SHA512: 11575bae3cf50a3b304b4926642a32af811347512bb09848564c82b81c81493ca038366c
 Description: PullOver Pro 简体中文包。
 Name: PullOver Pro 简体中文包
 Author: Sandy0
-
-Package: com.dao.pulloverx
-Architecture: iphoneos-arm
-Version: 2.2
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 796
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Filename: ./rootful/PullOverX_2.2.deb
-Size: 174928
-MD5sum: fb5f21e5c48085e6b0410c16d615a880
-SHA1: a796bca94bb4c694f64aaadc3dc73777752d1a59
-SHA256: 5a6f537683b47f4cf645450e28dd762046f0ec9a52c834052e71e4d4fd6933c6
-SHA512: 1699dce887453757689f5b1f32d4641a0e666a1ff1e48d6d6570cbaeb18cab4e36cfc5f766623bb28cbbb8f41af70b2a0bee243968f4e1489caf355375a8ab0c
-Description: 悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。
-Name: PullOverX
-Author: mlgm
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
 
 Package: com.dao.noline
 Architecture: iphoneos-arm
