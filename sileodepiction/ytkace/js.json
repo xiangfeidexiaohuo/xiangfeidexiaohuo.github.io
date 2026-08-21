@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.8.4.1",
+                    "text": "0.8.5",
                     "title": "最新版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 17 日",
+                    "text": "2026 年 08 月 22 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -103,13 +103,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "0.8.4.1",
+                    "title": "0.8.5",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步源码 0.8.4",
+                    "markdown": "同步源码 0.8.5",
                     "useRawFormat": true
                 },
                 {
