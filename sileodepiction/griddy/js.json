@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "优化图标拖动与布局处理逻辑</br> 修复：偶尔出现的长按图标无法进入编辑模式</br> 修复：拖动图标后意外回到桌面左上角</br> 修复：拖动到桌面边缘时的坐标越界</br> 移除无效一些代码变量",
+                    "markdown": "优化图标拖动与布局处理逻辑</br> 移除一些无效代码",
                     "useRawFormat": true
                 },
                 {
