@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "长按/3DTouch「应用/文件夹」图标，即可通过“清除角标”一键清除所有通知角标。",
+                    "markdown": "长按/3DTouch「应用/文件夹」图标，即可通过“清理角标”一键清除所有通知角标。",
                     "useRawFormat": true,
                 },
                 {
@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "清除震动提示",
+                    "markdown": "新增：清理完成，震动和胶囊提示",
                     "useRawFormat": true
                 }
             ]
