@@ -33,6 +33,25 @@ Description: 在有通知角标的程序图标的“长按/3D Touch”菜单上�
 Name: 3DBadgeClear(RootHide)
 Author: isklikas
 
+Package: com.dao.3dbadgeclear
+Architecture: iphoneos-arm64e
+Version: 1.7
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 196
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
+Filename: ./roothide/3DBadgeClear(RootHide)_1.7.deb
+Size: 20476
+MD5sum: a399df3dd4060f8048100486e3c49f26
+SHA1: 2314d0b4d0b11cc167982bde0189c7ac2f940f4a
+SHA256: de1eacc8a9406431db2a38f1ea3c799cc79b4d8441cc490ee6005baaa4d9e294
+SHA512: 0a057e47641a97dac7775567ed521760478c08a3cfe647d53305f56ae2be0dc460bf48ce6afdc3a559c634b457a9d31d0386d7e406b279eed38866572e0a4a9a
+Description: 长按/3DTouch「应用/文件夹」图标，即可通过“清理角标”一键清除所有通知角标。
+Name: 3DBadgeClear(RootHide)
+Author: isklikas
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/3dbadgeclear/js.json
+
 Package: com.dao.3dappversionspoofer
 Architecture: iphoneos-arm64e
 Version: 2.0.4
@@ -2929,6 +2948,25 @@ SHA512: 353b01badde4559cda8f7c6a6aa9a7b34b248ee72772b5e8adc07844adb4d96e62a37120
 Description: 在有通知角标的程序图标的“长按/3D Touch”菜单上出现“清除角标”，可一键清除此程序的所有通知角标。
 Name: 3DBadgeClear(rootless)
 Author: isklikas
+
+Package: com.dao.3dbadgeclear
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 196
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
+Filename: ./rootless/3DBadgeClear(rootless)_1.7.deb
+Size: 21616
+MD5sum: afac8adb179790deca9d50b331b51036
+SHA1: 38da96d866ba8b85b35ef751b2fb975467aab7d1
+SHA256: bf4d095177bec66a09af85a4364f792e795ce8cec5a2c6e4d59c286a8394367c
+SHA512: b33236e3aa519504ae1dd8045ecb9fb3b138d13d795d084ccec55e72574b482c96dae4181d666ee5a41f156b8458eafc8a8a42f22df0474daf1199ca7600293f
+Description: 长按/3DTouch「应用/文件夹」图标，即可通过“清理角标”一键清除所有通知角标。
+Name: 3DBadgeClear(rootless)
+Author: isklikas
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/3dbadgeclear/js.json
 
 Package: com.dao.3dappversionspoofer
 Architecture: iphoneos-arm64
@@ -7390,6 +7428,25 @@ SHA512: 5fbc9be42be24314dfa041a2602ba4a02f17c6be841152713d2134c205c8914c7c63bc35
 Description: 在有通知角标的程序图标的“长按/3D Touch”菜单上出现“清除角标”，可一键清除此程序的所有通知角标。
 Name: 3DBadgeClear
 Author: isklikas
+
+Package: com.dao.3dbadgeclear
+Architecture: iphoneos-arm
+Version: 1.7
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 196
+Depends: firmware (>= 13.0), mobilesubstrate
+Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
+Filename: ./rootful/3DBadgeClear_1.7.deb
+Size: 21670
+MD5sum: b83d3ca19e7649c84fbb69e0a28ca4df
+SHA1: eef95b21fb6ea23030a940b26db39d5423e76e0d
+SHA256: 2affb18eb9381b3bd4b3f9601d841f492c940145e1c29a761785f3464c0c373e
+SHA512: 3f26582d85c4851a77c4ba11dcf35eac6c24c19f83b10bd6dba7d44e927f14b0de350360a66f703737dfe60357c06e838846e13eb4762241387f2a4ea5e6519e
+Description: 长按/3DTouch「应用/文件夹」图标，即可通过“清理角标”一键清除所有通知角标。
+Name: 3DBadgeClear
+Author: isklikas
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/3dbadgeclear/js.json
 
 Package: com.dao.3dappversionspoofer
 Architecture: iphoneos-arm
