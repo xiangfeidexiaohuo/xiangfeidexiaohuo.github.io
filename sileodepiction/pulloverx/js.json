@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "悬浮多任务窗口工具，源自 mlgm 的 PullOver X，提升性能和稳定性。",
+                    "markdown": "悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。",
                     "useRawFormat": true,
                 },
                 {
@@ -160,7 +160,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "基于 mlgm 的 PullOver X 开源修改：</br> </br> 提升性能和稳定性</br> 优化代码，去除冗余，代码更高效",
+                    "markdown": "基于 mlgm 的 PullOver X 打造的客制化版本",
                     "useRawFormat": true
                 }
             ]
