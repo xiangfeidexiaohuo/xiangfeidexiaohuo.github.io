@@ -1160,6 +1160,25 @@ Name: Griddy 随意摆(RootHide)
 Author: mikifp
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
 
+Package: com.dao.griddy
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Section: 嗨-工具
+Maintainer: mikifp
+Installed-Size: 236
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: ./roothide/Griddy 随意摆(RootHide)_1.2.3.deb
+Size: 16644
+MD5sum: e7c5fb429d06a9e278ef8c6bd53c559b
+SHA1: 925fdcefb319eec04abe685f424773b429f264ac
+SHA256: 6377029690bfbee188482434019ef2d8749ce769e26753d57b09c9ed26f2ddd2
+SHA512: f4f57725467f7ae343b909fe8985cba6b185ef1523677985cca0bb002daf60e6c1989fc3da180f98c72a8ecfd8a6f5836bb23a113fe91bf132574244251d329e
+Description: 让你的程序图标在桌面随意摆放。
+Name: Griddy 随意摆(RootHide)
+Author: mikifp
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
 Package: com.hk.halo.cn.rl
 Architecture: iphoneos-arm64e
 Version: 2.2
@@ -4481,6 +4500,25 @@ MD5sum: f6149be50a4152e29798e3871ea05aa9
 SHA1: 5ea1c26561bef227eb3ade7d3d9c8ac88dacb35c
 SHA256: 0f6c9be6f830f4379565cc016ed57539c213be7f4e72355a42b0d1d70ae0cbd7
 SHA512: e879a249c0acad9aa97faa3efcaa68b1a07c9d1828b7483beaacd0be1efcad1d98641a7414ce6d5a6b7d7d3e4032a4563b1ce9446e69496296d81dc0f21655f0
+Description: 让你的程序图标在桌面随意摆放。
+Name: Griddy 随意摆(rootless)
+Author: mikifp
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
+Package: com.dao.griddy
+Architecture: iphoneos-arm64
+Version: 1.2.3
+Section: 嗨-工具
+Maintainer: mikifp
+Installed-Size: 236
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: ./rootless/Griddy 随意摆(rootless)_1.2.3.deb
+Size: 16712
+MD5sum: 7144e720161fd4e2ca324a73f7701dba
+SHA1: d63529933b178d08785f0c3de1310751f5248ecf
+SHA256: 131af0cd970b1313e23ee23349ada2dbcb0b6012013bb7098f6aecc3f71032f4
+SHA512: 32a1a7a2f49d37a2249a25de3e95e443945124fee733820d2707f78cbfff2b208a715fdfbb1eefa63fb373c0daf203813a7a97fec4fa15e7d0f19a5e1ba624cd
 Description: 让你的程序图标在桌面随意摆放。
 Name: Griddy 随意摆(rootless)
 Author: mikifp

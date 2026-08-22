@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://xiangfeidexiaohuo.github.io/images/griddy.png",
+    "headerImage": "https://xiangfeidexiaohuo.github.io/images/3dbadgeclear.png",
     "tintColor": "#1DBBFF",
     "minVersion": "0.3",
     "tabs": [
@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "可以将程序图标拖到桌面任何地方摆放，甚至留下空白区域或者整行都可以！",
+                    "markdown": "长按/3DTouch「应用/文件夹」图标，即可通过“清除角标”一键清除所有通知角标。",
                     "useRawFormat": true,
                 },
                 {
@@ -33,11 +33,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/Screenshot_01.png"
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/3dbadgeclear/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/Screenshot_02.png"
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/3dbadgeclear/Screenshot_02.png"
                         }
                     ]
                 },
@@ -64,7 +64,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "mikifp",
+                    "text": "isklikas",
                     "title": "作者"
                 },
                 {
@@ -74,17 +74,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2.3",
+                    "text": "1.7",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "15.0 - 17.3.1",
+                    "text": "14.0 - 17.3.1",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 23 日",
+                    "text": "2026 年 08 月 22 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -99,46 +99,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.2.3",
+                    "title": "1.7",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "精简代码，移除桌面文件夹预览干扰",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.2.1",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "优化图标拖动与布局处理逻辑</br> 移除一些无效代码",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.1",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "参考 Yves000/griddy 源码适配 iOS17，感谢！</br> 修复：图标概率性乱飞</br> 固定文件夹预览3x</br> 17.1 自测没啥大问题",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.0.5",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "同步开源 v1.0.5 编译",
+                    "markdown": "清除震动提示",
                     "useRawFormat": true
                 }
             ]
