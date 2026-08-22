@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2.1",
+                    "text": "2.2.2",
                     "title": "最新版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 21 日",
+                    "text": "2026 年 08 月 23 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,6 +97,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "收藏应用上限提升至 20 个，并增加运行时限制</br> 优化面板边距与图标间距，统一布局</br> 优化面板圆角及快速切换虚线框圆角，更贴近系统图标默认圆角</br> 去除面板滑动选择应用时的图标缩放，仅保留位移动画</br> 更换“当前应用已打开”提示上方的图标",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.2.1",
