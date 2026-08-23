@@ -2721,6 +2721,25 @@ Description: 轻量级 YouTube 功能增强：因 YTLite 不再免费，尽可�
 Name: YouMod(RootHide)
 Author: Tonwalter888
 
+Package: com.dao.youmod
+Architecture: iphoneos-arm64e
+Version: 2.0.0
+Section: 嗨-工具
+Maintainer: Tonwalter888, G Rohit
+Installed-Size: 1164
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: dev.water888.youmod
+Filename: ./roothide/YouMod(RootHide)_2.0.0.deb
+Size: 277368
+MD5sum: 4ecffc636d7396ec3a0114eda4b83a83
+SHA1: 95456d728b622b3cb84db860bebcf5aba38b9478
+SHA256: 435cf77a20b27530495d7dc8c53a3b6dead883d980f9ed4d8818137ed9a7d374
+SHA512: ada61df75b71958a3cd23592ba0e220e279f8f1147f1e082cc4b31fcbb62c1769e40ff2304d0032804f1647dd80f78742e535d48f4e21224059d2fbd56dbfca4
+Description: 轻量级 YouTube 功能增强：因 YTLite 不再免费，尽可能还原 YTLite 功能的插件，功能可能没 YTLite 多，够用。
+Name: YouMod(RootHide)
+Author: Tonwalter888
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/youmod/js.json
+
 Package: com.hk.zetsu.cn.rl
 Architecture: iphoneos-arm64e
 Version: 1.6.1
@@ -7006,6 +7025,25 @@ SHA512: 5e61a438e2ae812815d1a2f4595211dafc97ba8a3a2db3537288b6f586fce93a4c1fcd37
 Description: 轻量级 YouTube 功能增强：因 YTLite 不再免费，尽可能还原 YTLite 功能的插件，功能可能没 YTLite 多，够用。
 Name: YouMod(rootless)
 Author: Tonwalter888
+
+Package: com.dao.youmod
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: 嗨-工具
+Maintainer: Tonwalter888, G Rohit
+Installed-Size: 1164
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: dev.water888.youmod
+Filename: ./rootless/YouMod(rootless)_2.0.0.deb
+Size: 278370
+MD5sum: 2736c909214b012d90a13274571aeb63
+SHA1: 3317cb2d873f8d376ac856a9cdace1ce5c23a26b
+SHA256: 7a18b495822ab863fa4fbf41202beeb0f623c64c4a47ecd07fc20eba6d826c23
+SHA512: a6c17e4438ebbf0dc31276591315bb5539a4d957a8920ed7fb671dd41d1ea616ac8a2230c65f37c63c5e1cf1cc99a76921c5c62c9796a8241e5e4dc615e3820f
+Description: 轻量级 YouTube 功能增强：因 YTLite 不再免费，尽可能还原 YTLite 功能的插件，功能可能没 YTLite 多，够用。
+Name: YouMod(rootless)
+Author: Tonwalter888
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/youmod/js.json
 
 Package: com.hk.zetsu.cn.rl
 Architecture: iphoneos-arm64
@@ -20393,6 +20431,25 @@ SHA512: c2f35fedb9759d1eb02817e237b78796d62000ac33ac58c7c6f414781c7cdde689415c91
 Description: 轻量级 YouTube 功能增强：因 YTLite 不再免费，尽可能还原 YTLite 功能的插件，功能可能没 YTLite 多，够用。
 Name: YouMod
 Author: Tonwalter888
+
+Package: com.dao.youmod
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: 嗨-工具
+Maintainer: Tonwalter888, G Rohit
+Installed-Size: 1164
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: dev.water888.youmod
+Filename: ./rootful/YouMod_2.0.0.deb
+Size: 278218
+MD5sum: 64101706bb38aa839c214a8c753becd7
+SHA1: b208627740d213692349a4bf94ec8bb7ab2b6635
+SHA256: 71a53d16d88909d52bde2072a425d3fb577abf2fe4e9e5777b0581e16bb75728
+SHA512: e1b45c89d3b6e9eae58cadf932813f6bf9dc2d0b4332cbb6f16c342faea40f1793c218449ad9543efadb88b2b435824e9f70655c08a6a2fcd3e1ebd4b9ec3406
+Description: 轻量级 YouTube 功能增强：因 YTLite 不再免费，尽可能还原 YTLite 功能的插件，功能可能没 YTLite 多，够用。
+Name: YouMod
+Author: Tonwalter888
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/youmod/js.json
 
 Package: com.ball.yourespring.ch.cn
 Architecture: iphoneos-arm
