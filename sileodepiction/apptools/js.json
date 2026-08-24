@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等。</br> </br> 🙂 付费插件，按需购买。</br> </br> ⚙️ aReo开发者源：</br> https://flex2areo.github.io</br> ❓ 企鹅反馈群：4912057",
+                    "markdown": "强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等。</br> </br> 🙂 付费插件，按需购买。</br> </br> ⚙️ aReo开发者源：</br> https://flex2areo.github.io</br> </br> ❓ 企鹅反馈群：4912057",
                     "useRawFormat": true,
                 },
                 {
@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.8.0",
+                    "text": "2.8.1",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 19 日",
+                    "text": "2026 年 08 月 24 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.8.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "🙂🙂🙂大家尽快更新哟，旧版本将停用！</br> </br> 1、优化开屏去广导致极个别app无法进入问题；</br> </br> 2、新增全局省电模式，可长按功能细化场景。场景包括：</br> （1）通话时自动进入省电模式；</br> （2）播放视频音乐时自动进入省电模式；</br> （3）锁屏时自动进入省电模式，屏幕亮时退出；</br> （4）进入导航类应用自动进入省电模式；</br> （5）进入阅读类应用自动进入省电模式。</br> </br> 导航和阅读类应用依据 AppStore 类别划分，以上场景默认开启。</br> 省电模式即系统低电量模式，仅适合屏幕常亮且操作频率低时使用。</br> </br> 3、其它细节优化和问题修复。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.8.0",
