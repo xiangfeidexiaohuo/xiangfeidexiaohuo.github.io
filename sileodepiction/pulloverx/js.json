@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修复：某些机器面板切换app时的触发安全的问题</br> 其他微调",
+                    "markdown": "修复某些机器面板切换APP触发安全模式的问题</br> 其他微调",
                     "useRawFormat": true
                 },
                 {
