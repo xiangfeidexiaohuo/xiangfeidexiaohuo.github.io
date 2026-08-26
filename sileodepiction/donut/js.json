@@ -69,22 +69,22 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "SINI",
+                    "text": "daodao",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0",
+                    "text": "2.0",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "15.0 - 16.6.1",
+                    "text": "15.0 - 17.3.1",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 10 月 20 日",
+                    "text": "2026 年 08 月 27 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,6 +97,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "焕新版本：</br> 新设置</br> 新图标</br> 新功能：圆点</br> 优化部分取色逻辑/算法",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.0",

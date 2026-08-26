@@ -950,6 +950,25 @@ Name: Donut(RootHide)
 Author: SINI
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/donut/js.json
 
+Package: com.dao.donut
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 380
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.noisyflake.cozybadges, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd, com.dao.ocd5lite, com.dao.ocd5, com.sini921.donut
+Filename: ./roothide/Donut(RootHide)_2.0.deb
+Size: 43426
+MD5sum: 46ba6ae5cc510f9d80b649e68b868b1c
+SHA1: 9fe0f266d0ab80c42a9c33fe6cc7460808c3db1c
+SHA256: b5ed9fcc6396e3a92035be48da0bfb30e49184b3771b50bf475773be868019bb
+SHA512: 70eab7360623f33acfd6a402b5af078f8426cfcfe2ab61bff44b74e631a29d0892b25fb17ba6728dde88205c9902941e037003a9a65d296ba4bf3e4c35f1f458
+Description: 桌面图标通知角标变成空心小圆圈，自适应颜色。
+Name: Donut(RootHide)
+Author: daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/donut/js.json
+
 Package: com.hk.dynamicstage.cn.rl
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -4252,6 +4271,25 @@ SHA512: 3183c03296d2753d7bf11ddd70315be691240d5424171bcf56d0c60ee438eee216ce7b58
 Description: 桌面图标通知角标变成空心小圆圈，自适应颜色。
 Name: Donut(rootless)
 Author: SINI
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/donut/js.json
+
+Package: com.dao.donut
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Conflicts: com.noisyflake.cozybadges, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd, com.dao.ocd5lite, com.dao.ocd5, com.sini921.donut
+Filename: ./rootless/Donut(rootless)_2.0.deb
+Size: 44676
+MD5sum: 4e3f46f0da793219442272e146c4d51e
+SHA1: 5a8c71f20772ed22f0c59d507e39a25fda1e459b
+SHA256: 46a182d7b020ae8af3b525d4eb25739bec6803281c5bd17df622b47b4c25ca4e
+SHA512: 37a0aa34cee80b8935515bb87849153d479e3d44fd92f1ce4496d911c7571f295f93fc7034558d9d225af379bcce1fc78de4f9b11c3e10bd7a08e099334c7420
+Description: 桌面图标通知角标变成空心小圆圈，自适应颜色。
+Name: Donut(rootless)
+Author: daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/donut/js.json
 
 Package: com.dao.dumpdecrypter
