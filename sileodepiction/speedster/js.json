@@ -74,17 +74,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2.2",
+                    "text": "2.2.3",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "13.0 - 16.7.15",
+                    "text": "14.0 - 17.3.1",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 04 月 25 日",
+                    "text": "2026 年 08 月 26 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,6 +97,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "程序打开/关闭：</br> 动画速度/弹簧效果 5档 ——>7档</br> </br> 设置页微调</br> 删除死代码，提升效率",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.2.2",
