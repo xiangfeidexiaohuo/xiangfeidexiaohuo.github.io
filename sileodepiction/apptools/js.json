@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.8.1",
+                    "text": "2.8.2",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 24 日",
+                    "text": "2026 年 08 月 27 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.8.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "🙂🙂🙂大家尽快更新哟，旧版本将停用！</br> </br> 1、优化全局省电逻辑，手动从控制中心开启低电量后，插件省电功能将不再干涉生效；</br> 2、优化音视频低电量逻辑：仅当app在前台且正在播放时开启，不影响进入后台进行其它操作（必要条件：正在播放，在前台，且控制中心有显示时有效。其它情况请开启单个省电设置）；</br> 3、增强全局省电模式场景识别和进入退出低电量的速度；</br> 4、修复在 iPad 上崩溃的问题； </br> 5、其它细节优化。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.8.1",
