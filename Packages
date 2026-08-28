@@ -2544,6 +2544,23 @@ Description: TrollStore 简体中文包(RootHide)。
 Name: TrollStore 简体中文包(RootHide)
 Author: 妖刀
 
+Package: com.dao.tslite
+Architecture: iphoneos-arm64e
+Version: 2.1.1-1
+Section: Applications
+Maintainer: opa334
+Installed-Size: 3948
+Conflicts: com.opa334.trollstorelite
+Filename: ./roothide/TrollStoreLite(RootHide)_2.1.1-1.deb
+Size: 1767192
+MD5sum: 86a1e700ef731057e047eead6037d5f6
+SHA1: 37fac914bec5f251e9cb876466627e66b185878a
+SHA256: 05712fcf6112aba17fd1e049a8255010fe0d97a00d6b2c048d6730c0d47d14df
+SHA512: de4467cf9f1002e6239de2fad2d8e19b42a1de185730eebc1aff71eafe8af73e94b70db7aae1750396869215390697e8de02aeb73c2d795dc5022bcfc3d4142a
+Description: 白巨魔，越狱专用的APP安装器，Relaxin(隐根)优化版，支持中英文翻译。
+Name: TrollStoreLite(RootHide)
+Author: opa334
+
 Package: com.dao.uiscroller
 Architecture: iphoneos-arm64e
 Version: 1.0.5
