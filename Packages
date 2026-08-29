@@ -209,23 +209,6 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 
 Package: com.dao.apptools.lite
 Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: 嗨-付费
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless, com.dao.apptools15
-Filename: ./roothide/AppTools Lite(RootHide)_1.0.1.deb
-Size: 619644
-MD5sum: 155c8912d2deda60eea2a2d1f86238fc
-SHA1: 822480184b566d2b9ff05e2f2fd8452be6091a41
-SHA256: e77a00660d69ec638d796da0f910694dcddd0cba0104f2fce013a0fa55c2a66c
-SHA512: 639e029d79fb491bc56ebc776c67d1874e91a0c3a4aeb145f969a81580639638aae91a6a3123589b27832c84c431f1e8ad30f4b0649b0d7b37795567e41627a2
-Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
-Name: AppTools Lite(RootHide)
-Author: aReo
-
-Package: com.dao.apptools.lite
-Architecture: iphoneos-arm64e
 Version: 1.0.3
 Section: 嗨-付费
 Maintainer: aReo
@@ -240,24 +223,6 @@ SHA512: 49bd3545fdfe2b120be084b41f6fbc39478ab646b8be4f79f386cafef0b24dfea85f7cc7
 Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
 Name: AppTools Lite(RootHide)
 Author: aReo
-
-Package: com.dao.apptools15
-Architecture: iphoneos-arm64e
-Version: 2.8.1
-Section: 嗨-付费
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: ./roothide/AppTools15-17(RootHide)_2.8.1.deb
-Size: 1469688
-MD5sum: 7976d41bfbc23cecd53995d6241a7370
-SHA1: 77ecd120cbbd916171d86f872387851222497d01
-SHA256: 06be29e6a5f41c618a7d449f945b24e49b9841845b8b2cae68e30d7bb3018c11
-SHA512: 9d7f4df2200471d9baf48f47588948133a1b8bf241fe216c27b835e8671d07a09b29249971ac289656f1815382f7e641f9c479dea188119f0450403cbc9a0807
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Name: AppTools15-17(RootHide)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
 Package: com.dao.apptools15
 Architecture: iphoneos-arm64e
@@ -2888,42 +2853,6 @@ Description: Zetsu 简体中文包(RootHide)。
 Name: Zetsu 简体中文包(RootHide)
 Author: 妖刀
 
-Package: com.dao.lockdown
-Architecture: iphoneos-arm64e
-Version: 1.0.3
-Section: 嗨-系统
-Maintainer: roothide
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.roothide.lockdown, cc.dao.lightshield
-Filename: ./roothide/lockdown(RootHide)_1.0.3.deb
-Size: 5640
-MD5sum: 4d4826ef0d75a8df2278997b0e8a49f3
-SHA1: 0b967cf2a8d044357e07bcdf21d9a65a0f164063
-SHA256: bf0cf20f62648087cb7edb2f1d4cc40a3e74c6421b9d26f330dd7c470c4cfd84
-SHA512: 36218ae6ad3e0eaac4142a48c2714d1a767ddfc03cec5819f4800adc418420d0328fe9aac547fbda877319c26e31567f4529fe2d1aa2389bfec5646abdbe34a0
-Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent 进程的 JSC 安全加固。通过配置 JavaScriptCore 选项，消除主要的漏洞利用原语（包括地址泄露/伪造对象 addrof/fakeobj、JIT 类型混淆、垃圾回收器 Use-After-Free）。该安全强化默认处于启用状态，无设置。如果使用真皮白名单RootHide，请去白名单勾选 com.apple.WebKit.WebContent。
-Name: lockdown(RootHide)
-Author: roothide
-
-Package: com.dao.lockdown
-Architecture: iphoneos-arm64e
-Version: 2.0
-Section: 嗨-系统
-Maintainer: roothide
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.roothide.lockdown, cc.dao.lightshield
-Filename: ./roothide/lockdown(RootHide)_2.0.deb
-Size: 5814
-MD5sum: 624f492e5d712d8c8ca943a7d700ca08
-SHA1: 826491c03a04bb8756b1ef6f913019c5a1520035
-SHA256: a60d53e497f3cf4b5b3aab1ae06b3b7f6d86aa8182c44c06049537ef59d61c10
-SHA512: d0ba2fd4a8dcfae4ce3705332d8d10f864b43fe1ca620b0f740f39894801f8ce9398f328f30adf251c61784f5fd770d347246e1680ef9d1c11013dec9c496084
-Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent 进程的 JSC 安全加固。通过配置 JavaScriptCore 选项，消除主要的漏洞利用原语（包括地址泄露/伪造对象 addrof/fakeobj、JIT 类型混淆、垃圾回收器 Use-After-Free）。该安全强化默认处于启用状态，无设置。如果使用真皮白名单RootHide，请去白名单勾选 com.apple.WebKit.WebContent。
-Name: lockdown(RootHide)
-Author: roothide
-
 Package: com.dao.replaced
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -3307,23 +3236,6 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 
 Package: com.dao.apptools.lite
 Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: 嗨-付费
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless, com.dao.apptools15
-Filename: ./rootless/AppTools Lite(rootless)_1.0.1.deb
-Size: 647076
-MD5sum: a5f36297a3ee117989efd5161a43e679
-SHA1: ce2d80b8c7d230c43887f0ca5167643c3c951720
-SHA256: e7eac76acac5ef4e1f72a8b57b15ac592e9de47446f01c242694b33c4febb2d2
-SHA512: 167d9decc933ef49087270dcc5c92ecc32f3dbdbb9fef9f7a3d8300a40945e53e16cf899433161249bf648f57fa343e049c3de9b4ea77ab3d3f491940550a7ec
-Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
-Name: AppTools Lite(rootless)
-Author: aReo
-
-Package: com.dao.apptools.lite
-Architecture: iphoneos-arm64
 Version: 1.0.3
 Section: 嗨-付费
 Maintainer: aReo
@@ -3338,24 +3250,6 @@ SHA512: fc38766bbe6b58a0167ba99b2911792027a6d678209316df011094b4708797b072f2cbed
 Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
 Name: AppTools Lite(rootless)
 Author: aReo
-
-Package: com.dao.apptools15
-Architecture: iphoneos-arm64
-Version: 2.8.1
-Section: 嗨-付费
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: ./rootless/AppTools15-17(rootless)_2.8.1.deb
-Size: 1490908
-MD5sum: 667f130ef971a661177227f0249d3400
-SHA1: 46c13cac1d329424124162cad4b444a29fc967e3
-SHA256: 85a8321ead5cc1ef349d18c2092edd95b989097290501b0d50ceb3a3427a6c1b
-SHA512: b9986461bdfe33a5ec194e7aa20ac33b92a0903e1db6d4baa4b9e1674bee7a940738d8f1db5b7043eacd754cd7655ae6ae41633fad608352f987654f8153d4d5
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Name: AppTools15-17(rootless)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
 Package: com.dao.apptools15
 Architecture: iphoneos-arm64
@@ -7378,42 +7272,6 @@ SHA512: 08fb4bdaa8b696e5c658da183191667d9b7531ca86203e5975e514475f4f9c2af79872aa
 Description: 图片和颜色计算控件，Liddell小横幅插件的依赖。
 Name: libKitten(rootless)
 Author: Traurige <hello@traurige.dev>
-
-Package: com.dao.lockdown
-Architecture: iphoneos-arm64
-Version: 1.0.3
-Section: 嗨-系统
-Maintainer: roothide
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.roothide.lockdown, cc.dao.lightshield
-Filename: ./rootless/lockdown(rootless)_1.0.3.deb
-Size: 6724
-MD5sum: 770e62d74ca286f277e750c9516e4acf
-SHA1: 5e87947f20e8db609b901ce454c940a0ee863d68
-SHA256: 528783082169b78f7f5a8974fdb867ed051605f76a2c47f24249fc9aa3a9cdce
-SHA512: 6b92bcfc03a80efe0e861fe14af69de7234ed2dbf8089a61c65315d1d58eefe13b287569b4375e628c86ec4d0bd44d84c77540c467c6e98d425a0b239ee230b6
-Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent 进程的 JSC 安全加固。通过配置 JavaScriptCore 选项，消除主要的漏洞利用原语（包括地址泄露/伪造对象 addrof/fakeobj、JIT 类型混淆、垃圾回收器 Use-After-Free）。该安全强化默认处于启用状态，无设置。如果使用真皮白名单RootHide，请去白名单勾选 com.apple.WebKit.WebContent。
-Name: lockdown(rootless)
-Author: roothide
-
-Package: com.dao.lockdown
-Architecture: iphoneos-arm64
-Version: 2.0
-Section: 嗨-系统
-Maintainer: roothide
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.roothide.lockdown, cc.dao.lightshield
-Filename: ./rootless/lockdown(rootless)_2.0.deb
-Size: 6892
-MD5sum: f6c5136addab93ecf289cc1b9c45235a
-SHA1: 6af8ff0b83a0973e1ac6e9c619bde16266d1ab75
-SHA256: 45f0c074ca521d21a5787500a48e0b4c4fb1ac4e9ab25b3cd3f7ee94f13e4179
-SHA512: b443b9721696df1b622be2c884f5b365331f19c0eccc51ed56de81f56aa532851afecf2e763d5f6cf903a231d7b6c3a42ca4daca4f7dbab9ab09e5516f657922
-Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent 进程的 JSC 安全加固。通过配置 JavaScriptCore 选项，消除主要的漏洞利用原语（包括地址泄露/伪造对象 addrof/fakeobj、JIT 类型混淆、垃圾回收器 Use-After-Free）。该安全强化默认处于启用状态，无设置。如果使用真皮白名单RootHide，请去白名单勾选 com.apple.WebKit.WebContent。
-Name: lockdown(rootless)
-Author: roothide
 
 Package: com.dao.replaced
 Architecture: iphoneos-arm64
@@ -21142,42 +21000,6 @@ Description: Liddell等插件的依赖，上架备用。
 Tag: role::developer
 Name: libKitten
 Author: Traurige
-
-Package: com.dao.lockdown
-Architecture: iphoneos-arm
-Version: 1.0.3
-Section: 嗨-系统
-Maintainer: roothide
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.roothide.lockdown, cc.dao.lightshield
-Filename: ./rootful/lockdown_1.0.3.deb
-Size: 7372
-MD5sum: c9ba936d7f928f41d8aedf14c475049f
-SHA1: e431b2b02f4eb4e3c98738df0bc794b38ca6e718
-SHA256: dfc10adccc7773dc0f413935ab601eff6703bd38595284e2fbdd05e941b2bfdd
-SHA512: e5d04c5b085d8fba455821d191793230602efbac5f1457f61de26aa8e9ea2329e5db3decae03ff2e438425bae68225ab9630ef7cc4fa0cca6050e7070900181a
-Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent 进程的 JSC 安全加固。通过配置 JavaScriptCore 选项，消除主要的漏洞利用原语（包括地址泄露/伪造对象 addrof/fakeobj、JIT 类型混淆、垃圾回收器 Use-After-Free）。该安全强化默认处于启用状态，无设置。如果使用真皮白名单RootHide，请去白名单勾选 com.apple.WebKit.WebContent。
-Name: lockdown
-Author: roothide
-
-Package: com.dao.lockdown
-Architecture: iphoneos-arm
-Version: 2.0
-Section: 嗨-系统
-Maintainer: roothide
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.roothide.lockdown, cc.dao.lightshield
-Filename: ./rootful/lockdown_2.0.deb
-Size: 6936
-MD5sum: ecf3115e8aab9b9ac58c986b4a34b835
-SHA1: b44dc1024f67cfa0ecb89165cdb3a19dbe4306db
-SHA256: e4873179fb5653235dc64749260fab7788acb77c4bb39c0821d436019996212b
-SHA512: f8b2c01e7b1fa63a4b4e892db19d8cd97d1c84d9d96388409d7ea8ce786896c4b09f966cc994ef9f68a3e371c8c7acbcd9e35ddbb0912f81327681ea5eb83123
-Description: 让你的设备免受 DarkSword/Coruna 攻击！针对 WebContent 进程的 JSC 安全加固。通过配置 JavaScriptCore 选项，消除主要的漏洞利用原语（包括地址泄露/伪造对象 addrof/fakeobj、JIT 类型混淆、垃圾回收器 Use-After-Free）。该安全强化默认处于启用状态，无设置。如果使用真皮白名单RootHide，请去白名单勾选 com.apple.WebKit.WebContent。
-Name: lockdown
-Author: roothide
 
 Package: com.hk.mybar.cn
 Architecture: iphoneos-arm
