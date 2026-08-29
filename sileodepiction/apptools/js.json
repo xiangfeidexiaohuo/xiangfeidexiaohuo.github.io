@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.8.2",
+                    "text": "2.8.3",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 27 日",
+                    "text": "2026 年 08 月 29 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.8.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化单个应用省电模式问题。</br> </br> 省电模式功能说明：</br> 一、适用场景：屏幕常亮、不需频繁操作、低占 CPU 等场景。如导航、小说、听歌看视频等应用。</br> </br> 二、省电模式分为全局省电和单个应用省电，均通过调用系统低电量模式实现。</br> </br> 三、实现逻辑：</br> 单个应用省电模式：进入应用且在前台时触发，返回桌面等其它状态解除。</br> 全局省电模式，长按功能可控制场景：</br> 1、通话场景：接通电话时进入低电量，挂断时解除；</br> 2、锁屏场景：锁屏时进入低电量，亮屏时解除；</br> 3、导航和图书类场景：打开导航或图书类应用进入低电量，返回桌面等其它状态解除。类别以 App Store 分类为准；</br> 4、播放场景：播放视频音乐时进入低电量，暂停关闭时解除。仅支持在控制中心显示播放库的应用。必要条件：正在播放、应用在前台、在控制中心显示。</br> </br> 四、其它说明：</br> 应用省电和全局省电可同时开启，互相补充。全局省电无法满足的场景可通过应用省电互补。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.8.2",
