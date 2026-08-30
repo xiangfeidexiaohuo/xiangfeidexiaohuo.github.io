@@ -42,10 +42,6 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/Screenshot_03.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/Screenshot_04.png"
                         }
                     ]
                 },
@@ -82,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.4.1",
+                    "text": "3.5",
                     "title": "最新版本"
                 },
                 {
@@ -92,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 19 日",
+                    "text": "2026 年 08 月 30 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -105,6 +101,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复 摩登模式/柔光玻璃 箭头样式（完美融合面板）</br> 柔光玻璃微调</br> 展开速度反转：慢速<—左边、右边—>快速</br> 三种经典(小牛、经典、iOS4Beta)模式面板悬浮（更现代化）</br> 修复iOS4Beta面板拉伸问题</br> </br> 新增探索功能：</br> - 启用边框：文件夹边框、可调边框粗细/颜色</br> - 五列展开：展开文件夹五列展示</br> - 反向展开：v3.4.1功能做成开关，底部1/2行文件夹展开逻辑，自由开关",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "3.4.1",
