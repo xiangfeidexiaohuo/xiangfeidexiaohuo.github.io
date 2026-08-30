@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.1",
+                    "text": "2.0.2",
                     "title": "最新版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 27 日",
+                    "text": "2026 年 08 月 31 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,6 +97,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.0.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复编辑堆叠模式可能引起的崩溃",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.0.1",
