@@ -38,10 +38,6 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/Screenshot_02.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/Screenshot_03.png"
                         }
                     ]
                 },
@@ -78,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.7.1",
+                    "text": "1.7.2",
                     "title": "最新版本"
                 },
                 {
@@ -88,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 19 日",
+                    "text": "2026 年 08 月 31 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -101,6 +97,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.7.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "设置页微调、支持中英文翻译",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.7.1",
