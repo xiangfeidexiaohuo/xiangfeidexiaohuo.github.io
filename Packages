@@ -1342,6 +1342,24 @@ Description: 一键注入dylib到ipa的命令行工具，需配合终端(NewTerm
 Name: InjectIPA(RootHide)
 Author: Netskao
 
+Package: com.dao.jailfools
+Architecture: iphoneos-arm64e
+Version: 5.2.3
+Section: 嗨-工具
+Maintainer: zqbb <zqbbzz@gmail.com>
+Depends: firmware (>= 15.0)
+Conflicts: cn.zqbb.jailfools
+Filename: ./roothide/JailFools(RootHide)_5.2.3.deb
+Size: 5286376
+MD5sum: 0ccc6eba48ccb6b53dcfd179952af39c
+SHA1: 646fe3561492a4a8c346ae1a90f71d63a3710211
+SHA256: ec52f39229c2488eba52e388b4ca0658402007af2e4a280e4f5a75950e7d1937
+SHA512: f94b5f3bf2202ac07b68b80edaa77f28d23f2d341e7225d1e20f5379ed28a7c8845a82db2088b9252ee18f9706c3aa86fd35a5e1f490530661b472afe659290b
+Description: Relaxin白魔注入器：让应用在屏蔽越狱状态下可以注入插件(越狱注入器)。
+Name: JailFools(RootHide)
+Author: zqbb <zqbbzz@gmail.com>
+SileoDepiction: https://apt.002599.xyz/web/cn.zqbb.jailfools
+
 Package: com.hk.kbapp.cn.rl
 Architecture: iphoneos-arm64e
 Version: 1.5-1
