@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.5.2",
+                    "text": "3.6",
                     "title": "最新版本"
                 },
                 {
@@ -88,7 +88,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 09 月 03 日",
+                    "text": "2026 年 09 月 05 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -101,6 +101,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "3.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "设置页重构：</br> 将「探索功能」「额外功能」整合为「拓展功能」二级菜单</br> 并按「桌面 / 文件夹 / 其他」分类，主界面更加简洁</br> </br> 妙手回春菜单：</br> 改用自定义紧凑菜单，优化间距、行高和面板布局</br> </br> 中英双语：</br> 新增英文翻译，菜单、弹窗等内容根据系统语言自动切换",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "3.5.2",
