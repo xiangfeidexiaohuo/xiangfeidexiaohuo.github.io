@@ -2806,6 +2806,25 @@ Name: VivoStyle(RootHide)
 Author: 34306
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
 
+Package: com.dao.vivostyle
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: 嗨-工具
+Maintainer: 34306
+Installed-Size: 456
+Depends: ellekit, preferenceloader, firmware (>= 15.0)
+Conflicts: com.vivostyle.tweak
+Filename: ./roothide/VivoStyle(RootHide)_1.2.deb
+Size: 49430
+MD5sum: 834fb76d631a3a9d538add14bfd8a200
+SHA1: 33b02db3e3d9f67c64a7140a3dff21195ffdc74f
+SHA256: 53e107d136ade4e2cae6b107872c87decfda0f295a55dadbbf35a7e9e22c8a59
+SHA512: 7ab0e9501c1d49b61c1e62a44f682e4b09fb7d454af660c8ab947867a0e080449224c543caa808a88bf36b939bd0dfd4521bc8b14445e50496238c51e967ba60
+Description: vivo OriginOS 风格的陀螺仪「翻转卡片」锁屏壁纸 —— 倾斜手机时，可在自己的照片之间进行交叉淡入淡出切换，并带有视差景深效果。
+Name: VivoStyle(RootHide)
+Author: 34306
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
+
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
 Version: 0.9.1
@@ -7212,6 +7231,25 @@ MD5sum: 283fb498f920c090ff1fe073d7ced967
 SHA1: 89ccd4fc18bfc9a5c7da90770e26a76d15198cb1
 SHA256: 098239ee83ac66d329db67a6fb2b4972a97aa99afaa8557a59718016f4c6298e
 SHA512: eda65d63b29e2a22a1ec480d27c875bcff0673ca17069a966a32e6dc395837c3b71fd9aa6b064a3aba13e4a2b582a13f18461438562abda98d024a8c4fc3983b
+Description: vivo OriginOS 风格的陀螺仪「翻转卡片」锁屏壁纸 —— 倾斜手机时，可在自己的照片之间进行交叉淡入淡出切换，并带有视差景深效果。
+Name: VivoStyle(rootless)
+Author: 34306
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
+
+Package: com.dao.vivostyle
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: 嗨-工具
+Maintainer: 34306
+Installed-Size: 456
+Depends: ellekit, preferenceloader, firmware (>= 15.0)
+Conflicts: com.vivostyle.tweak
+Filename: ./rootless/VivoStyle(rootless)_1.2.deb
+Size: 50510
+MD5sum: 9c0e4ebbe3cd048820da015a04ba2438
+SHA1: d72bd01e725fc09fd8cf09955d5cc24cbfa90e50
+SHA256: 0f59d9caac4f24a8b9c5bed568f514ab8df2132e50a0a593bd6226713b69a6fa
+SHA512: 36c12ed3b7e86ceebc75fdead78476ca7d8505184a191f9ffab896b31469b23d0c0e613cba5acaa6f462f9afe05542800c6ff0d8be1438128d9364a28a4e8d55
 Description: vivo OriginOS 风格的陀螺仪「翻转卡片」锁屏壁纸 —— 倾斜手机时，可在自己的照片之间进行交叉淡入淡出切换，并带有视差景深效果。
 Name: VivoStyle(rootless)
 Author: 34306

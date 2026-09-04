@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1",
+                    "text": "1.2",
                     "title": "最新版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 19 日",
+                    "text": "2026 年 09 月 04 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,6 +97,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复：</br> 修复锁屏息屏后仍持续耗电的问题</br> 修复视频壁纸阻止系统自动锁屏的问题</br> 修复开启 AOD 后视频壁纸持续常亮的问题</br> </br> 优化与省电：</br> 视频壁纸模式不再使用陀螺仪</br> 陀螺仪采样率由 60Hz 降至 30Hz</br> 亮屏静止 3 秒后陀螺仪降频到 2Hz</br> 暂停时释放视频解码资源，恢复后自动继续</br> 视频未变化时复用播放器，避免重复解码和重播</br> 翻转壁纸和视频壁纸，都不作用于AOD，只有真正亮屏才显示",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.1",
