@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "精简代码，移除桌面文件夹预览干扰",
+                    "markdown": "精简代码：移除文件夹预览处理",
                     "useRawFormat": true
                 },
                 {
@@ -116,7 +116,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "优化图标拖动与布局处理逻辑</br> 移除一些无效代码",
+                    "markdown": "优化图标拖动与布局处理逻辑",
                     "useRawFormat": true
                 },
                 {
@@ -127,7 +127,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "参考 Yves000/griddy 源码适配 iOS17，感谢！</br> 修复：图标概率性乱飞</br> 固定文件夹预览3x</br> 17.1 自测没啥大问题",
+                    "markdown": "参考 Yves000/griddy 源码适配 iOS17，感谢！</br> 固定文件夹预览3x</br> 其他微调</br> 17.1 自测没啥大问题",
                     "useRawFormat": true
                 },
                 {
@@ -138,7 +138,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步开源 v1.0.5 编译",
+                    "markdown": "同步开源 v1.0.5 编译</br> 此版本只支持 iOS15/16",
                     "useRawFormat": true
                 }
             ]

@@ -1168,6 +1168,25 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.j
 
 Package: com.dao.griddy
 Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: 嗨-工具
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: ./roothide/Griddy 随意摆(RootHide)_1.0.5.deb
+Size: 18378
+MD5sum: b27e0b1bf09ffc9ca5affd3cdcbc7285
+SHA1: b196f3bd33c9a5e55e36dbc8672eb29cf6ba5a26
+SHA256: 51c3dded6f0267ee104cdc79884d50ef4e23ac6a1d841eac8f4b9504faf2493f
+SHA512: 0c518103be55467bbe35fd69082eec6e5ae7483721eae9bc3bef3271c74830075b8a588f0f960dd7e421f4b971089f02abbac3f58f1d406b5f416e6e22b9e855
+Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
+Name: Griddy 随意摆(RootHide)
+Author: mikifp
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
+Package: com.dao.griddy
+Architecture: iphoneos-arm64e
 Version: 1.2.1
 Section: 嗨-工具
 Maintainer: mikifp
@@ -4574,6 +4593,25 @@ Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码�
 Name: GoodWiFi 中文版(rootless)
 Author: julioverne & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.dao.griddy
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: 嗨-工具
+Maintainer: mikifp
+Installed-Size: 204
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: ./rootless/Griddy 随意摆(rootless)_1.0.5.deb
+Size: 19578
+MD5sum: c6768291933c26856e6ee9f507c71e1b
+SHA1: f7e8b77a5389931ff4a2b5dc742e37c270c84328
+SHA256: b7d21824130d8f3d913f6709f1a74c8040e09f87541dd401429f6aa2234f5e1c
+SHA512: 0af31c2d53e080f3b9aeecb752efc8ca0eda51cc6b8c7fdd0f4c66663b8a2461aeb1300bd075a555342fb914cd72a0bf6da0d146580ca87673a4825a36bbec0c
+Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
+Name: Griddy 随意摆(rootless)
+Author: mikifp
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
 
 Package: com.dao.griddy
 Architecture: iphoneos-arm64
