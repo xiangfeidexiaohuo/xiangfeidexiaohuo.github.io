@@ -1346,16 +1346,16 @@ SileoDepiction: https://apt.002599.xyz/web/cn.zqbb.jailfools
 
 Package: com.hk.kbapp.cn.rl
 Architecture: iphoneos-arm64e
-Version: 1.7
+Version: 1.7.1
 Section: 嗨-汉化
 Maintainer: 刀刀
 Depends: mobilesubstrate
 Filename: ./roothide/KBApp 简体中文包(RootHide).deb
-Size: 4324
-MD5sum: 3554fce00ff3463c1e67c9f6e097a9d3
-SHA1: cec7812875f439e4b6919f942e3ef67bb556efa4
-SHA256: 14047245f025a7d680bfc52d428f95d5caa2cf7189218247810230a6dec2799f
-SHA512: 1a6bdc388dee1507c866614576759bcc751085a03f153fcf4c9a56c1f2ab83942713c2d43056fe1b88040686784815a1126a3007a0817f25d3121829bf5c17fe
+Size: 4432
+MD5sum: 1b4e3f58f22f7db8af407cf2a0b5681a
+SHA1: 3955d940e2d00ca3a00408e17799e47ca215738f
+SHA256: dad4e7a82adee92a8fd5fb5864791c2d18f877d4032a90f0c25c9ff225c8d031
+SHA512: 39e4d93dbf09a3f43d5354017a189e9adae9cf92edbebf39399f24cca77b9415569ad39d34de120ac8ef161c8cbc68a03f61f122d409834e4e03b29d9dc3176e
 Description: KBApp 简体中文包(RootHide)。
 Name: KBApp 简体中文包(RootHide)
 Author: 刀刀
@@ -4841,16 +4841,16 @@ Name: Jade(rootless)
 
 Package: com.hk.kbapp.cn.rl
 Architecture: iphoneos-arm64
-Version: 1.7
+Version: 1.7.1
 Section: 嗨-汉化
 Maintainer: 刀刀
 Depends: mobilesubstrate
 Filename: ./rootless/KBApp 简体中文包(rootless).deb
-Size: 4344
-MD5sum: efeabc7108fbef2808acfe36008dd3bf
-SHA1: 4200e187081c7b359bc1fc8b541ada26d309e36e
-SHA256: 8cbf7b7049a3b46d6ebf4aed5a570adceb1e158b059cdb33b860b8c94e15144c
-SHA512: 318fb360123a6e58404c525d9c58fc296200f73ba3bacdf6e8c83a959c71cc33b6d90a9c8679b9395f26ba54a5f29eda9241b85bed3665122f4ad95a2ee9928c
+Size: 4444
+MD5sum: e5514de8dd048f075624a49e58ac5150
+SHA1: ed2dcaa6b4eec5fe543a63770684715c99962649
+SHA256: 9bea2a5307b26925a8ade930d5251f1727592ac3b52efff1ea5eda78ebfbacc0
+SHA512: c8e94b99badd2359423b22b9d920dac49b237d54ef2ba36da3c040403481ccac92e714df5641b651a1c201d8ce40d4ac97756c31a988b21da2cf56fc18ada32c
 Description: KBApp 简体中文包(rootless)。
 Name: KBApp 简体中文包(rootless)
 Author: 刀刀
