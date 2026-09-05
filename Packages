@@ -4993,23 +4993,6 @@ Description: 小横幅通知，可自定义颜色等，汉化包源内安装。
 Name: Liddell小横幅(rootless)
 Author: Traurige <hello@traurige.dev>
 
-Package: cc.dao.lightshield
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: 嗨-系统
-Maintainer: Taj C (forcequit)
-Depends: preferenceloader, com.opa334.libsandy, firmware (>= 15.0)
-Conflicts: cc.forcequit.lightshield
-Filename: ./rootless/Lightshield(rootless).deb
-Size: 21292
-MD5sum: 38ba8b4f306eaa6de2f0feecf3d8f068
-SHA1: 9b5f4477bf06d56490623eb2d7eb105a9539dc34
-SHA256: 8f34f8ecbf652b62dc79dc2f4568145ec9d7a8836d63cabb1f0fd74d87699f88
-SHA512: b7ad14b7ec4a75d1bff3974322d04a48a81a31d312c15e78d7829127ade1e118044fc7d5586b131566ae37d1ec9a9b45ac9b3cf08dd25ba157abd6dc4e5f903e
-Description: 让你的设备免受 DarkSword/Coruna 攻击！
-Name: Lightshield(rootless)
-Author: Taj C (forcequit)
-
 Package: com.hk.lockmaster.cn
 Architecture: iphoneos-arm64
 Version: 1.2
