@@ -1346,19 +1346,19 @@ SileoDepiction: https://apt.002599.xyz/web/cn.zqbb.jailfools
 
 Package: com.hk.kbapp.cn.rl
 Architecture: iphoneos-arm64e
-Version: 1.5-1
+Version: 1.7
 Section: 嗨-汉化
-Maintainer: 妖刀
+Maintainer: 刀刀
 Depends: mobilesubstrate
 Filename: ./roothide/KBApp 简体中文包(RootHide).deb
-Size: 5736
-MD5sum: 7750f424caa48ff7ecd6bfd8ca40fcc9
-SHA1: 097c2712861e63945b72a53b2de9f34fdcd65750
-SHA256: 5ca63c60d8d1a3aa00b4f0da17ca58274203e7a642823f05913a40bb6bbbf953
-SHA512: 48bcac8490600fc852f74dcc6e88a2d336c7213cb169edcd6d0faeeb51b9e9aa44bd98c16b04ae2b539a24cfc85a8477f4156dbb4bbabdbbfef2e58be66e1a8b
+Size: 4324
+MD5sum: 3554fce00ff3463c1e67c9f6e097a9d3
+SHA1: cec7812875f439e4b6919f942e3ef67bb556efa4
+SHA256: 14047245f025a7d680bfc52d428f95d5caa2cf7189218247810230a6dec2799f
+SHA512: 1a6bdc388dee1507c866614576759bcc751085a03f153fcf4c9a56c1f2ab83942713c2d43056fe1b88040686784815a1126a3007a0817f25d3121829bf5c17fe
 Description: KBApp 简体中文包(RootHide)。
 Name: KBApp 简体中文包(RootHide)
-Author: 妖刀
+Author: 刀刀
 
 Package: com.dao.kwcrack
 Architecture: iphoneos-arm64e
@@ -4841,19 +4841,19 @@ Name: Jade(rootless)
 
 Package: com.hk.kbapp.cn.rl
 Architecture: iphoneos-arm64
-Version: 1.5-1
+Version: 1.7
 Section: 嗨-汉化
-Maintainer: 妖刀
+Maintainer: 刀刀
 Depends: mobilesubstrate
 Filename: ./rootless/KBApp 简体中文包(rootless).deb
-Size: 6084
-MD5sum: 3faa584930577d75cceb9ddb13c66c27
-SHA1: 2ed086a5c9d743b125b4359b30838d2d3b434acc
-SHA256: fbbd77efd75f47e740fa72e9503a360ac9ea378a997f972cb8dff5228f580bc7
-SHA512: f0026e4746e68b094f0b69625d6cfdb077acce581f5ee82a3ef0a1fa44c0353d8e016acb4d139b904b3c52780060d318a9c72c2c5d3d175081307350b650fdf7
+Size: 4344
+MD5sum: efeabc7108fbef2808acfe36008dd3bf
+SHA1: 4200e187081c7b359bc1fc8b541ada26d309e36e
+SHA256: 8cbf7b7049a3b46d6ebf4aed5a570adceb1e158b059cdb33b860b8c94e15144c
+SHA512: 318fb360123a6e58404c525d9c58fc296200f73ba3bacdf6e8c83a959c71cc33b6d90a9c8679b9395f26ba54a5f29eda9241b85bed3665122f4ad95a2ee9928c
 Description: KBApp 简体中文包(rootless)。
 Name: KBApp 简体中文包(rootless)
-Author: 妖刀
+Author: 刀刀
 
 Package: com.dao.kwcrack
 Architecture: iphoneos-arm64
