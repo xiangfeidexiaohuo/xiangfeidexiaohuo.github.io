@@ -2620,6 +2620,23 @@ Description: 白巨魔，越狱专用的APP安装器，Relaxin(隐根)优化版�
 Name: TrollStoreLite(RootHide)
 Author: opa334
 
+Package: com.iosdump.tslite
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Section: 嗨-工具
+Maintainer: opa334
+Depends: ldid
+Conflicts: com.opa334.trollstorelite, com.dao.tslite
+Filename: ./roothide/TrollStoreLite-iosdump(RootHide)_2.1.1.deb
+Size: 2216076
+MD5sum: 60819aefa1c92f2e14c555216f61cd36
+SHA1: 75fe6bb260d266d3bfec0e77cd2e9bb5bce64ff4
+SHA256: acc63f18b0571ad3ea9e5c6a40c3a260f9578df8ad372bb54883c79033f4d31a
+SHA512: f8fb24cf544ec64cfffa23830e7027d7d271f4ca488bd73e320d136333ce022bf8b08155b9978d073c1a303ad509e29df5227e249f62ca9a59753a65584d7ea8
+Description: 越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)。
+Name: TrollStoreLite-iosdump(RootHide)
+Author: opa334
+
 Package: com.dao.uiscroller
 Architecture: iphoneos-arm64e
 Version: 1.0.5
@@ -6909,6 +6926,23 @@ SHA512: 162cf490a9c3d7249b1c7dd7e6d64f10319e5a8b2a7d411ffc29c404793f537236a126c7
 Description: TrollStore 简体中文包(rootless)。
 Name: TrollStore 简体中文包(rootless)
 Author: 妖刀
+
+Package: com.iosdump.tslite
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: 嗨-工具
+Maintainer: opa334
+Depends: ldid
+Conflicts: com.opa334.trollstorelite, com.dao.tslite
+Filename: ./rootless/TrollStoreLite-iosdump(rootless)_2.1.1.deb
+Size: 2218900
+MD5sum: 152a0296f205151f39038fd4b0a05c9f
+SHA1: 359532387e9d384b5f5d052ed134fcdc08e6e207
+SHA256: 0fa736b8f9081bdb41d766a47db7b6b1ce8af2e84f18fd3a7d8fea5841cd0530
+SHA512: 9a9627a6a6126a3decb50965770ecd99c6f91dc7a75088b9be9473fc7b9b8b28cbaaf2e110da93ac4847cbe8646ad93d850a7883f9432e8c42ccada3d909c5d4
+Description: 越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)。
+Name: TrollStoreLite-iosdump(rootless)
+Author: opa334
 
 Package: com.dao.uiscroller
 Architecture: iphoneos-arm64
