@@ -1922,6 +1922,24 @@ Description: 打乱锁屏的密码盘，每次数字位置随机，无设置项�
 Name: Rode(RootHide)
 Author: rootfs
 
+Package: com.dao.patcher
+Architecture: iphoneos-arm64e
+Version: 2.1.5
+Section: 嗨-系统
+Maintainer: daodao
+Depends: firmware (>= 15.0), libxar1, ldid, file, dpkg, gawk, plutil(>= 0.2.2-1), uikittools(>= 2.1.6-4)
+Conflicts: com.roothide.patcher
+Replaces: com.roothide.patcher
+Filename: ./roothide/RootHidePatcher_2.1.5.deb
+Size: 894828
+MD5sum: a88faaa35c16f96c5aa6516ad9982e4f
+SHA1: 5d328f0987f87533450a716ac3af479c783bd8ca
+SHA256: 6735aeea784a01f5f161d1c9a661e5a62ea1dbbef17c88046bca8e1dd2db725c
+SHA512: 04f3a19705eada4eef13f3725f4969acd58d12319556421d6030d462e3b370617d51de459915e9c9a90768642312a81f6f4373a0f72bad3851897841d8344eec
+Description: 转换器：把 rootless 包转换/修补成 RootHide 格式，但不保证所有插件或软件包都兼容；刀刀简单汉化，必须用刀刀源内的 Sileo 才能调用。
+Name: RootHidePatcher 中文版
+Author: roothide
+
 Package: com.hk.rune.cn.rl
 Architecture: iphoneos-arm64e
 Version: 1.3
@@ -2188,6 +2206,23 @@ SHA512: 4d2922afbba8719b7d6aaefa9ebb4c5766978430bd4a85aad61eb0cd2666f7fd7b95eada
 Description: Sileo和Sileo-Nightly 中文增补包(RootHide)。
 Name: Sileo 中文增补包(RootHide)
 Author: 妖刀
+
+Package: com.dao.sileo
+Architecture: iphoneos-arm64e
+Version: 2.5.1-13
+Section: 嗨-系统
+Maintainer: 刀刀
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Replaces: org.coolstar.sileo
+Filename: ./roothide/Sileo(RootHide)_2.5.1-13.deb
+Size: 3013492
+MD5sum: d2bbc3af91207a8d7db5465ac9fbd72c
+SHA1: 36ceb344c81ee8db5fcc545c8a06c39b43704616
+SHA256: a2721a4bf7fcfa30834db3e0a3998dad117b97c7ba05b77498243aa5cd6a93e6
+SHA512: bbc4f7bfb90a0bc7213eb456a17b04a4e9213313c8197bbd708be8679374e6dc415f565b1102a2986f37f1e223cef08cfcb6daa4b70754d31a44329b3f9b638a
+Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的 RootHidePatcher 中文版，转换插件一条龙。
+Name: Sileo(RootHide)
+Author: Amy While
 
 Package: com.hk.snapper2.cn.rl
 Architecture: iphoneos-arm64e
