@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "7.0",
+                    "text": "7.1",
                     "title": "最新版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 05 日",
+                    "text": "2026 年 09 月 07 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -102,6 +102,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "7.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化广告过滤</br> 常规功能：新增隐藏侧边栏模块</br> 优化自动刷图标，仅在首页显示</br> 修复已知问题</br> 优化相关功能",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "7.0",
