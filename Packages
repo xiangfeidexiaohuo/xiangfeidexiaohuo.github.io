@@ -1348,16 +1348,16 @@ SileoDepiction: https://apt.002599.xyz/web/cn.zqbb.jailfools
 
 Package: com.hk.kbapp.cn.rl
 Architecture: iphoneos-arm64e
-Version: 1.8
+Version: 1.8.1
 Section: 嗨-汉化
 Maintainer: 刀刀
 Depends: mobilesubstrate
 Filename: ./roothide/KBApp 简体中文包(RootHide).deb
-Size: 4820
-MD5sum: c4a3eb707f8c4d2f56b3714ba78b6175
-SHA1: 1492ae779aec9e4f9275ed96255e15276817115b
-SHA256: ccbb882d60a1cb31fceb73b3c14fd7298f3c5e4ecb0e5d922d66c957003cbaa2
-SHA512: bbf82a9d332b3ed11af67fc9c95a20083b8c56c23be2eeb6c01fe7266dc5a34092fe151f28a4a37c835f0795fcd731a09a60502bb4a3fa461780869802c3bd55
+Size: 4856
+MD5sum: 9e284e31244944dfa44040cbc06289ed
+SHA1: f841d51ccdec85ff8d255b09a02fd0230dbedb12
+SHA256: a2d140ca059f5d298e780a8b8d57b9c4c6b91aaeb0edee8ffb65dd8ca81815de
+SHA512: ef33a32283dcebf09f0890601df3aa73e4cf407e0c6b23d793a54c08c3167a56e2f37012f96f92bea0db67332e3f7b55d79793cb75f367a45fb26a6282fa2913
 Description: KBApp 简体中文包(RootHide)。
 Name: KBApp 简体中文包(RootHide)
 Author: 刀刀
@@ -1469,6 +1469,22 @@ SHA512: 6f22081454ce52e8e8bef876222e87cc3ce9707ba21f6cd8a1c133d2d67d6acb1641b917
 Description: 将刘海/灵动岛设备的长按电源键呼出Siri改回电源菜单，无设置，安装生效。
 Name: LockButtonX(RootHide)
 Author: Nightwind
+
+Package: com.dao.lockglass17.cn
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: 嗨-汉化
+Maintainer: 刀刀
+Depends: mobilesubstrate
+Filename: ./roothide/LockGlass 简体中文包(RootHide).deb
+Size: 2796
+MD5sum: 503213c8551e497a262c8df90bae843e
+SHA1: d64ac547a1dfdb5211fd6f737bf3187eeb9ba4df
+SHA256: 64d78fa02e8f684dc2382bd4cc152d3bf1207eb43cfcfb1976252147484f2f15
+SHA512: 763f473872def7c0f8affec5334d6f3eb2aff8b6f22e889b898bfe082cf3b271fa22704abc3578d531f2f379e94cd454091e9d1973af8198a37a3d5407f7c6a1
+Description: LockGlass 简体中文包(RootHide)。
+Name: LockGlass 简体中文包(RootHide)
+Author: 刀刀
 
 Package: com.hk.lynx2.cn.rl
 Architecture: iphoneos-arm64e
@@ -4950,16 +4966,16 @@ Name: Jade(rootless)
 
 Package: com.hk.kbapp.cn.rl
 Architecture: iphoneos-arm64
-Version: 1.8
+Version: 1.8.1
 Section: 嗨-汉化
 Maintainer: 刀刀
 Depends: mobilesubstrate
 Filename: ./rootless/KBApp 简体中文包(rootless).deb
-Size: 4840
-MD5sum: b28bb6581a992f3b609c23eec114b7d3
-SHA1: 26fe10cdbb865613f6cebbe1b1e8e72556ba43ca
-SHA256: b6b8c38ffd09b312d2d26c2a106418df11c21dbe74758382e307d4f979a534d9
-SHA512: 367cffe2b5d8847fab50b1d81127238bfc2c73fe733f0f0b4cdc89fb5300a2383cc9bc57e19e21e3333d0218b437d47c2e09e929a09b1a79b4370ed867285ff6
+Size: 4876
+MD5sum: e0b60649688c1e63e6f2d661f2675953
+SHA1: 3dce751aacd4935a8206e30321f2eaf6975f5cff
+SHA256: c6b473df9cfcd683a47bc906d394fc0339dfe8adc4c0207da6d468dce1ce059e
+SHA512: db22650693a99226c6ad7aa6f466a8a0e9dfe8d8996ce12c81575d057a252973a143cfeeb3cd6bc4b717f8c4cb55859cd075472d56d52ba6d83ffbe6dca69ad7
 Description: KBApp 简体中文包(rootless)。
 Name: KBApp 简体中文包(rootless)
 Author: 刀刀
@@ -5135,6 +5151,22 @@ SHA512: aec4fe7d88b6e509513f6788595ba1ce8501fc57979752e5f1443c4a9666976e02257293
 Description: 将刘海/灵动岛设备的长按电源键呼出Siri改回电源菜单，无设置，安装生效。
 Name: LockButtonX(rootless)
 Author: Nightwind
+
+Package: com.dao.lockglass17.cn
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: 嗨-汉化
+Maintainer: 刀刀
+Depends: mobilesubstrate
+Filename: ./rootless/LockGlass 简体中文包(rootless).deb
+Size: 2848
+MD5sum: c8a457dbf713a605cbac391d1979ec17
+SHA1: 2c9d9fca605344af17781aeee96af6d31ff543bb
+SHA256: 2efb634c0657426981a7465899e004c153fdf271b1a4f124bb8218918b83dade
+SHA512: d9c616dc86f7af64c51c3b6b3feb599781c50b8a921d031a65238b14d736819b0d00b88f4a08d71457876e48430d29475891554e57dd7fcfd0c142ad40aa3295
+Description: LockGlass 简体中文包(rootless)。
+Name: LockGlass 简体中文包(rootless)
+Author: 刀刀
 
 Package: com.dao.looky.cn
 Architecture: iphoneos-arm64
