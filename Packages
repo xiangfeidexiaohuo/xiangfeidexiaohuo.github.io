@@ -19961,24 +19961,6 @@ Description: VCaller Screen 简体中文包。
 Name: VCaller Screen 简体中文包
 Author: Sandy0
 
-Package: com.dao.ve
-Architecture: iphoneos-arm
-Version: 2.0.beta1
-Section: 嗨-工具
-Maintainer: Alexandra Aurora Göttlicher
-Installed-Size: 716
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: codes.aurora.ve
-Filename: ./rootful/Ve.deb
-Size: 65118
-MD5sum: f8b1f7e2ac2d98045a6d04d86c223f75
-SHA1: 089a3083d2062ba372f74ad0d3a6564df62359bb
-SHA256: c15414de6494f0b7404889611a8505dc8a0d4f653cc1bfb35df98c006a34a017
-SHA512: 34501da420c421a70563af15ffba063fd8cac20d249dcd9a16a09dcd921f39c34faefe1f0be69558c5151b4cdd8e9b7718c19b49c9e06d012b4550f4d129caef
-Description: 通知记录器，记录设备收到的所有通知。基于AlexandraAurora的开源源码制作，完善中文翻译。
-Name: Vē 通知记录
-Author: Alexandra Aurora Göttlicher, 74k1_
-
 Package: com.hk.velaris.cn
 Architecture: iphoneos-arm
 Version: 1.1-1
