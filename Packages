@@ -507,6 +507,25 @@ Description: 自定义程序通知角标的边框颜色和透明度，基于Poom
 Name: BlurryBadges 中文版(RootHide)
 Author: PoomSmart
 
+Package: com.dao.bottomcontrolx
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 嗨-工具
+Maintainer: ichitaso
+Installed-Size: 408
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.xcxiao.bottomcontrolx, com.ichitaso.bottomcontrolx
+Filename: ./roothide/BottomControlX(RootHide)_1.0.deb
+Size: 40960
+MD5sum: 579de830a3247f60727f71c6592d946e
+SHA1: 7c5a7fea49536f20368ec26edca1e70d8ffd2602
+SHA256: 5968f61fe212eaf8691277ecd6e0263f22b4aec07f24132e3ebcb159d0133648
+SHA512: 52b481a5df3d29351c20d477a426845be28e67172129b9a96732161d2cb46baab32ed55d2ffc94157e30c20a34a82937a88b0e049850160b2d7e49f3678dcb11
+Description: 经典的底部上滑手势，底部左/中/右区域设置不一样的上滑操作；根据 ichitaso 开源，简单添加中英文翻译。
+Name: BottomControlX(RootHide)
+Author: ichitaso/XCXiao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bottomcontrolx/js.json
+
 Package: com.ttt.cccurrentmodule
 Architecture: iphoneos-arm64e
 Version: 1.4
@@ -3890,6 +3909,25 @@ SHA512: 1ba93fa4d9e4e608c2a646dde018214f3205d2f31afc47c03ec4585efeb12a585d638961
 Description: 自定义程序通知角标的边框颜色和透明度，基于PoomSmart的开源直接编译汉化。
 Name: BlurryBadges 中文版(rootless)
 Author: PoomSmart
+
+Package: com.dao.bottomcontrolx
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 嗨-工具
+Maintainer: ichitaso
+Installed-Size: 408
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.xcxiao.bottomcontrolx, com.ichitaso.bottomcontrolx
+Filename: ./rootless/BottomControlX(rootless)_1.0.deb
+Size: 42868
+MD5sum: c30af41cb3ec05fb59bb303d9a085ef9
+SHA1: e951c85b1831e044533b477c27ca55fc822846ab
+SHA256: e335dacb2ed1e1654e934462226a306d859345af40f6a4017a6309092527439e
+SHA512: 09743536d9c7635c60799c465608f681f4c42a3d94acdafdd31f53d557e59d7b66e85fded609df5c72ea8024d7aea8254d2e63fb9368c849fe557b2b19915319
+Description: 经典的底部上滑手势，底部左/中/右区域设置不一样的上滑操作；根据 ichitaso 开源，简单添加中英文翻译。
+Name: BottomControlX(rootless)
+Author: ichitaso/XCXiao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bottomcontrolx/js.json
 
 Package: com.ttt.cccurrentmodule
 Architecture: iphoneos-arm64
@@ -10070,6 +10108,25 @@ SHA512: 54145d2c47c7f4c4e8bfd62ba6a94c7ab05684d45c55360dbada80c8a547dac21c25b38c
 Description: Bongwater 简体中文包
 Name: Bongwater 简体中文包
 Author: Ball
+
+Package: com.dao.bottomcontrolx
+Architecture: iphoneos-arm
+Version: 1.0
+Section: 嗨-工具
+Maintainer: ichitaso
+Installed-Size: 412
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.xcxiao.bottomcontrolx, com.ichitaso.bottomcontrolx
+Filename: ./rootful/BottomControlX_1.0.deb
+Size: 42854
+MD5sum: 052f9c05334d1d49ae510d7816adc7c2
+SHA1: f5d419dd3df57bca6263bf73f47c85be897fe2dc
+SHA256: e1f0c6da80086d4fc24a6d74e000f3d6c18c4d3a491daf8da07cf8f4aceb9acb
+SHA512: bdd991a426581ddbe0a418acca521bc716198a392a038e1379f1b95ca3ee6607fd64002a8ef7f108e2048ed8d221a3c100d82d6e8f44c46b3d76834552a2ab18
+Description: 经典的底部上滑手势，底部左/中/右区域设置不一样的上滑操作；根据 ichitaso 开源，简单添加中英文翻译。
+Name: BottomControlX
+Author: ichitaso/XCXiao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bottomcontrolx/js.json
 
 Package: com.crack.bottomcontrolx.cn
 Architecture: iphoneos-arm
