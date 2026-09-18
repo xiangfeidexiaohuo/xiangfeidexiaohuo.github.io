@@ -957,25 +957,6 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/donut/js.json
 
 Package: com.dao.donut
 Architecture: iphoneos-arm64e
-Version: 2.0.2
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 380
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Conflicts: com.noisyflake.cozybadges, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd, com.dao.ocd5lite, com.dao.ocd5, com.sini921.donut
-Filename: ./roothide/Donut(RootHide)_2.0.2.deb
-Size: 44868
-MD5sum: 79e88f4c2ffc5033ab6bba44bffc81a9
-SHA1: c5e1fb17e1cddaf4d16d8df47e452b010d25194f
-SHA256: b7c269b77d016067e671c5441d4e0efa6b87d845f43958137a1627ae29c120ca
-SHA512: 1b2f5e692ae43a593c21f13a8e6bdc3923e7952649813386e88b1e3cc329f2cc38f387c13658930c021fc7504fc860139afae869d41e8efd43f2dd27e5a5ef18
-Description: 桌面图标通知角标变成空心小圆圈，自适应颜色。
-Name: Donut(RootHide)
-Author: daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/donut/js.json
-
-Package: com.dao.donut
-Architecture: iphoneos-arm64e
 Version: 2.0.3
 Section: 嗨-工具
 Maintainer: daodao
@@ -1170,25 +1151,6 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.jso
 
 Package: com.dao.griddy
 Architecture: iphoneos-arm64e
-Version: 1.2.1
-Section: 嗨-工具
-Maintainer: mikifp
-Installed-Size: 272
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
-Filename: ./roothide/Griddy 随意摆(RootHide)_1.2.1.deb
-Size: 26298
-MD5sum: a96165151ef2b1418dcaebbf24da1773
-SHA1: 4902e6873532139e9d01d372b933bb5fa4fbe9f7
-SHA256: a52a5382b3ee6402e811a61a2a90785d51ba67f8a07b750dd7c031f128774227
-SHA512: 88b0a23b03b8bf7f864920d56bd74242acfa3192d0a0da98bf9546e8ce358a09deff6982f1f4885b577a7bd5e904865f964486ed8201ae67bef60f9b8e9e5aed
-Description: 让你的程序图标在桌面随意摆放。
-Name: Griddy 随意摆(RootHide)
-Author: mikifp
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
-
-Package: com.dao.griddy
-Architecture: iphoneos-arm64e
 Version: 1.2.3
 Section: 嗨-工具
 Maintainer: mikifp
@@ -1376,24 +1338,6 @@ SHA512: 7e36f6ef573fae803a0ce598fbf5cda2d76c9cef838e2269ff00a9d47b47d0ed4e1c7148
 Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
 Name: Kayoko(RootHide)
 Author: Alexandra Aurora Göttlicher
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
-Architecture: iphoneos-arm64e
-Version: 4.0.7
-Section: 嗨-工具
-Maintainer: 82Flex
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko, com.82flex.kayoko
-Filename: ./roothide/Kayoko(RootHide)_4.0.7.deb
-Size: 324480
-MD5sum: a7c4100b1f73b28262433456e55b5acd
-SHA1: 4cfd51ec78f7f9d3aa66d9af0c2092b74c9b06db
-SHA256: afdeccda3551f7a8973e97e0fa236d628071874d1f11a171b042437123a1cc5c
-SHA512: aa6894358a8cf6e65dec88d1bce510b0693d64d254c69e7fe5fd7a175975bc002bfe5d5f3ecc47bea59ecd3e1e562ca0af189f09b40bf6eba038aeff6a8ee605
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16/17。
-Name: Kayoko(RootHide)
-Author: 82Flex
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
 Package: com.dao.kayoko
@@ -1595,24 +1539,6 @@ Description: Mochi15 简体中文包(RootHide)。
 Name: Mochi15 简体中文包(RootHide)
 Author: 妖刀
 
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
-Version: 6.2.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./roothide/NFB-X 中文版(RootHide)_6.2.1.deb
-Size: 7881044
-MD5sum: 00a4cc9a0a00d6ddad4411acc276af0d
-SHA1: c01dbb2b5a427a250f3be9244967aab5846cc64c
-SHA256: da12a800d4cad9444fa7162a3c2d514d203dd435f9edae437e78036893b006fa
-SHA512: 46d4d74e87bd56199e256ef702f98c6d6cad18c1d8217b0c10b94f3f5865245a505547060a87e4b3ef26018aac4d4ccbc76313f4a3f8131f9db0a47f1bbf9ff9
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-X 中文版(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
 Package: com.hk.nfcwriterxs.cn.rl
 Architecture: iphoneos-arm64e
 Version: 4.0
@@ -1632,24 +1558,6 @@ Author: Ball
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64e
-Version: 7.0
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./roothide/NFX 中文版(RootHide)_7.0.deb
-Size: 7883560
-MD5sum: 42b1fa90d5d6e2da34a7b8a92c0bada6
-SHA1: e6cfb2065d97b476bd7d5fb4e34d8f8a733cfc0e
-SHA256: 84291591bd6623c6d800ab9492769e12d2fa5ae462edba282b0dd947300a908d
-SHA512: 0a4043712a9c5782498ebe8bd8272049e22daa2446c696dceaf90877fe4829d09c480f9dc981cfde591fd920c43bf915d79f1811b60cfbfc13cd39b70b9bfdba
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFX 中文版(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
 Version: 7.1.1
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -1661,24 +1569,6 @@ MD5sum: 6622d4b6be820007279051b4b982ddf5
 SHA1: 12f7f74d392e2550152ece2b0fe3daffacdd5a7c
 SHA256: f0b711178f3579f3b619f8ba16a03cf66a8abdb2d278880ece8975abfbbbb06e
 SHA512: 4b8b69ed1bfee8f3c7da7ed6f9ff63acbf3a9811b566311f11b5e00fbc4768f913bbfde863bdaaed64016164e88e1e7787800a72c205146b5b8527e8ead60166
-Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
-Name: NFX 中文版(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
-Version: 7.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./roothide/NFX 中文版(RootHide)_7.1.deb
-Size: 7890396
-MD5sum: 55b0a501d1c8b47a51114f47ea0a1389
-SHA1: ccff996cd1780bc34df3adc81b3383ee164a5440
-SHA256: 0c563860d1a0fb5551c9b78397c5dcbfec0e108edafa73ea96f0fa3660ab6404
-SHA512: 9cf00e7cec9e07fb12593c9031a46d4a31e05d1928b4839e6f5d203f79fd6daea60af215dbeb410fb3f285c1af53ede87c5beada07b0882740ffcc052e177bae
 Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
 Name: NFX 中文版(RootHide)
 Author: NeoFreeBird
@@ -2383,25 +2273,6 @@ Name: Speedster(RootHide)
 Author: Hoangdus & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/speedster/js.json
 
-Package: com.dao.speedster
-Architecture: iphoneos-arm64e
-Version: 2.2.3
-Section: 嗨-工具
-Maintainer: Hoangdus & daodao
-Installed-Size: 428
-Depends: firmware (>=13.0)
-Conflicts: com.hoangdus.speedster, com.hk.speedster.cn.rl
-Filename: ./roothide/Speedster(RootHide)_2.2.3.deb
-Size: 39388
-MD5sum: 746fd2d41b5fbb5e2c04019e7e1385d8
-SHA1: 054db6a0f34f0ae5613cd304076277b3539f7fdd
-SHA256: 406c52c45149dff2432b1705841b06d9d8ab671e0ef6e2339fe6163b5e764358
-SHA512: 2ba974dae724ebc8d94a661c360bfb909f798a68b40abbe8c1eff213dec9461bcc0289c07a1f938f1c56c612a04659119a44220257ac50cfe2ff2adf2ac42d3d
-Description: 更快的 iOS 动画，根据开源编译，已带汉化。
-Name: Speedster(RootHide)
-Author: Hoangdus & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/speedster/js.json
-
 Package: com.dao.speedy
 Architecture: iphoneos-arm64e
 Version: 0.3
@@ -2744,25 +2615,6 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.js
 
 Package: com.dao.velvet2
 Architecture: iphoneos-arm64e
-Version: 2.4.2
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 668
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
-Filename: ./roothide/Velvet2 中文版(RootHide)_2.4.2.deb
-Size: 104502
-MD5sum: 5035970d249baece77d39751e7725465
-SHA1: e29726147ce82993cb25cc5b7b93b3e8a286f11b
-SHA256: 047f4fe8f29fa989c0cb26af1551b67eee01d9f4bdde4d6a00ab23ff519ecfd4
-SHA512: d8a1e57034021d376800c1726b1873d72c56a9eb1b79635f4f8dc06399cbe2943669c264f285b3145ba4d2133490b3fb148b48ab7952aa4a9fc8776935057663
-Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
-Name: Velvet2 中文版(RootHide)
-Author: NoisyFlake
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
-
-Package: com.dao.velvet2
-Architecture: iphoneos-arm64e
 Version: 2.4.3
 Section: 嗨-工具
 Maintainer: daodao
@@ -2817,25 +2669,6 @@ Description: vivo OriginOS 风格的陀螺仪「翻转卡片」锁屏壁纸 —�
 Name: VivoStyle(RootHide)
 Author: 34306
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64e
-Version: 0.9.2
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 2984
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./roothide/YTKACE(RootHide)_0.9.2.deb
-Size: 879162
-MD5sum: 423cb904500f4ca99be2550e4e4151bb
-SHA1: 5c2c4aa07cc46bd5bd1238185dc5137ed895a313
-SHA256: 5e5b80921a2fabe0a955a1e74d71bafcd889c12f431d046d1097e06ed1a966d0
-SHA512: c7af532124eada069bf5285f1c0da89288d1385fa37d8988ab7cb748322fff750407fba8d1df19e93adcda65647e63ff04d6b9a3fa86ff56c6c47cfbc0b0de89
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(RootHide)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
@@ -4409,25 +4242,6 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/donut/js.json
 
 Package: com.dao.donut
 Architecture: iphoneos-arm64
-Version: 2.0.2
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 412
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Conflicts: com.noisyflake.cozybadges, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd, com.dao.ocd5lite, com.dao.ocd5, com.sini921.donut
-Filename: ./rootless/Donut(rootless)_2.0.2.deb
-Size: 46078
-MD5sum: 1337fefa9589e7c115708cb63b2e1d53
-SHA1: 8bc59aff8a9baac3bd4b77c39e1d30d4107b6e80
-SHA256: 1dcea74302806786c863531ef04f1d5371ef38ac6e5f6aae672e6681e33d4406
-SHA512: 85630c836f8289ec07425e86b3575a8a1b0fc727f1107d78904c407574847370144d2c08e938de100814883fc9588bc0920c651805506d57c738de3a8b1b2919
-Description: 桌面图标通知角标变成空心小圆圈，自适应颜色。
-Name: Donut(rootless)
-Author: daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/donut/js.json
-
-Package: com.dao.donut
-Architecture: iphoneos-arm64
 Version: 2.0.3
 Section: 嗨-工具
 Maintainer: daodao
@@ -4703,25 +4517,6 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.jso
 
 Package: com.dao.griddy
 Architecture: iphoneos-arm64
-Version: 1.2.1
-Section: 嗨-工具
-Maintainer: mikifp
-Installed-Size: 272
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
-Filename: ./rootless/Griddy 随意摆(rootless)_1.2.1.deb
-Size: 27342
-MD5sum: f6149be50a4152e29798e3871ea05aa9
-SHA1: 5ea1c26561bef227eb3ade7d3d9c8ac88dacb35c
-SHA256: 0f6c9be6f830f4379565cc016ed57539c213be7f4e72355a42b0d1d70ae0cbd7
-SHA512: e879a249c0acad9aa97faa3efcaa68b1a07c9d1828b7483beaacd0be1efcad1d98641a7414ce6d5a6b7d7d3e4032a4563b1ce9446e69496296d81dc0f21655f0
-Description: 让你的程序图标在桌面随意摆放。
-Name: Griddy 随意摆(rootless)
-Author: mikifp
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
-
-Package: com.dao.griddy
-Architecture: iphoneos-arm64
 Version: 1.2.3
 Section: 嗨-工具
 Maintainer: mikifp
@@ -4976,24 +4771,6 @@ SHA512: f5b571e618f7621a3c2d2e617372b354cdd3905a2d97c695b68b6d62c87d83c0cf4e5a51
 Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16。
 Name: Kayoko(rootless)
 Author: Alexandra Aurora Göttlicher
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
-Architecture: iphoneos-arm64
-Version: 4.0.7
-Section: 嗨-工具
-Maintainer: 82Flex
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko, com.82flex.kayoko
-Filename: ./rootless/Kayoko(rootless)_4.0.7.deb
-Size: 327108
-MD5sum: 17dd420722d178fd623df2924e6ac42c
-SHA1: a57e8cc1f4774f79194242a78ce0d5c36c40bfdf
-SHA256: 115ad40d96b263d8f2f35f467eece7c4f70bacd7fb529b517375ef7e3ab5afd5
-SHA512: 9c478ca63ed5c4ff4152fc523ce960c9f3457f7e8aae20509990d4e09f428751fa0219652f855ff146883ea08aecf28e060160a20f58681cd149655695cf0a5c
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16/17。
-Name: Kayoko(rootless)
-Author: 82Flex
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
 Package: com.dao.kayoko
@@ -5376,24 +5153,6 @@ Description: Mochi15 简体中文包(rootless)。
 Name: Mochi15 简体中文包(rootless)
 Author: 妖刀
 
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64
-Version: 6.2.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootless/NFB-X 中文版(rootless)_6.2.1.deb
-Size: 7878408
-MD5sum: aaa5d5e5418f7773bf41dd75a6ba7c38
-SHA1: 6da479469c20e3f279566d6932c393aaa90b2e6b
-SHA256: 4e77157e3377c64762140c9ac5dde6d56c14889b4262106bdb0653507f8245bc
-SHA512: 629228478fbb95ab585eab39304926fc426696c7f9b87a36a0aa5e754cd1463daf7443452e78aa09ea3b150057f1dd98039db3fa81e983f9232b302985f1fc02
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-X 中文版(rootless)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
 Package: com.hk.nfcwriterxs.cn.rl
 Architecture: iphoneos-arm64
 Version: 4.0-1
@@ -5413,24 +5172,6 @@ Author: Ball
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64
-Version: 7.0
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootless/NFX 中文版(rootless)_7.0.deb
-Size: 7888140
-MD5sum: af0b2fc526cfe7944fae5399b0975fa5
-SHA1: ceac43c81b0f29096a840dea167de042953cc6e9
-SHA256: bf39af65c19a32d287f2541a2497b63cfbc1f120f1e4dc071a573f8c051f2218
-SHA512: 6bd5facd13297c2b0da250d95bc8d3c3cf1db6e09ac3d0868f7dcd8523db1fa6f345f22988e0c467a254ff247c35fcd31fe5507e04cd4e3dbe53a52951b35492
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFX 中文版(rootless)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64
 Version: 7.1.1
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -5442,24 +5183,6 @@ MD5sum: e29d65e6dad3d1a2a9c55980df478838
 SHA1: 1e3cb089204d9d510dc07f033206b93b94daace5
 SHA256: 6338bce0299a1b2c808efbc07fb5b76c0f54bebfa0648eaa24bdb7d80bf82683
 SHA512: f6ab95ff4186f421db4cdb18a3020a211575058a75e8388f889618f3b3352b6743d157a2506e21c0b1267de174f6c6429603c9e977b8d11e90b89f77b0b2bbb6
-Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
-Name: NFX 中文版(rootless)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64
-Version: 7.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootless/NFX 中文版(rootless)_7.1.deb
-Size: 7890536
-MD5sum: 1fedebaf72fe7113d1b4e812f5aa99dc
-SHA1: 1c35bc083072acce99b501f7a724e97c33147cee
-SHA256: e3a86eb8c7bb8cfc8e935e7c1577b017db280014c496901ce7f1f651ed05efd4
-SHA512: 61a3ec440ae5e35487c35185e87676bd2346e408e4ddd8842b2e5c842dc5895caee51617d48c2bc0264bda53fa0d182b5a5c58bc529895d2499322b85b1ead48
 Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
 Name: NFX 中文版(rootless)
 Author: NeoFreeBird
@@ -6537,22 +6260,6 @@ Description: Spectrum 简体中文包(rootless)。
 Name: Spectrum 简体中文包(rootless)
 Author: 妖刀
 
-Package: com.hk.speedster.cn.rl
-Architecture: iphoneos-arm64
-Version: 2.1.0
-Section: 嗨-汉化
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: ./rootless/Speedster 简体中文包(rootless).deb
-Size: 1692
-MD5sum: 48e2924e29db6de6afc123bff19ef407
-SHA1: bdf826eea953201efd28e1f17397e94dcce8eb2a
-SHA256: ebd8b7319e51e460c17aab616172cd7cae78ed00bea5ca2991e01e18d7f4569b
-SHA512: 56079eee2745dc77029ade110d0ec35074fee46d22dc2bde4838e40d4cca81d2ff55d95003b68c80e6cf0b4f8c97563f0047f912405462975d7bad78e5de7d50
-Description: Speedster 简体中文包(rootless)。
-Name: Speedster 简体中文包(rootless)
-Author: 妖刀
-
 Package: com.dao.speedster
 Architecture: iphoneos-arm64
 Version: 2.2.2
@@ -6586,25 +6293,6 @@ MD5sum: 7d502398b85602a9ca927660f2acef40
 SHA1: 43ed0f670a4a3253a9b5c318e474eb648faf46d2
 SHA256: bc4092277aa2369ab785b2ddf80360be91329762bdfce5838194a531cb691b4b
 SHA512: 17e3557757b814ba52b1ff1a9d866e37110404bf25671ca008ab7f5253faae58d36d13efaab71f7db68a37bd3f13c467c5669ab9e299b104d63d723ca5d9293b
-Description: 更快的 iOS 动画，根据开源编译，已带汉化。
-Name: Speedster(rootless)
-Author: Hoangdus & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/speedster/js.json
-
-Package: com.dao.speedster
-Architecture: iphoneos-arm64
-Version: 2.2.3
-Section: 嗨-工具
-Maintainer: Hoangdus & daodao
-Installed-Size: 428
-Depends: firmware (>=13.0)
-Conflicts: com.hoangdus.speedster, com.hk.speedster.cn.rl
-Filename: ./rootless/Speedster(rootless)_2.2.3.deb
-Size: 41602
-MD5sum: 59f279202d30dd1699383f53e9fd4b19
-SHA1: 24dc2eefa14f7cfa688a8a9a4565ee2780a60ec9
-SHA256: 0f6b3686f641ff8b0b95c008dc3143f5f4aea78a70ca2dd39c30f6df59fb75c7
-SHA512: 6db5f7b86c0cedacf6d78a70b3942a1ae0ad3fbaf70ddff65ce630e7b6312867995d1f9bf1bd4136d6c3e2ec55b81dd9c7feec946414dff6bee210a944a82dff
 Description: 更快的 iOS 动画，根据开源编译，已带汉化。
 Name: Speedster(rootless)
 Author: Hoangdus & daodao
@@ -7136,25 +6824,6 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.js
 
 Package: com.dao.velvet2
 Architecture: iphoneos-arm64
-Version: 2.4.2
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 668
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
-Filename: ./rootless/Velvet2 中文版(rootless)_2.4.2.deb
-Size: 105016
-MD5sum: bf063226645eab00fe20a59cfcce7afc
-SHA1: b5cf45ce7feb49461b1da04fa2cd0871a2ea5b7f
-SHA256: 9b8ec032721a9400e9079076f8d73594840e3a185c4b628e7587537db1297aac
-SHA512: c94651243c726409c67acb98ff583a4a3ff79c20c3c4180e4162590b65fba337bcf84a5c7118b984be135ffc3cbed4d9b2fe9ac586f5ac699d229f7f4cf311af
-Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
-Name: Velvet2 中文版(rootless)
-Author: NoisyFlake
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.json
-
-Package: com.dao.velvet2
-Architecture: iphoneos-arm64
 Version: 2.4.3
 Section: 嗨-工具
 Maintainer: daodao
@@ -7243,25 +6912,6 @@ SHA512: 1472c1e2f127b6262883aade2a6536bb211a2253f3ade3ea5d80556358029a2901a6a3c7
 Description: WiFiQR和HotspotQR 共用简体中文包(rootless)。
 Name:  WiFiQR & HotspotQR 简体中文包(rootless)
 Author: Alucard
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64
-Version: 0.9.2
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 2984
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootless/YTKACE(rootless)_0.9.2.deb
-Size: 879316
-MD5sum: a80479ad9388cea22ec3a724d5bc6c30
-SHA1: 8568623e83f4f3f6e3841024d6dd266db39627db
-SHA256: f649d41992bad7ccb74736caccbe5b953c5e4551a371b151c2330782a763f5e6
-SHA512: 7cfb32e607febacad0cbb3c98ebffae44dbf07ac2169793ed3f9b0ab2eae8597ba2031d823afcc97db3da76fd509d2a4a2a977ffab6239743312046a0952e442
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(rootless)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64
@@ -14059,24 +13709,6 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.jso
 
 Package: com.dao.kayoko
 Architecture: iphoneos-arm
-Version: 4.0.7
-Section: 嗨-工具
-Maintainer: 82Flex
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.daodao.kayoko, com.82flex.kayoko
-Filename: ./rootful/Kayoko_4.0.7.deb
-Size: 327760
-MD5sum: 4bae7f908d76cf7b9c9efb2c58025cf0
-SHA1: d410b60f80b39b0df541876d80a11ebd8dd2593d
-SHA256: 3ce3fb6e947646b8f49aee71dd6e1a27e4d029296cf2ecf75c4812ea528498c5
-SHA512: 87e94041cb34f998f7236f29bff52b6f5c4f1e976a75e60b1d8e38c46995f4e32c2567308199d7566ecfa9ee1939a14eea8f404ffb592377c2d1ee343d767ded
-Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16/17。
-Name: Kayoko
-Author: 82Flex
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
-
-Package: com.dao.kayoko
-Architecture: iphoneos-arm
 Version: 4.1.2
 Section: 嗨-工具
 Maintainer: 82Flex
@@ -15443,24 +15075,6 @@ Description: Myriad 简体中文包。
 Name: Myriad 简体中文包
 Author: Sandy0
 
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 6.2.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootful/NFB-X_6.2.1.deb
-Size: 7873764
-MD5sum: a8b8da1a1b75be3b2179ec3e2fb2d1f6
-SHA1: 8ede6df5cacce537ea71b6ff03443aed04220015
-SHA256: ca5346d198cf5c82928e31cf8cdffd82289f15f632e5d2ab1e049cc42f162351
-SHA512: 20f6b74a743148aa0b23cdf2ce4a5a7c7aa82c2f9880c3b28da9fa177cde8555bede68020707c0063f6e95f12e801ad05472800c5601a8d4a2787de2a3eac953
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFB-X 中文版
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
 Package: com.hk.nfcwriterxs.cn
 Architecture: iphoneos-arm
 Version: 1.1
@@ -15479,24 +15093,6 @@ Author: Ball
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm
-Version: 7.0
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootful/NFX_7.0.deb
-Size: 7882384
-MD5sum: 967c2a9691b75ad61f0d1dbb5bb5e999
-SHA1: 6490cf8fac62d2df625bbb98b60a921fc844d5ff
-SHA256: 7f0ec031857d83b79ed0be02a9adc699c8a4f568d40265879715579aaaebebe4
-SHA512: 218b49b37be4e74832d9b57da77223f11e0c7f18eb3ef656756f6f0defdcff17a02b03e84db79c9073054d5f7cfc66f225b09283c7dacd588245c9290d523fd6
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NFX 中文版
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
 Version: 7.1.1
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -15508,24 +15104,6 @@ MD5sum: cb171d8c59dfbb825879ceac5a8ff8f7
 SHA1: 65785ccd6d17bf281e6bf4aa9f9f4ae280cbb27c
 SHA256: 8ba8d0f1315bad4944a8d645f2f8334f3e2bd6b09bd5b52543ff948593aebd4d
 SHA512: dde6642e82b571110eba160123d8650e29ac9c7d778008d1197cf8840b1e6bbaa84b0a88b60d5cdd94f002361413e458d8296c730f7e613e2551a66fa4838518
-Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
-Name: NFX 中文版
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 7.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootful/NFX_7.1.deb
-Size: 7884436
-MD5sum: 807face6f39766abaaa1babcdd7e64a2
-SHA1: 3ba5d85470187ec85602504bba69b702c654077c
-SHA256: 314be846426d05b3f314b38a65309254a7354c3affd1afc32c05a60a0e984537
-SHA512: 757c33e45ecf6320f3ccb76f5715c85058bef7396a658d6a0cfa2a4d3eff55db7c21aef50562ab9158598427139e7034ff3bb83c478f76490a64402d34e483e5
 Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
 Name: NFX 中文版
 Author: NeoFreeBird
@@ -18682,41 +18260,6 @@ Name: Speedster
 Author: Hoangdus & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/speedster/js.json
 
-Package: com.dao.speedster
-Architecture: iphoneos-arm
-Version: 2.2.3
-Section: 嗨-工具
-Maintainer: Hoangdus & daodao
-Installed-Size: 428
-Depends: firmware (>=13.0)
-Conflicts: com.hoangdus.speedster, com.hk.speedster.cn.rl
-Filename: ./rootful/Speedster_2.2.3.deb
-Size: 41740
-MD5sum: 5f7b22a9f61a8b2f8bfec5945965e064
-SHA1: ea78fff8dac606ff46cdedb30e232d4a611255f2
-SHA256: f6fad35f77fca5c01d174fac6114fd442365ca78c8d43107cdc3336de3ce169f
-SHA512: 4e274d912d005f7396202219236e0237abfbcfe2d55c448d276e1ae0c8cc7488620295e67c25f0c5f7e5e30c6529efcbff93161f6bffb5dbd82548c6b96fbfd5
-Description: 更快的 iOS 动画，根据开源编译，已带汉化。
-Name: Speedster
-Author: Hoangdus & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/speedster/js.json
-
-Package: com.hk.speedster.cn
-Architecture: iphoneos-arm
-Version: 2.1.0
-Section: 嗨-汉化
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: ./rootful/Speedster_CN.deb
-Size: 1640
-MD5sum: c803fa89b891d662ae3269f3bb67f1c6
-SHA1: 45676adf57d1494f4481c9843287261f7e2db914
-SHA256: ad0cf386f84bc8b96e974c908920d77c934b98396e25b6d35a855308906039d8
-SHA512: 67aac50304858c2b513587da32dcff954d478baab4a00c72c0216c7e153ca758c72590bfae5d5a4e55557f6c790958dfcc3f6b738d602e2d3bbb0181cbe2eb50
-Description: Speedster 简体中文包。
-Name: Speedster 简体中文包
-Author: 妖刀
-
 Package: com.crack.spinxi
 Architecture: iphoneos-arm
 Version: 1.1-2
@@ -20576,25 +20119,6 @@ SHA512: bd945f4260ea62ce48b47bc42f2304e2a1329a2d5e250bd296b0c94d2447aeb26849cbb9
 Description: Xina1专版NewTerm3，Xina1用户千万不要更新Procursus源提示的三十几个依赖更新，千万别更新！！！
 Name: NewTerm 3(Xina1)
 Author: HASHBANG Productions
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm
-Version: 0.9.2
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 2984
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootful/YTKACE_0.9.2.deb
-Size: 879330
-MD5sum: 545a93c3c4b7c97087a52597164ebbf0
-SHA1: fdeba4093f209f0d7b812bcf6041bac3c1c50f67
-SHA256: 6df81d6664026e032a7ada9ee79a9920c5024d0035057a66a61fb94f5361a708
-SHA512: 7d860a58107990dd2a123d77e7fff68247a23d9639b04208b26a47d6f49d88e24343384db8b4704d84a51f3eb78275204e8cc32fe046c5fc4dba63d8b5a59efe
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm
