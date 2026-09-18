@@ -35,25 +35,6 @@ Name: 3DBadgeClear(RootHide)
 Author: isklikas
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/3dbadgeclear/js.json
 
-Package: com.dao.3dbadgeclear
-Architecture: iphoneos-arm64e
-Version: 1.7
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 196
-Depends: firmware (>= 13.0), mobilesubstrate
-Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
-Filename: ./roothide/3DBadgeClear(RootHide)_1.7.deb
-Size: 20476
-MD5sum: a399df3dd4060f8048100486e3c49f26
-SHA1: 2314d0b4d0b11cc167982bde0189c7ac2f940f4a
-SHA256: de1eacc8a9406431db2a38f1ea3c799cc79b4d8441cc490ee6005baaa4d9e294
-SHA512: 0a057e47641a97dac7775567ed521760478c08a3cfe647d53305f56ae2be0dc460bf48ce6afdc3a559c634b457a9d31d0386d7e406b279eed38866572e0a4a9a
-Description: 长按/3DTouch「应用/文件夹」图标，即可通过“清理角标”一键清除所有通知角标。
-Name: 3DBadgeClear(RootHide)
-Author: isklikas
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/3dbadgeclear/js.json
-
 Package: com.dao.3dappversionspoofer
 Architecture: iphoneos-arm64e
 Version: 2.0.4
@@ -1662,25 +1643,6 @@ Author: nowesr1
 
 Package: com.dao.picobanner
 Architecture: iphoneos-arm64e
-Version: 1.1
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 820
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: love.litten.liddell, dev.traurige.liddell
-Filename: ./roothide/PicoBanner(RootHide)_1.1.deb
-Size: 126010
-MD5sum: add85d125355ce5f98f40b55ea93f664
-SHA1: f5028f7cf556a6c52467c9830a57a9b06ba4ed19
-SHA256: 610dcda3d54c32e3b4cd27dc1b5cd5e5397b54078693340b91548d4d22ab08f9
-SHA512: 2057ed65d62782077881e2ad6e5cc3d0a594f387ed3e75b7152871474ef41a83ebfa0ffe8f5766cd4e7aef9f46a0d353b745cb5e312632752461c5a04182b575
-Description: 样式丰富多彩的小巧通知横幅。
-Name: PicoBanner(RootHide)
-Author: daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
-
-Package: com.dao.picobanner
-Architecture: iphoneos-arm64e
 Version: 1.2
 Section: 嗨-工具
 Maintainer: daodao
@@ -1751,26 +1713,6 @@ SHA512: 4b52844fe66b97b603389e9f5e4a7fe2208d085d829ce7a26cdbfe60996e7f483391d412
 Description: PrimalFolder2 简体中文包(RootHide)。
 Name: PrimalFolder2 简体中文包(RootHide)
 Author: 妖刀
-
-Package: com.dao.pulloverx
-Architecture: iphoneos-arm64e
-Version: 2.2.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 796
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Filename: ./roothide/PullOverX(RootHide)_2.2.3.deb
-Size: 176262
-MD5sum: 55d69f12ae94eee2ef21a311e73282bf
-SHA1: e70e16313a62ae6c58a2f1e1dd4e36253dad5f11
-SHA256: f314838e1d5cc8200c32a8b38d484ddb46b19ca50ca0c1336c3866c47cacc069
-SHA512: 3f828c59207ead4fccf7499ae0254b494a722b658bb53b1904b35884b1ee16dcbb056f4b87f7c25f6983bb55d1c3f18e9333942fb8f4f15ab95453cf533fb854
-Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
-Name: PullOverX(RootHide)
-Author: mlgm
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
 
 Package: com.dao.pulloverx
 Architecture: iphoneos-arm64e
@@ -2963,25 +2905,6 @@ MD5sum: 3fc7b83e75b88251690a68604101075d
 SHA1: 0b1ca03e9baad17ac3704c066f98613fd6838aba
 SHA256: cb8eb2a5ab0ff1e54a118a1e02286f56a362423d7004a50b859a4a597fc0b0f4
 SHA512: 10092fc56815049519e04de33358fa36a1b31a94bc195b1410f084860c1cb75eff81356e30d9f7b0344bad267a8d154bb5a12f433b706ba100cecd31ba6ce992
-Description: 长按/3DTouch「应用/文件夹」图标，即可通过“清理角标”一键清除所有通知角标。
-Name: 3DBadgeClear(rootless)
-Author: isklikas
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/3dbadgeclear/js.json
-
-Package: com.dao.3dbadgeclear
-Architecture: iphoneos-arm64
-Version: 1.7
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 196
-Depends: firmware (>= 13.0), mobilesubstrate
-Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
-Filename: ./rootless/3DBadgeClear(rootless)_1.7.deb
-Size: 21616
-MD5sum: afac8adb179790deca9d50b331b51036
-SHA1: 38da96d866ba8b85b35ef751b2fb975467aab7d1
-SHA256: bf4d095177bec66a09af85a4364f792e795ce8cec5a2c6e4d59c286a8394367c
-SHA512: b33236e3aa519504ae1dd8045ecb9fb3b138d13d795d084ccec55e72574b482c96dae4181d666ee5a41f156b8458eafc8a8a42f22df0474daf1199ca7600293f
 Description: 长按/3DTouch「应用/文件夹」图标，即可通过“清理角标”一键清除所有通知角标。
 Name: 3DBadgeClear(rootless)
 Author: isklikas
@@ -5413,25 +5336,6 @@ Author: nowesr1
 
 Package: com.dao.picobanner
 Architecture: iphoneos-arm64
-Version: 1.1
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 820
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: love.litten.liddell, dev.traurige.liddell
-Filename: ./rootless/PicoBanner(rootless)_1.1.deb
-Size: 126836
-MD5sum: 50cb3e6abbdfd1325fd45cda73946337
-SHA1: f1b3493fd2533f732b1ca687fe217168ec8bc1e2
-SHA256: e921afec1db835606312e19a1402420706cf6eb30af08efabc536c9a466b5137
-SHA512: efd24f91b071004acb48fe01b90005a88ca2aa7001c67e5697eba0ed619f68fa9cbc44bf33eeb348fa49cbf9d5fe8d78d8a6dfa1983ffc0651340ff348488713
-Description: 样式丰富多彩的小巧通知横幅。
-Name: PicoBanner(rootless)
-Author: daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
-
-Package: com.dao.picobanner
-Architecture: iphoneos-arm64
 Version: 1.2
 Section: 嗨-工具
 Maintainer: daodao
@@ -5586,26 +5490,6 @@ SHA512: 8b343724459e85b6e90fa972e8e04d1e1323269cf31db9d18286b0293354fdb42c79bffa
 Description: 将文件夹显示为图标等多功能文件夹，源内有中文包。
 Author: ichitaso
 Name: PrimalFolder2(rootless)
-
-Package: com.dao.pulloverx
-Architecture: iphoneos-arm64
-Version: 2.2.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 796
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Filename: ./rootless/PullOverX(rootless)_2.2.3.deb
-Size: 178250
-MD5sum: c322c4e75edfc054f081e51d0400207b
-SHA1: 5b876599d873c8a3b6b75024698c7602098bc3c4
-SHA256: 7aa43990dcc855cb7f9d9d43e793684b1ff92c78d6d396be165b534395a1696f
-SHA512: 191d93d4b92dd6ad06b5bebc25decf4d77885e590d76ccc22289d86d3bdbce0fcaf69637d5a7dc73ebb3bf92a32e54d9b87e2b150a604c1b6cfed002caa2644d
-Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
-Name: PullOverX(rootless)
-Author: mlgm
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
 
 Package: com.dao.pulloverx
 Architecture: iphoneos-arm64
@@ -7342,25 +7226,6 @@ MD5sum: 44bc31e0472d22261b134816ee41617d
 SHA1: ca6a68a5e0d44870a7a824895d0a6e76452d74b4
 SHA256: 0ca2077063c4c5bfe89f1f52a16068e7dbf1048d8479d08fb8b13fdc88126365
 SHA512: 3dd48f7b51a446671a038e38628f84158b264cefbf916e4ebab39fddf53cd89d85d307a33e1ef9d70a012be265427c83a13c222fe6e4f30b95f8f7d10ce13b64
-Description: 长按/3DTouch「应用/文件夹」图标，即可通过“清理角标”一键清除所有通知角标。
-Name: 3DBadgeClear
-Author: isklikas
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/3dbadgeclear/js.json
-
-Package: com.dao.3dbadgeclear
-Architecture: iphoneos-arm
-Version: 1.7
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 196
-Depends: firmware (>= 13.0), mobilesubstrate
-Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
-Filename: ./rootful/3DBadgeClear_1.7.deb
-Size: 21670
-MD5sum: b83d3ca19e7649c84fbb69e0a28ca4df
-SHA1: eef95b21fb6ea23030a940b26db39d5423e76e0d
-SHA256: 2affb18eb9381b3bd4b3f9601d841f492c940145e1c29a761785f3464c0c373e
-SHA512: 3f26582d85c4851a77c4ba11dcf35eac6c24c19f83b10bd6dba7d44e927f14b0de350360a66f703737dfe60357c06e838846e13eb4762241387f2a4ea5e6519e
 Description: 长按/3DTouch「应用/文件夹」图标，即可通过“清理角标”一键清除所有通知角标。
 Name: 3DBadgeClear
 Author: isklikas
@@ -15979,25 +15844,6 @@ Author: Ball <ball@hackcn.net>
 
 Package: com.dao.picobanner
 Architecture: iphoneos-arm
-Version: 1.1
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 820
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: love.litten.liddell, dev.traurige.liddell
-Filename: ./rootful/PicoBanner_1.1.deb
-Size: 126402
-MD5sum: 080477a007e954874be1283b4a3b586f
-SHA1: 0f68519e9e9c8394e62c3ef4348b11a7d7b0deda
-SHA256: 0e44431a851ddd642d4839508ef8ef36a2218d96e30578dab177bc5644dd3fce
-SHA512: 48c341afd602892a8772a169ad025d2a343547d002bea6d23250fb56da29517cdd768dc14465e062a21a10d18c2f437e7f8c76ad4e8419282d08056e643e2118
-Description: 样式丰富多彩的小巧通知横幅。
-Name: PicoBanner
-Author: daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/picobanner/js.json
-
-Package: com.dao.picobanner
-Architecture: iphoneos-arm
 Version: 1.2
 Section: 嗨-工具
 Maintainer: daodao
@@ -16347,26 +16193,6 @@ SHA512: eb866a5fc4cf313a2dad5958e0db28ec10522b6ff758195897a2eab9f4c9f23ea0a23183
 Description: 轻量级下拉清理通知，通知栏快速下拉即可清理，并显示清理成功几条，禁用iOS15通知页面下拉搜索。
 Name: PullClearNC(下拉清通知)
 Author: Netskao
-
-Package: com.dao.pulloverx
-Architecture: iphoneos-arm
-Version: 2.2.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 796
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Conflicts: com.mlgm.pulloverx, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Replaces: com.mlgm.pulloverx, com.mlgm.pulloverx.preferences, com.c1d3r.pulloverpro, com.dao.pulloverpro
-Filename: ./rootful/PullOverX_2.2.3.deb
-Size: 178336
-MD5sum: 0519802b2a4a00f6ae146f761d399dda
-SHA1: 82519d14731356a9dfd51abc0fdcc03c06c1f302
-SHA256: 862ba62deea10a99d00930eb77b0afed3439ede3ad78b07ad55ffdb57926cda7
-SHA512: a714ab4373a48956becad6378bae711f8b081952f50276721ec412fe6d4d09f7b50345ee964eb74a6f4237a511f5cf9258f5f09f03c4091bf70289fd58fbcb9a
-Description: 悬浮多任务窗口工具，基于 mlgm 的 PullOver X 打造的客制化版本。
-Name: PullOverX
-Author: mlgm
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/pulloverx/js.json
 
 Package: com.dao.pulloverx
 Architecture: iphoneos-arm
