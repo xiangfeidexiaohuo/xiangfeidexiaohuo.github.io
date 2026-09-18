@@ -333,6 +333,25 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.axon
 Architecture: iphoneos-arm64e
+Version: 2.5.3.1
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: ./roothide/Axon 中文版(RootHide)_2.5.3.1.deb
+Size: 156022
+MD5sum: 96c863107f0ed7be50107d09d290c5b1
+SHA1: d97f128fc829ff3cfd8f655aeb69812b549b4277
+SHA256: 2ad528b01d6fc4ea0013a35df73173666d87f900de5926a75115b63ae8d82b11
+SHA512: bf06b5d34f4c2d95d55c635b6eeff7dbbd47b970b8ffb8532b2719a2aa7578f252e63d8b8039525fd7c826a82f9a3a8363a6b083121ed4ee6d0af095ef070355
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
+Name: Axon 中文版(RootHide)
+Author: Nepeta & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Architecture: iphoneos-arm64e
 Version: 2.5.3
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -3619,6 +3638,25 @@ SHA1: 764ec6cf7f904f6f72d681cf88cd241b0d1c2d0b
 SHA256: 1ef5480e56adfc1a405d5effa5e610f333e312cfe1f11524d33f14b546f00c80
 SHA512: a7a8584a18dd92240afe6f6c30325f408cb3d949e870cda5f1ef49fdb4a879f80cdc0641a14e209bd268c07b96c58f50eac14b09dd9496aaa4eb9453c983296e
 Description: 锁屏通知聚合插件，刀刀中文优化版。
+Name: Axon 中文版(rootless)
+Author: Nepeta & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Architecture: iphoneos-arm64
+Version: 2.5.3.1
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: ./rootless/Axon 中文版(rootless)_2.5.3.1.deb
+Size: 156338
+MD5sum: 9077afec300811e4e36418bffe8c6c30
+SHA1: 9a6949e01691643a24844d628f1fc668903d4500
+SHA256: 3d569315f92e1a3636ca96f7cceada489a59405b8cd62af389e1e1c7ff50c37b
+SHA512: 1653e43f7a39cabd5dbfac184a868807968db5375b186715f48561a0514cc7564ff437848e1d9077f89be5a6b714a6b477e8edf8532e331ed55132e7f00d7b82
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
 Name: Axon 中文版(rootless)
 Author: Nepeta & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
@@ -9269,6 +9307,25 @@ SHA512: cef2de2b2aa97b687c1d9fa5e2ef3e85b28a67cc8b3fce2a9f5d1de5efd90e546ccc958e
 Description: AwesomePageDots 简体中文包。
 Name: AwesomePageDots 简体中文包
 Author: 妖刀
+
+Package: com.dao.axon
+Architecture: iphoneos-arm
+Version: 2.5.3.1
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: ./rootful/Axon_2.5.3.1.deb
+Size: 156140
+MD5sum: d3ff27904bc14c8022a4ea632f543b70
+SHA1: 0cd48cad716564e8576eb1897b6d70a29053845f
+SHA256: 0b806941eb6909258e3a58ad71fcee799e58da53a393abce58409017da577375
+SHA512: 81f91cc8e30bf86009905178fa17838b183e48dc0d2e1a7a4021e3a96e088330798afa2e3e52b844808165450c409907668bf8db0c664cda7632084238fcdb00
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
+Name: Axon 中文版
+Author: Nepeta & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.axon
 Architecture: iphoneos-arm
