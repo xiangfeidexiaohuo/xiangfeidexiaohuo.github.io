@@ -509,6 +509,25 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bottomcontrol
 
 Package: com.dao.bottomcontrolx
 Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: 嗨-工具
+Maintainer: ichitaso
+Installed-Size: 580
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.xcxiao.bottomcontrolx, com.ichitaso.bottomcontrolx
+Filename: ./roothide/BottomControlX(RootHide)_1.0.2.deb
+Size: 47944
+MD5sum: e9b8c3ffba45af2290ada948d53820a1
+SHA1: 565d025a586935980e194129a2c0572a747b9dc4
+SHA256: 14158c37a7e6b98af2d5684208d4a6ca88b15c7c9bd09287a147c0f7d83dc229
+SHA512: 6857a1da21ac6e0cbf297537efc03a37677e1416001f7b58ea9958bfeb934d4341d4d44f694619038f83629b174fc82fd23b3a81a40273b9e492362d058b9269
+Description: 经典的底部上滑手势，底部左/中/右区域设置不一样的上滑操作；根据 ichitaso 开源，简单添加中英文翻译。
+Name: BottomControlX(RootHide)
+Author: ichitaso/XCXiao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bottomcontrolx/js.json
+
+Package: com.dao.bottomcontrolx
+Architecture: iphoneos-arm64e
 Version: 1.0
 Section: 嗨-工具
 Maintainer: ichitaso
@@ -3626,6 +3645,25 @@ MD5sum: 5f211556bb93a47567c4de29f762b112
 SHA1: 6e71f8c77dc3055c6352869e6150f7ec596efb74
 SHA256: 3b037964e2a24e31fd529226abb168af8064a00d99281389c51535a0c332d3ac
 SHA512: b487b337b115bd95c377a357e81f0d1a4ac194e0a2ae0e97a9aaf1b4407a520db3c9813a0d7d01d6ba0ebcc320626700bbcb4d8f98633d1ca571a32150a82e26
+Description: 经典的底部上滑手势，底部左/中/右区域设置不一样的上滑操作；根据 ichitaso 开源，简单添加中英文翻译。
+Name: BottomControlX(rootless)
+Author: ichitaso/XCXiao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bottomcontrolx/js.json
+
+Package: com.dao.bottomcontrolx
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: 嗨-工具
+Maintainer: ichitaso
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.xcxiao.bottomcontrolx, com.ichitaso.bottomcontrolx
+Filename: ./rootless/BottomControlX(rootless)_1.0.2.deb
+Size: 49620
+MD5sum: 51e1d7de8a0ae748b2ad1f1caba02fa8
+SHA1: b114795d9115e459e7590485e9e1cef3e73177d6
+SHA256: e66f33bb7e7429a0fafb1b9de6b981ea4a631ad7e5c699c838e5b99fa8498df2
+SHA512: 8e1191d968f7c1effdfa8316169b47c16bf22b9f7329f3971e458b04f096c3c9d201432861c1d9f9a95667d68c06c8f64173f5d27ea5c080cbcf448699fa2489
 Description: 经典的底部上滑手势，底部左/中/右区域设置不一样的上滑操作；根据 ichitaso 开源，简单添加中英文翻译。
 Name: BottomControlX(rootless)
 Author: ichitaso/XCXiao
@@ -9531,6 +9569,25 @@ MD5sum: 78c9724903739134e5b577655f2d73aa
 SHA1: 27ffae3ab0e8f6c7ee5021512b5a839fc0d8cf0e
 SHA256: 82914cb2cfc78df220a568f82602654ac06690c29c8fa5a031c6e6bbc85e5e29
 SHA512: 8d2cfe9057ffae0ec0d6e3a51c6b137d7e10f10d7653af3dbe3b26330432ebba382cdaaaa49d4789c393b620d0bc52e4dba952c004905b5815e81542742e0536
+Description: 经典的底部上滑手势，底部左/中/右区域设置不一样的上滑操作；根据 ichitaso 开源，简单添加中英文翻译。
+Name: BottomControlX
+Author: ichitaso/XCXiao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bottomcontrolx/js.json
+
+Package: com.dao.bottomcontrolx
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: 嗨-工具
+Maintainer: ichitaso
+Installed-Size: 588
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.xcxiao.bottomcontrolx, com.ichitaso.bottomcontrolx
+Filename: ./rootful/BottomControlX_1.0.2.deb
+Size: 49656
+MD5sum: 5b502e25350e1ab36148e31002879ac0
+SHA1: 55bb298ce8758cdece16a1a8319d86dc6fd202e2
+SHA256: bb8d4bae8ebd1f9ed934971d093dbffb03b33084838a22275814136588bc5148
+SHA512: 37353ca23866fb010f9aace76a999080331f87ac57f89567e278616d9c19639ecd043a9b02b0e1b205a5dcd9890799f4a462d625ae2652a48a8c1c684f9f6bf8
 Description: 经典的底部上滑手势，底部左/中/右区域设置不一样的上滑操作；根据 ichitaso 开源，简单添加中英文翻译。
 Name: BottomControlX
 Author: ichitaso/XCXiao
