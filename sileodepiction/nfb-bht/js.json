@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "7.1.1",
+                    "text": "7.1.5",
                     "title": "最新版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 09 月 08 日",
+                    "text": "2026 年 09 月 25 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -102,6 +102,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "7.1.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- 优化证书签名登录</br> - 新增「防止失去焦点」：切到其他 App 再回来，时间线不再刷新丢位置</br> - 去除 Grok Bot 相关推广",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "7.1.1",
