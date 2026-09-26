@@ -120,24 +120,6 @@ Author: 妖刀
 
 Package: com.dao.appprotect
 Architecture: iphoneos-arm64e
-Version: 2.4.1
-Section: 嗨-付费
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
-Filename: ./roothide/AppProtect 隐私保护(RootHide)_2.4.1.deb
-Size: 708464
-MD5sum: 844cc4b69a254c7fb6fe7882b2924e01
-SHA1: 9260e6b4f026daaf178d3352a98d473fdf939a66
-SHA256: 1435b5cbf67321a82eb78810171d4acad592b14442917ded5a3f6b9f3c08bedd
-SHA512: 20a3ec376b9079abaff94f49f615d491e6b50294e6926bc29ed38dd84a77a2df413d896df8efaf045de624afa7bd583317f86d21c0cf194863e325b2185358e1
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Name: AppProtect 隐私保护(RootHide)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
-Architecture: iphoneos-arm64e
 Version: 2.4.3
 Section: 嗨-付费
 Maintainer: aReo
@@ -224,24 +206,6 @@ SHA512: 49bd3545fdfe2b120be084b41f6fbc39478ab646b8be4f79f386cafef0b24dfea85f7cc7
 Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
 Name: AppTools Lite(RootHide)
 Author: aReo
-
-Package: com.dao.apptools15
-Architecture: iphoneos-arm64e
-Version: 2.8.5
-Section: 嗨-付费
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: ./roothide/AppTools15-17(RootHide)_2.8.5.deb
-Size: 1544032
-MD5sum: a47cb85d6f40a6a8dab4d5de973d5c89
-SHA1: f6599a900864e6292a50cf483f8af46092193b7b
-SHA256: b850fc80398584d1baa668fbae2cd00a78fd6b5eb1d2c64267f6967de2091f96
-SHA512: ac69dc27b51d1f1ee40a5d59c74d2f27db72e1057c686a5c3ef71b87bc9082d84630a9f2356bdd51b235c07d065e42d667a591a98ba968f13aabf4031c2f15e8
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Name: AppTools15-17(RootHide)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
 Package: com.dao.apptools15
 Architecture: iphoneos-arm64e
@@ -1594,24 +1558,6 @@ Author: Ball
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64e
-Version: 7.1.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./roothide/NFX 中文版(RootHide)_7.1.1.deb
-Size: 7514336
-MD5sum: 6622d4b6be820007279051b4b982ddf5
-SHA1: 12f7f74d392e2550152ece2b0fe3daffacdd5a7c
-SHA256: f0b711178f3579f3b619f8ba16a03cf66a8abdb2d278880ece8975abfbbbb06e
-SHA512: 4b8b69ed1bfee8f3c7da7ed6f9ff63acbf3a9811b566311f11b5e00fbc4768f913bbfde863bdaaed64016164e88e1e7787800a72c205146b5b8527e8ead60166
-Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
-Name: NFX 中文版(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
 Version: 7.1.5
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -2687,44 +2633,6 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
-Version: 0.9.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 3072
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./roothide/YTKACE(RootHide)_0.9.3.deb
-Size: 890248
-MD5sum: ce273fd64f8ce05eab09bf17a2dea841
-SHA1: f9875da6f2e1683694fe89ddc8736342383dcb92
-SHA256: 7468e8e912ea651727ee8279cd0174f744d70958edfd7da9e1f201e8b7b4a576
-SHA512: c36dd7b34c70475854e2fb344fc9d49b903ca71315fcf9ccf118e499a6620db116caf183a22ce5434bf338749e76cb85469c078b383aa6b223216607caa467e2
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(RootHide)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 5216
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./roothide/YTKACE(RootHide)_1.0.1.deb
-Size: 1726426
-MD5sum: 27bdec073bab0ad4328cb2e025774d47
-SHA1: 3253758ef98f1feb89bb0dfcc0dc15d39cb630e7
-SHA256: 91cf6d3d62b432f0fca852e5976ebea5811c38be972a5f77b96ee9e33b290f48
-SHA512: 3a24e40cc2493ed8b365e0ac17e8e8b349bf1f7e8fa6d60c44fe58d5437bfbf8192feb678de68c93bcbf9387d88f5f21989bdd7c69bafb1f3714d4aae839758a
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(RootHide)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64e
 Version: 1.1.0
 Section: 嗨-工具
 Maintainer: daodao
@@ -3177,24 +3085,6 @@ Author: Fouad Raheb
 
 Package: com.dao.appprotect
 Architecture: iphoneos-arm64
-Version: 2.4.1
-Section: 嗨-付费
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
-Filename: ./rootless/AppProtect 隐私保护(rootless)_2.4.1.deb
-Size: 746688
-MD5sum: 0a76ec80201664bb8394069a487c9027
-SHA1: c12015734fca9052244394bede7674b6e8a683f7
-SHA256: 531549e7c9000a8488cece585b05906db8bb7f8d15fda74450cf16e7e716c337
-SHA512: 2a745654e0983e2e64ef7796270462417f5548fddc2401e831c3871b50e043224119ee7f8bceaff31293f8f8cfd213f7d8808389041886fb0f2719622aca540a
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Name: AppProtect 隐私保护(rootless)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
-Architecture: iphoneos-arm64
 Version: 2.4.3
 Section: 嗨-付费
 Maintainer: aReo
@@ -3280,24 +3170,6 @@ SHA512: fc38766bbe6b58a0167ba99b2911792027a6d678209316df011094b4708797b072f2cbed
 Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
 Name: AppTools Lite(rootless)
 Author: aReo
-
-Package: com.dao.apptools15
-Architecture: iphoneos-arm64
-Version: 2.8.5
-Section: 嗨-付费
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: ./rootless/AppTools15-17(rootless)_2.8.5.deb
-Size: 1562720
-MD5sum: 612be9307d09dd19040c669fb2034eee
-SHA1: 4b396e78bb4ca9283ed1a96eec9126c2d16dfcb0
-SHA256: cc889c58bf3f1f4a0cad8b7f37450d6bea283a4c7246edb9fcad3aa18130ecec
-SHA512: 5ea7b06c21548e7cf5885f433305335ec7ca44a47e2107ebc0e5e611c29458ed1e05412aebfd1eb2b44068acbf7938d36bee444ca4f42282ab6c6f6e533616a3
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Name: AppTools15-17(rootless)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
 Package: com.dao.apptools15
 Architecture: iphoneos-arm64
@@ -5261,24 +5133,6 @@ Author: Ball
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64
-Version: 7.1.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootless/NFX 中文版(rootless)_7.1.1.deb
-Size: 7520280
-MD5sum: e29d65e6dad3d1a2a9c55980df478838
-SHA1: 1e3cb089204d9d510dc07f033206b93b94daace5
-SHA256: 6338bce0299a1b2c808efbc07fb5b76c0f54bebfa0648eaa24bdb7d80bf82683
-SHA512: f6ab95ff4186f421db4cdb18a3020a211575058a75e8388f889618f3b3352b6743d157a2506e21c0b1267de174f6c6429603c9e977b8d11e90b89f77b0b2bbb6
-Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
-Name: NFX 中文版(rootless)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64
 Version: 7.1.5
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -6980,44 +6834,6 @@ SHA512: 1472c1e2f127b6262883aade2a6536bb211a2253f3ade3ea5d80556358029a2901a6a3c7
 Description: WiFiQR和HotspotQR 共用简体中文包(rootless)。
 Name:  WiFiQR & HotspotQR 简体中文包(rootless)
 Author: Alucard
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64
-Version: 0.9.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 3072
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootless/YTKACE(rootless)_0.9.3.deb
-Size: 890922
-MD5sum: 96a89cb0cf1541f9d90a5506ffccc9f0
-SHA1: 98c34df802d9c991edbd2412e874d6810688a7fb
-SHA256: ebce7cd68eb40aa6e7e784ccf08477c6fa11f0ab58408830ac8af71a9339c4fb
-SHA512: 92a6af1847156785992937e200af66c54a0354da183cfa2fe7eb780109d9c1c19ab1771f9ad6e9322ccb6305d3be335f1f7f5dcd52f44dbcc43e1aa5a49cf647
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(rootless)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 5216
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootless/YTKACE(rootless)_1.0.1.deb
-Size: 1726514
-MD5sum: 157022d4b963e4520413760e0a9d422f
-SHA1: 43bd7578f4a29bb40fc0e011cab080d9bff5adb4
-SHA256: db4161076aec394a3d29d27744a04dbf408c31a99e2f0e777c2383912eb0af4b
-SHA512: 10ff612d754aa6b225061334361d66dca9f806a7af66d6faf05d96149c6a47444b67452f3875020b6ab272ed1320f69d09a24ad495d31d1f83ee73cd3647843d
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(rootless)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64
@@ -15199,24 +15015,6 @@ Author: Ball
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm
-Version: 7.1.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootful/NFX_7.1.1.deb
-Size: 7526740
-MD5sum: cb171d8c59dfbb825879ceac5a8ff8f7
-SHA1: 65785ccd6d17bf281e6bf4aa9f9f4ae280cbb27c
-SHA256: 8ba8d0f1315bad4944a8d645f2f8334f3e2bd6b09bd5b52543ff948593aebd4d
-SHA512: dde6642e82b571110eba160123d8650e29ac9c7d778008d1197cf8840b1e6bbaa84b0a88b60d5cdd94f002361413e458d8296c730f7e613e2551a66fa4838518
-Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
-Name: NFX 中文版
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
 Version: 7.1.5
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -20204,44 +20002,6 @@ SHA512: bd945f4260ea62ce48b47bc42f2304e2a1329a2d5e250bd296b0c94d2447aeb26849cbb9
 Description: Xina1专版NewTerm3，Xina1用户千万不要更新Procursus源提示的三十几个依赖更新，千万别更新！！！
 Name: NewTerm 3(Xina1)
 Author: HASHBANG Productions
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm
-Version: 0.9.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 3072
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootful/YTKACE_0.9.3.deb
-Size: 890254
-MD5sum: 6d078e9ef557d914e742b9f08e0df599
-SHA1: 19f02437d5f7e5eed3f0ab7bc2dda9172a7b4fbf
-SHA256: 8b4fc17752af594d208458c4f8aee879e45ddf224ac0df8e8fdda5396e60d58b
-SHA512: 65e8198750e62583776c9ac968f02df684ef5e2997710067f52b8d1a1fb0118172bbddf776efeff2ca585099f231a5e95487be2e6c2dfc072cdadc48a060f2d8
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm
-Version: 1.0.1
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 5216
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootful/YTKACE_1.0.1.deb
-Size: 1726440
-MD5sum: f5f6bb121ced189ae4b18e83db39d2a1
-SHA1: 7e750b82e6ef2598fc8413ad1d46c8922ed82368
-SHA256: c39a6f7bb300d87cb2de58eeb72c8b5e848f36ce8b32b2fd0ed5e14244169d75
-SHA512: 4e88db6f6f28f281b0d0a36d0b1c934a1666c270e9cabe7d5ea5e27a74fcbc89cb05a7a1e0f521e230a1a9136dd7d2751c7fe217e3547cc9c5c8a8b8953b662e
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm
