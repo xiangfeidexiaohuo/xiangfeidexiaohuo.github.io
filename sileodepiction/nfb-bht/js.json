@@ -104,257 +104,268 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "7.1.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+               },
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化",
+                    "useRawFormat": true
+               },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "7.1.5",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "- 优化证书签名登录</br> - 新增「防止失去焦点」：切到其他 App 再回来，时间线不再刷新丢位置</br> - 去除 Grok Bot 相关推广",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "7.1.1",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "微调：</br> 缩减插件体积</br> 调整个别翻译",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "7.1",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "优化广告过滤</br> 常规功能：新增隐藏侧边栏模块</br> 优化自动刷图标，仅在首页显示</br> 修复已知问题</br> 优化相关功能",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "7.0",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "插件名改为 NFX</br> 新增：隐藏正在输入</br> 新增：高质视频上传（1080p）</br> 新增：禁用截图检测</br> 其他优化和修复",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "6.2.1",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "优化主页自动刷新按钮：</br> 缩小体积，改为红五星；</br> 运行时闪烁并显示绿色进度环",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "6.2",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "优化：去空间栏</br> 新增：自主刷时间线</br> 新增：下拉刷新音效</br> 其他优化和修复",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "6.1",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "新增：隐藏侧边的创作者工作室</br> 修复「确认关注」失效</br> 翻译启用「密码锁定」后的 Locked 提示</br> 优化个人资料复制按钮跟随头像消失</br> 「推文回复」中几个功能项移到「常规功能」</br> 其他微调",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "6.0",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "插件名改为 NFB-X</br> 修复个人资料页复制按钮（全新设计，头像右侧）</br> 同步翻译各语言</br> 同步theacrat大佬相关功能：隐藏 Grok 侧边、隐藏 Grok 创建</br> 其他优化和修复",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.8",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "修复推特12.x版本安装插件后无法“发帖/回帖”的问题",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.7",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "1.同步theacrat大佬相关代码，新增功能：实现类似旧版的xauth登录流程</br> </br> 2.补全登录流程中文翻译</br> </br> 3.其他优化",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.6",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "1.同步theacrat大佬相关代码，新增功能：网页回复、隐藏探索热榜、自定义时间线（隐藏时间线添加按钮）</br> </br> 2.下载按钮不再替代分享按钮，单独存在</br> </br> 3.优化一些代码，去除一些失效功能</br> </br> 4.下载更稳，实测4K视频下载没问题</br> </br> 5.补全/调整个别中文翻译",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.5",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "1.修复在新版推特上的闪退问题</br> </br> 2.修复下载：媒体下载——「下载媒体」开启后，能下载的媒体右下角的「分享」按钮会变成「下载」按钮（实测下载1080p、4K均正常）</br> </br>ps:如果开启「直接保存」，无下载进度，下载完成会震动提示，直接保存到相册</br> </br> 3.去除原始代码的空占位</br> </br> 4.新增：实验功能——绕过设备认证（来自theacrat）</br> </br> 5.新增：推文回复——绕过年龄验证（来自theacrat）",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.3-1",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "同步 NFB 11月24源码</br> 刷版本号，嘿嘿！",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.3-0",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "同步 NFB 11月16源码</br> 新增标识定义等新的小功能",
                     "useRawFormat": true
-                },
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2-1",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "同步 NFB 11月源码</br> 新增隐藏认证、测试版推特内浏览器、Flex 调试单独一栏等",
                     "useRawFormat": true
-                },
-                {
+               },
+               {
                     "class": "DepictionSubheaderView",
                     "title": "5.1-4",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "提升版本号",
                     "useRawFormat": true
-                },
-                {
+               },
+               {
                     "class": "DepictionSubheaderView",
                     "title": "5.1-3",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "同步 NeoFreeBird 最新源码编译</br> 精简设置界面",
                     "useRawFormat": true
-                },
-                {
+               },
+               {
                     "class": "DepictionSubheaderView",
                     "title": "5.1-2",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "同步 NeoFreeBird 最新源码编译</br> 各种优化、修复！",
                     "useRawFormat": true
-                },
-                {
+               },
+               {
                     "class": "DepictionSubheaderView",
                     "title": "5.1-1",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "同步 0709 源码编译</br> 各种优化、修复！",
                     "useRawFormat": true
-                },
-                {
+               },
+               {
                     "class": "DepictionSubheaderView",
                     "title": "5.1",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "同步 0622 源码编译</br> </br> 新增隐藏侧边「聊天」和切换现代布局</br> 各种优化、修复！",
                     "useRawFormat": true
-                },
-                {
+               },
+               {
                     "class": "DepictionSubheaderView",
                     "title": "5.0-3",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "同步 0609 源码编译</br> </br> 多项优化和修复</br> 新增“显示标签”功能",
                     "useRawFormat": true
-                },
-                {
+               },
+               {
                     "class": "DepictionSubheaderView",
                     "title": "5.0-2",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "同步 0607 源码编译",
                     "useRawFormat": true
-                },
-                {
+               },
+               {
                     "class": "DepictionSubheaderView",
                     "title": "5.0-1",
                     "useBoldText": true,
                     "useBottomMargin": false
-                },
-                {
+               },
+               {
                     "class": "DepictionMarkdownView",
                     "markdown": "同步最新源码，并增补优化简体中文汉化。",
                     "useRawFormat": true
-                }
+               }
             ]
         }
     ],
