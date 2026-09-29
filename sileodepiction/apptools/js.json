@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.8.8",
+                    "text": "2.8.9",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 09 月 25 日",
+                    "text": "2026 年 09 月 29 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.8.9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增 Fila 文件管理器支持（优先调用）；</br> 2、优化图标遮罩功能；</br> 3、增强禁止跳转功能，彻底禁止跳到其它应用；</br> 4、优化图标布局功能，默认为禁用状态，已调整过布局的朋友请去设置中关闭“禁用布局功能”后注销；</br> 5、修复已知问题和优化其它一些细节。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.8.8",

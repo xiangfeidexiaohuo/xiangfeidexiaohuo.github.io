@@ -243,6 +243,24 @@ Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: com.dao.apptools15
+Architecture: iphoneos-arm64e
+Version: 2.8.9
+Section: 嗨-付费
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Filename: ./roothide/AppTools15-17(RootHide)_2.8.9.deb
+Size: 2382484
+MD5sum: bb8ca36f15bede838829719ba463f76c
+SHA1: 2c16a7672ad80c02a5966e4ceb7fffb8cabe7699
+SHA256: bd3bd1a07312ca503202778e3f443d7f253bac7d6acf18e3f176e2a157a0ff40
+SHA512: 33bd32ada07daaf3a57f9349d408ac17db763bc8ab489cabc2d13a9b278d8e2ebae98e5f4dfdf23fb12026e31b3ce5e36012975c1921f76c11d878bfaff6f96e
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Name: AppTools15-17(RootHide)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
 Package: com.dao.april
 Architecture: iphoneos-arm64e
 Version: 3.1
@@ -1640,6 +1658,24 @@ MD5sum: 3e297e844b446f34dcc4be0be9137ae7
 SHA1: 7983946259d246d7c360a49bb261e44e0eb5ffec
 SHA256: 4ec6b3f5b205a78d7d141874f099ce0ba961843a1c485ebcd79ee1d9665bf005
 SHA512: 4809e30351e35ac53c5c2186906ea8f1117962705ec7f55f0fde98f178012960a5fe4414b625f6d77a513f7b964b0ae5bf5754032fa0e8ad93d715d9f8af292f
+Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
+Name: NFX 中文版(RootHide)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64e
+Version: 7.1.7
+Section: 嗨-工具
+Maintainer: 刀刀
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./roothide/NFX 中文版(RootHide)_7.1.7.deb
+Size: 7527596
+MD5sum: b4a8e1501bda78a59da96310e8dcb092
+SHA1: 48f0d411de6f6132fe865f40cce5858d0e63ec41
+SHA256: 1c1b3703e7ba76c6e1017dac42d3adc497d89018b89e2b1b30990836bc6ecd3b
+SHA512: cf33d6f84469e72d75f13707b8bfdcb526ebaa95f4290a30554395dc91ce7818387c6181f8e8915d186b51795849b219b4c4d46d3216d82981ac3f507cf69743
 Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
 Name: NFX 中文版(RootHide)
 Author: NeoFreeBird
@@ -3273,6 +3309,24 @@ MD5sum: b335a0a4d18e06cc27481bbbc8aa88e5
 SHA1: d1f65fe90358ee64fff1ade065019be46668cb8f
 SHA256: 467f65e69d45b20b62cd99e401064d7013e4e51b2664d5e79b7e9b9c4d982b05
 SHA512: a19b8310e0df555313e51d4b4845eabc6f3f6e9e3cb532919ede96cae4a07cf7a7a6908a9bb47057a1f22c5e674d61ef4ed5b5c57051b975334bd3e64d29f6f7
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Name: AppTools15-17(rootless)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
+Package: com.dao.apptools15
+Architecture: iphoneos-arm64
+Version: 2.8.9
+Section: 嗨-付费
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Filename: ./rootless/AppTools15-17(rootless)_2.8.9.deb
+Size: 2377308
+MD5sum: 2a90984d9b11904ccf47f6e6e795a9ff
+SHA1: 501e74cd932e404575116184e518c950ff0c36c2
+SHA256: 2ebe6fa76f753cb074cec95e712a44218b9c6c40baf90ff6c1b7080543574bd0
+SHA512: bbc08bfcf6e27021f0ae1fc89b29997d0fdd591d3841a6e9b69f4bb7dbf90b796f76d2fe44b3381d595708c617b1e4d80ff07ecb16fe0ac5132a8d9a6e2222cc
 Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Name: AppTools15-17(rootless)
 Author: aReo
@@ -5252,6 +5306,24 @@ MD5sum: e311b6bef31019ed436f23e145765701
 SHA1: f7781cd9d39682a0aa60c4257002f695c80361ed
 SHA256: 99a01d92aad03bbedfc835ae47df56d62202287355b13147ef243f1ebc19aa7c
 SHA512: 7a951cd5d8e165139c7d3f75c234b62b45858dc51da950a6697e7f29e357a1c2cabf45b18837c9cddf5b0f86a1b2462e99130de68f31ff1c64aa95f4851e6205
+Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
+Name: NFX 中文版(rootless)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64
+Version: 7.1.7
+Section: 嗨-工具
+Maintainer: 刀刀
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootless/NFX 中文版(rootless)_7.1.7.deb
+Size: 7532132
+MD5sum: 2bc1c954489b8d67dfec43d1fe3d09e4
+SHA1: ac6b3f533d2a98913ba49aad99694ff914d2ef1f
+SHA256: dd3a393b35232936f6bde8841b2c10c97e34e67806df04d622c50b0a7543616b
+SHA512: 17dad7eecf989b88d2ed8d23e62057e88b29aad9f981e82511a51a6e31ef63bbb755f144bdc68396499fa085e7f8ef789dc9f524d5bfb384b1b74daf49eed7c9
 Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
 Name: NFX 中文版(rootless)
 Author: NeoFreeBird
@@ -15152,6 +15224,24 @@ MD5sum: 78e76fcc98270c067d14dc7257d39128
 SHA1: b276786ba1d819568e2e44a89b77f4ecb1b97f2a
 SHA256: b05e2630a397d4acf127f1b31f4d8b14892017fbc0fc9e41f24c67d203495a9c
 SHA512: 7021325129385a9d55a9eae4ae83cee65dd4ca2186e0b50943b4aa02a702a3af1a4ad0399edb39c68f165b24e8e7634f1b5200b37caa242be7be0556c8a83c16
+Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
+Name: NFX 中文版
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm
+Version: 7.1.7
+Section: 嗨-工具
+Maintainer: 刀刀
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootful/NFX_7.1.7.deb
+Size: 7535736
+MD5sum: 323068d9ab306bf0743b51bea8e80a9e
+SHA1: 14e59b3289ba97871ab484cc4a3087b1c951f086
+SHA256: 04a0044ff59aa671ca16d2fbdf181b265ee71aca4ad8332f53ca868541240048
+SHA512: b68be8679397d84224f2c7af5606eeed17c19553119177e2587142cdce72d7b1c7a1a11e2a906607a02a8ca77e50c9c6b8c1173b205cf223bae825b6496acce3
 Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
 Name: NFX 中文版
 Author: NeoFreeBird
