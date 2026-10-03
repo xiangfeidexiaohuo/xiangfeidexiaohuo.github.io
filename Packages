@@ -1861,36 +1861,19 @@ Author: 妖刀
 
 Package: com.dao.ryukgram
 Architecture: iphoneos-arm64e
-Version: 1.3.3
+Version: 1.4.0
 Section: 嗨-工具
 Maintainer: Ryuk
 Depends: mobilesubstrate
 Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
-Filename: ./roothide/RyukGram(RootHide)_1.3.3.deb
-Size: 16832008
-MD5sum: d19c550b41346f02c98dee490f462876
-SHA1: afba85bc966fbec2a59c1b90983ff070a0d6a199
-SHA256: 8364922475c2357fab1d28dc7255842d0e63450e215c4c7b286a4da30a0a7dd6
-SHA512: bb25fc00627c5981ff81d71f9b1991e33e2b3407ea8c4880b34218a91ad63261f5b976fc3a57fcd81f59c1aef3eabcb61189a6e74653586b457849bf7e254d02
-Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 439+。
+Filename: ./roothide/RyukGram(RootHide)_1.4.0.deb
+Size: 17726524
+MD5sum: 11b90398bb96da77732369e1533b257b
+SHA1: 83674d328e8e2b61e5c1a87c565e8f708e3c8c6e
+SHA256: e0102d35a9d6cb9b234a8251f7dbb3d44b163541e789ef03a6874c7d4494e71f
+SHA512: 381a3d0b020935004f194d36732066dcf860f59bbf115a16d1de0dd76ae0768b65b42df87c66f237307ed1b1712b8d6a3eeffcdb06f4783187b5d50db1de29e2
+Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 446+。
 Name: RyukGram(RootHide)
-Author: Ryuk
-
-Package: com.dao.ryukgram.legacy
-Architecture: iphoneos-arm64e
-Version: 1.3.3
-Section: 嗨-工具
-Maintainer: Ryuk
-Depends: mobilesubstrate
-Conflicts: com.faroukbmiled.ryukgram, com.faroukbmiled.ryukgram.legacy
-Filename: ./roothide/RyukGram-IG410(RootHide)_1.3.3.deb
-Size: 15140680
-MD5sum: 626a9546e4f4e1530f3e20df0363f557
-SHA1: 1cfb43dd9d0eb93fcc8c1244aac99c15af120555
-SHA256: 6ba0a4c475992d23d5ca3093decda649095d2daf5c549a68fd716330027bc4d7
-SHA512: e16134f7297c72ca5b8cc05babdcff90b3660201927d96ebf076e5a7d53cb9388e09c838aa4af25af7d6656d110bc0abc670bc9f7a965da27b6dec4aee8b0b02
-Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；仅支持 IG 410.1。
-Name: RyukGram-IG410(RootHide)
 Author: Ryuk
 
 Package: com.dao.scinsta
@@ -5654,36 +5637,19 @@ Author: 妖刀
 
 Package: com.dao.ryukgram
 Architecture: iphoneos-arm64
-Version: 1.3.3
+Version: 1.4.0
 Section: 嗨-工具
 Maintainer: Ryuk
 Depends: mobilesubstrate
 Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
-Filename: ./rootless/RyukGram(rootless)_1.3.3.deb
-Size: 16836404
-MD5sum: 5939e1f1e8ada2e8cc8d2157e360337d
-SHA1: 3005d6c793e1686719a6cedd7868a36321136182
-SHA256: ca104651167baaea22f88e55c44217881019855fac6d1085f99e5cac99d1f676
-SHA512: 3cd403d4679278a5db5729061b7453f2800b8d382ba62da279e88393051230637e4d0d7d7db4e29951f1a76018b59a7a72ad39d8be2ac32222dff52412fae3ad
-Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 439+。
+Filename: ./rootless/RyukGram(rootless)_1.4.0.deb
+Size: 17730172
+MD5sum: b6076a037feb043410ff97201808d37d
+SHA1: 985195538a447628773261ef9ca291fbed673158
+SHA256: e91a6545fd7956458670633ff264e385e543c8f222b1439e45ad64cdd8ac917b
+SHA512: 16b185873640e8e490d5f76140e84910bddd702e8134c668870b2074cd6655579e6f7540885ae3bae536089f3661e3f28e24c7bc1cb31a1ecbdac710ccf486db
+Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 446+。
 Name: RyukGram(rootless)
-Author: Ryuk
-
-Package: com.dao.ryukgram.legacy
-Architecture: iphoneos-arm64
-Version: 1.3.3
-Section: 嗨-工具
-Maintainer: Ryuk
-Depends: mobilesubstrate
-Conflicts: com.faroukbmiled.ryukgram, com.faroukbmiled.ryukgram.legacy
-Filename: ./rootless/RyukGram-IG410(rootless)_1.3.3.deb
-Size: 15139120
-MD5sum: f8163f273de88c83b568e74fb37cd8f0
-SHA1: 72555cb95fc2fc1d15cb14ff5ebeeee65b9bd216
-SHA256: d0f288be96d86492c0311c0dd400f255695e404342015c5d70e366a771d90e15
-SHA512: 5e2e0df41ea947d995ae4420f4bce4260f5b7782b42218331a30af2ef67789a5d6aeb0b345c6629631a3224b56499b11a83f15fbfd1d90521d08dd07e0bf9b3f
-Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；仅支持 IG 410.1。
-Name: RyukGram-IG410(rootless)
 Author: Ryuk
 
 Package: com.dao.scinsta
@@ -16605,6 +16571,23 @@ SHA512: a46f95763f3dadf7e861763b86f725a4f4f80b8379967540e20e7b128aa20f3cd0004419
 Description: Rune 简体中文包。
 Name: Rune 简体中文包
 Author: 妖刀
+
+Package: com.dao.ryukgram
+Architecture: iphoneos-arm
+Version: 1.4.0
+Section: 嗨-工具
+Maintainer: Ryuk
+Depends: mobilesubstrate
+Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
+Filename: ./rootful/RyukGram_1.4.0.deb
+Size: 17723672
+MD5sum: 56a8d488ba36097c16bf4ac7b60d8aef
+SHA1: 5683d036b6c3a71d24b86ee3045ec85b19e489f9
+SHA256: bf7e854e854a765a1aba084db4a66700f0c49f7db0261bcd6b07c86415e18e70
+SHA512: 5869449446626eeaf25fc99ae3012e01b752cbaa1da580e666189bf604da89eabb4f612bab3580a7e51a964cd3032e65f9d3091d96097c697f53f233f6ee2e02
+Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 446+。
+Name: RyukGram
+Author: Ryuk
 
 Package: com.hk.s8edge.cn
 Architecture: iphoneos-arm
