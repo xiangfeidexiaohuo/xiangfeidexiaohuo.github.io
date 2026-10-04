@@ -2522,6 +2522,23 @@ Description: 白巨魔，越狱专用的APP安装器，Relaxin(隐根)优化版�
 Name: TrollStoreLite(RootHide)
 Author: opa334
 
+Package: com.dao.tslite
+Architecture: iphoneos-arm64e
+Version: 2.1.1-2
+Section: 嗨-工具
+Maintainer: opa334
+Installed-Size: 3948
+Conflicts: com.opa334.trollstorelite
+Filename: ./roothide/TrollStoreLite(RootHide)_2.1.1-2.deb
+Size: 1766918
+MD5sum: 38b24e7e4387ea981ab6b6730217ef58
+SHA1: dea7f298a755af463cf9fe05ae991e54d5e5cf52
+SHA256: aba952aa5125aa65cf0ab09ef73c6c1ed330d818547a9a7a8873fa9e398b6fa0
+SHA512: c1390e0bc3e9fa07c98325f5963d55f0bfb82b51f73df9ccca74d08144abc5ac4261bf12d2bb98751dc9695f5a7bdbc8177d8421bb875dc53be4c66c41f9cf03
+Description: 白巨魔，越狱专用的APP安装器，Relaxin(隐根)优化版，支持中英文翻译。
+Name: TrollStoreLite(RootHide)
+Author: opa334
+
 Package: com.dao.uiscroller
 Architecture: iphoneos-arm64e
 Version: 1.0.5
