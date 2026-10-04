@@ -2354,18 +2354,18 @@ Author: choco/waruhachi/TheWinner02/thewinner0217/daodao
 
 Package: com.iosdump.tslite
 Architecture: iphoneos-arm64e
-Version: 2.1.1-1003
+Version: 2.1.1-2
 Section: 嗨-工具
 Maintainer: opa334
 Depends: ldid
 Conflicts: com.opa334.trollstorelite, com.dao.tslite
-Filename: ./roothide/TSLite(RootHide)_2.1.1-1003.deb
-Size: 3678948
-MD5sum: 05b54066d263a606e6bc0dc5516bca57
-SHA1: bdeaad3cd0a7c12705249c051ac9ac8d52586423
-SHA256: 7f5e8d2b802a55959ccf1b80fd60df3014eab8b36c96364b3f4c6dec14076325
-SHA512: 0e6e98bf44b599662d9ab71d655c022d036793c3c33675a58ddc1efcdb3a6c24ee615d851380a9cba1e6a120f739950dbbc9f69a03a35eaad6a56b459550c934
-Description: 越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)；更新降级接口。
+Filename: ./roothide/TSLite(RootHide)_2.1.1-2.deb
+Size: 3679176
+MD5sum: 9ef95fa117cb9927c4b5e7d3e58f964b
+SHA1: 8563e273e59d78c0e763a080172daa3add6cee1e
+SHA256: 23426e9bb86ee0ad8b6df796621844139e08785a9511b2a4675ba9561e352786
+SHA512: 9af6879753c7f3951031b6a3e5a43f60015becd46d236a28c5316b413b7f4df56bdd31e21e7953bda354e839892d9f1deb24c7f7e76ed210bcbcb8662f27899e
+Description: 越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)；同步最新代码v2.1.1-2：修复内置 ldid 生成的签名可执行段信息。
 Name: TSLite(RootHide)
 Author: opa334
 
@@ -6393,18 +6393,18 @@ Author: choco/waruhachi/TheWinner02/thewinner0217/daodao
 
 Package: com.iosdump.tslite
 Architecture: iphoneos-arm64
-Version: 2.1.1-1003
+Version: 2.1.1-2
 Section: 嗨-工具
 Maintainer: opa334
 Depends: ldid
 Conflicts: com.opa334.trollstorelite, com.dao.tslite
-Filename: ./rootless/TSLite(rootless)_2.1.1-1003.deb
-Size: 3681008
-MD5sum: 2a76b05ce4ce514a97155c5c8cadd6e2
-SHA1: 57bc40f145973d394994c2d1bd0ddcf1a07f0cb4
-SHA256: dc74c61cefe7255dc1023187d3fe6ae24f797677937702b39bba189b2724dfc7
-SHA512: 72aa5d8a121e769acf1da22eecaa2bb3e5dc6de3acfe92eae3ddd1a8e069c8b2d5e321427a717a13b8024690f76d61c74f15271724d72c8c6d690b62035a1fc2
-Description: 越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)；更新降级接口。
+Filename: ./rootless/TSLite(rootless)_2.1.1-2.deb
+Size: 3681408
+MD5sum: 00519ec170757cbcbdb1a5b3889591f3
+SHA1: 53fa20658b3a8b2b447b49616a9be87a2343f530
+SHA256: 2693c75135316aebe4703be241e880e76b00adf4a10ac4ea3fad0882119de03a
+SHA512: e418e625dda15c81f2eb708185a222066997562cf535b5f3e902dcbe8b884dbe146339b153717313905c065094a519cfd0371be1885ec908873e954206fe646c
+Description: 越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)；同步最新代码v2.1.1-2：修复内置 ldid 生成的签名可执行段信息。
 Name: TSLite(rootless)
 Author: opa334
 
