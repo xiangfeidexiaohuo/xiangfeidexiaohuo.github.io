@@ -207,6 +207,24 @@ Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: com.dao.apptools15
+Architecture: iphoneos-arm64e
+Version: 2.9.0
+Section: 嗨-付费
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Filename: ./roothide/AppTools15-17(RootHide)_2.9.0.deb
+Size: 2383904
+MD5sum: 1b029a95e308069230c7e1691da3c5c3
+SHA1: 965800a9ab2e8270c67531f0c23e2f6115323da4
+SHA256: 1f5b921055ddd41c2886c45e09d6c69467615a88a45e9608557c72bb7090b49e
+SHA512: e093254b4a134bec480fba031af1114b79dd8d8fe35a67b9333673d1ebf30d89e31738d6f49020ffe4cafe95121640f96a6f695dfd8273988272ad50cf140a8d
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Name: AppTools15-17(RootHide)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
 Package: com.dao.april
 Architecture: iphoneos-arm64e
 Version: 3.1
@@ -1861,18 +1879,18 @@ Author: 妖刀
 
 Package: com.dao.ryukgram
 Architecture: iphoneos-arm64e
-Version: 1.4.0
+Version: 1.4.5
 Section: 嗨-工具
 Maintainer: Ryuk
 Depends: mobilesubstrate
 Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
-Filename: ./roothide/RyukGram(RootHide)_1.4.0.deb
-Size: 17726524
-MD5sum: 11b90398bb96da77732369e1533b257b
-SHA1: 83674d328e8e2b61e5c1a87c565e8f708e3c8c6e
-SHA256: e0102d35a9d6cb9b234a8251f7dbb3d44b163541e789ef03a6874c7d4494e71f
-SHA512: 381a3d0b020935004f194d36732066dcf860f59bbf115a16d1de0dd76ae0768b65b42df87c66f237307ed1b1712b8d6a3eeffcdb06f4783187b5d50db1de29e2
-Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 446+。
+Filename: ./roothide/RyukGram(RootHide)_1.4.5.deb
+Size: 18432544
+MD5sum: 4e4be3591f673aa4b6d6bfde6bfaeef2
+SHA1: 4da74a3b6a2d1840bab3ec795fabcb929f9f9e4b
+SHA256: 647165facaaf3c3a0ba80baf10d9e0d19a0e4bda2135d1ff4f4ece5c2b0aa06c
+SHA512: d3786bf390f92104d8dd13dd83921b061c2878adacc1b264ed97495b63ba07d4c753a23d525c2749666baf64d4296ecdd4de716131845083c2a06d1b7ba180d4
+Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 449+。
 Name: RyukGram(RootHide)
 Author: Ryuk
 
@@ -2336,19 +2354,19 @@ Author: choco/waruhachi/TheWinner02/thewinner0217/daodao
 
 Package: com.iosdump.tslite
 Architecture: iphoneos-arm64e
-Version: 2.1.1-0910
+Version: 2.1.1-1003
 Section: 嗨-工具
 Maintainer: opa334
 Depends: ldid
 Conflicts: com.opa334.trollstorelite, com.dao.tslite
-Filename: ./roothide/TSLite-id(RootHide)_2.1.1-0910.deb
-Size: 2218012
-MD5sum: 4dd2cc693d6d4653c0e1d0e35ee8435d
-SHA1: 6029cc2921f67cfad7f35f7f974cb6c57d3b10d0
-SHA256: b349813ea6b260314360a8037b3d6be353fc6cd605778c5c29a890c2c84e232e
-SHA512: e8d79268452e5f0b6d8007fb83727e04440f6aab7664b0078f9fc419590dc878d63b379b3cf7379eb5a7098485ec80cc4e33cf0a6462159d6468de7ca88f3750
-Description: 越狱专用的APP安装器，id版(iosdump修改版)TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)；更新降级接口。
-Name: TSLite-id(RootHide)
+Filename: ./roothide/TSLite(RootHide)_2.1.1-1003.deb
+Size: 3678948
+MD5sum: 05b54066d263a606e6bc0dc5516bca57
+SHA1: bdeaad3cd0a7c12705249c051ac9ac8d52586423
+SHA256: 7f5e8d2b802a55959ccf1b80fd60df3014eab8b36c96364b3f4c6dec14076325
+SHA512: 0e6e98bf44b599662d9ab71d655c022d036793c3c33675a58ddc1efcdb3a6c24ee615d851380a9cba1e6a120f739950dbbc9f69a03a35eaad6a56b459550c934
+Description: 越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)；更新降级接口。
+Name: TSLite(RootHide)
 Author: opa334
 
 Package: com.dao.tvlock.cn
@@ -3149,6 +3167,24 @@ MD5sum: 2a90984d9b11904ccf47f6e6e795a9ff
 SHA1: 501e74cd932e404575116184e518c950ff0c36c2
 SHA256: 2ebe6fa76f753cb074cec95e712a44218b9c6c40baf90ff6c1b7080543574bd0
 SHA512: bbc08bfcf6e27021f0ae1fc89b29997d0fdd591d3841a6e9b69f4bb7dbf90b796f76d2fe44b3381d595708c617b1e4d80ff07ecb16fe0ac5132a8d9a6e2222cc
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Name: AppTools15-17(rootless)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
+Package: com.dao.apptools15
+Architecture: iphoneos-arm64
+Version: 2.9.0
+Section: 嗨-付费
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Filename: ./rootless/AppTools15-17(rootless)_2.9.0.deb
+Size: 2381140
+MD5sum: 24c6dc85ecb44d028c310418441cbdd9
+SHA1: 2919e14e2d695ed3655e25f3857fe2118297b0e5
+SHA256: 6e2026ea15aa93e9c73a36407282086d8f6dc16e746bd9d95927392ab06fbbb4
+SHA512: e7ea6660893aa19a6739349bc10d9abcaf29ba1c5bae34c6c4da627a32736c079881f0d815d4310ad6408ce80d88cbb5bb39fe1cbae6c1f20ff4023c7928f316
 Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Name: AppTools15-17(rootless)
 Author: aReo
@@ -5637,18 +5673,18 @@ Author: 妖刀
 
 Package: com.dao.ryukgram
 Architecture: iphoneos-arm64
-Version: 1.4.0
+Version: 1.4.5
 Section: 嗨-工具
 Maintainer: Ryuk
 Depends: mobilesubstrate
 Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
-Filename: ./rootless/RyukGram(rootless)_1.4.0.deb
-Size: 17730172
-MD5sum: b6076a037feb043410ff97201808d37d
-SHA1: 985195538a447628773261ef9ca291fbed673158
-SHA256: e91a6545fd7956458670633ff264e385e543c8f222b1439e45ad64cdd8ac917b
-SHA512: 16b185873640e8e490d5f76140e84910bddd702e8134c668870b2074cd6655579e6f7540885ae3bae536089f3661e3f28e24c7bc1cb31a1ecbdac710ccf486db
-Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 446+。
+Filename: ./rootless/RyukGram(rootless)_1.4.5.deb
+Size: 18432348
+MD5sum: 7f83be7b3eb42122d0000cdb65574099
+SHA1: 24bbcf027bd33e580cbd8a0f7b344e546b226fad
+SHA256: 1439af78a79cd30e5986dce162de80bb58cd025adbe556b3cc10c023e7639304
+SHA512: 99033ed354ac99fd0d0d11247114618cf7b25beab35272ba23b2423752f1934b205b4eed0158512a62b73c71903ae3420a0cdd3c6ed95d295b5586b91e3c9df7
+Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 449+。
 Name: RyukGram(rootless)
 Author: Ryuk
 
@@ -6340,19 +6376,19 @@ Author: choco/waruhachi/TheWinner02/thewinner0217/daodao
 
 Package: com.iosdump.tslite
 Architecture: iphoneos-arm64
-Version: 2.1.1-0910
+Version: 2.1.1-1003
 Section: 嗨-工具
 Maintainer: opa334
 Depends: ldid
 Conflicts: com.opa334.trollstorelite, com.dao.tslite
-Filename: ./rootless/TSLite-id(rootless)_2.1.1-0910.deb
-Size: 2217768
-MD5sum: 25b6a1c513d42a76f82a216cbf51399d
-SHA1: c2b8fa179a9a700a54349628521b6f8a43dd537d
-SHA256: df99791fca79e96de473f75107f5b17c73a1bb0afd30e096ba3038c0f596428b
-SHA512: 71329e65611d5f69a0d9d50df358bcf6d9ddcd330f394f5082a427287b89521e33d08623df06255fabf7959191f1537280fa724e9db20359b44675061000248f
-Description: 越狱专用的APP安装器，id版(iosdump修改版)TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)；更新降级接口。
-Name: TSLite-id(rootless)
+Filename: ./rootless/TSLite(rootless)_2.1.1-1003.deb
+Size: 3681008
+MD5sum: 2a76b05ce4ce514a97155c5c8cadd6e2
+SHA1: 57bc40f145973d394994c2d1bd0ddcf1a07f0cb4
+SHA256: dc74c61cefe7255dc1023187d3fe6ae24f797677937702b39bba189b2724dfc7
+SHA512: 72aa5d8a121e769acf1da22eecaa2bb3e5dc6de3acfe92eae3ddd1a8e069c8b2d5e321427a717a13b8024690f76d61c74f15271724d72c8c6d690b62035a1fc2
+Description: 越狱专用的APP安装器，iosdump修改版TrollStoreLite，功能多多(程序改名、换图标、解密、降级等)；更新降级接口。
+Name: TSLite(rootless)
 Author: opa334
 
 Package: com.dao.tvlock.cn
