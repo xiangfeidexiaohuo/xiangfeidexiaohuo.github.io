@@ -1045,17 +1045,17 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
 
 Package: com.dao.spotify
 Architecture: iphoneos-arm64e
-Version: 6.6.8
+Version: 7.0.0
 Section: 嗨-工具
 Maintainer: jaydenjcpy
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
 Conflicts: com.eevee.spotify
-Filename: ./roothide/EeveeReincarnated(RootHide)_6.6.8.deb
-Size: 2073376
-MD5sum: 452a3c8ca8d191e09e328290f8e6f917
-SHA1: 7b97b77a9a097e974c9850afa3e67bebe97dbf1a
-SHA256: ae4fa1e3d395787f3fe1cc442bce58c0b91b6fed988d00286f5867d527a6e590
-SHA512: 5243726fee2415749a4ebfadb49aeaf902bc405f54bb9775c0b5f62424ae4f9cc443ae3f26a5c4d52cc84eca5ed0befaac7f749debdc902be3e42d28c2a535ae
+Filename: ./roothide/EeveeReincarnated(RootHide)_7.0.0.deb
+Size: 2636824
+MD5sum: 8d70e24a445bd38e96546be96c2a51c2
+SHA1: 1c9dcf22106600856c7574aef0dac58c02d8edb3
+SHA256: 2f9bd23afd9a354a6d38a0de12220fb2438e6b1523e44bb989fc08b855f04510
+SHA512: 69aae3dbc84f7e6bd566d6182e7e29d0ba1690da631cb97afdd6944aed80717c832c94557b2aab5a6460d84c7f1fa718d287f4e34cb6adfd70ba0982d0fb8c5d
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Name: EeveeReincarnated(RootHide)
 Author: Eevee
@@ -4378,17 +4378,17 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
 
 Package: com.dao.spotify
 Architecture: iphoneos-arm64
-Version: 6.6.8
+Version: 7.0.0
 Section: 嗨-工具
 Maintainer: jaydenjcpy
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
 Conflicts: com.eevee.spotify
-Filename: ./rootless/EeveeReincarnated(rootless)_6.6.8.deb
-Size: 1998424
-MD5sum: 4ea09e2d2dde5c96bc0a2253fb348ef9
-SHA1: 6dab1757fe9995cda58e65a62cd9af1e3ac2d1a2
-SHA256: e556d06803613aaff85f07c532477fd352d75030686465c0391dc1e6b0173d5c
-SHA512: b4e114fc6a6f632bbabe32e5595aa38ce177567c833cd9b69357e123abee282fa4ba91c1413871725faa224ba6332c891e9e0ce80545417974e327580ef4b19f
+Filename: ./rootless/EeveeReincarnated(rootless)_7.0.0.deb
+Size: 2562316
+MD5sum: 8b73c425708f78ee14ff1cf48caeeb95
+SHA1: cf974461fab52b0d1dce0777754b3134f2df16e7
+SHA256: 0840578101dac0a360404e33ad112aabac24631839962bcf75635b7cbbf4c1ce
+SHA512: 579c4e60532435928ef7b07f4b1a5ce312ab9b29a4240db4ad542edf5beec1b083170555af7af07b68e1617bfcae74e99c84473f38a6558578f090648d091353
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Name: EeveeReincarnated(rootless)
 Author: Eevee

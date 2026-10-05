@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "6.6.8",
+                    "text": "7.0.0",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 20 日",
+                    "text": "2026 年 10 月 05 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,13 +86,24 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "7.0.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- 支持 Spotify v9.1.88",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "6.6.8.2",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "v6.6.8 (Build 2)</br> - 支持 Spotify v9.1.76</br> - 交叉淡入淡出（Crossfade）功能现无需覆盖配置即可使用（需重新登录以生效）</br> - 新增 2 个图标</br> ",
+                    "markdown": "v6.6.8 (Build 2)</br> - 支持 Spotify v9.1.76</br> - 交叉淡入淡出（Crossfade）功能现无需覆盖配置即可使用（需重新登录以生效）</br> - 新增 2 个图标",
                     "useRawFormat": true
                 },
                 {
