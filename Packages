@@ -1609,6 +1609,25 @@ Name: NFX 中文版(RootHide)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64e
+Version: 7.2
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 2648
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./roothide/NFX 中文版(RootHide)_7.2.deb
+Size: 718470
+MD5sum: 7139815b54640fd415b0946c297e0a86
+SHA1: a462acc7ac489f337362a6227a509f75de5ce4d5
+SHA256: ed54169cf88ac4c5b645a8d66c589084f815531dbce14664d0432c8263936420
+SHA512: bb4b196d4ac644efcab96903db494f893a98d5e7c2b0e9ecd5ba1ba1545b372479213afbb234fffb59587e3dea8d3a0ec3a14dca5824fc6fb27b9f1f82eadee0
+Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
+Name: NFX 中文版(RootHide)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
 Package: com.daodao.nocshare
 Architecture: iphoneos-arm64e
 Version: 1.1.3
@@ -5182,6 +5201,25 @@ MD5sum: 2bc1c954489b8d67dfec43d1fe3d09e4
 SHA1: ac6b3f533d2a98913ba49aad99694ff914d2ef1f
 SHA256: dd3a393b35232936f6bde8841b2c10c97e34e67806df04d622c50b0a7543616b
 SHA512: 17dad7eecf989b88d2ed8d23e62057e88b29aad9f981e82511a51a6e31ef63bbb755f144bdc68396499fa085e7f8ef789dc9f524d5bfb384b1b74daf49eed7c9
+Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
+Name: NFX 中文版(rootless)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64
+Version: 7.2
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 2648
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootless/NFX 中文版(rootless)_7.2.deb
+Size: 719428
+MD5sum: b09cba21e3321828b4a47c7e4378d55a
+SHA1: ee40ffdeafea83739d1721e60cdf4007bc720321
+SHA256: a01c59794980861c5622354908e86f4b4cc6d6864f37fb8501ccafdc3b8d9e8c
+SHA512: 6127b9812a76ee44fe3d7a147065e1ec1ad07c0ea23c154e897c224e6ff100c1d149417d9283ee7eb105eed75a33eaf046ada731bdc7ebd3201400bbd32baee8
 Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
 Name: NFX 中文版(rootless)
 Author: NeoFreeBird
@@ -15049,6 +15087,25 @@ MD5sum: 323068d9ab306bf0743b51bea8e80a9e
 SHA1: 14e59b3289ba97871ab484cc4a3087b1c951f086
 SHA256: 04a0044ff59aa671ca16d2fbdf181b265ee71aca4ad8332f53ca868541240048
 SHA512: b68be8679397d84224f2c7af5606eeed17c19553119177e2587142cdce72d7b1c7a1a11e2a906607a02a8ca77e50c9c6b8c1173b205cf223bae825b6496acce3
+Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
+Name: NFX 中文版
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm
+Version: 7.2
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 2648
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootful/NFX_7.2.deb
+Size: 719676
+MD5sum: 2d1d5ef677f69369dfdc8acf1e4ac781
+SHA1: 0d0c042b6c64b396f77e9fd1d20dfed9b96f8dea
+SHA256: d94f7473ca960a5bb8379acfec18138f56fa1158adb6fbb72e1bd6c2c672e277
+SHA512: 1f1abcb9e09b3ae7b689361f876a6b1839a88d55af14d51f5767abc75af291c5a74c2f79a98118c0226866374dd39815a9f40a28e1d7209f63d886f00e5d4e55
 Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
 Name: NFX 中文版
 Author: NeoFreeBird

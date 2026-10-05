@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "7.1.7",
+                    "text": "7.2",
                     "title": "最新版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 09 月 29 日",
+                    "text": "2026 年 10 月 05 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -102,6 +102,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "7.2",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+               },
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "完善 WebView 登录与请求，新增互动数据开关，并优化下载按钮图标；压缩体积并优化其他。",
+                    "useRawFormat": true
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "7.1.7",
