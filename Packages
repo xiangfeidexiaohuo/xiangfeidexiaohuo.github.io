@@ -1412,6 +1412,25 @@ Tag: role::developer
 Name: LibGcUniversal(RootHide)
 Author: MrGcGamer
 
+Package: com.dao.little16
+Architecture: iphoneos-arm64e
+Version: 0.0.10
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.michaelmelita1.little16
+Filename: ./roothide/Little16(RootHide)_0.0.10.deb
+Size: 7676
+MD5sum: a4e2b583561ee96e3a8615d74c57f9a1
+SHA1: c782c7f6b0fc30478674b8e569bdc67fa403a1e2
+SHA256: 8b7fc21421c2479416ded87d8467fe29c29ba7fd23e4c755289c0446047d5cff
+SHA512: 89af2cd96af5191e29418916286f9dddc65abc88b3558dad3f74c4511cb5ae35c3caba3f6b52d6a000c5c4a492ce8eee12d8c0bbb0ba5626c6fc4ac1ba5bf32d
+Description: 为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无需设置。
+Name: Little16(RootHide)
+Author: michaelmelita1 & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/little16.json
+
 Package: com.dao.lockbuttonx
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -4875,6 +4894,25 @@ SHA512: 920416b89a1f0b7a239aa27f7d5b4a7a60670fb805e02b22a402ff01e166bc4b79c8600f
 Description: 小横幅通知，可自定义颜色等，汉化包源内安装。
 Name: Liddell小横幅(rootless)
 Author: Traurige <hello@traurige.dev>
+
+Package: com.dao.little16
+Architecture: iphoneos-arm64
+Version: 0.0.10
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.michaelmelita1.little16
+Filename: ./rootless/Little16(rootless)_0.0.10.deb
+Size: 7740
+MD5sum: 27fcd0fc34f10e9b592da8463361a652
+SHA1: 97f3b946d4c7cec7989ec4e21d552f3e353dad71
+SHA256: 95343e4492120a2eaf4d4deaed8a1bc7018af3d46193ee5f811db24c82ffd88a
+SHA512: 570364e44a0955e105ce8b221a1ba9f592dd1c4862cf0bd68f4de62da1b6a3e6324828cf4f0638cca104f7c9dedd849314f5344519333b10b7d209f975eeef60
+Description: 为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无需设置。
+Name: Little16(rootless)
+Author: michaelmelita1 & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/little16.json
 
 Package: com.hk.lockmaster.cn
 Architecture: iphoneos-arm64
@@ -14126,6 +14164,25 @@ SHA512: 384b0aacf42ee19da177778deb8a3f930ce853d0d870a862b5109401e39b5c870378c29b
 Description: Little12 简体中文包。
 Name: Little12 简体中文包
 Author: Ball <ball@hackcn.net>
+
+Package: com.dao.little16
+Architecture: iphoneos-arm
+Version: 0.0.10
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.michaelmelita1.little16
+Filename: ./rootful/Little16_0.0.10.deb
+Size: 7654
+MD5sum: 7c17750c3d52b2937a24c612abe5ac2a
+SHA1: b9a8d3821bfc35288fb67bdce5c3d6a9de647ce6
+SHA256: 0a0a14128b1d7f156c5ff83c7013b270f9e9799090068d65a559286de9f4df33
+SHA512: ed006bec6d2f63b9991a4d2c4a5a5c4481438ba4bc11787f5cf80dec26b5bd2176d29697040ad11307a345627895908c5259ed2053d963cbe5bf17371648db86
+Description: 为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无需设置。
+Name: Little16
+Author: michaelmelita1 & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/little16.json
 
 Package: com.hk.littlexs.cn
 Architecture: iphoneos-arm
