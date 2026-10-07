@@ -1431,6 +1431,25 @@ Name: Little16(RootHide)
 Author: michaelmelita1 & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/little16/js.json
 
+Package: com.dao.little16
+Architecture: iphoneos-arm64e
+Version: 0.0.11
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.michaelmelita1.little16
+Filename: ./roothide/Little16(RootHide)_0.0.11.deb
+Size: 9514
+MD5sum: f4a61f3c4a8ea9e3eafcf5ca516a26fc
+SHA1: 210f1d911092424e88b1df06834dd8f9c007f649
+SHA256: 7590ff540a258305b31d7c0663a392872324866cb086d8dfd3e762e2a601e150
+SHA512: f946a53d3a2b1fbe65173718604bd7a0b0e0629c131cc87813618978b57861b1dcf7827b5213ab75ec3eb86e4e66328d7f44b71bad9e59618aba225c9a40bacd
+Description: 为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无需设置。
+Name: Little16(RootHide)
+Author: michaelmelita1 & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/little16/js.json
+
 Package: com.dao.lockbuttonx
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -1930,6 +1949,25 @@ SHA512: d3786bf390f92104d8dd13dd83921b061c2878adacc1b264ed97495b63ba07d4c753a23d
 Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 449+。
 Name: RyukGram(RootHide)
 Author: Ryuk
+
+Package: cn.dao.sbtweaker
+Architecture: iphoneos-arm64e
+Version: 1.3.7
+Section: 嗨-工具
+Maintainer: Kolbicz
+Installed-Size: 492
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary, cz.kolbi.noslide, cz.kolbi.sbtweaker
+Replaces: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary, cz.kolbi.noslide
+Filename: ./roothide/SBTweaker(RootHide)_1.3.7.deb
+Size: 69414
+MD5sum: e0cf9fd5d833c5244f551e23f6bc8b16
+SHA1: e126f796db8c522f6c8857df2579002b44c9bf9e
+SHA256: 73986d107a2fe0bc59b64234b22cf36c14b66624a7ffd6648f3262feb9a909d8
+SHA512: a0653b6e89575f4380f56cb9c199358226b77c8c6cca62280bcc5a9cac11ec0d4e2f487cc2d5ebeccec430cd39a489bff7bf0a7746849d8eca0c4bb22f4f4a9a
+Description: iOS 15+ 越狱的 SpringBoard 定制工具，支持 Dock、主屏布局、双击锁屏、动画优化、App 资源库等功能；添加中英文翻译，其他微调。
+Name: SBTweaker(RootHide)
+Author: Kolbicz
 
 Package: com.dao.scinsta
 Architecture: iphoneos-arm64e
@@ -4894,6 +4932,25 @@ Name: Little16(rootless)
 Author: michaelmelita1 & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/little16/js.json
 
+Package: com.dao.little16
+Architecture: iphoneos-arm64
+Version: 0.0.11
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.michaelmelita1.little16
+Filename: ./rootless/Little16(rootless)_0.0.11.deb
+Size: 9576
+MD5sum: 4b2bcf014f7fddd85675c2bf2e6f0160
+SHA1: f993ae1af4399e3eddfc80d1c4c6a1b5aded81dc
+SHA256: 840d370ca3fba55a1d2865b1ff307271ac9695b4d011cf1f9e4dcf88df8cd57c
+SHA512: fcda06011a9219f4a40bb1c38cdf3735e6b332f2225621545d82528b9e61ef030bbde9c9ad4cb9dd34ed91b5710d04b78632c99e72648d2dbac665cb8d77f810
+Description: 为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无需设置。
+Name: Little16(rootless)
+Author: michaelmelita1 & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/little16/js.json
+
 Package: com.hk.lockmaster.cn
 Architecture: iphoneos-arm64
 Version: 1.2
@@ -5744,6 +5801,25 @@ SHA512: 99033ed354ac99fd0d0d11247114618cf7b25beab35272ba23b2423752f1934b205b4eed
 Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 449+。
 Name: RyukGram(rootless)
 Author: Ryuk
+
+Package: cn.dao.sbtweaker
+Architecture: iphoneos-arm64
+Version: 1.3.7
+Section: 嗨-工具
+Maintainer: Kolbicz
+Installed-Size: 492
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary, cz.kolbi.noslide, cz.kolbi.sbtweaker
+Replaces: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary, cz.kolbi.noslide
+Filename: ./rootless/SBTweaker(rootless)_1.3.7.deb
+Size: 69352
+MD5sum: d4daabd790676e25923bb522cc2587f3
+SHA1: 72a66dbf6ece6c934de406b3dd0a37b6a264011b
+SHA256: 920010d57f61602fb8db1dbedd56c619afccfde12b86b86cf553238f4940ddec
+SHA512: 40388c43d7fa0fdf700966a838e325def2b622871cbb1f329183592773d818c51a35dee30c58d132ef03389534553dc436ff355c4ef3e26c8293f632657e1e75
+Description: iOS 15+ 越狱的 SpringBoard 定制工具，支持 Dock、主屏布局、双击锁屏、动画优化、App 资源库等功能；添加中英文翻译，其他微调。
+Name: SBTweaker(rootless)
+Author: Kolbicz
 
 Package: com.dao.scinsta
 Architecture: iphoneos-arm64
@@ -14105,6 +14181,25 @@ MD5sum: 8223bfc5ffde946433c389d5ae622e10
 SHA1: 89b784952dfd72c99d19047aa297ef7a0b1a1ce9
 SHA256: 55bb352fc871dc745e1f2ae6a2a3ac818ce3500fb477706c5018d5f53256831b
 SHA512: 70a968950f772e328703ca83747d5d5a542696db439228e046035f078386850954ff0643c8e009966c74b7ae62735ed49e3f5c118ed98749c4f73cd586e80c7d
+Description: 为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无需设置。
+Name: Little16
+Author: michaelmelita1 & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/little16/js.json
+
+Package: com.dao.little16
+Architecture: iphoneos-arm
+Version: 0.0.11
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.michaelmelita1.little16
+Filename: ./rootful/Little16_0.0.11.deb
+Size: 9470
+MD5sum: db24584e5ee3905df12893b3cad60051
+SHA1: eeafd5e0e90f5701463071d677227162900975d2
+SHA256: 35fbcb4ba342f2ee65fa35bfcc6a255364ca687142af52d6e2450229c0a88cfc
+SHA512: c88b9d2d32558675a2c3a3d51814faa7d43f8f9055a07861d50409a5bcfb15822eff6ef4b6cc7ad0d5acfadb35915d3e86be6977217da4824569feb19558c0ef
 Description: 为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无需设置。
 Name: Little16
 Author: michaelmelita1 & daodao
