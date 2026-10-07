@@ -1788,6 +1788,23 @@ Description: 节能插件，效果自测，重新编译。
 Name: Powercuff(RootHide)
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 
+Package: com.dao.prefnest
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: 嗨-工具
+Maintainer: mlgm
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Conflicts: com.mlgm.prefnest
+Filename: ./roothide/PrefNest(RootHide)_1.2.deb
+Size: 168200
+MD5sum: 1c9975d7f83ab98e4aa0babbd9b34814
+SHA1: e0a76c6c6c11e3622f7d02f5849de46d31ea92d9
+SHA256: b61f96925d24511ce64eba6eb4e3d27892193229338a4135f33fac0b8b669b31
+SHA512: 5fc5305057298317d15445b599052cbc51db8088ff257d42d00e4d59b4cdd42465c3de876f02b07a7506706c27f6fcb2903dd41f990ebaf0657adea656bb9704
+Description: 整理设置首页，集中收纳越狱插件；支持iOS15-26.0.1，特别是iOS18+默认插件入口在设置的通用里，用这个可以归纳到设置顶部/底部。
+Name: PrefNest(RootHide)
+Author: mlgm
+
 Package: com.dao.pf2.cn
 Architecture: iphoneos-arm64e
 Version: 0.1.2
