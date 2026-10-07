@@ -1431,25 +1431,6 @@ Name: Little16(RootHide)
 Author: michaelmelita1 & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/little16/js.json
 
-Package: com.dao.little16
-Architecture: iphoneos-arm64e
-Version: 0.0.11
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.michaelmelita1.little16
-Filename: ./roothide/Little16(RootHide)_0.0.11.deb
-Size: 9514
-MD5sum: f4a61f3c4a8ea9e3eafcf5ca516a26fc
-SHA1: 210f1d911092424e88b1df06834dd8f9c007f649
-SHA256: 7590ff540a258305b31d7c0663a392872324866cb086d8dfd3e762e2a601e150
-SHA512: f946a53d3a2b1fbe65173718604bd7a0b0e0629c131cc87813618978b57861b1dcf7827b5213ab75ec3eb86e4e66328d7f44b71bad9e59618aba225c9a40bacd
-Description: 为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无需设置。
-Name: Little16(RootHide)
-Author: michaelmelita1 & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/little16/js.json
-
 Package: com.dao.lockbuttonx
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -4927,25 +4908,6 @@ MD5sum: 75b246d03c0828be534d6c75061f83c1
 SHA1: 5905c0607a09301866e10af03467d27d739cbc20
 SHA256: b5d90f4876fc4c98800204c1d0c8b98d436a31c65c649b50eb69de96706f23fa
 SHA512: e7009134528d2e74f62f3e76951c8cf2eed1a778c10964a081e99b7acf2d30d082fe285bc56522ef86301a906e7e8e5b331d6d5cf8131481b2f5d0e03e669985
-Description: 为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无需设置。
-Name: Little16(rootless)
-Author: michaelmelita1 & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/little16/js.json
-
-Package: com.dao.little16
-Architecture: iphoneos-arm64
-Version: 0.0.11
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.michaelmelita1.little16
-Filename: ./rootless/Little16(rootless)_0.0.11.deb
-Size: 9576
-MD5sum: 4b2bcf014f7fddd85675c2bf2e6f0160
-SHA1: f993ae1af4399e3eddfc80d1c4c6a1b5aded81dc
-SHA256: 840d370ca3fba55a1d2865b1ff307271ac9695b4d011cf1f9e4dcf88df8cd57c
-SHA512: fcda06011a9219f4a40bb1c38cdf3735e6b332f2225621545d82528b9e61ef030bbde9c9ad4cb9dd34ed91b5710d04b78632c99e72648d2dbac665cb8d77f810
 Description: 为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无需设置。
 Name: Little16(rootless)
 Author: michaelmelita1 & daodao
@@ -14181,25 +14143,6 @@ MD5sum: 8223bfc5ffde946433c389d5ae622e10
 SHA1: 89b784952dfd72c99d19047aa297ef7a0b1a1ce9
 SHA256: 55bb352fc871dc745e1f2ae6a2a3ac818ce3500fb477706c5018d5f53256831b
 SHA512: 70a968950f772e328703ca83747d5d5a542696db439228e046035f078386850954ff0643c8e009966c74b7ae62735ed49e3f5c118ed98749c4f73cd586e80c7d
-Description: 为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无需设置。
-Name: Little16
-Author: michaelmelita1 & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/little16/js.json
-
-Package: com.dao.little16
-Architecture: iphoneos-arm
-Version: 0.0.11
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.michaelmelita1.little16
-Filename: ./rootful/Little16_0.0.11.deb
-Size: 9470
-MD5sum: db24584e5ee3905df12893b3cad60051
-SHA1: eeafd5e0e90f5701463071d677227162900975d2
-SHA256: 35fbcb4ba342f2ee65fa35bfcc6a255364ca687142af52d6e2450229c0a88cfc
-SHA512: c88b9d2d32558675a2c3a3d51814faa7d43f8f9055a07861d50409a5bcfb15822eff6ef4b6cc7ad0d5acfadb35915d3e86be6977217da4824569feb19558c0ef
 Description: 为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无需设置。
 Name: Little16
 Author: michaelmelita1 & daodao
