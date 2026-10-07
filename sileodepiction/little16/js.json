@@ -92,7 +92,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "新增键盘弹出自动隐藏 Dock、加入 iPad 网格式后台，并修复文件夹打开时 Dock 悬浮遮挡的问题",
+                    "markdown": "键盘弹出时自动隐藏 Dock，优化 iPad 式后台与文件夹 Dock 行为，并上移锁屏通知横幅，避免与快捷按钮重叠",
                     "useRawFormat": true
                 },
                 {
