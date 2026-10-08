@@ -1650,19 +1650,18 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.js
 
 Package: com.daodao.nocshare
 Architecture: iphoneos-arm64e
-Version: 1.1.3
+Version: 1.1.5
 Section: 嗨-工具
-Maintainer: 老Mo
-Pre-Depends: rootless-compat(>= 0.9)
+Maintainer: Hades
 Depends: mobilesubstrate
 Conflicts: com.devvix.nocshare
-Filename: ./roothide/NoCShare(RootHide).deb
-Size: 7188
-MD5sum: fa7dabf706e9578ce3cc478f21d13208
-SHA1: 966de813f8c0d21f42f415089fac2f44d72b31f9
-SHA256: ee4296ef5d260aa0792108a302555d5e76534b5caf74b93fba816cd8e51d9944
-SHA512: 9ad96fb12876feb99d56a21c7006b5dccdb8efbf9cf93f95ace87b07c6b75b7359ef04f11070239facd881a0a0c595b6424bad16823335a9399f83afd385996c
-Description: 移除分享菜单中烦人的投送和联系人，基于i_82的源码修复支持16系统。
+Filename: ./roothide/NoCShare(RootHide)_1.1.5.deb
+Size: 4100
+MD5sum: 393e3071e1dddfb811abfff478f1559b
+SHA1: 69f05e07e7ef04f85cf1d6b7f0c2026fa48a360e
+SHA256: 60ff8b0fa85e42c6be80d7cf64dea173abd8ff3ba84e0f7877300b760769ea61
+SHA512: b292f3147c4b8dc61b0487e803bee5f7f421a2def75d08547f1996df26f3127745c61431e38ea4274ca269e40ea904b79b790e8ded9b9fa55ee1fd705bd4478a
+Description: 移除分享菜单中烦人的投送和联系人，Hades基于i_82的源码修复支持16+系统。
 Name: NoCShare(RootHide)
 Author: Devvix
 
