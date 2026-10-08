@@ -1612,24 +1612,6 @@ Author: Ball
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64e
-Version: 7.1.7
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./roothide/NFX 中文版(RootHide)_7.1.7.deb
-Size: 7527596
-MD5sum: b4a8e1501bda78a59da96310e8dcb092
-SHA1: 48f0d411de6f6132fe865f40cce5858d0e63ec41
-SHA256: 1c1b3703e7ba76c6e1017dac42d3adc497d89018b89e2b1b30990836bc6ecd3b
-SHA512: cf33d6f84469e72d75f13707b8bfdcb526ebaa95f4290a30554395dc91ce7818387c6181f8e8915d186b51795849b219b4c4d46d3216d82981ac3f507cf69743
-Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
-Name: NFX 中文版(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
 Version: 7.2
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -2703,25 +2685,6 @@ Description: vivo OriginOS 风格的陀螺仪「翻转卡片」锁屏壁纸 —�
 Name: VivoStyle(RootHide)
 Author: 34306
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64e
-Version: 1.1.1
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6068
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./roothide/YTKACE(RootHide)_1.1.1.deb
-Size: 1963684
-MD5sum: ad1154bc09c0e8b0a1389cf0213f3a95
-SHA1: 0b3c9da2a63a2ba0e93d2ffcffbe66dfe2ef74c3
-SHA256: 9bffa0e241a4faf869e95afa6d939c95e193db6fc6c47f81a5e9e20173c8acdb
-SHA512: c6f9c47737f3f5b5d49fb9652220c03825cba57fecbb38fe43ca115e794359678c480777b8b957546539d9f74e8236f26d0b5c91cb100873dc8a8dcd506dd34b
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(RootHide)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
@@ -5193,23 +5156,6 @@ Description: 迷你锁屏播放器，无设置。
 Name: MiniLsp(rootless)
 Author: Mr.Zhang <mr_zhang_00@163.com>
 
-Package: com.dao.mk.cn
-Architecture: iphoneos-arm64
-Version: 2.1.3
-Section: 嗨-汉化
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Conflicts: com.dao.misaki.cn
-Filename: ./rootless/Misaki 中文补充包(rootless).deb
-Size: 6264
-MD5sum: 87464aa6724c75e66c26f5d4cc66ef3f
-SHA1: e50261e6fffa379794af111c325521ca36c57306
-SHA256: 8d4d122df3f236815b95a145111ccaf3f48080be1893ad92d59509e0cb84b6ef
-SHA512: e553f669cf1ccf8dffa98bc4ac02c1947520223625778620dd1e144f0fcf87fea809bbc381caae237f6f285d578f34d2794a6861acbb6f51b6523978f19495aa
-Description: Misaki 中文补充包(rootless)。
-Name: Misaki 中文补充包(rootless)
-Author: 妖刀
-
 Package: com.hk.mochi15.cn.rl
 Architecture: iphoneos-arm64
 Version: 1.0.3
@@ -5242,24 +5188,6 @@ SHA512: 831f32a3497efffbcf58ca1a63cf8dc5d0f4064b1ae185f31f0d0af5afd52673789f2131
 Description: NFCWriter XS 简体中文包(rootless)。
 Name: NFCWriter XS 简体中文包(rootless)
 Author: Ball
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64
-Version: 7.1.7
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootless/NFX 中文版(rootless)_7.1.7.deb
-Size: 7532132
-MD5sum: 2bc1c954489b8d67dfec43d1fe3d09e4
-SHA1: ac6b3f533d2a98913ba49aad99694ff914d2ef1f
-SHA256: dd3a393b35232936f6bde8841b2c10c97e34e67806df04d622c50b0a7543616b
-SHA512: 17dad7eecf989b88d2ed8d23e62057e88b29aad9f981e82511a51a6e31ef63bbb755f144bdc68396499fa085e7f8ef789dc9f524d5bfb384b1b74daf49eed7c9
-Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
-Name: NFX 中文版(rootless)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64
@@ -6931,25 +6859,6 @@ SHA512: 1472c1e2f127b6262883aade2a6536bb211a2253f3ade3ea5d80556358029a2901a6a3c7
 Description: WiFiQR和HotspotQR 共用简体中文包(rootless)。
 Name:  WiFiQR & HotspotQR 简体中文包(rootless)
 Author: Alucard
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64
-Version: 1.1.1
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6068
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootless/YTKACE(rootless)_1.1.1.deb
-Size: 1964124
-MD5sum: dd7bddebf946f105cb39a1dfd6f3802e
-SHA1: 5732a0177bd48ee4efec5813036f3e6e881dc6a9
-SHA256: 3920429bf52c7a22c4d85134c1e5d8a25c555d28af0c99528cb5faed0a43d87b
-SHA512: e534162f736d63b6a54884b7d36ad32310ea90c5906c237db6df54b5af6ca95095ddb098a7e2d0c74399e0a37cbef2d32b7c382a2aec5ecebc6167857d08312f
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(rootless)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64
@@ -15150,24 +15059,6 @@ Author: Ball
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm
-Version: 7.1.7
-Section: 嗨-工具
-Maintainer: 刀刀
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
-Filename: ./rootful/NFX_7.1.7.deb
-Size: 7535736
-MD5sum: 323068d9ab306bf0743b51bea8e80a9e
-SHA1: 14e59b3289ba97871ab484cc4a3087b1c951f086
-SHA256: 04a0044ff59aa671ca16d2fbdf181b265ee71aca4ad8332f53ca868541240048
-SHA512: b68be8679397d84224f2c7af5606eeed17c19553119177e2587142cdce72d7b1c7a1a11e2a906607a02a8ca77e50c9c6b8c1173b205cf223bae825b6496acce3
-Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
-Name: NFX 中文版
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
 Version: 7.2
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -20173,25 +20064,6 @@ SHA512: bd945f4260ea62ce48b47bc42f2304e2a1329a2d5e250bd296b0c94d2447aeb26849cbb9
 Description: Xina1专版NewTerm3，Xina1用户千万不要更新Procursus源提示的三十几个依赖更新，千万别更新！！！
 Name: NewTerm 3(Xina1)
 Author: HASHBANG Productions
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm
-Version: 1.1.1
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6068
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootful/YTKACE_1.1.1.deb
-Size: 1966014
-MD5sum: e8e47788a541b7331c7383d21d6de5ed
-SHA1: a8686e80da710b636e345378b138b59a465b761f
-SHA256: 365229160623fdb92ab4be557a36b65d00c924463f53d27da03b1a504ebda624
-SHA512: f70af8df506dd81c4fb358d5886e449ee2d701a5ecf8a8cec9e78360679b08ede00ee0d6f92c8120c546891cb73ce523fe1dcec98b698a2494d6f1d74c10d789
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm
