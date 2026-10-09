@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "去除弹窗/UI/长按菜单等地方的分割线，NoLine 的新版本，重构代码。",
+                    "markdown": "去除设置/弹窗/UI/长按菜单等地方的分割线。",
                     "useRawFormat": true,
                 },
                 {
@@ -64,12 +64,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "妖刀",
+                    "text": "daodao",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "妖刀",
+                    "text": "daodao",
                     "title": "维护者"
                 },
                 {
@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "修复iOS18设置首页无法去分割线</br> 修复某些弹窗会去掉标题的问题",
+                    "markdown": "修复iOS18设置首页无法去分割线</br> 修复某些弹窗会去掉标题的问题</br> 其他优化",
                     "useRawFormat": true
                 },
                 {

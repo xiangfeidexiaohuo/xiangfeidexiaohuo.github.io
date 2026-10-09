@@ -1870,14 +1870,15 @@ Installed-Size: 168
 Depends: mobilesubstrate
 Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
 Filename: ./roothide/PurifyLine(RootHide)_1.0.2.deb
-Size: 4918
-MD5sum: b4043116e9710dae638bb06099ba5d1f
-SHA1: 2fcfbf1030a25b9c9317630f9e80e71a5b7bd315
-SHA256: e2eced2c909ed8771638ba7218a0b54807accdddec4edb82f49967ff82615826
-SHA512: 8cfbe52a946265366b5bef93838d49b882067aa1215f3ae3fe7e2ee35a57f4957947a60dc123423533671767e2f579aa4381ecae8ef27341f74dd06ec0550dd8
+Size: 4972
+MD5sum: c3b2f30fb988d2e2204a47b8214c1911
+SHA1: 82c90ceee188a7ac02439e8a3723df83312cf787
+SHA256: c801e55235d7a77e01e153d221d3a3c46b206f7cb1735e41d1d14dfaca9c2016
+SHA512: d07b8d97ad5d8f64a64311b8da00c13a3636e4ddc70722fdd6c8d5422f0125cb87e7cfadd4c0bf94311740d58cef8e21d9c1c8ef53632abf8b69e9dad2d1892a
 Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
 Name: PurifyLine(RootHide)
 Author: daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
 Package: com.dao.reverie
 Architecture: iphoneos-arm64e
@@ -5709,14 +5710,15 @@ Installed-Size: 168
 Depends: mobilesubstrate
 Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
 Filename: ./rootless/PurifyLine(rootless)_1.0.2.deb
-Size: 4986
-MD5sum: b0f87257150e0cf2b9676dffa0ad9d94
-SHA1: 07c40c5456b1472b74899e936dba6a0ea572d522
-SHA256: 733f99fde2c6c273559e946e8c2db5bbead1b490b57f385c5015cabb1a1e7e32
-SHA512: 66957c2a1170dfe97a91be3d3396c4eb4cde6e2e6f88dcb2312058571d27676c3734b12dad2bad3050fd18a9b21479a320de7b49406c82aad04f89de5c4af748
+Size: 5028
+MD5sum: 51fad21df443fe61ac1e70ee7896edc2
+SHA1: 8ada81e55f4b40a009bcb285e5951d0b927f5c08
+SHA256: adb92b0981d5c8c88edd8fdd864c141f539480a8036829c2e41488358f799851
+SHA512: 61e03aff6757665e6267da4118dcca819c2b64989152ecd2b9c1f761d2ebd9f8bbe781590c002237209766b3afcb948723cc0c5f7cead95960cb924b136c3246
 Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
 Name: PurifyLine(rootless)
 Author: daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
 Package: com.hk.quickactions.cn.rl
 Architecture: iphoneos-arm64
@@ -16473,14 +16475,15 @@ Installed-Size: 168
 Depends: mobilesubstrate
 Conflicts: com.hk.daodao.noseparators, com.hk.daodao.rootless.noseparators, com.qms.noseparators, com.hk.noline, com.qms.noline
 Filename: ./rootful/PurifyLine_1.0.2.deb
-Size: 4892
-MD5sum: 692ac40811ffa638d58d0dd6ec0c1350
-SHA1: 5a9e803c445b65e7a3385fedd23606e5d1e5cce5
-SHA256: b2b01c457f95701cdb5be50b4702537115ba6368008be30a142d536118478cee
-SHA512: 632e12c6eb629d6acd694a305fb6a7d5423bd3230f9662b55b40c396fa92bb1aa87c168987cd5d4eb8b6f2e867a14184116bf380d915b272ce40f00014b95d02
+Size: 4954
+MD5sum: 53fea2a03c6ca1145063abf0d521c277
+SHA1: 50026576d7d6cbc200875d49e04c7b1f9610a5c8
+SHA256: 8ea4d03d6a3912abc5e3c499b3a8bfae41ac4328ae1d7d64dcfa7bb42ae92086
+SHA512: a0ef20966770916d6b8516bfdbfb73477f46c74837f4035540a107ee737dd180fb4020a55e02af1483062ffc26607a28c927b5b65b58f1c7b7748625fe3ba0e1
 Description: 去除弹窗/UI/长按菜单等地方的分割线，NoLine的新版本，重构代码。
 Name: PurifyLine
 Author: daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/line/js.json
 
 Package: com.hk.shortlook.plugin.contact-photo.qq
 Architecture: iphoneos-arm
