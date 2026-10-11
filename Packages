@@ -886,6 +886,25 @@ Description: Crane 中文修复包(RootHide)。
 Name: Crane 中文修复包(RootHide)
 Author: 妖刀
 
+Package: com.hk.dvirtualhome
+Architecture: iphoneos-arm64e
+Version: 0.0.16
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.dgh0st.dvirtualhome, com.hk.dvirtualhome.cn
+Filename: ./roothide/DVirtualHome(RootHide)_0.0.16.deb
+Size: 21200
+MD5sum: 89991c52f21f2baf2c6db28046ddf9e1
+SHA1: 49812fe70f5cc4216feb1ebd3b53de500f4fae05
+SHA256: 8f4c114543a6205d477110dab783a492ba8da6ce8e9a11a8e611c1aa1ed79b51
+SHA512: 0923f3eb51ece3ef7b7ded1eb67c3716dd20284acb32950acb770b07171ac2b22f47b98ad5036132516eaca90e53a866eb60072dcd9b0ef0eb5ccf8d5e0e95ca
+Description: 类似 FingerTouch 的 Touch ID 手势插件，刀刀精简版，带中文翻译；直板机（iPhone7/8/8P/SE2/SE2等）单击/双击/长按指纹按钮可回主屏幕、锁屏、截屏、呼出通知中心；SE2 iOS18.5 实测美滋滋！
+Name: DVirtualHome(RootHide)
+Author: DGh0st
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/dvirtualhome/js.json
+
 Package: com.hk.designer.cn.rl
 Architecture: iphoneos-arm64e
 Version: 1.4
@@ -4208,6 +4227,25 @@ SHA512: 2cc370d32c4862fa86dbbe347b9c8dbfb816d4803dd90c4d36b5964a67245366faa61c98
 Description: DLEasy 简体中文包(rootless)。
 Name: DLEasy 简体中文包(rootless)
 Author: 妖刀
+
+Package: com.hk.dvirtualhome
+Architecture: iphoneos-arm64
+Version: 0.0.16
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.dgh0st.dvirtualhome, com.hk.dvirtualhome.cn
+Filename: ./rootless/DVirtualHome(rootless)_0.0.16.deb
+Size: 21232
+MD5sum: ee56c95dca88f3e2e77e9eb70094153d
+SHA1: 435da438d14d11a7beaae965ae83720f6d9e29e9
+SHA256: ab3097a7c1b26a38358b89f5d06922f183d42cdc8dbd33d39abb4c16ff11d3eb
+SHA512: 7c16601b25706904a02a064a6c4728b8b78a4b9a5cb553df97d34d3565ff6a2929b05ada81d102d1792114638c8c8b2e00677613c91e1a7ec4c218e3c49efba6
+Description: 类似 FingerTouch 的 Touch ID 手势插件，刀刀精简版，带中文翻译；直板机（iPhone7/8/8P/SE2/SE2等）单击/双击/长按指纹按钮可回主屏幕、锁屏、截屏、呼出通知中心；SE2 iOS18.5 实测美滋滋！
+Name: DVirtualHome(rootless)
+Author: DGh0st
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/dvirtualhome/js.json
 
 Package: com.hk.designer.cn.rl
 Architecture: iphoneos-arm64
@@ -11131,20 +11169,24 @@ Description: DVirtualHome：类似FingerTouch的TouchID手势插件，支持iOS1
 Name: DVirtualHome
 Author: DGh0st <deeppwnage@yahoo.com>
 
-Package: com.hk.dvirtualhome.cn
+Package: com.hk.dvirtualhome
 Architecture: iphoneos-arm
-Version: 0.0.12
-Section: 嗨-汉化
-Maintainer: 妖刀
-Filename: ./rootful/DVirtualHome_CN.deb
-Size: 1968
-MD5sum: c439493ed4d87cbdcbe759b0c99f5eef
-SHA1: d5122cc3204883efe8b74b4fb8b9cf406a281810
-SHA256: bbd7a9893a0971209767b542d4aee0c6df303fca73e3c6a48c5274e262b64df0
-SHA512: 6cbf6b057f3fcd149af1a421b84fec5c682c01bb17b3f7977982b6d20e7fe2d93b24745631a8ab0c3dd61fb9a336530da32464f9506f650d9efaffca4ebc49a6
-Description: DVirtualHome 简体中文包。
-Name: DVirtualHome 简体中文包
-Author: 妖刀
+Version: 0.0.16
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 368
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.dgh0st.dvirtualhome, com.hk.dvirtualhome.cn
+Filename: ./rootful/DVirtualHome_0.0.16.deb
+Size: 21180
+MD5sum: 710227ee08cc8391c6e16151a515a083
+SHA1: 0b08bdbd968395f7962506ee0618d8cfdc21dc1e
+SHA256: 4e177990699539bfc367a935e67568b87b51400b9c208b6861cbab7c90f31524
+SHA512: e1e3ef096887bacc11441b273fba8097f501838cc0a3e80ae76302afa19f9572ae56f55e4c700c45a1874ef55d5de905f49a609946e1f0afae380966338be2bc
+Description: 类似 FingerTouch 的 Touch ID 手势插件，刀刀精简版，带中文翻译；直板机（iPhone7/8/8P/SE2/SE2等）单击/双击/长按指纹按钮可回主屏幕、锁屏、截屏、呼出通知中心；SE2 iOS18.5 实测美滋滋！
+Name: DVirtualHome
+Author: DGh0st
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/dvirtualhome/js.json
 
 Package: app.crack.daniutweak
 Architecture: iphoneos-arm
