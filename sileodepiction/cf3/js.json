@@ -109,7 +109,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "优化适配 iOS 26，修复部分崩溃，已在 vphone 26.0.1 虚拟机测试",
+                    "markdown": "优化适配 iOS 26，修复部分崩溃，已在 VPhone 26.0.1 测试",
                     "useRawFormat": true
                 },
                 {
