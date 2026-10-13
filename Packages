@@ -1412,6 +1412,23 @@ Name: Kayoko(RootHide)
 Author: 82Flex
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
 
+Package: com.dao.keybar
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./roothide/KeyBar(RootHide)_1.0.deb
+Size: 10306
+MD5sum: ecf5f269c398f375edc24ab9b19723be
+SHA1: c0189e276ecb874203ad85cb347fb100e9c77654
+SHA256: 27e329a1f71a8960b7c1dd6856ff33ea422ffe605842cf308a4b0efb5939c91a
+SHA512: 59ac13112c3928c52c02cacd41fee32888f72e736f7eb9593f2636a35071b2e5620a44741105dca1cfe69baf86ca7e935c6ab60b9980c14d3c6e7e5d2c80f1ac
+Description: X键盘下方添加快捷按钮(全选/复制/剪切/粘贴)，自适应深色/浅色，上下距离跟随地球键/听写键的高度，无设置项。
+Name: KeyBar(RootHide)
+Author: daodao
+
 Package: com.mrgcgamer.libgcuniversal
 Architecture: iphoneos-arm64e
 Version: 1.7.0
@@ -4920,6 +4937,23 @@ Description: 乌龙工作室版Kayoko，更多优化增强，添加支持iOS16/1
 Name: Kayoko(rootless)
 Author: 82Flex
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/js.json
+
+Package: com.dao.keybar
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./rootless/KeyBar(rootless)_1.0.deb
+Size: 10378
+MD5sum: ecc275bc21fc9b2fd776fd210b8160c2
+SHA1: 80399b782c94b5c0a6ef32ce5ef307723ce383a7
+SHA256: 91f885f269fc67ed5dfed6c2ef981fb239b939d49a5054d087883415fd6e65f7
+SHA512: f8b86d1578fc10ffb4ed5b16eaa1b9a26baf383fa0cf2af7d06d25fba401c2341c57790446938edde725a7da180e383daf2dbaf2c44f70eba03acd169f27ad27
+Description: X键盘下方添加快捷按钮(全选/复制/剪切/粘贴)，自适应深色/浅色，上下距离跟随地球键/听写键的高度，无设置项。
+Name: KeyBar(rootless)
+Author: daodao
 
 Package: com.dao.lpmnotification
 Architecture: iphoneos-arm64
