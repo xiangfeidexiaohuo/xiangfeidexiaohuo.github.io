@@ -2706,18 +2706,18 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.js
 
 Package: com.dao.velvet2
 Architecture: iphoneos-arm64e
-Version: 2.4.3
+Version: 2.3
 Section: 嗨-工具
 Maintainer: daodao
 Installed-Size: 668
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
-Filename: ./roothide/Velvet2 中文版(RootHide)_2.4.3.deb
-Size: 105068
-MD5sum: 168255a25811f3ddf2b44e3623905770
-SHA1: 6bfd034a38d203ab02c0d2841be3fcd9a79aac00
-SHA256: ba6a9833fb43a50f67488d90b053d02231a2305ea29588dfcd24ecd6532586c3
-SHA512: 6aba0f03c7c4e18dacff1000d1ee4f8218f7f9e19969164d3936050d6cf0c707b534d49c40d94ef5088223e0a7dfbf1673839a81bcc18ddb6118e779f4b9484b
+Filename: ./roothide/Velvet2 中文版(RootHide)_2.3.deb
+Size: 104792
+MD5sum: c40ef95405edf4be80bc258039f37e3d
+SHA1: 2e3740d9bd7456d17305d0aa43e7b3ffdf487f23
+SHA256: c8d06d4903d5ea1ef82b05ac5691aa72c019a4e137be193b20d727e0d5f67cfc
+SHA512: dc0f516d1785d2d388cd087006d415eea2d2005f0fa35523114fcc68ef8428b36341270ffa81f3f00c54eb28267308494d209e90ff5e6cbaf13af4e448a81619
 Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
 Name: Velvet2 中文版(RootHide)
 Author: NoisyFlake
@@ -6941,18 +6941,18 @@ SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/js.js
 
 Package: com.dao.velvet2
 Architecture: iphoneos-arm64
-Version: 2.4.3
+Version: 2.3
 Section: 嗨-工具
 Maintainer: daodao
 Installed-Size: 668
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Conflicts: com.initwithframe.velvet, com.noisyflake.velvet2, com.hk.velvet2.cn, com.hk.velvet2.cn.rl, com.hk.velvet2, com.hk.rootless.velvet2, com.qms.velvet2
-Filename: ./rootless/Velvet2 中文版(rootless)_2.4.3.deb
-Size: 104842
-MD5sum: 6eac1497da6203830d5d438928c260e9
-SHA1: eee4ffa08dec6bce85d6607192ca87c342872ba6
-SHA256: 58fd19fb1005759370c91ddacb12163d15528f266160846e7721fb5d86356782
-SHA512: da3dc907695d711f89df5ba6913d9e0f9be03e63416b081d4891c074c96239d02420f042c86c2831e2cb25e0b0a371cbb54b9e00d4bfd964b50a60c7519e8ade
+Filename: ./rootless/Velvet2 中文版(rootless)_2.3.deb
+Size: 105642
+MD5sum: 6a254079d88afff607a9626c9b529145
+SHA1: 5bf10af9167da8833c9d1661334210b9a48921e0
+SHA256: f9669b950643ad7e03903d658cad1037ac72b884281aaa428becb2834f7dc3f5
+SHA512: 0e7a3d0252520db329ff472671f126717e963ab90e5ed2051c9649f2fc35dd9d5fe9f981e506246325a753bfce17fbcb7f0f9828f8db4e997d5a59a50080f751
 Description: 完全可自由定制的通知横幅变色，根据开源编译/优化/汉化而来。
 Name: Velvet2 中文版(rootless)
 Author: NoisyFlake

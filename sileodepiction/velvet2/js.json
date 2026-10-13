@@ -38,10 +38,6 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/Screenshot_02.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/velvet2/Screenshot_03.png"
                         }
                     ]
                 },
@@ -68,7 +64,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "NoisyFlake",
+                    "text": "NoisyFlake & m4fn3",
                     "title": "作者"
                 },
                 {
@@ -78,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.4.3",
+                    "text": "2.3",
                     "title": "最新版本"
                 },
                 {
@@ -88,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 08 月 26 日",
+                    "text": "2026 年 10 月 13 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -103,35 +99,13 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "2.4.3",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "微调",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "2.4.2",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "新功能：仅锁屏生效</br> 代码微调",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
                     "title": "2.3",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "适配 iOS17+",
+                    "markdown": "基于 m4fn3/Velvet2(支持iOS17+) 重构：</br> 新功能：仅锁屏生效</br> 简体中文翻译</br> 图标微调</br> 其他优化",
                     "useRawFormat": true
                 },
                 {
@@ -142,7 +116,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "优化",
+                    "markdown": "基于开源编译",
                     "useRawFormat": true
                 }
             ]
