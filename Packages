@@ -1130,6 +1130,22 @@ Description: FloatingDockXVI 简体中文包(RootHide)。
 Name: FloatingDockXVI 简体中文包(RootHide)
 Author: 妖刀
 
+Package: com.dao.gesturesxv
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 嗨-工具
+Maintainer: Hades
+Depends: mobilesubstrate
+Filename: ./roothide/GesturesXVFix(RootHide).deb
+Size: 5136
+MD5sum: 79295b6b01d548e365efbdc52ca41893
+SHA1: b2dee08d6f69cc3c6bd5a6f6dd813632bf3f837f
+SHA256: 1ddae794ff3625ddc97a2eaff64ad05fab262d2d15c2013fabfcef919351835d
+SHA512: 69d439ac0098720a264ca4991ae47957a6fdfabc7aee0e47aede333ee6403e58469bd441727d56f43284d0ec678672f2944d44e92b04de9332d0841da52777c2
+Description: 修复GesturesXV手势iOS16锁屏手电筒问题
+Name: GesturesXVFix(RootHide)
+Author: Hades
+
 Package: com.hk.glow.cn.rl
 Architecture: iphoneos-arm64e
 Version: 0.6
@@ -1876,6 +1892,23 @@ SHA512: 4b52844fe66b97b603389e9f5e4a7fe2208d085d829ce7a26cdbfe60996e7f483391d412
 Description: PrimalFolder2 简体中文包(RootHide)。
 Name: PrimalFolder2 简体中文包(RootHide)
 Author: 妖刀
+
+Package: com.hades.pullclearnc
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: 嗨-工具
+Maintainer: hades
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./roothide/PullClearNC(roothide)_2.0.deb
+Size: 5722
+MD5sum: 21e430c0ea35aeff41927797735f246b
+SHA1: 00ab7dd0f2c6af8bb1b318ff4429e5782eed7601
+SHA256: f3c3fcfd8a2b69263c42b68cff85265461197dc48939ad2cb4575ae7ca6314c8
+SHA512: 859e219875e3eda73471691850a52185136da6c5a3f8e9270afe398f04c1fcb8de79f6090f86df33b96ca81028f63c6c372c955c956d2c51fd481fa89df5471c
+Description: 锁屏/通知中心下拉即可清空全部通知，原作者Netskao，更新支持iOS16+
+Name: PullClearNC(roothide)
+Author: hades
 
 Package: com.dao.pulloverx
 Architecture: iphoneos-arm64e
