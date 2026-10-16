@@ -58,6 +58,12 @@
    "hideShadow": false
   },
   {
+   "url": "https://xiangfeidexiaohuo.github.io/images/keybar.png",
+   "title": "KeyBar",
+   "package": "com.dao.keybar",
+   "hideShadow": false
+  },
+  {
    "url": "https://xiangfeidexiaohuo.github.io/images/griddy.png",
    "title": "Griddy",
    "package": "com.dao.griddy",
