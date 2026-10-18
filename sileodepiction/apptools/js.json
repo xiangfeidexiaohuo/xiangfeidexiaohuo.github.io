@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.9.0",
+                    "text": "2.9.1",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 10 月 04 日",
+                    "text": "2026 年 10 月 18 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.9.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化单个应用关闭自清后的提示；</br> 2、优化消息通知功能和其它一些细节。",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.9.0",
