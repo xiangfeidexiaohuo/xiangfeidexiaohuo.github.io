@@ -2239,6 +2239,23 @@ Author: 妖刀
 
 Package: com.dao.sileo
 Architecture: iphoneos-arm64e
+Version: 2.5.1-13.1
+Section: 嗨-系统
+Maintainer: 刀刀
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Replaces: org.coolstar.sileo
+Filename: ./roothide/Sileo(RootHide)_2.5.1-13.1.deb
+Size: 3007048
+MD5sum: 31df0c5cefd67626c22634520bd7e3a1
+SHA1: 34808339258c47de96390badc9331c0c01f45cd6
+SHA256: 3aa1b5e8d47ed8cd844ff83b43f9a387dbedf82e3fcc523a06964c108d97dd36
+SHA512: d77e48d55d25932f391d0c3901295aceb50a034f43df687512eff1e2d59b804451d9fb446990bd26211378f88964fd4a22c60ccdfdd5109070d0216b884400c2
+Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的 RootHidePatcher 中文版，转换插件一条龙。
+Name: Sileo(RootHide)
+Author: Amy While
+
+Package: com.dao.sileo
+Architecture: iphoneos-arm64e
 Version: 2.5.1-13
 Section: 嗨-系统
 Maintainer: 刀刀
