@@ -1,23 +1,5 @@
 Package: com.dao.3dbadgeclear
 Architecture: iphoneos-arm64e
-Version: 1.6.9
-Section: 嗨-工具
-Maintainer: isklikas
-Installed-Size: 192
-Depends: firmware (>= 13.0), mobilesubstrate
-Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
-Filename: ./roothide/3DBadgeClear(RootHide).deb
-Size: 17710
-MD5sum: 2f2fbbfd93e12790786d7e0182debd58
-SHA1: 46919d48254da2cb53d2d5edfd04a88848b7962b
-SHA256: 5cabb5b74169129af58bad2bb51eca9b1d9504ab6c0a7953b58b7ed4461b76ab
-SHA512: cc35b9dfaecf13744d58096937882b99735267dd1cd6ec3a0d4b19fe27aedc576e110bd49d0ced7c89a98b5dc2e16e5dac323df85ef84fce9e570b6ac3013342
-Description: 在有通知角标的程序图标的“长按/3D Touch”菜单上出现“清除角标”，可一键清除此程序的所有通知角标。
-Name: 3DBadgeClear(RootHide)
-Author: isklikas
-
-Package: com.dao.3dbadgeclear
-Architecture: iphoneos-arm64e
 Version: 1.7.0.1
 Section: 嗨-工具
 Maintainer: daodao
@@ -292,25 +274,6 @@ SHA512: 6522e52cf8b31139fb84f870c35cbde49d7fddb038e804636fb86f73ec2e22cd1da62906
 Description: AudioRecorder XS 简体中文包(RootHide)。
 Name: AudioRecorder XS 简体中文包(RootHide)
 Author: Sandy0 & 妖刀
-
-Package: com.dao.axon
-Architecture: iphoneos-arm64e
-Version: 2.3.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./roothide/Axon 中文版(RootHide)_2.3.1.deb
-Size: 153846
-MD5sum: f59e4c8f233d4f59909eb9d32a5201ee
-SHA1: 73043c15802c73e68418cf3ff40b6b897544c02f
-SHA256: 0d4a9b75305152774ed38ee019dd86867c7ecaf620489b2927808fa16e2cfa67
-SHA512: 571ef61e4c0a02c24ec15cd9e269de8539a329dcaef8d60104ffe14c3f7c1636535c3163e41c8e2bc90719f4ff8108efcd21ed38621964f297822613d5d31aa5
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版(RootHide)
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.axon
 Architecture: iphoneos-arm64e
@@ -958,36 +921,18 @@ Author: udevs
 
 Package: com.dao.donut
 Architecture: iphoneos-arm64e
-Version: 1.0
-Section: 嗨-工具
-Maintainer: SINI
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.noisyflake.cozybadges, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd, com.dao.ocd5lite, com.dao.ocd5, com.sini921.donut
-Filename: ./roothide/Donut(RootHide).deb
-Size: 34892
-MD5sum: 3462da8262b93b2e009f78e2f11b4ec3
-SHA1: 22c1d3ef539f6611b664eb53cb98a422ba52dfce
-SHA256: 6d8a168289323ed9ddb60d14d5a3262f44b553b06f5963a6b86af1701872ccae
-SHA512: 309c5aa6a6b1cc3bd5db1147c4f81a65daf5607dcb02a9e21f3e6f5c3fab4dd9c35095f897840e4328dcbb03d5bc4ee09f008f9e771270254f8dd03e383d35b9
-Description: 桌面图标通知角标变成空心小圆圈，自适应颜色。
-Name: Donut(RootHide)
-Author: SINI
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/donut/js.json
-
-Package: com.dao.donut
-Architecture: iphoneos-arm64e
-Version: 2.0.3
+Version: 2.1.1
 Section: 嗨-工具
 Maintainer: daodao
-Installed-Size: 380
+Installed-Size: 416
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Conflicts: com.noisyflake.cozybadges, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd, com.dao.ocd5lite, com.dao.ocd5, com.sini921.donut
-Filename: ./roothide/Donut(RootHide)_2.0.3.deb
-Size: 45070
-MD5sum: 59d1821c64b64b74016028e4a31f261d
-SHA1: e38a8f04ea3863141a786ad9c7c09ad7cad4c5bf
-SHA256: fe56d572d13dabd8c15e04354bfe0d69bd94cd1a00769ae724dc7d640aaed162
-SHA512: 9ea6e0819972e45f6f07e6fdf414b4a3aa8d03978916166f39afb27038772c3d954b766aa2d5a5cc865de8a5c3d93e9415385b9e180125e4fae27d7b5a61e5c4
+Filename: ./roothide/Donut(RootHide)_2.1.1.deb
+Size: 49568
+MD5sum: dc099a83eade14e2a384770d60250469
+SHA1: 71d4d6cfa4e57107931120497d7fe4578e511e2d
+SHA256: bdf63b204a69dcb14ae48ea228eb7eb52304a700516bd5aefcb4f7749a593b8c
+SHA512: 8f939de5ff3d885a2c302b3c9f0e27e82cfe54eb4ca2f7022453dca3e636921df09bd809af06097af51f485cbe63b1fc351e695f20c04a23ec143a0ce0f7d37f
 Description: 桌面图标通知角标变成空心小圆圈，自适应颜色。
 Name: Donut(RootHide)
 Author: daodao
@@ -1011,23 +956,6 @@ Description: 桌面图标通知角标变成空心小圆圈，自适应颜色。
 Name: Donut(RootHide)
 Author: daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/donut/js.json
-
-Package: com.dao.donutbar
-Architecture: iphoneos-arm64e
-Version: 1.1.0
-Section: 嗨-工具
-Maintainer: 文武
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Conflicts: com.noisyflake.cozybadges, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd, com.dao.ocd5lite, com.dao.ocd5, com.sini921.donut, com.dao.donut
-Filename: ./roothide/Donut-bar(RootHide)_1.1.0.deb
-Size: 39654
-MD5sum: 21d488f72eefbb86e01b3e8ca929878d
-SHA1: 810c2a73ec07b07a2436c3f6755fe233950a4ca6
-SHA256: fdd0c4d3bf04d5bc4e4d00252f1a1407576bf47cd2b7ca4b3110b443a99177b0
-SHA512: 4014429e58db6dff5611c258a3a97e62a6660e8d86209c63658a0c83e924685b2901926f72e3fb003e29feececa4ae260050c13459e113a3e69e2872bae3445d
-Description: 桌面图标通知角标变为图标下方的彩色横条，自适应颜色；基于刀刀源的 Donut、BadgeBar 显示效果，并向所有贡献者致谢。
-Name: Donut-bar(RootHide)
-Author: 文武
 
 Package: com.dao.donutbar
 Architecture: iphoneos-arm64e
@@ -1182,25 +1110,6 @@ Author: Sandy0/妖刀
 
 Package: com.daodao.goodwifi
 Architecture: iphoneos-arm64e
-Version: 1.6.2
-Section: 嗨-工具
-Maintainer: 妖刀
-Installed-Size: 424
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: ./roothide/GoodWiFi 中文版(RootHide)_1.6.2.deb
-Size: 66430
-MD5sum: a2f046dc8369a3e71ec81a19d3012385
-SHA1: e66b6338e46182affb094a7e09603e6c09d0621e
-SHA256: 649c705298a4ccf9915332292f7ce85c97d4f2da4f4cff72028ff694c4a8e18d
-SHA512: b0c86ee3652e8ab97548c9775fd933949a9de8131608a5d80a99e149644abe1e043da5c21c994bdb90a6c6a9707c4bce7d25f81142b68a34848ab56a44352d18
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Name: GoodWiFi 中文版(RootHide)
-Author: julioverne & 妖刀
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Architecture: iphoneos-arm64e
 Version: 1.7.3
 Section: 嗨-工具
 Maintainer: daodao
@@ -1215,6 +1124,25 @@ SHA256: be6c848c346b9c0f803da31ba8790a24647f6da43fc3200d35606cd68190e719
 SHA512: e4e5f2dd89b99c35f3dfd1d765ddf81c8ff9dd3368a118f3dabbe0e982880a39ae6ab746f6d3b26a81ead874c38db0cb8019c7107d52d9dc357c1a579ade940e
 Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
 Name: GoodWiFi 中文版(RootHide)
+Author: julioverne & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi
+Architecture: iphoneos-arm64e
+Version: 1.7.5
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 500
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: ./roothide/GoodWiFi(RootHide)_1.7.5.deb
+Size: 71792
+MD5sum: ec12becce7b358525f3072db39819134
+SHA1: d8efaa82ac1bd75fc04fa6e2f97314c5a39672c6
+SHA256: fd17a6297489f857968919576f3d70947ea888a8a62055eb0919a6c582aadcd0
+SHA512: 47832576c671792fb5adf52af1b5d7498e4afaea76d57804fe375ee2021a551953d5f1422faeb162a90484beb2deb64acfcf4045bea98ff414a94f58c78eff7c
+Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
+Name: GoodWiFi(RootHide)
 Author: julioverne & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
@@ -2414,25 +2342,6 @@ Author: 妖刀
 
 Package: com.dao.speedster
 Architecture: iphoneos-arm64e
-Version: 2.2.2
-Section: 嗨-工具
-Maintainer: Hoangdus & daodao
-Installed-Size: 428
-Depends: firmware (>=13.0)
-Conflicts: com.hoangdus.speedster, com.hk.speedster.cn.rl
-Filename: ./roothide/Speedster(RootHide)_2.2.2.deb
-Size: 39470
-MD5sum: cf6b29336faf3d42d3986a0779a6ae84
-SHA1: 5ae444490d36d5a2f54c7dbf4813d311ba51e0d2
-SHA256: 4cb461d28dced81ab5a041a53cec5f4dae5243a4ab96f9e431c2e8f834d0970c
-SHA512: b464d9f9715d71fdbb278ce71b1b47903537a0fc4fc1caa5024ef2e886cc8d31584d6167559d44f9996050ce737c3b24ea3921f8cd23045d28794420f55d630d
-Description: 更快的 iOS 动画，根据开源编译，已带汉化。
-Name: Speedster(RootHide)
-Author: Hoangdus & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/speedster/js.json
-
-Package: com.dao.speedster
-Architecture: iphoneos-arm64e
 Version: 2.2.3.1
 Section: 嗨-工具
 Maintainer: Hoangdus & daodao
@@ -3111,23 +3020,6 @@ Author: 0xkuj
 
 Package: com.dao.3dbadgeclear
 Architecture: iphoneos-arm64
-Version: 1.6.9
-Section: 嗨-工具
-Maintainer: isklikas
-Depends: firmware (>= 13.0), mobilesubstrate
-Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
-Filename: ./rootless/3DBadgeClear(rootless).deb
-Size: 18972
-MD5sum: a9804175c0216fa4db251b4c27676e3d
-SHA1: bc14fa596892af9ddb37f3ce5a4289942f4e93ee
-SHA256: 4db2df55b840de9137d3eb6a204d7ded71f9d3f99d2e94c917ee3f531facb030
-SHA512: 353b01badde4559cda8f7c6a6aa9a7b34b248ee72772b5e8adc07844adb4d96e62a371200e174044cae80e1d4c797448944a80958fbe6c36d92c734e819aa691
-Description: 在有通知角标的程序图标的“长按/3D Touch”菜单上出现“清除角标”，可一键清除此程序的所有通知角标。
-Name: 3DBadgeClear(rootless)
-Author: isklikas
-
-Package: com.dao.3dbadgeclear
-Architecture: iphoneos-arm64
 Version: 1.7.0.1
 Section: 嗨-工具
 Maintainer: daodao
@@ -3537,25 +3429,6 @@ SHA512: c146409ffc9a79ac638cd616206b57c7565b23cf8c81ede7bcb16f3d489ddc94a8ead5e5
 Description: AutoUnlockX 简体中文包(rootless)。
 Name: AutoUnlockX 简体中文包(rootless)
 Author: Sandy0
-
-Package: com.dao.axon
-Architecture: iphoneos-arm64
-Version: 2.3.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./rootless/Axon 中文版(rootless)_2.3.1.deb
-Size: 153948
-MD5sum: a05a1a89b23da2da9cc261234842756d
-SHA1: 764ec6cf7f904f6f72d681cf88cd241b0d1c2d0b
-SHA256: 1ef5480e56adfc1a405d5effa5e610f333e312cfe1f11524d33f14b546f00c80
-SHA512: a7a8584a18dd92240afe6f6c30325f408cb3d949e870cda5f1ef49fdb4a879f80cdc0641a14e209bd268c07b96c58f50eac14b09dd9496aaa4eb9453c983296e
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版(rootless)
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.axon
 Architecture: iphoneos-arm64
@@ -4420,36 +4293,18 @@ Author: udevs
 
 Package: com.dao.donut
 Architecture: iphoneos-arm64
-Version: 1.0
-Section: 嗨-工具
-Maintainer: SINI
-Depends: mobilesubstrate (>= 0.9.5000)
-Conflicts: com.noisyflake.cozybadges, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd, com.dao.ocd5lite, com.dao.ocd5, com.sini921.donut
-Filename: ./rootless/Donut(rootless).deb
-Size: 36072
-MD5sum: f6eee11f169a37a35d994cf604aaccd0
-SHA1: e5be3466b8ab09468968f6b6f666f311244aa827
-SHA256: 3337ec75b794630a89e168eec1c5ef8d9203eb7d79f957e324b3714c6bcbc7aa
-SHA512: 3183c03296d2753d7bf11ddd70315be691240d5424171bcf56d0c60ee438eee216ce7b586ddf22fc1005abbe0c8ad5196815f29cb46e8a9937b48d2211364754
-Description: 桌面图标通知角标变成空心小圆圈，自适应颜色。
-Name: Donut(rootless)
-Author: SINI
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/donut/js.json
-
-Package: com.dao.donut
-Architecture: iphoneos-arm64
-Version: 2.0.3
+Version: 2.1.1
 Section: 嗨-工具
 Maintainer: daodao
-Installed-Size: 412
+Installed-Size: 416
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Conflicts: com.noisyflake.cozybadges, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd, com.dao.ocd5lite, com.dao.ocd5, com.sini921.donut
-Filename: ./rootless/Donut(rootless)_2.0.3.deb
-Size: 46316
-MD5sum: e6933846ad645ebe461e117ac658e70d
-SHA1: d30b7a73f75820c89b1c6782523cea0f4266b308
-SHA256: f094dab0bd78fbe0c9d345b3bdad035df459a07cb1dfe9fc3f37583329a882ee
-SHA512: 19b50de43859339a92f9554d93314d0be17b0ae0eeab2eca55c5a3af29236fb8549f717a464ddabe93c3b72c586c718f1ce9766ad52ec507f0deee478025c463
+Filename: ./rootless/Donut(rootless)_2.1.1.deb
+Size: 50572
+MD5sum: e30bab5ef6b78356ccd92b6de89646c6
+SHA1: 1fa02ce3abd963a9c93cfa5ec18eb55505d36587
+SHA256: 7c01c45324d0296613704dcc77bd4a875df6cb8c80fc27756a136da126b8309c
+SHA512: f3e0fe1045958008f583148301f912a59c29a774f0f8b338915862938558f72b1fa8c1f7a9bd1edcfb5fe1fe71de9036185be63c74eb326850bccc78c6a8ff86
 Description: 桌面图标通知角标变成空心小圆圈，自适应颜色。
 Name: Donut(rootless)
 Author: daodao
@@ -4675,25 +4530,6 @@ Author: Sandy0/妖刀
 
 Package: com.daodao.goodwifi
 Architecture: iphoneos-arm64
-Version: 1.6.2
-Section: 嗨-工具
-Maintainer: 妖刀
-Installed-Size: 424
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
-Filename: ./rootless/GoodWiFi 中文版(rootless)_1.6.2.deb
-Size: 68444
-MD5sum: c02bd137240e8293f77d7749752dd9aa
-SHA1: 358313947ee6a74f21a475802a4edec86c0c0373
-SHA256: 2d8b236127ab53e513d7443a1b30f0bfb251b27c4c2c97e13a07c17862765b4a
-SHA512: a1d4d1b57ed88f930754017af7053bcf855f90175316da0c98d1c3c0fe0625d90710a58b86d6927647013b53921ab847e4f5d95f994eaacfed4c2fabef45b822
-Description: 更好的 WiFi 配置，可自动适配不同 iOS 版本，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文版。
-Name: GoodWiFi 中文版(rootless)
-Author: julioverne & 妖刀
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
-
-Package: com.daodao.goodwifi
-Architecture: iphoneos-arm64
 Version: 1.7.3
 Section: 嗨-工具
 Maintainer: daodao
@@ -4708,6 +4544,25 @@ SHA256: 91c8058a254c1693bf2f4a558242bdf2ea147650e13a9ed3a5c9c43bd6a18b91
 SHA512: 23a26f3669017b943953380807643f7edb308281b5b27fd17883e5e9cc595f68c70ae8034400c5d14a34ddaea7e5b57d53a59932d574d37dfa1ffed6b24db509
 Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
 Name: GoodWiFi 中文版(rootless)
+Author: julioverne & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi
+Architecture: iphoneos-arm64
+Version: 1.7.5
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 500
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: ./rootless/GoodWiFi(rootless)_1.7.5.deb
+Size: 73472
+MD5sum: 3dd99c059ec5d9d368e09056b95ba643
+SHA1: af7cf44ef35f57d24764d93a174b38c136a2e53d
+SHA256: dcbf9f3dbc86c4637d8fb3206b08513a0a03b6b780d46db6ac36622dcb0bc79f
+SHA512: fdafbc33d3790dd4fa413da101727c05e834b899c0ca06e26d192dbcf7c38a3f63d5f4d98c88a64b861a5fcd2aa08357dc9e3f6ecc33ca8b14e8921c47dde784
+Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
+Name: GoodWiFi(rootless)
 Author: julioverne & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
@@ -6516,25 +6371,6 @@ Author: 妖刀
 
 Package: com.dao.speedster
 Architecture: iphoneos-arm64
-Version: 2.2.2
-Section: 嗨-工具
-Maintainer: Hoangdus & daodao
-Installed-Size: 428
-Depends: firmware (>=13.0)
-Conflicts: com.hoangdus.speedster, com.hk.speedster.cn.rl
-Filename: ./rootless/Speedster(rootless)_2.2.2.deb
-Size: 41568
-MD5sum: 495f27d8030b53194d42623de1b4b7ed
-SHA1: 1ef30924d6780adeab62134b1779731b29d1ec9c
-SHA256: 9865f57b16cf9b9cbdf09bfa539000f6fc05614b7ce74190625f62aa1b5e36f0
-SHA512: 72e96d895823ae75a940f3e63d2a360793cc68ceebc81efd40acf1f20e5dee0c82646cf189d1b0aee177f5f3a967680c6ba3cedba8fb4b1dc0b5571b00daaf1a
-Description: 更快的 iOS 动画，根据开源编译，已带汉化。
-Name: Speedster(rootless)
-Author: Hoangdus & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/speedster/js.json
-
-Package: com.dao.speedster
-Architecture: iphoneos-arm64
 Version: 2.2.3.1
 Section: 嗨-工具
 Maintainer: Hoangdus & daodao
@@ -7547,23 +7383,6 @@ SHA512: dd5785227764157cf32d7255098bc6d6c29ffc581a33ffca905793ed004f1ddcfbf71333
 Description: 根据开源版本v2.0.3编译中文版，可从设置或者长按应用图标——伪装版本，伪装应用的版本号和iOS版本号。
 Name: 3DAppVersionSpoofer
 Author: 0xkuj
-
-Package: com.dao.3dbadgeclear
-Architecture: iphoneos-arm
-Version: 1.6.9
-Section: 嗨-工具
-Maintainer: isklikas
-Depends: firmware (>= 13.0), mobilesubstrate
-Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
-Filename: ./rootful/3DBadgeClear.deb
-Size: 19000
-MD5sum: 4008453f57af1368443da10bd434e168
-SHA1: 86605e1397a8ee0010829c65b6f2d7d230cdbacc
-SHA256: ea4bf1cc99f8bf57e12303db6c458a7bf88940d898fc5d99c6369e7b250db65d
-SHA512: 5fbc9be42be24314dfa041a2602ba4a02f17c6be841152713d2134c205c8914c7c63bc35b819e288e50f949f421896d521b068380de2f92ad7d0fcce2886df1c
-Description: 在有通知角标的程序图标的“长按/3D Touch”菜单上出现“清除角标”，可一键清除此程序的所有通知角标。
-Name: 3DBadgeClear
-Author: isklikas
 
 Package: com.dao.3dbadgeclear
 Architecture: iphoneos-arm
@@ -9007,25 +8826,6 @@ SHA512: cef2de2b2aa97b687c1d9fa5e2ef3e85b28a67cc8b3fce2a9f5d1de5efd90e546ccc958e
 Description: AwesomePageDots 简体中文包。
 Name: AwesomePageDots 简体中文包
 Author: 妖刀
-
-Package: com.dao.axon
-Architecture: iphoneos-arm
-Version: 2.3.1
-Section: 嗨-工具
-Maintainer: 刀刀
-Installed-Size: 688
-Depends: mobilesubstrate, firmware (>= 11.0)
-Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
-Filename: ./rootful/Axon_2.3.1.deb
-Size: 154074
-MD5sum: 5dc411f2b6e7906d3ea7169bea3f74be
-SHA1: d78087b907904ccaaa4fa757c98fb01977318c15
-SHA256: c393604b72645c995c0237917ed6f7be00d450e65b612c1579521595b0fa07e9
-SHA512: 19b67d4dbcae0bea6b6853c24b6d479f4e4105b94be27a3acaf1fbb177c0f7c9815ee718fd97a06a568147fb95b57f937186f494e9d53056344e00be9177bab9
-Description: 锁屏通知聚合插件，刀刀中文优化版。
-Name: Axon 中文版
-Author: Nepeta & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
 Package: com.dao.axon
 Architecture: iphoneos-arm
@@ -12870,6 +12670,25 @@ SHA256: 3cfb730762b0b054775650066bb27efe13edc0a87e4baa1a4e3b2c171f5bd281
 SHA512: f23530c376a253876ad3e9f98ac5e07fcf0d4dc5fd151185ca7ecfb2f49bab9feeb0b5a69e822dd8fa0ab766e384dbbdf85d1e5ee0c446c19dbc8d15feb92b52
 Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
 Name: GoodWiFi 中文版
+Author: julioverne & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
+
+Package: com.daodao.goodwifi
+Architecture: iphoneos-arm
+Version: 1.7.5
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 500
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Conflicts: com.julioverne.goodwifi, com.qms.goodwifi, com.hk.goodwifi, com.daodao.goodwifi16
+Filename: ./rootful/GoodWiFi_1.7.5.deb
+Size: 73544
+MD5sum: 90d07ba65b4e03686eb9959e16f9228e
+SHA1: 5eb27e11315cf6b235db36adfa438497f92bc7c6
+SHA256: fd344bc6f00d4ab4034b6d9a3df5af3fec727dacbe9be96906733d8f6227a9bc
+SHA512: ffba0d6b278c0bf73f08e27567253b0f7792148d0665abe5bae26e73652ddb7e1dcf8531c38095b26088594ba3a01b8e872cdca3c1be84dff258a9ba5e4fca81
+Description: 更好的 WiFi 配置，查看 WiFi 信道、加密方式和密码、信号值，去除 RSSI 限制，显示 MAC 地址等；简体中文优化版。
+Name: GoodWiFi
 Author: julioverne & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/goodwifi/js.json
 
@@ -18498,25 +18317,6 @@ SHA512: 85158053b1541f92233fabeb235d6c62a5c3a16c80f6df8cb5b1eafaf9c009d5df3d0d3e
 Description: Speculum 简体中文！Speculum 介绍：另一款自定义锁屏日期/时间字体粗细、位置，锁屏显示天气插件。。。
 Name: Speculum 简体中文包
 Author: Ball <ball@hackcn.net>
-
-Package: com.dao.speedster
-Architecture: iphoneos-arm
-Version: 2.2.2
-Section: 嗨-工具
-Maintainer: Hoangdus & daodao
-Installed-Size: 428
-Depends: firmware (>=13.0)
-Conflicts: com.hoangdus.speedster, com.hk.speedster.cn.rl
-Filename: ./rootful/Speedster_2.2.2.deb
-Size: 41630
-MD5sum: f3e85d9f8270cf70c9910a838eed0cff
-SHA1: e89edbb27abcdcdcac80c5fb1c0ddc851fb13d49
-SHA256: 2016f833480efeea4a80e091a0d2bed3a0a85460f75f462a5e9d74702fff7fdb
-SHA512: 67be30772e9c6d32309ab86d06f74f6e4de6bdc12f77d1aea2730cd622825db5256d30f44ba917308a8a47dd987895c87ad9e387d8c2adf2ea08e78c19a408ae
-Description: 更快的 iOS 动画，根据开源编译，已带汉化。
-Name: Speedster
-Author: Hoangdus & daodao
-SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/speedster/js.json
 
 Package: com.dao.speedster
 Architecture: iphoneos-arm
