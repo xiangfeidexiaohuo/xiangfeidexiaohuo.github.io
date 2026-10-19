@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "键盘增强插件，在键盘下方添加全选、复制、剪切和粘贴快捷按钮，长按即可快速收起键盘。",
+                    "markdown": "键盘增强插件，支持调整键盘底部间距及地球键、听写键的垂直位置，并在键盘下方添加全选、复制、剪切和粘贴快捷按钮，长按即可快速收起键盘，让输入操作更加便捷。",
                     "useRawFormat": true,
                 },
                 {
@@ -20,7 +20,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/keybar/Screenshot_01.png"
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/cf3/Screenshot_02.png"
                         }
                     ]
                 },
@@ -57,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0.1",
+                    "text": "1.1",
                     "title": "最新版本"
                 },
                 {
@@ -67,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 10 月 14 日",
+                    "text": "2026 年 10 月 19 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -80,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新增：</br> 现代化的设置页</br> 调节键盘底部间距</br> 调节地球键/听写键位置</br> 快捷按钮开关</br> </br> 所有功能实时生效，其他优化",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.0.1",

@@ -1409,6 +1409,24 @@ Description: X键盘下方添加快捷按钮(全选/复制/剪切/粘贴)，自�
 Name: KeyBar(RootHide)
 Author: daodao
 
+Package: com.dao.keybar
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 428
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./roothide/KeyBar(RootHide)_1.1.deb
+Size: 48786
+MD5sum: 72863180a5a56a3d3371da2fd27ae188
+SHA1: 6f1f075696484f973172fb0c0c496d05d345eae3
+SHA256: a3ffb4af1301c3ac8cecf1a3b51237a5428966aae5ff7d3ea117605e40c93a89
+SHA512: c02c79d5ec2654e0ca0de0935ec1603f3c59978d8d1e9668b6d956693a584e315b074b18a549f0065c004d9fe11e520c963996c7e5ca30b6c2907dfc9af4c972
+Description: 键盘增强插件，支持调整键盘底部间距及地球键、听写键的垂直位置，并在键盘下方添加全选、复制、剪切和粘贴快捷按钮，长按即可快速收起键盘，让输入操作更加便捷。
+Name: KeyBar(RootHide)
+Author: daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/keybar/js.json
+
 Package: com.mrgcgamer.libgcuniversal
 Architecture: iphoneos-arm64e
 Version: 1.7.0
@@ -4912,6 +4930,24 @@ SHA512: f8b86d1578fc10ffb4ed5b16eaa1b9a26baf383fa0cf2af7d06d25fba401c2341c577904
 Description: X键盘下方添加快捷按钮(全选/复制/剪切/粘贴)，自适应深色/浅色，上下距离跟随地球键/听写键的高度，无设置项。
 Name: KeyBar(rootless)
 Author: daodao
+
+Package: com.dao.keybar
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 432
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./rootless/KeyBar(rootless)_1.1.deb
+Size: 50670
+MD5sum: 59efb42802216b3b2a1874bc1a3b3fb6
+SHA1: 0b7fc3613ba8a3b5d9d91605d78d67f5e0174489
+SHA256: c9a5622d4da9caa2bcae8d9e9685f3eba72a7f2e082e655aeb25dd70accbd402
+SHA512: 135aac7899cd41252957cf4952184d52fd1b12fc3a42a2916d3590ddc8d857f064cce9be8c27aa3487e86f0a471153846baabbb42c9b49449e2bff7780e1ac59
+Description: 键盘增强插件，支持调整键盘底部间距及地球键、听写键的垂直位置，并在键盘下方添加全选、复制、剪切和粘贴快捷按钮，长按即可快速收起键盘，让输入操作更加便捷。
+Name: KeyBar(rootless)
+Author: daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/keybar/js.json
 
 Package: com.dao.lpmnotification
 Architecture: iphoneos-arm64
