@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无需设置。",
+                    "markdown": "为直屏设备（iPhone7/8/SE2 等）带来 iPhone X 手势，并支持 iPad 风格状态栏、Dock 和锁屏快捷按钮（手电筒/相机），无设置。",
                     "useRawFormat": true,
                 },
                 {
@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.11",
+                    "text": "0.0.12",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 10 月 08 日",
+                    "text": "2026 年 10 月 11 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.0.12",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新增：主屏幕和锁屏界面双击锁屏",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "0.0.11",
