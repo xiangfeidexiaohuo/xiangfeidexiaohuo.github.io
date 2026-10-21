@@ -294,6 +294,25 @@ Name: Axon 中文版(RootHide)
 Author: Nepeta & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
+Package: com.dao.axon
+Architecture: iphoneos-arm64e
+Version: 2.6
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 720
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: ./roothide/Axon(RootHide)_2.6.deb
+Size: 163376
+MD5sum: c48c6f80a26ed8f954d290181c597a2d
+SHA1: 08e8e42ab0af72a3c879afee7e66d90319609b46
+SHA256: 8f8942758360d3e31b07532b99e24f9a04697058f6ccfa70ad7a1d313c13d6be
+SHA512: 26668f189cc8cea584f5cd65cf5bece0938b27a27813485312481e382de78e2f5d36e8a7f7e9d3fa262c218f7313304be327dd00f31c6805f3a75a381edeec37
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
+Name: Axon(RootHide)
+Author: Nepeta & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
 Package: com.dao.azule
 Architecture: iphoneos-arm64e
 Version: 0.8.3
@@ -3500,6 +3519,25 @@ SHA256: 3d569315f92e1a3636ca96f7cceada489a59405b8cd62af389e1e1c7ff50c37b
 SHA512: 1653e43f7a39cabd5dbfac184a868807968db5375b186715f48561a0514cc7564ff437848e1d9077f89be5a6b714a6b477e8edf8532e331ed55132e7f00d7b82
 Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
 Name: Axon 中文版(rootless)
+Author: Nepeta & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Architecture: iphoneos-arm64
+Version: 2.6
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 720
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: ./rootless/Axon(rootless)_2.6.deb
+Size: 163646
+MD5sum: 77a339b8d01966908c78758b311142b5
+SHA1: 108838bb8b14947fa3e5903951318b6cc4f12aca
+SHA256: 1dffdbe0d21707cb759bc066f4d38068878e7ed10190144c73c9e4aa201c984a
+SHA512: 7991f7d79e6da4328c7a899f9dec50b78f850092f90b406f4637367ddc06bbb474f793d854ab47378fbb445caaab34b399426d94c12c9ab8ba08803e986e2e04
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
+Name: Axon(rootless)
 Author: Nepeta & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
@@ -8934,6 +8972,25 @@ SHA256: 0b806941eb6909258e3a58ad71fcee799e58da53a393abce58409017da577375
 SHA512: 81f91cc8e30bf86009905178fa17838b183e48dc0d2e1a7a4021e3a96e088330798afa2e3e52b844808165450c409907668bf8db0c664cda7632084238fcdb00
 Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
 Name: Axon 中文版
+Author: Nepeta & daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
+
+Package: com.dao.axon
+Architecture: iphoneos-arm
+Version: 2.6
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 720
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi, com.hk.axon.cn.rl, com.hk.axon.cn, me.nepeta.axon, com.hk.axon, com.alias20.hk.axon, com.qms.axon
+Filename: ./rootful/Axon_2.6.deb
+Size: 163226
+MD5sum: 487a9eaa519015f96fba420291bc05a8
+SHA1: d699cb6b42fefc0406a058fe6f8672ac4d9a4650
+SHA256: 3c0a16ab120b846a6bae5ddc9d869b34e90cc9c74706f0edf1dff09890391c68
+SHA512: 330fe2e29aee18dc07c62713d5088450ae82790b17a77e22782544d3c1916ac2099bc50830050da4bcb16c89da965218131fcad5c316f73ec72f0f822b4f83ba
+Description: 锁屏通知聚合插件，刀刀中文优化版，提升执行效率与稳定性。
+Name: Axon
 Author: Nepeta & daodao
 SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/axon/js.json
 
