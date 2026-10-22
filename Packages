@@ -1465,6 +1465,24 @@ Tag: role::developer
 Name: LibGcUniversal(RootHide)
 Author: MrGcGamer
 
+Package: com.dao.liqlite
+Architecture: iphoneos-arm64e
+Version: 0.2
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 520
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0), firmware (<< 26.0)
+Filename: ./roothide/LiqLite(RootHide)_0.2.deb
+Size: 74776
+MD5sum: 2f6bb8d81e38d18b6eb4d4fd13a3d2d3
+SHA1: 7f6935250ecb058dd162727654641acf8224acc9
+SHA256: fd5854ddd921009ff9f704d4977858ef87cd9968b9e9302c524fb1289f2ed62c
+SHA512: 730ac898b486b16e29e5473631294f8fe124501242d21791c117cfe8d5e37f75b264dadc37350a3aece0691198d5cde3cc1994ea5823092d7e18b95dd3bcd9f3
+Description: 基于dylv/liquidass项目，程序坞和文件夹图标启用液态玻璃效果。
+Name: LiqLite(RootHide)
+Author: daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/liqlite/js.json
+
 Package: com.dao.little16
 Architecture: iphoneos-arm64e
 Version: 0.0.10
@@ -5072,6 +5090,24 @@ SHA512: 920416b89a1f0b7a239aa27f7d5b4a7a60670fb805e02b22a402ff01e166bc4b79c8600f
 Description: 小横幅通知，可自定义颜色等，汉化包源内安装。
 Name: Liddell小横幅(rootless)
 Author: Traurige <hello@traurige.dev>
+
+Package: com.dao.liqlite
+Architecture: iphoneos-arm64
+Version: 0.2
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 524
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0), firmware (<< 26.0)
+Filename: ./rootless/LiqLite(rootless)_0.2.deb
+Size: 76482
+MD5sum: 599baabd92aca4e40f50da64942d0b17
+SHA1: f48abd4acda2deef5358fd1fad0dc9c65ec95671
+SHA256: 0a88db8d08a55206396bfd25bfb8bba9343853ef4e3030a7e05a7d7e62317452
+SHA512: fbed7c780f153b08876daaebd1aac6506326145be177e5526dfd170e3db956785a87aff6fd466ce1669bd99a3c828bff6cf4105ae37a9c1cd8e9a315f8c46226
+Description: 基于dylv/liquidass项目，程序坞和文件夹图标启用液态玻璃效果。
+Name: LiqLite(rootless)
+Author: daodao
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/liqlite/js.json
 
 Package: com.dao.little16
 Architecture: iphoneos-arm64
