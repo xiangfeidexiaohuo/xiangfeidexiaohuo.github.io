@@ -40,12 +40,6 @@
    "hideShadow": false
   },
   {
-   "url": "https://xiangfeidexiaohuo.github.io/images/picobanner.png",
-   "title": "PicoBanner",
-   "package": "com.dao.picobanner",
-   "hideShadow": false
-  },
-  {
    "url": "https://xiangfeidexiaohuo.github.io/images/pulloverx.png",
    "title": "PullOver-X",
    "package": "com.dao.pulloverx",
@@ -70,21 +64,27 @@
    "hideShadow": false
   },
   {
+   "url": "https://xiangfeidexiaohuo.github.io/images/liqlite.png",
+   "title": "LiqLite",
+   "package": "com.dao.liqlite",
+   "hideShadow": false
+  },
+  {
    "url": "https://xiangfeidexiaohuo.github.io/images/ccless.png",
    "title": "CCLess++",
    "package": "com.dao.ccless",
    "hideShadow": false
   },
   {
-   "url": "https://xiangfeidexiaohuo.github.io/images/kayoko.png",
-   "title": "Kayoko",
-   "package": "com.dao.kayoko",
-   "hideShadow": false
-  },
-  {
    "url": "https://xiangfeidexiaohuo.github.io/images/line.png",
    "title": "PurifyLine",
    "package": "com.dao.noline",
+   "hideShadow": false
+  },
+  {
+   "url": "https://xiangfeidexiaohuo.github.io/images/picobanner.png",
+   "title": "PicoBanner",
+   "package": "com.dao.picobanner",
    "hideShadow": false
   },
   {
@@ -103,6 +103,12 @@
    "url": "https://xiangfeidexiaohuo.github.io/images/reverie.png",
    "title": "Reverie",
    "package": "com.dao.reverie",
+   "hideShadow": false
+  },
+  {
+   "url": "https://xiangfeidexiaohuo.github.io/images/kayoko.png",
+   "title": "Kayoko",
+   "package": "com.dao.kayoko",
    "hideShadow": false
   },
   {
