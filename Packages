@@ -2094,6 +2094,25 @@ Description: iOS 15+ 越狱的 SpringBoard 定制工具，支持 Dock、主屏�
 Name: SBTweaker(RootHide)
 Author: Kolbicz
 
+Package: cn.dao.sbtweaker
+Architecture: iphoneos-arm64e
+Version: 1.3.9
+Section: 嗨-工具
+Maintainer: Kolbicz
+Installed-Size: 524
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary, cz.kolbi.noslide, cz.kolbi.sbtweaker
+Replaces: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary, cz.kolbi.noslide
+Filename: ./roothide/SBTweaker(RootHide)_1.3.9.deb
+Size: 76972
+MD5sum: 6b06ba508b66693d06e9ff42d629455c
+SHA1: ec5da660c72e21c8452156de992794831312703e
+SHA256: 62d7c53ad66e213e8266bce1f2550d0ea5eec89dc5f442c86faa3c6df2d1d9b4
+SHA512: 22ad4ca053d0a63aa706b86a14adb98b7880ddef3b6ff39849b8df5290a56d82386e93728029912ca376a04ba0828cc60c024bff3809f989f3a4f184cff8d1d4
+Description: iOS 15+ 越狱的 SpringBoard 定制工具，支持 Dock、主屏布局、双击锁屏、动画优化、App 资源库等功能；添加中英文翻译，其他微调。
+Name: SBTweaker(RootHide)
+Author: Kolbicz
+
 Package: com.dao.scinsta
 Architecture: iphoneos-arm64e
 Version: 0.6.0
@@ -6051,6 +6070,25 @@ MD5sum: d4daabd790676e25923bb522cc2587f3
 SHA1: 72a66dbf6ece6c934de406b3dd0a37b6a264011b
 SHA256: 920010d57f61602fb8db1dbedd56c619afccfde12b86b86cf553238f4940ddec
 SHA512: 40388c43d7fa0fdf700966a838e325def2b622871cbb1f329183592773d818c51a35dee30c58d132ef03389534553dc436ff355c4ef3e26c8293f632657e1e75
+Description: iOS 15+ 越狱的 SpringBoard 定制工具，支持 Dock、主屏布局、双击锁屏、动画优化、App 资源库等功能；添加中英文翻译，其他微调。
+Name: SBTweaker(rootless)
+Author: Kolbicz
+
+Package: cn.dao.sbtweaker
+Architecture: iphoneos-arm64
+Version: 1.3.9
+Section: 嗨-工具
+Maintainer: Kolbicz
+Installed-Size: 524
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Conflicts: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary, cz.kolbi.noslide, cz.kolbi.sbtweaker
+Replaces: com.christoph.sbcustomizer, com.christoph.doubletaplock, com.christoph.noapplibrary, cz.kolbi.noslide
+Filename: ./rootless/SBTweaker(rootless)_1.3.9.deb
+Size: 76826
+MD5sum: ff0e22d2e0dbd5e5feeee7e7a9a38b79
+SHA1: 22e5eaebd1abf396e697781eadf81e209f0873bd
+SHA256: 0fde199128677c79aab365e130d5b5592325c7df6be7fa5ed58086724f072464
+SHA512: 6530854d8186d5186cfeee3c0dcd90a9c642e379c21eaf0d2143bb449c95eb9ed2f4869ce2ec905ad11b5cb1cb215341a77b3aaa4adb153d1c07533d80d30689
 Description: iOS 15+ 越狱的 SpringBoard 定制工具，支持 Dock、主屏布局、双击锁屏、动画优化、App 资源库等功能；添加中英文翻译，其他微调。
 Name: SBTweaker(rootless)
 Author: Kolbicz
