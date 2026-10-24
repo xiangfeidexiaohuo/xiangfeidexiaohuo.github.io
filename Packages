@@ -1899,16 +1899,15 @@ Architecture: iphoneos-arm64e
 Version: 2.0
 Section: 嗨-工具
 Maintainer: hades
-Installed-Size: 168
 Depends: mobilesubstrate
-Filename: ./roothide/PullClearNC(roothide)_2.0.deb
-Size: 5722
-MD5sum: 21e430c0ea35aeff41927797735f246b
-SHA1: 00ab7dd0f2c6af8bb1b318ff4429e5782eed7601
-SHA256: f3c3fcfd8a2b69263c42b68cff85265461197dc48939ad2cb4575ae7ca6314c8
-SHA512: 859e219875e3eda73471691850a52185136da6c5a3f8e9270afe398f04c1fcb8de79f6090f86df33b96ca81028f63c6c372c955c956d2c51fd481fa89df5471c
-Description: 锁屏/通知中心下拉即可清空全部通知，原作者Netskao，更新支持iOS16+
-Name: PullClearNC(roothide)
+Filename: ./roothide/PullClearNC(RootHide)_2.0.deb
+Size: 5800
+MD5sum: b8fd6342b93aa59eef821cd209366d49
+SHA1: 8837636ad04c95c1f7bb14fb9dac67a08be2e34d
+SHA256: 2108bdb60f5395b24879fbdfe987d2040303161d690a3e9a54bdc377561eef40
+SHA512: 03a0212d0de55f55c5a956f6aa0dcf7b8bff371d76efd9c4f00ee92b62e01cb72241a6326268b60b69ebe04c20bb724a95e74178dd341611b7e2ead179628b11
+Description: 锁屏/通知中心下拉即可清空全部通知，原作者Netskao，更新支持iOS16+。
+Name: PullClearNC(RootHide)
 Author: hades
 
 Package: com.dao.pulloverx
@@ -2467,6 +2466,22 @@ SHA512: 52eaad6cad0fe435f53464b5b94bf8fb907544ee418e2234278de2181b5af8b74f8aaa6b
 Description: 更细节的 iOS 动画加速，根据开源编译，已带汉化。
 Name: Speedy(RootHide)
 Author: alias20 & daodao
+
+Package: com.hades.storeswitchaccounts
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: 嗨-工具
+Maintainer: Hades
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./roothide/StoreSwitchAccounts(RootHide)_2.0.deb
+Size: 8712
+MD5sum: ba92476ff8566f6a8111585172b945ff
+SHA1: 11a2ebbd0fe5d83d28f659404a9ea66374143396
+SHA256: 50f3d0543cd248e0a49477db3f2fc29d872b8e3a5068ee091287d778ee88b062
+SHA512: 447f3394fc0e9e594d101f80f17f7bcc319aac762b911b60c3316813b40fea074a6be55a6270a25e1dad7e1d427d18e61bdc6ac9a45494c178ca35a3087f177e
+Description: 长按桌面 AppStore 图标即可快速切换已登录的 Apple ID 账号。
+Name: StoreSwitchAccounts(RootHide)
+Author: Hades
 
 Package: com.dao.storeswitcher2
 Architecture: iphoneos-arm64e
