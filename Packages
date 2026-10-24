@@ -1719,6 +1719,22 @@ Name: NFX 中文版(RootHide)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
+Package: com.dao.disablepastealert16
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 嗨-工具
+Maintainer: SquidForce
+Conflicts: com.squidforce.disablepastealert16
+Filename: ./roothide/NPA16(RootHide).deb
+Size: 3972
+MD5sum: 0ba158da1f62e6f72a73af9c7ed8b586
+SHA1: ca11b4010e136099031b0e82fca5c4d0c8bc67b7
+SHA256: d8d4d196a4e334504c7a9453b8929dc3093bf16892b3b237bfbf9a4c3a4c73d1
+SHA512: 4045a1e9cc3ecc05fcc545722e424a8cbf3220252732afe352f2e7fdd2c67b65297b7ada88f7daed09ce3ee5e15c29a6e1f08abb1158cf7ce23d2911b5730661
+Description: 禁用iOS16+粘贴警告弹窗和粘贴提醒，并自动允许。
+Name: NPA16(RootHide)
+Author: SquidForce
+
 Package: com.daodao.nocshare
 Architecture: iphoneos-arm64e
 Version: 1.1.5
@@ -5459,6 +5475,22 @@ Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多
 Name: NFX 中文版(rootless)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.disablepastealert16
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 嗨-工具
+Maintainer: SquidForce
+Conflicts: com.squidforce.disablepastealert16
+Filename: ./rootless/NPA16(rootless).deb
+Size: 4028
+MD5sum: 864882a032880fb767cf20cd949ec1f2
+SHA1: b0d2c7dbff60eaa99cdbc7c98329fea8f087c2eb
+SHA256: 6223b1d838063c664a0fc3fed65bb6f77a7daabb19d9b5c456bfc460a6b594da
+SHA512: 3c7bde961a9bf1d2ab09b5a8ab9305d4028fa6c1f930093c06899c760667e878993064a6c44e37b1af07e267f6207eb3b2c9709efd3d7104518fa059b53615f7
+Description: 禁用iOS16+粘贴警告弹窗和粘贴提醒，并自动允许。
+Name: NPA16(rootless)
+Author: SquidForce
 
 Package: com.dao.noappthinning
 Architecture: iphoneos-arm64
