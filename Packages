@@ -2294,22 +2294,6 @@ Description: Shuffle 简体中文包(RootHide)。
 Name: Shuffle 简体中文包(RootHide)
 Author: 妖刀
 
-Package: com.dao.sileo.cn
-Architecture: iphoneos-arm64e
-Version: 2.5
-Section: 嗨-汉化
-Maintainer: 妖刀
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./roothide/Sileo 中文增补包(RootHide).deb
-Size: 8124
-MD5sum: 14a9ce26b9e8885a83b562f02e91cefb
-SHA1: 229bd7b4759248bef4d6784433ab0e5d44784192
-SHA256: e1924222c3db413fff881d5e26fa2b22b1a5ffd52cde1434c627d5120e8ff413
-SHA512: 4d2922afbba8719b7d6aaefa9ebb4c5766978430bd4a85aad61eb0cd2666f7fd7b95eadaaf3850ee65fc831a997dd0c9a35190a79b7349b65cb95098f072840c
-Description: Sileo和Sileo-Nightly 中文增补包(RootHide)。
-Name: Sileo 中文增补包(RootHide)
-Author: 妖刀
-
 Package: com.dao.sileo
 Architecture: iphoneos-arm64e
 Version: 2.5.1-13.1
@@ -6335,22 +6319,6 @@ SHA256: 13d7e1bb5ab756d2e4e92bd42608e0b9c2cce1f4b963033d9448cce657f85813
 SHA512: 105711c86443162bb23465288a6e6781d7db478b0b796311ac30e5f508285863013f25634f5fb616855e5b249b4fe85579064dc7adf912ec5a9a8a091ac86471
 Description: Shuffle 简体中文包(rootless)。
 Name: Shuffle 简体中文包(rootless)
-Author: 妖刀
-
-Package: com.hk.sileo.cn.rl
-Architecture: iphoneos-arm64
-Version: 2.5
-Section: 嗨-汉化
-Maintainer: 妖刀
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./rootless/Sileo 中文增补包(rootless).deb
-Size: 8036
-MD5sum: 4942de6dd033f6ccccd2a085af6a6bf1
-SHA1: 06ff2926ea9c0d0979ba58990033aa54b9b47f59
-SHA256: 9d4adf40db616b5f9f6ef15d0f4e101b56279025cb9a33d0255141c088c02ae5
-SHA512: 9b1afbdb2962c8090b8a47cb33bdeaeaedb01128aafeeb81d9b1368b950f86b5b2147104944c53fd9c9017c67bfaba9394438df75d39bdc82a9c4d21645defa1
-Description: Sileo和Sileo-Nightly 中文增补包(rootless)。
-Name: Sileo 中文增补包(rootless)
 Author: 妖刀
 
 Package: com.hk.sixteenmusic.cn.rl
