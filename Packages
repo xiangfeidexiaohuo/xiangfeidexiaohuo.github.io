@@ -2041,17 +2041,17 @@ Author: 妖刀
 
 Package: com.dao.ryukgram
 Architecture: iphoneos-arm64e
-Version: 1.4.5
+Version: 1.5.0
 Section: 嗨-工具
 Maintainer: Ryuk
 Depends: mobilesubstrate
 Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
-Filename: ./roothide/RyukGram(RootHide)_1.4.5.deb
-Size: 18432544
-MD5sum: 4e4be3591f673aa4b6d6bfde6bfaeef2
-SHA1: 4da74a3b6a2d1840bab3ec795fabcb929f9f9e4b
-SHA256: 647165facaaf3c3a0ba80baf10d9e0d19a0e4bda2135d1ff4f4ece5c2b0aa06c
-SHA512: d3786bf390f92104d8dd13dd83921b061c2878adacc1b264ed97495b63ba07d4c753a23d525c2749666baf64d4296ecdd4de716131845083c2a06d1b7ba180d4
+Filename: ./roothide/RyukGram(RootHide)_1.5.0.deb
+Size: 18781344
+MD5sum: 59f3d3c8d0ece2d3b090ad6bf6f970b7
+SHA1: 73df899a01282ceca276e2654b88df8f7e497b53
+SHA256: d6f993d111c165964f7a3f623ea549773fe32b21ea3fc8c73f5e34d756efe0fa
+SHA512: 08bd256721fef25d4670de43a08cb6fcde0091e078d8f92d8846a808d5e1ceb6b9242532790ceef4d04dcf9ab0a9f4719a625023649a8b83d00d19ad6f92b0fe
 Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 449+。
 Name: RyukGram(RootHide)
 Author: Ryuk
@@ -6002,17 +6002,17 @@ Author: 妖刀
 
 Package: com.dao.ryukgram
 Architecture: iphoneos-arm64
-Version: 1.4.5
+Version: 1.5.0
 Section: 嗨-工具
 Maintainer: Ryuk
 Depends: mobilesubstrate
 Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
-Filename: ./rootless/RyukGram(rootless)_1.4.5.deb
-Size: 18432348
-MD5sum: 7f83be7b3eb42122d0000cdb65574099
-SHA1: 24bbcf027bd33e580cbd8a0f7b344e546b226fad
-SHA256: 1439af78a79cd30e5986dce162de80bb58cd025adbe556b3cc10c023e7639304
-SHA512: 99033ed354ac99fd0d0d11247114618cf7b25beab35272ba23b2423752f1934b205b4eed0158512a62b73c71903ae3420a0cdd3c6ed95d295b5586b91e3c9df7
+Filename: ./rootless/RyukGram(rootless)_1.5.0.deb
+Size: 18794732
+MD5sum: 2d180d7f8507544f9c1a67b2b76cb293
+SHA1: 00875d719f1fa7b75fc4d8a6c71d694fea117ddb
+SHA256: 43938e0a5cbda6431c22b0cdfd21e165a3153af50a13754cf01a71cbe1e339fd
+SHA512: fbb17efae7966a1e1e9bd46ccc540ba88d1ab311efa78231dd138c8b1145a600056208124180656d60fc791b224db7cb4dc15734bad879be296d546aa59372c7
 Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 449+。
 Name: RyukGram(rootless)
 Author: Ryuk
