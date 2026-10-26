@@ -102,24 +102,6 @@ Author: 妖刀
 
 Package: com.dao.appprotect
 Architecture: iphoneos-arm64e
-Version: 2.4.7
-Section: 嗨-付费
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
-Filename: ./roothide/AppProtect 隐私保护(RootHide)_2.4.7.deb
-Size: 710652
-MD5sum: cd4bb3df918ddcea5d98a7d3e3382434
-SHA1: 1e19362484417900c264c4bb6171a82f4caad0fa
-SHA256: 9a8d25d69a344a7203c9c083b2090d85a4eb25f7f6fce3ad69828052aadfdcc2
-SHA512: ff7d32ffbffdcf12d1fbb210b3f84ad1fa2772f2442993ad5d0b7227805e22f0c4af92937ac313b9b59f97fc087fe6aa7312ff2b29fdb8e7d52493ab67659faf
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Name: AppProtect 隐私保护(RootHide)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
-Architecture: iphoneos-arm64e
 Version: 2.4.8
 Section: 嗨-付费
 Maintainer: aReo
@@ -188,24 +170,6 @@ SHA512: 49bd3545fdfe2b120be084b41f6fbc39478ab646b8be4f79f386cafef0b24dfea85f7cc7
 Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
 Name: AppTools Lite(RootHide)
 Author: aReo
-
-Package: com.dao.apptools15
-Architecture: iphoneos-arm64e
-Version: 2.9.0
-Section: 嗨-付费
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: ./roothide/AppTools15-17(RootHide)_2.9.0.deb
-Size: 2383904
-MD5sum: 1b029a95e308069230c7e1691da3c5c3
-SHA1: 965800a9ab2e8270c67531f0c23e2f6115323da4
-SHA256: 1f5b921055ddd41c2886c45e09d6c69467615a88a45e9608557c72bb7090b49e
-SHA512: e093254b4a134bec480fba031af1114b79dd8d8fe35a67b9333673d1ebf30d89e31738d6f49020ffe4cafe95121640f96a6f695dfd8273988272ad50cf140a8d
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Name: AppTools15-17(RootHide)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
 Package: com.dao.apptools15
 Architecture: iphoneos-arm64e
@@ -364,43 +328,6 @@ SHA512: 632ff6579f5f8d7d9f23991dbab44128e87c7816e76e181ef469f8ff146bac692164c92c
 Description: Instagram 的多功能插件，插件入口：长按左下角首页🏠按钮，或者个人页面—>右上角三横图标进入。根据开源代码直接编译的中文版。
 Name: BHInsta 中文版(RootHide)
 Author: Bandar Alruwaili
-
-Package: com.dao.bhtiktok++
-Architecture: iphoneos-arm64e
-Version: 1.7.1
-Section: 嗨-工具
-Maintainer: raul saeed & 刀刀
-Installed-Size: 616
-Depends: mobilesubstrate
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok
-Filename: ./roothide/BHTikTok++中文版(RootHide)_1.7.1.deb
-Size: 102776
-MD5sum: 7f47e13c4f6b3b4cadd123c545684321
-SHA1: bbfcb5135813f6fea95ee3b863322cb10c0a15c2
-SHA256: 093871a3b1c282fcc6b50e61a12a7ca651d7e8b60b576b13a811736f0a57c1d6
-SHA512: 428f3786bc85a5eb11d3a0f8a27af92d31c1cbb85940056e199d2f91c3b4eb5920203ba3a63f600c8848ff06c98cd589008ea73b7b35996da35bdffcfab6e96f
-Description: 全新的TikTok多功能插件，刀刀基于开源定制并汉化。
-Name: BHTikTok++中文版(RootHide)
-Author: raul saeed & 刀刀
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bh++/js.json
-
-Package: com.dao.bhtwitter
-Architecture: iphoneos-arm64e
-Version: 4.4-5
-Section: 嗨-工具
-Maintainer: Bandar Alruwaili
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
-Filename: ./roothide/BHTwitter 中文版(RootHide)_4.4-5.deb
-Size: 6710988
-MD5sum: 776b0b68a1414e0d9e441024a77f3fb4
-SHA1: 828d25fcd203ae6e83cc7efddbc3b9f2f68390cc
-SHA256: f52dc410bcb17491b25c7a1be0a20d023ce1c9ca05cc7e596bc5a1feaa5f312e
-SHA512: ab96f2f325e307ec0a8cb4f00327fb3dc8f582a00ac5b658e9806550112823a041df0fa6de93f924ae6d3cf3542ffde8d1a2e4f61433f3c15383e56e4a911e6c
-Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
-Name: BHTwitter 中文版(RootHide)
-Author: Bandar Alruwaili
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
 
 Package: com.dao.batteryhealth
 Architecture: iphoneos-arm64e
@@ -3350,24 +3277,6 @@ Author: Fouad Raheb
 
 Package: com.dao.appprotect
 Architecture: iphoneos-arm64
-Version: 2.4.7
-Section: 嗨-付费
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
-Filename: ./rootless/AppProtect 隐私保护(rootless)_2.4.7.deb
-Size: 743948
-MD5sum: 73dd4f0a8dc5a04985ad14ef23eb76c4
-SHA1: beef9dc9664c05018f1794fb6d4c8dcd043290b5
-SHA256: 48041dc10ac7341ead825e2021f6d2d4be9b6fb7e307ec39ff0f3eb456923f5e
-SHA512: 39a82d81b02bb86f28ff55c2b09a1883a6db99496b0bae4ad8a401dd21077b25b793ab849e8da445a57b860395fd6b7bef79eb9476dd890eb0491a866ad83b46
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Name: AppProtect 隐私保护(rootless)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
-Architecture: iphoneos-arm64
 Version: 2.4.8
 Section: 嗨-付费
 Maintainer: aReo
@@ -3435,24 +3344,6 @@ SHA512: fc38766bbe6b58a0167ba99b2911792027a6d678209316df011094b4708797b072f2cbed
 Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
 Name: AppTools Lite(rootless)
 Author: aReo
-
-Package: com.dao.apptools15
-Architecture: iphoneos-arm64
-Version: 2.9.0
-Section: 嗨-付费
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: ./rootless/AppTools15-17(rootless)_2.9.0.deb
-Size: 2381140
-MD5sum: 24c6dc85ecb44d028c310418441cbdd9
-SHA1: 2919e14e2d695ed3655e25f3857fe2118297b0e5
-SHA256: 6e2026ea15aa93e9c73a36407282086d8f6dc16e746bd9d95927392ab06fbbb4
-SHA512: e7ea6660893aa19a6739349bc10d9abcaf29ba1c5bae34c6c4da627a32736c079881f0d815d4310ad6408ce80d88cbb5bb39fe1cbae6c1f20ff4023c7928f316
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Name: AppTools15-17(rootless)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
 Package: com.dao.apptools15
 Architecture: iphoneos-arm64
@@ -3677,58 +3568,6 @@ SHA512: 3a0abc5e8f020f8b9dba72fad8a96a2a0327d2af20bf7cde1b16ac7b2870636e4851ad3e
 Description: Instagram 的多功能插件，插件入口：长按左下角首页🏠按钮，或者个人页面—>右上角三横图标进入。根据开源代码直接编译的中文版。
 Name: BHInsta 中文版(rootless)
 Author: Bandar Alruwaili
-
-Package: com.dao.bhtiktokmod
-Architecture: iphoneos-arm64
-Version: 2.3
-Section: 嗨-工具
-Maintainer: Dayanch96
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn.rl, com.dao.bhtiktok
-Filename: ./rootless/BHTikTok Plus(rootless).deb
-Size: 481804
-MD5sum: 7e0620a814f17891f449e6f2a7a15a60
-SHA1: 20698a1b6b54fd6491b81e44d129c5c42d7d6b93
-SHA256: 77c7a232a8afe43b21a1bc07e701daee0c573863fc7a19eaa8a9acd7d97e1224
-SHA512: d7e790befc4be10458cd565d60909ab1d4471513153c4fae315ab3eb505da17dd9e40fd2bfa5d009241b78a8043c377fa6319a96529c0f06ba7cf2d892f7cb1e
-Description: Dayanch96基于BandarHL开源的BHTikTok优化再开发的Plus版本，支持TikTok去广告、自动下一条、纯净模式、切换地区等、伪造粉丝数，视频下载等。
-Name: BHTikTok Plus(rootless)
-Author: Bandar Alruwaili
-
-Package: com.dao.bhtkplus
-Architecture: iphoneos-arm64
-Version: 1.9.3
-Section: 嗨-工具
-Maintainer: raul saeed & 刀刀
-Depends: mobilesubstrate
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok, com.dao.bhtkplus.cn, com.dao.bhtiktok++
-Filename: ./rootless/BHTikTok++ 原版(rootless)_1.9.3.deb
-Size: 198912
-MD5sum: 05135929df2a40c32fc17658a4f124ed
-SHA1: e7359e46800c3e2c4796908f4f8f8eb18fcef2ad
-SHA256: cd70b547d7bd2368fe68d031e0cf67632a44dd788547fae0edc241db3dad0e8c
-SHA512: 49ed320b14a3ffc57fbbadfd6f7cbbf5efe4f466306ac1669e9dccbc9cb5e000ceb048d167ebb1b94264543bc146d9b6bd6ba9fbbfc9f459403f0399bf343f51
-Description: raulsaeed制作的全新的TikTok多功能插件，新版已开源语言包，已添加简体中文，v1.9.x开始，无需装额外语言包。
-Name: BHTikTok++ 原版(rootless)
-Author: raul saeed & 刀刀
-
-Package: com.dao.bhtwitter
-Architecture: iphoneos-arm64
-Version: 4.4-5
-Section: 嗨-工具
-Maintainer: Bandar Alruwaili
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
-Filename: ./rootless/BHTwitter 中文版(rootless)_4.4-5.deb
-Size: 6700436
-MD5sum: 2ac4e0a076ac249d6cecf436e48a3603
-SHA1: 5005ec13325ccb2cb13319a3e7086063e5037f47
-SHA256: b3213121df988d79b66776ad2869aa096c1e845a57450827b8d1a104255a6e20
-SHA512: c51b46f51fc5f373cfc6e8c088b44e5a545b695f292b4719dd8b2b937304beb5f0a3f55c73f5356c8203b70a3f9abc9fcdd5193c0dbb4dd232237b7b5a942ebb
-Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
-Name: BHTwitter 中文版(rootless)
-Author: Bandar Alruwaili
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
 
 Package: com.hk.rootless.barmoji
 Architecture: iphoneos-arm64
@@ -9130,76 +8969,6 @@ SHA512: 39e3581d1c2ff8d0d53b86612f6695b8fcaac3121db28156607b8ca65ada189875e6600a
 Description: Instagram 的多功能插件，插件入口：长按左下角首页🏠按钮，或者个人页面—>右上角三横图标进入。根据开源代码直接编译的中文版。
 Name: BHInsta 中文版
 Author: Bandar Alruwaili
-
-Package: com.dao.bhtkplus
-Architecture: iphoneos-arm
-Version: 1.9.3
-Section: 嗨-工具
-Maintainer: raul saeed & 刀刀
-Depends: mobilesubstrate
-Conflicts: com.raulsaeed.bhtiktok++, com.bandarhl.bhtiktok, com.dao.bhtkplus.cn, com.dao.bhtiktok++
-Filename: ./rootful/BHTikTok++_1.9.3.deb
-Size: 201012
-MD5sum: 618d5aa2e4ea8e32c8779aa9193c25f7
-SHA1: fa1019fe9aaa25701defaba96a001014eb81dea1
-SHA256: a5b62af3fc9d2d41ad360afeb3cdc943101ad662b5d8e195f766c4aa79d50962
-SHA512: 9a0f5b978c4286da05338aca97c9e2af98b602b1cfd0a5d1eb8433d7ca0a82955b021fcf05bdba6ee4caf32a7bf63ce97f2fc052f83f054d5066f3b86e31cae3
-Description: raulsaeed制作的全新的TikTok多功能插件，新版已开源语言包，已添加简体中文，v1.9.x开始，无需装额外语言包。
-Name: BHTikTok++ 原版
-Author: raul saeed & 刀刀
-
-Package: com.hk.bhtiktokmod
-Architecture: iphoneos-arm
-Version: 2.3
-Section: 嗨-工具
-Maintainer: Dayanch96
-Depends: mobilesubstrate
-Conflicts: com.bandarhl.bhtiktok, com.hk.bhtiktok.cn, com.hk.bhtiktok
-Filename: ./rootful/BHTikTokPlus.deb
-Size: 482252
-MD5sum: d4ef65cee069a4b2625caa491a5faf7d
-SHA1: 39389c9252a1ed97758ba5231e1c3ececdaf72ca
-SHA256: 68ecdf0e1a32d248e993df748a855c374296d47f506cff1166c7fcb37af55d57
-SHA512: f1439abbd042d24945e1883ff29a5abc52361a4eba1bd82782f316901fd1b96f31e5cad5ec653319b09cdde7d19e88fd902cefde82e1628fa540fb76b67f5e9b
-Description: Dayanch96基于BandarHL开源的BHTikTok优化再开发的Plus版本，支持TikTok去广告、自动下一条、纯净模式、切换地区等、伪造粉丝数，视频下载等。
-Name: BHTikTok Plus
-Author: Bandar Alruwaili
-
-Package: com.dao.bhtwitter
-Architecture: iphoneos-arm
-Version: 4.4-4
-Section: 嗨-工具
-Maintainer: Bandar Alruwaili
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
-Filename: ./rootful/BHTwitter_4.4-4.deb
-Size: 6711152
-MD5sum: 742d97cd1ebc5e9eb97c2c538754f186
-SHA1: d05d320dc6f528747eea1baa9b8f22f121a09842
-SHA256: 7cb4f310b7769b2e17a1f3b0cdd29d2cd217ac2868293c044e079b9d83ffe8b4
-SHA512: 6f5849c92866e98764622cafd575537a42875d5175be2413699a929907f9b3a49c417324de7bf00c15fdf134444a1d82141141c5c246466717cdebe653aeda28
-Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
-Name: BHTwitter 中文版
-Author: Bandar Alruwaili
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
-
-Package: com.dao.bhtwitter
-Architecture: iphoneos-arm
-Version: 4.4-5
-Section: 嗨-工具
-Maintainer: Bandar Alruwaili
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn
-Filename: ./rootful/BHTwitter_4.4-5.deb
-Size: 6706796
-MD5sum: 799184f3121c878edba7ba7b12247a72
-SHA1: a71a4cf2cb423ea9142b535086fbaa29dbe67c21
-SHA256: 2e978b36aeb531b56be0265704e84b4c4e425e29b63d5b4c7482a135f5168ca8
-SHA512: f64480ac670d5b1d2fd5061cc227b7ad26f968343d8f678a0f2c563daf5d78881fd37f66ec2091488821cf14280c2dccc17c9c8c4a465ca2d0531b4d10e829ae
-Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
-Name: BHTwitter 中文版
-Author: Bandar Alruwaili
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/bht/js.json
 
 Package: com.hk.backrunner.cn
 Architecture: iphoneos-arm
@@ -15553,78 +15322,6 @@ SHA512: f0683e3b0385ac603368420604a4f1b4d34bd3facdd9365209874bee9986c879f97271d6
 Description: Navale 简体中文！ Navale 介绍: 在您的Dock栏添加渐变...
 Name: Navale 简体中文包
 Author: Ball <ball@hackcn.net>
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 5.0-1
-Section: 嗨-工具
-Maintainer: Bandar Alruwaili
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
-Filename: ./rootful/NeoFreeBird-BHT_5.0-1.deb
-Size: 7708940
-MD5sum: e6e583e584407eab3b63590c5727c9db
-SHA1: 5e734a176553586302b37477e0a01941a87d7ecd
-SHA256: c99b76500a986fdd49548b1090172d79f1383a493c8c81dc9d48104917fb4b0c
-SHA512: 2b6d8863642e04f4c04e40ce61355013ec505403b94a8388202b25475565eccab2d0709e87beafc92c9da4fb73470b02c6cad7e988013fe145af1dff58183466
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NeoFreeBird-BHT 中文版
-Author: Bandar Alruwaili
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 5.0-2
-Section: 嗨-工具
-Maintainer: Bandar Alruwaili
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
-Filename: ./rootful/NeoFreeBird-BHT_5.0-2.deb
-Size: 7695208
-MD5sum: 08ed6046b45e5239d9089531f53618b0
-SHA1: 8161c69e27f796ab7c8871566d331a86a5911a79
-SHA256: 33a850b78a639242613a9f1a2499cebfa41d3f62af2a487c1004482491d52055
-SHA512: 26bd11eb7988396acf4b875680480c5268289e07253256f36926f093ea04952b59426c118dc4276e4562d2904e5019056b146311b69626be1f6f17fb6b3ce4a1
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NeoFreeBird-BHT 中文版
-Author: Bandar Alruwaili
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 5.1-1
-Section: 嗨-工具
-Maintainer: actuallyaridan & 刀刀
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
-Filename: ./rootful/NeoFreeBird-BHT_5.1-1.deb
-Size: 7719996
-MD5sum: 974f255ebcecd177b3993826f4e5704b
-SHA1: 7f04e299a1c8a2dae28224769e85cbed9adec3fd
-SHA256: b7792856ef8aa1086cd83463858dbf28dee420bb9d0a5035ddbce131406caf2b
-SHA512: fb855cf602d8ca3f9b07fc8fdf0f20b205db36a1330041fa4c547ded8230228cb538c68b2f0ecc7d0c1b162214e89d978277f86ae5db1040abea3e0385a8167f
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NeoFreeBird-BHT 中文版
-Author: BandarHelal & actuallyaridan
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 5.1
-Section: 嗨-工具
-Maintainer: actuallyaridan & 刀刀
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
-Filename: ./rootful/NeoFreeBird-BHT_5.1.deb
-Size: 7732964
-MD5sum: 793337ffb7765fac8d259294f3290474
-SHA1: 8c9437dbedb0467991d8f5e181269004649de0ad
-SHA256: fea57aea84cfdf0ab2921d31eb522be184f8bbec8cd9012e439105c74273344d
-SHA512: fe70d4a5ad837714e9d213db5b81cbe4996c736496a393a2cb58a504c428c344f2699c239d0c62f2dd8c28992f3369060b810fbcec34887cc644022db6a372a7
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NeoFreeBird-BHT 中文版
-Author: BandarHelal & actuallyaridan
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm
