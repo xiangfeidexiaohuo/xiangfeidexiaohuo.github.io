@@ -1664,6 +1664,25 @@ Name: NFX 中文版(RootHide)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64e
+Version: 7.2.1+debug
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 4692
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./roothide/NFX(RootHide)_7.2.1.deb
+Size: 1002650
+MD5sum: 19e08f336b31064510138782fad2b8f7
+SHA1: c9f2d84c03a6a22b13745d68dfd290d583f2a9eb
+SHA256: 8ef47a7a0f992ae90061513dbe4e30416094059b37f34fdd33298745352e4f85
+SHA512: 00c8d4c36e72929608e91e114ced767c8da6bd83c543e97f19696916d006b02e253e1cc8aad3cb6636588994156923ab0e812b1ba88c384f79f7e413db36366b
+Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
+Name: NFX(RootHide)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
 Package: com.dao.disablepastealert16
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -2854,6 +2873,25 @@ MD5sum: 0efc87301f7ee391a4f734564e068d44
 SHA1: 36f9869fdcf2685af6de9394ce947fb6210c140a
 SHA256: 4e3b7fb6540fae97ece11298677baba013ad0054bc9cae632f6db93c3379e860
 SHA512: 6e27dcdd3b011a2a348a9e802d69bf7afeeb84be07c30d41ddf6f1b5e0796ec97b4c376015d0c2fe26b82ee3619c15ba21aca1477ad177ecaf3f2bfc5037fc46
+Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
+Name: YTKACE(RootHide)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64e
+Version: 1.1.4
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 6256
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./roothide/YTKACE(RootHide)_1.1.4.deb
+Size: 2010208
+MD5sum: 5a6b6814988fafdf3113968e472d5c6f
+SHA1: 408b2dbf8e1299ca01b5c5b26a04e805ca4d81d5
+SHA256: 10a9cedfe7a0c623f14de762cf417d58d230b40789381d2e063291b6556b1a06
+SHA512: 430ff181e08cac719b27afd50b521746cea19e5101e8e10800892c68d6ced110f7bc092df6fbb7394cbe53bd146dc03d9fca2fa016f7c3073a0e293a2fd4d46d
 Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
 Name: YTKACE(RootHide)
 Author: itzzace & daodao
@@ -5384,6 +5422,25 @@ Name: NFX 中文版(rootless)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
 
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64
+Version: 7.2.1+debug
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 4692
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootless/NFX(rootless)_7.2.1.deb
+Size: 1004398
+MD5sum: 977d0893e2aaea3737a21b61f3cceae6
+SHA1: 6339d3c7ab9c87c6a6eafec93019c5e19a11d780
+SHA256: 4914a3fdd07a380a5e523c0b12369ea5352af7e1ffdf3e64319e7134764e0a32
+SHA512: 543c169e040822244b718eed46c7152d02b3dc2dd80c4d92f44f9430966bcbbdbe2055455dbddd7b55b59e43a6e85941e9fc7f4ba05c7ebadb86eb163dac3990
+Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
+Name: NFX(rootless)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
 Package: com.dao.disablepastealert16
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -7088,6 +7145,25 @@ MD5sum: 7100eb2ebb69cafca5daca7a0fe2224d
 SHA1: 3f03d91f8dfe50b936f92d34e31dc7cfb8b11af8
 SHA256: daaa0ec44148b6121bcf73b291f35da6d66bb338445c0d27b5c09b1c304c781a
 SHA512: 78ba21af6852c5cb8621368846fcfccb76ed604ad6e34d5364b15561ad8a56519a658358d1d558ac16d292835328a49ef8fbdb5c7dc1774c5ae460570c366865
+Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
+Name: YTKACE(rootless)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64
+Version: 1.1.4
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 6256
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./rootless/YTKACE(rootless)_1.1.4.deb
+Size: 2010052
+MD5sum: 3f92ed68de334d3a72ff1446d00e064a
+SHA1: e348fb61f22891fbab6a9ee72a7fbef28417c2ab
+SHA256: dc4c7ace5cc1cc0bfea1f172bcaef36e22131504b6a45f587e18e4f733d87d01
+SHA512: bd98d02c0d69b18ec413c8aebc3e7f24469d3932564558ee05f7d80744363c325a9616149fbde0778690d0b31f889039dd8b0da398da81aa19cee76da478c38b
 Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
 Name: YTKACE(rootless)
 Author: itzzace & daodao
@@ -15228,6 +15304,25 @@ Author: Ball
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm
+Version: 7.2.1+debug
+Section: 嗨-工具
+Maintainer: 刀刀
+Installed-Size: 4692
+Depends: mobilesubstrate
+Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter, com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter
+Filename: ./rootful/NFX_7.2.1.deb
+Size: 1004532
+MD5sum: ab190f1fa05f09ec8276f37d40a91615
+SHA1: 1e94f26b6c698d58c5a9c68d430e547aec074d01
+SHA256: 447647ebf6d168d296858240668bb1b8ec459ab160d23e294b7f955a275d94a8
+SHA512: a04762f653d1f51ea7b4edcb9446689ef60c52d6a67997812b01d07805086ed4a3961b3386a2cc8104974e299c1e67270ca1032235ed236c63a9ab7a76953bb8
+Description: 刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。
+Name: NFX
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm
 Version: 7.2
 Section: 嗨-工具
 Maintainer: 刀刀
@@ -20176,6 +20271,25 @@ MD5sum: a4e19f3c25126929486bf8251e9896ae
 SHA1: 2a8493d8ccb931659e6fc6d8e78c27bef35534e1
 SHA256: 22157368c66e53f8e801ba5edb3410c61f98a6d700ed0d73d2156884619d560b
 SHA512: c274db5cdbdb57f6f709619cdaa3cd2dac1c0847535a532dfc620ecf326426e4d817843a4da42bb639186ce29063cfd0806762b075cb00fa9eb322574195ea89
+Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
+Name: YTKACE
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm
+Version: 1.1.4
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 6256
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./rootful/YTKACE_1.1.4.deb
+Size: 2010066
+MD5sum: b619c5879bec6073b56b949dfc35e4a5
+SHA1: 73d6203c5e979877225ed9ac576369d145074b4a
+SHA256: 71a270e6e866046001b7085f63ab6388bb5376e7f818167a9af67e3ec36cf5fe
+SHA512: 65fec30a3fd6017fb643450e29c30afc540e45355c7b4223ae862905eff29f2834d290b7a6fc344223cc2f1b32ef09387db121efb235951f38213fddf7053662
 Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
 Name: YTKACE
 Author: itzzace & daodao

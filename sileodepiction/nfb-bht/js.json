@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "刀刀基于 NeoFreeBird 打造的推特增强插件，新增更多实用功能，适配最新版 X，优化稳定性并修复已知问题。",
+                    "markdown": "刀刀基于 NeoFreeBird 的推特增强插件，优化稳定性并修复已知问题。",
                     "useRawFormat": true,
                 },
                 {
@@ -79,7 +79,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "7.2",
+                    "text": "7.2.1",
                     "title": "最新版本"
                 },
                 {
@@ -89,7 +89,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 10 月 05 日",
+                    "text": "2026 年 10 月 27 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -102,6 +102,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "7.2.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+               },
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复12.38卡屏闪退问题",
+                    "useRawFormat": true
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "7.2",
