@@ -2341,6 +2341,23 @@ Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(
 Name: Sileo(RootHide)
 Author: Amy While
 
+Package: com.dao.sileo
+Architecture: iphoneos-arm64e
+Version: 2.5.1-14
+Section: 嗨-系统
+Maintainer: 刀刀
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Replaces: org.coolstar.sileo
+Filename: ./roothide/Sileo(RootHide)_2.5.1-14.deb
+Size: 3007580
+MD5sum: 68a5fced6ce6da22b7bfbd9d5e9197bc
+SHA1: 655682a1f6511c8e1e3e668310733ad5a394a922
+SHA256: 564280c20d3f93b0f604c77d6ac99ca41c58d4789e2c06ff50e2d0685ac07e9f
+SHA512: 6d87a64b1951606a427a680a0d34cf5087fe208ece51e3cb171f1718921c0754f69126305eb9a05898c895f6aa10bacabe6bfb77ba33d295160470c88a4a6554
+Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的 RootHidePatcher 中文版，也识别 UmbraPatcher，转换插件一条龙。
+Name: Sileo(RootHide)
+Author: Amy While
+
 Package: com.hk.snapper2.cn.rl
 Architecture: iphoneos-arm64e
 Version: 2.7.0
