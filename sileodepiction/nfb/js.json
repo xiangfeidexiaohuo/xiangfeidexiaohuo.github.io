@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "NeoFreeBird 推特增强插件，更多实用功能。",
+                    "markdown": "NeoFreeBird 推特增强插件，更多实用功能；长按首页顶部 X 图标进入插件菜单。",
                     "useRawFormat": true,
                 },
                 {
@@ -34,10 +34,6 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/Screenshot_01.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/Screenshot_02.png"
                         }
 
                     ]
@@ -70,12 +66,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "NeoFreeBird",
+                    "text": "daodao",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "7.2.0",
+                    "text": "7.2.2",
                     "title": "最新版本"
                 },
                 {
@@ -85,7 +81,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 10 月 27 日",
+                    "text": "2026 年 10 月 29 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -100,13 +96,13 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "7.2.0",
+                    "title": "7.2.2",
                     "useBoldText": true,
                     "useBottomMargin": false
                },
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "NeoFreeBird 插件回归",
+                    "markdown": "基于最新的 NeoFreeBird 定制：</br> 以前NFX在很老旧版本上修改，太乱了</br> 微改：添加自主刷时间线功能，其他微调</br> 12.37+的插件入口：长按首页顶部的X图标",
                     "useRawFormat": true
                }
             ]
