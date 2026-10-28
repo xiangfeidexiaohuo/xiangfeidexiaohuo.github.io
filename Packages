@@ -2497,6 +2497,22 @@ Description: 长按桌面 AppStore 图标即可快速切换已登录的 Apple ID
 Name: StoreSwitchAccounts(RootHide)
 Author: Hades
 
+Package: com.hades.storeswitchaccounts
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: 嗨-工具
+Maintainer: Hades
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./roothide/StoreSwitchAccounts(RootHide)_2.1.deb
+Size: 9236
+MD5sum: f96f580c7764b8e0912f91beef3041de
+SHA1: 92e3b99159960893750ce91340163f9f6d5bcd3a
+SHA256: 3d11ce95bc5d94a022850d4439aa9311a91a2fd6772a46c6f7a3710f5b1e6ae8
+SHA512: 7aa04f4d1c5d9600ef01768aa6b30a9e1f45c8277f688984e384928973a496484012b68c6574c0e1b866a8c0e0f18295340cdf751229d56d966031b2cb4765a9
+Description: 长按桌面 App Store 图标即可快速切换已登录的 Apple ID 账号适配隐根越狱。
+Name: StoreSwitchAccounts(RootHide)
+Author: Hades
+
 Package: com.dao.storeswitcher2
 Architecture: iphoneos-arm64e
 Version: 1.0.5
