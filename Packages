@@ -1646,25 +1646,6 @@ Author: 妖刀
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64e
-Version: 7.2.2-1+debug
-Section: 嗨-工具
-Maintainer: NeoFreeBird
-Installed-Size: 14104
-Depends: mobilesubstrate
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
-Filename: ./roothide/NFB(RootHide)_7.2.2.deb
-Size: 4855536
-MD5sum: 6f10e4b99353112340d1001203e039c6
-SHA1: 65885364cb46fc40bb7568f011515d571f596248
-SHA256: 4e44b9fc000ced622690b0ff736504fb4b303ef9078461a9777b91d720e8d0b3
-SHA512: 535bb3a1db0946f9ad3e524d021d5295f584ab7244c7afb288667dfd040ff8127dde48672d274e6bba22e82da8c5c9d92df2b24f7649a87f658df62e601af4fc
-Description: NeoFreeBird 推特增强插件。
-Name: NeoFreeBird(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
 Version: 7.3.0+debug
 Section: 嗨-工具
 Maintainer: NeoFreeBird
@@ -5453,25 +5434,6 @@ SHA512: bf32423740acf1ae279e93033e7bbbd123a059f9642c6829739129a7ea18bdc9b1f298a9
 Description: Mochi15 简体中文包(rootless)。
 Name: Mochi15 简体中文包(rootless)
 Author: 妖刀
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64
-Version: 7.2.2-1+debug
-Section: 嗨-工具
-Maintainer: NeoFreeBird
-Installed-Size: 14104
-Depends: mobilesubstrate
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
-Filename: ./rootless/NFB(rootless)_7.2.2.deb
-Size: 4855600
-MD5sum: d983449e36fcd33cf157bf75135f70a0
-SHA1: 7b0a89f3f9e17b73c03181be5a389d29df8fff13
-SHA256: 8282054191f1486c69d366d0d5201806d726860d6035fc88c5123137437f1a51
-SHA512: 458497eb7016893983d465ccc9cbfadd68a2e8ddc4b5c18a981ab0b17eef06b0ab9cb7dc0257348ce55d6a78b189d111b7ef0723e28a0b22c8b5e8d421b509c2
-Description: NeoFreeBird 推特增强插件。
-Name: NeoFreeBird(rootless)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64
@@ -15372,25 +15334,6 @@ SHA512: 41b8275b6c1634648ccae100913b8ec25e3d9175f65e50534399a2a5217e1ae670d3fe26
 Description: Myriad 简体中文包。
 Name: Myriad 简体中文包
 Author: Sandy0
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 7.2.2-1+debug
-Section: 嗨-工具
-Maintainer: NeoFreeBird
-Installed-Size: 14104
-Depends: mobilesubstrate
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
-Filename: ./rootful/NFB_7.2.2.deb
-Size: 4855992
-MD5sum: b7594dba658835ccd480819c5671a74c
-SHA1: 80255f4762f02facc1a9957f2065a7577aec85f6
-SHA256: d8a1948adc92bc07e331c5a34b2b875ba1af684258b353eae83c9b05c899212d
-SHA512: 57332dbe82ee1a3be8079edb42088485a224300db8255d3112c876701872c05e345b82019ae483c5cc349d9d35e69a08a0224e4e2c58e08ec42719df86c0568c
-Description: NeoFreeBird 推特增强插件。
-Name: NeoFreeBird
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm
