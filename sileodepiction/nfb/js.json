@@ -107,7 +107,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "同步 NeoFreeBird 源码",
                     "useRawFormat": true
-               }
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "7.2.2",
