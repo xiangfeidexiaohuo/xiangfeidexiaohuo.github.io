@@ -1663,6 +1663,25 @@ Name: NeoFreeBird(RootHide)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64e
+Version: 7.3.0+debug
+Section: 嗨-工具
+Maintainer: NeoFreeBird
+Installed-Size: 14128
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
+Filename: ./roothide/NFB(RootHide)_7.3.0.deb
+Size: 4477140
+MD5sum: b7357a699e588d55b099b257daa647b8
+SHA1: 9a9bdcc593f59a6d862271c27ab804878039fe60
+SHA256: ad59b5d8cbb345fe6f9408ca659c49134ba060338a28cbb9f4f99805ec571fe0
+SHA512: 81c9ec25f211461787638d36013fd18924f40a88b1e2930d5317ea48a20da2ba4955aab35e77191bf47165a534c246b07393ab1befcac42af4344a8af1a0f1a9
+Description: NeoFreeBird 推特增强插件。
+Name: NeoFreeBird(RootHide)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
+
 Package: com.hk.nfcwriterxs.cn.rl
 Architecture: iphoneos-arm64e
 Version: 4.0
@@ -5449,6 +5468,25 @@ MD5sum: d983449e36fcd33cf157bf75135f70a0
 SHA1: 7b0a89f3f9e17b73c03181be5a389d29df8fff13
 SHA256: 8282054191f1486c69d366d0d5201806d726860d6035fc88c5123137437f1a51
 SHA512: 458497eb7016893983d465ccc9cbfadd68a2e8ddc4b5c18a981ab0b17eef06b0ab9cb7dc0257348ce55d6a78b189d111b7ef0723e28a0b22c8b5e8d421b509c2
+Description: NeoFreeBird 推特增强插件。
+Name: NeoFreeBird(rootless)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64
+Version: 7.3.0+debug
+Section: 嗨-工具
+Maintainer: NeoFreeBird
+Installed-Size: 14128
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
+Filename: ./rootless/NFB(rootless)_7.3.0.deb
+Size: 4475946
+MD5sum: 5af611cc041fd42a13cea34fc824e932
+SHA1: e38ab6556415525ec85fb3ffabce639c66d1077b
+SHA256: 512a6ef824f5874cf1698e536204641099a01a96b4200dd016154f386917266b
+SHA512: 067a28ea528a9668d77efec1be88ca5e523332c554698bc690401b518e05e2751a66bcce6f44aae2c367519b5dcdc85cf3ba37930d6154986fc082ea285cf2fc
 Description: NeoFreeBird 推特增强插件。
 Name: NeoFreeBird(rootless)
 Author: NeoFreeBird
@@ -15349,6 +15387,25 @@ MD5sum: b7594dba658835ccd480819c5671a74c
 SHA1: 80255f4762f02facc1a9957f2065a7577aec85f6
 SHA256: d8a1948adc92bc07e331c5a34b2b875ba1af684258b353eae83c9b05c899212d
 SHA512: 57332dbe82ee1a3be8079edb42088485a224300db8255d3112c876701872c05e345b82019ae483c5cc349d9d35e69a08a0224e4e2c58e08ec42719df86c0568c
+Description: NeoFreeBird 推特增强插件。
+Name: NeoFreeBird
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm
+Version: 7.3.0+debug
+Section: 嗨-工具
+Maintainer: NeoFreeBird
+Installed-Size: 14128
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
+Filename: ./rootful/NFB_7.3.0.deb
+Size: 4476386
+MD5sum: 1e3be45622e23548c89fd49472dea389
+SHA1: 367613c6560e2df7f11e80171361488b95c2d0e3
+SHA256: 76faa59f10126e7bf2b3cf66d691ee10ea93ba29fb335bbb78c17521c4e43990
+SHA512: 2340edae11088d3b9a73295c88961d8dcc15e0d3f58530c00712bfa8baf4d26ab6f3a083421638743088cbbac681be43570b0a2edf64eb0de3275f1261bc7189
 Description: NeoFreeBird 推特增强插件。
 Name: NeoFreeBird
 Author: NeoFreeBird

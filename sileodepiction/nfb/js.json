@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "7.2.2",
+                    "text": "7.3.0",
                     "title": "最新版本"
                 },
                 {
@@ -96,13 +96,24 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "7.3.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+               },
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步 NeoFreeBird 源码",
+                    "useRawFormat": true
+               }
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "7.2.2",
                     "useBoldText": true,
                     "useBottomMargin": false
                },
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "基于最新的 NeoFreeBird 定制：</br> 以前NFX在很老旧版本上修改，太乱了</br> 微改：添加自主刷时间线功能，其他微调</br> 12.37+的插件入口：长按首页顶部的X图标",
+                    "markdown": "基于最新版 NeoFreeBird 定制，告别老旧混乱的 NFX 修改版，新增自主刷时间线功能及其他细节优化。</br> 插件入口：长按首页顶部的 X 图标。",
                     "useRawFormat": true
                }
             ]
