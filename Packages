@@ -2069,18 +2069,18 @@ Author: 妖刀
 
 Package: com.dao.ryukgram
 Architecture: iphoneos-arm64e
-Version: 1.5.0
+Version: 1.5.1
 Section: 嗨-工具
 Maintainer: Ryuk
 Depends: mobilesubstrate
 Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
-Filename: ./roothide/RyukGram(RootHide)_1.5.0.deb
-Size: 18781344
-MD5sum: 59f3d3c8d0ece2d3b090ad6bf6f970b7
-SHA1: 73df899a01282ceca276e2654b88df8f7e497b53
-SHA256: d6f993d111c165964f7a3f623ea549773fe32b21ea3fc8c73f5e34d756efe0fa
-SHA512: 08bd256721fef25d4670de43a08cb6fcde0091e078d8f92d8846a808d5e1ceb6b9242532790ceef4d04dcf9ab0a9f4719a625023649a8b83d00d19ad6f92b0fe
-Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 449+。
+Filename: ./roothide/RyukGram(RootHide)_1.5.1.deb
+Size: 18869748
+MD5sum: 95db4b3a8a69b7d27e1bff25bca90b70
+SHA1: 846a71a84ae07057d02b588dfc46761062776b89
+SHA256: 3d6a2b0ab6a449ff1be72e1e2a66586afa20361fe3d7b7ff2dde73c815a3ef14
+SHA512: 4cdaae956740aec3aa446a68c3ded7ab9dc769f04c65ea355c6c2f6743483703ac0432e3a586ca59511539ac884736ca07ba71eb4802c74db8207f499d147c18
+Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"。
 Name: RyukGram(RootHide)
 Author: Ryuk
 
@@ -2907,25 +2907,6 @@ Description: vivo OriginOS 风格的陀螺仪「翻转卡片」锁屏壁纸 —�
 Name: VivoStyle(RootHide)
 Author: 34306
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64e
-Version: 1.1.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6104
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./roothide/YTKACE(RootHide)_1.1.3.deb
-Size: 1977310
-MD5sum: 0efc87301f7ee391a4f734564e068d44
-SHA1: 36f9869fdcf2685af6de9394ce947fb6210c140a
-SHA256: 4e3b7fb6540fae97ece11298677baba013ad0054bc9cae632f6db93c3379e860
-SHA512: 6e27dcdd3b011a2a348a9e802d69bf7afeeb84be07c30d41ddf6f1b5e0796ec97b4c376015d0c2fe26b82ee3619c15ba21aca1477ad177ecaf3f2bfc5037fc46
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(RootHide)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
@@ -6047,18 +6028,18 @@ Author: 妖刀
 
 Package: com.dao.ryukgram
 Architecture: iphoneos-arm64
-Version: 1.5.0
+Version: 1.5.1
 Section: 嗨-工具
 Maintainer: Ryuk
 Depends: mobilesubstrate
 Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
-Filename: ./rootless/RyukGram(rootless)_1.5.0.deb
-Size: 18794732
-MD5sum: 2d180d7f8507544f9c1a67b2b76cb293
-SHA1: 00875d719f1fa7b75fc4d8a6c71d694fea117ddb
-SHA256: 43938e0a5cbda6431c22b0cdfd21e165a3153af50a13754cf01a71cbe1e339fd
-SHA512: fbb17efae7966a1e1e9bd46ccc540ba88d1ab311efa78231dd138c8b1145a600056208124180656d60fc791b224db7cb4dc15734bad879be296d546aa59372c7
-Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 449+。
+Filename: ./rootless/RyukGram(rootless)_1.5.1.deb
+Size: 18869552
+MD5sum: 812ce9361ac91897e466ecf257a01051
+SHA1: 85d448991e4bd35570caf3485c6af4588385ef37
+SHA256: b353fb0a403de94ce1bb56ac093bc41c3273cf0dcc68a1aff77fe14313168f8b
+SHA512: fde95d0105d87a6314fc8dbe90f4c8e6a7c076c589b0be027f3a71ade773a3cab86e9ae0c5e6c7738091b7f42e1e9111c116a727c6a699cf76af4da89ed727ba
+Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"。
 Name: RyukGram(rootless)
 Author: Ryuk
 
@@ -7179,25 +7160,6 @@ SHA512: 1472c1e2f127b6262883aade2a6536bb211a2253f3ade3ea5d80556358029a2901a6a3c7
 Description: WiFiQR和HotspotQR 共用简体中文包(rootless)。
 Name:  WiFiQR & HotspotQR 简体中文包(rootless)
 Author: Alucard
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64
-Version: 1.1.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6104
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootless/YTKACE(rootless)_1.1.3.deb
-Size: 1977204
-MD5sum: 7100eb2ebb69cafca5daca7a0fe2224d
-SHA1: 3f03d91f8dfe50b936f92d34e31dc7cfb8b11af8
-SHA256: daaa0ec44148b6121bcf73b291f35da6d66bb338445c0d27b5c09b1c304c781a
-SHA512: 78ba21af6852c5cb8621368846fcfccb76ed604ad6e34d5364b15561ad8a56519a658358d1d558ac16d292835328a49ef8fbdb5c7dc1774c5ae460570c366865
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(rootless)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64
@@ -16945,23 +16907,6 @@ Description: Rune 简体中文包。
 Name: Rune 简体中文包
 Author: 妖刀
 
-Package: com.dao.ryukgram
-Architecture: iphoneos-arm
-Version: 1.4.0
-Section: 嗨-工具
-Maintainer: Ryuk
-Depends: mobilesubstrate
-Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
-Filename: ./rootful/RyukGram_1.4.0.deb
-Size: 17723672
-MD5sum: 56a8d488ba36097c16bf4ac7b60d8aef
-SHA1: 5683d036b6c3a71d24b86ee3045ec85b19e489f9
-SHA256: bf7e854e854a765a1aba084db4a66700f0c49f7db0261bcd6b07c86415e18e70
-SHA512: 5869449446626eeaf25fc99ae3012e01b752cbaa1da580e666189bf604da89eabb4f612bab3580a7e51a964cd3032e65f9d3091d96097c697f53f233f6ee2e02
-Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"；支持 IG 446+。
-Name: RyukGram
-Author: Ryuk
-
 Package: com.hk.s8edge.cn
 Architecture: iphoneos-arm
 Version: 1.2
@@ -20305,25 +20250,6 @@ SHA512: bd945f4260ea62ce48b47bc42f2304e2a1329a2d5e250bd296b0c94d2447aeb26849cbb9
 Description: Xina1专版NewTerm3，Xina1用户千万不要更新Procursus源提示的三十几个依赖更新，千万别更新！！！
 Name: NewTerm 3(Xina1)
 Author: HASHBANG Productions
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm
-Version: 1.1.3
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6104
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootful/YTKACE_1.1.3.deb
-Size: 1977552
-MD5sum: a4e19f3c25126929486bf8251e9896ae
-SHA1: 2a8493d8ccb931659e6fc6d8e78c27bef35534e1
-SHA256: 22157368c66e53f8e801ba5edb3410c61f98a6d700ed0d73d2156884619d560b
-SHA512: c274db5cdbdb57f6f709619cdaa3cd2dac1c0847535a532dfc620ecf326426e4d817843a4da42bb639186ce29063cfd0806762b075cb00fa9eb322574195ea89
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm
