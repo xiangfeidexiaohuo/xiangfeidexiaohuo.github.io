@@ -1502,17 +1502,17 @@ Author: 刀刀
 
 Package: com.hades.locktouchx
 Architecture: iphoneos-arm64e
-Version: 2.0
+Version: 2.2
 Section: 嗨-工具
 Maintainer: hades
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./roothide/LockTouchX(RootHide).deb
-Size: 12408
-MD5sum: 0ca540cea15ea766a5cd93cb9ace98ea
-SHA1: 4d5c197ce4c9ca2ad131d2c1694e481a90f717b8
-SHA256: f8ff10327994b8a176ffb7c52048b1e53e2d5109345c70938b818964abfef667
-SHA512: e7e9fff0cdaa08032073d24a0793ea8e1f6dbc7325bbc7452c8c139471a25b31fdd06224b84c74ced46b1eb5394056d72b14f309a88fc9a5229a2e6d262802bf
-Description: 为 App 添加生物识别锁（Touch ID / Face ID），点击受保护 App 需认证。
+Filename: ./roothide/LockTouchX(RootHide)_2.2.deb
+Size: 14156
+MD5sum: d36148249fce599307f13e5bced73756
+SHA1: d9aabad49a41f75a2eb0e9e85b5b8e2b79ef2150
+SHA256: 42d61ce841ad73f0c8d0b380f49b5993a883be55049d8567aff2aa8e26402f1c
+SHA512: 82f401daafc61f651315bc7498b1198a59efb30d2332ccc40481afba67ee005e93668598bc57cd3f57fa8e74420ddda920859fe5d58f4a04f3bf2f42abdae81d
+Description: 为 App 添加生物识别锁（Touch ID / Face ID），点击受保护 App 需认证；长按 App 菜单开启/关闭。
 Name: LockTouchX(RootHide)
 Author: hades
 
