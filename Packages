@@ -118,6 +118,24 @@ Name: AppProtect 隐私保护(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
+Package: com.dao.appprotect
+Architecture: iphoneos-arm64e
+Version: 2.4.9
+Section: 嗨-付费
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
+Filename: ./roothide/AppProtect 隐私保护(RootHide)_2.4.9.deb
+Size: 708104
+MD5sum: df9ae3378a47732e0480a7d35b5f0b53
+SHA1: 5690570680ff727e8f74f492ba6787dbb5b14738
+SHA256: 12af3d2175363cf1d1d961475924e6ba6d7a5c1d6f54f6069b0a3bed246f446e
+SHA512: 0231db1c6acb4742aacf68ec98fd96dbfa9817574585cce4c68e76b7c531c5d9ba8e8268c110898f6cae4abecca5e4a5b92e3bc1ffcb91f02c21180db5089be2
+Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
+Name: AppProtect 隐私保护(RootHide)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
+
 Package: com.dao.appstoretroller
 Architecture: iphoneos-arm64e
 Version: 0.1.2
@@ -3355,6 +3373,24 @@ MD5sum: d531b4463e1f53c33c507a8ce3187c50
 SHA1: c9588b98e924b113f1f51ca6dd0c8c30ae2c5027
 SHA256: c8e97c7b91562a8b644835a9a8c2518bdff0e6f4bfe0c861bcdd97b2c9e5714b
 SHA512: e258359c9120c548f8fd2c798a2eb079b999451525a92bc0f714965136448522559d89944ea108b993825d48ddcbbfa3eb5ad8940b1f78cda098a84aef0b0200
+Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
+Name: AppProtect 隐私保护(rootless)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
+
+Package: com.dao.appprotect
+Architecture: iphoneos-arm64
+Version: 2.4.9
+Section: 嗨-付费
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
+Filename: ./rootless/AppProtect 隐私保护(rootless)_2.4.9.deb
+Size: 746668
+MD5sum: 5e2a4492e0eb88507da9eb787b9925ba
+SHA1: 72d82047126ab5fbbeb53a9822203a4ff576d01f
+SHA256: 4dc65da886a84166b6f7023aaeef018585d6311ecc9a43102eb704410ba02c5b
+SHA512: 825ed878b28c91b6a16753871dd5e0bc8e983133f14f56396a0e5603fded095fd41902b72830e8e19334bb338cbac06de5052d9af22950880832f781c8713898
 Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
 Name: AppProtect 隐私保护(rootless)
 Author: aReo
