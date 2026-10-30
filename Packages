@@ -937,37 +937,19 @@ Author: 妖刀
 
 Package: com.dao.spotify
 Architecture: iphoneos-arm64e
-Version: 6.6.8.2
-Section: 嗨-工具
-Maintainer: jaydenjcpy
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
-Conflicts: com.eevee.spotify
-Filename: ./roothide/EeveeReincarnated(RootHide)_6.6.8.2.deb
-Size: 2071464
-MD5sum: bae10be4238b9bb8a6d0960e14d33b99
-SHA1: 496516bed982edcc50c7f9dc57ff02c836bc37a5
-SHA256: e211c1b88b09c3a93bec053d2202171525c32eb80350c74206aa55c40224719f
-SHA512: b15fdd5f32e5f24f028117ea60ca83f63a9466147788ead334aaf9f176d0b93a9709bbc6d874b857f1bd1e8d377d78c820d3ecfa206494b5cb7826e80a0786ce
-Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
-Name: EeveeReincarnated(RootHide)
-Author: Eevee
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
-
-Package: com.dao.spotify
-Architecture: iphoneos-arm64e
 Version: 7.0.0
 Section: 嗨-工具
 Maintainer: jaydenjcpy
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
 Conflicts: com.eevee.spotify
-Filename: ./roothide/EeveeReincarnated(RootHide)_7.0.0.deb
-Size: 2636824
-MD5sum: 8d70e24a445bd38e96546be96c2a51c2
-SHA1: 1c9dcf22106600856c7574aef0dac58c02d8edb3
-SHA256: 2f9bd23afd9a354a6d38a0de12220fb2438e6b1523e44bb989fc08b855f04510
-SHA512: 69aae3dbc84f7e6bd566d6182e7e29d0ba1690da631cb97afdd6944aed80717c832c94557b2aab5a6460d84c7f1fa718d287f4e34cb6adfd70ba0982d0fb8c5d
+Filename: ./roothide/Eevee(RootHide)_7.0.0.deb
+Size: 2646332
+MD5sum: 3826dbe59cdc256687018f983c3654ea
+SHA1: 380c1e4035048f9522f5c9b2861a414888a8d6a9
+SHA256: 0db6cdb5787a13337ee230d4e0d256908790037bac1549ddfab6e272418ef5a9
+SHA512: 6076ace697e41a983c7c652bd5198daa2c664e78a5ed41f1040000604914d9f5f24a79ddf8049e2f8ae119608a9f4468adda537fcc088714d26df8ff9c6df851
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
-Name: EeveeReincarnated(RootHide)
+Name: Eevee(RootHide)
 Author: Eevee
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
 
@@ -4494,37 +4476,19 @@ Author: 妖刀
 
 Package: com.dao.spotify
 Architecture: iphoneos-arm64
-Version: 6.6.8.2
-Section: 嗨-工具
-Maintainer: jaydenjcpy
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
-Conflicts: com.eevee.spotify
-Filename: ./rootless/EeveeReincarnated(rootless)_6.6.8.2.deb
-Size: 1999140
-MD5sum: 78199e1ddd1a9f988d8788263e0db988
-SHA1: 3e7e9258e140c95fc0284ffeebec2eb537a7f96b
-SHA256: 269fc8bf9c3534f93f1cac258f9ac8a3a5ea3ee3f0c050dd25627f11c613bf80
-SHA512: 97d9b7cc3edb664dab68c5168f84d871865c42b9a79467594e9757b70a3c6231dde5f86e2e1a27bcdb6cdcd22ab500baa353edbf5d40eb7c9e9f9edd7115b744
-Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
-Name: EeveeReincarnated(rootless)
-Author: Eevee
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
-
-Package: com.dao.spotify
-Architecture: iphoneos-arm64
 Version: 7.0.0
 Section: 嗨-工具
 Maintainer: jaydenjcpy
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
 Conflicts: com.eevee.spotify
-Filename: ./rootless/EeveeReincarnated(rootless)_7.0.0.deb
-Size: 2562316
-MD5sum: 8b73c425708f78ee14ff1cf48caeeb95
-SHA1: cf974461fab52b0d1dce0777754b3134f2df16e7
-SHA256: 0840578101dac0a360404e33ad112aabac24631839962bcf75635b7cbbf4c1ce
-SHA512: 579c4e60532435928ef7b07f4b1a5ce312ab9b29a4240db4ad542edf5beec1b083170555af7af07b68e1617bfcae74e99c84473f38a6558578f090648d091353
+Filename: ./rootless/Eevee(rootless)_7.0.0.deb
+Size: 2573112
+MD5sum: 7530ebfa1bc594a008ddba6ba6eb8433
+SHA1: abfbdd03c054c483837473f51e35fbecb2fb3b9e
+SHA256: e989a69621eabd9beb2eb0782db26f543766c68c908ea7f67799ebaec2c6a33c
+SHA512: 7603a368bbd027bc02271db94ce74e6e8351e4e2d71d727336de080586353ac88d726af78faa8a682ba7d23df9d99862b1d03671a580072010216074940c2e0f
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
-Name: EeveeReincarnated(rootless)
+Name: Eevee(rootless)
 Author: Eevee
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/eevee/js.json
 
