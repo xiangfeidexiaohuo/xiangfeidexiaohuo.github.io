@@ -2342,35 +2342,18 @@ Author: 妖刀
 
 Package: com.dao.sileo
 Architecture: iphoneos-arm64e
-Version: 2.5.1-13.1
+Version: 2.5.1-14.1
 Section: 嗨-系统
 Maintainer: 刀刀
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Replaces: org.coolstar.sileo
-Filename: ./roothide/Sileo(RootHide)_2.5.1-13.1.deb
-Size: 3007048
-MD5sum: 31df0c5cefd67626c22634520bd7e3a1
-SHA1: 34808339258c47de96390badc9331c0c01f45cd6
-SHA256: 3aa1b5e8d47ed8cd844ff83b43f9a387dbedf82e3fcc523a06964c108d97dd36
-SHA512: d77e48d55d25932f391d0c3901295aceb50a034f43df687512eff1e2d59b804451d9fb446990bd26211378f88964fd4a22c60ccdfdd5109070d0216b884400c2
-Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的 RootHidePatcher 中文版，转换插件一条龙。
-Name: Sileo(RootHide)
-Author: Amy While
-
-Package: com.dao.sileo
-Architecture: iphoneos-arm64e
-Version: 2.5.1-13
-Section: 嗨-系统
-Maintainer: 刀刀
-Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Replaces: org.coolstar.sileo
-Filename: ./roothide/Sileo(RootHide)_2.5.1-13.deb
-Size: 3013492
-MD5sum: d2bbc3af91207a8d7db5465ac9fbd72c
-SHA1: 36ceb344c81ee8db5fcc545c8a06c39b43704616
-SHA256: a2721a4bf7fcfa30834db3e0a3998dad117b97c7ba05b77498243aa5cd6a93e6
-SHA512: bbc4f7bfb90a0bc7213eb456a17b04a4e9213313c8197bbd708be8679374e6dc415f565b1102a2986f37f1e223cef08cfcb6daa4b70754d31a44329b3f9b638a
-Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的 RootHidePatcher 中文版，转换插件一条龙。
+Filename: ./roothide/Sileo(RootHide)_2.5.1-14.1.deb
+Size: 3007148
+MD5sum: 9411b8e67a2d1935bf1914ed1ea17b6c
+SHA1: 8cfb3ca1d51c126e7a95a831d225df2a6f93f5c4
+SHA256: a8172ba18ef6fdb3551f11c2498570f4306c228b9b12333281d1ee6108b1e237
+SHA512: 99f058479542892061c4c067be82f2f8b73adceebd651f8b6e1f61407b0c3d84bcd574f009cdcaa2637aacfa4b00dccdd5c8fbdbbba8c7765813a46e230a15a0
+Description: 刀刀补充汉化，并在插件列表左侧增加架构指示器(arm64e → 绿色、arm64 → 蓝色、arm → 橙色、all → 灰色)，可识别刀刀源内的 RootHidePatcher 中文版，也识别 UmbraPatcher，转换插件一条龙。
 Name: Sileo(RootHide)
 Author: Amy While
 
