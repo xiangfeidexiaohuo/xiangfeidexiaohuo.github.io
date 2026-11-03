@@ -7441,23 +7441,6 @@ Description: 去你X的温控，测试支持iOS15.1.1及以下，其他系统版
 Name: 去你X的温控iOS15(rootless)
 Author: Shadow-
 
-Package: com.jrttnoads.rootless
-Architecture: iphoneos-arm64
-Version: 1.0
-Section: 嗨-工具
-Maintainer: 佚名
-Depends: mobilesubstrate
-Filename: ./rootless/头条NoAds(rootless).deb
-Size: 70884
-MD5sum: 9517f050d3cd1da914aaaeed1c0d338b
-SHA1: c1e71b686b76b2b74d1ae4616e2954a2403dc989
-SHA256: 68e81d34f068e0d56b0e4cabd79a5885ce32e158e615d19a18d3c083e13f6f77
-SHA512: eaf4a44ff5503bffde03780a09980acaa1c640e1da9de6c937f1153f46672d4168c96d5bc9d17d1e11e17b5f3b616716d54ead11dd99425f86b43d871878a2b3
-Description: 某大佬古老的今日头条系列去广告插件，无设置。插件还是老版本，可能某些功能失效，只是转换支持Fugu15/多巴胺越狱而已。提示：毕竟不是插件作者更新支持rootless，可能会出现bug/风险，若出现风险，自行承担！
-Name: 头条NoAds(rootless)
-Author: 佚名
-Sponsor: 佚名
-
 Package: com.apper.wf.rootless
 Architecture: iphoneos-arm64
 Version: 1.0.0
