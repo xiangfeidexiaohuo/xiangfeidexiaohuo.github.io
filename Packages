@@ -1732,6 +1732,25 @@ Description: 禁用iOS16+粘贴警告弹窗和粘贴提醒，并自动允许。
 Name: NPA16(RootHide)
 Author: SquidForce
 
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64e
+Version: 7.3.1+debug
+Section: 嗨-工具
+Maintainer: NeoFreeBird
+Installed-Size: 14172
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
+Filename: ./roothide/NeoFreeBird(RootHide)_7.3.1.deb
+Size: 4488370
+MD5sum: e2773d046eeef6e24f6823d9be3bc810
+SHA1: 3bedf33d3da0f63c5df60e55ca9d66401007dc20
+SHA256: f941674894a0a356f7286d379a29c6a35a57acd59bf1d0547a24324655054eae
+SHA512: 618939e33b18ec7e416d4d82b6ffb9084f8591a8ac35b9058ec65398911d1a2e19eda75873bd866b37ececd2a0613c19754d84b30d553b21edc23d0a0603befe
+Description: NeoFreeBird 推特增强插件。
+Name: NeoFreeBird(RootHide)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
+
 Package: com.daodao.nocshare
 Architecture: iphoneos-arm64e
 Version: 1.1.5
@@ -5469,6 +5488,25 @@ SHA512: 3c7bde961a9bf1d2ab09b5a8ab9305d4028fa6c1f930093c06899c760667e878993064a6
 Description: 禁用iOS16+粘贴警告弹窗和粘贴提醒，并自动允许。
 Name: NPA16(rootless)
 Author: SquidForce
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64
+Version: 7.3.1+debug
+Section: 嗨-工具
+Maintainer: NeoFreeBird
+Installed-Size: 14172
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
+Filename: ./rootless/NeoFreeBird(rootless)_7.3.1.deb
+Size: 4486854
+MD5sum: 49876a011ca6ead78f17ec40bb2de578
+SHA1: ec342b2eb6262e729df14a52b55ed90bf92e4dbe
+SHA256: 6c893727ff14c659ca1bf495c66daaead99c40dad3fa5685d68ce87621551695
+SHA512: c6ab57a43827c367c6c3a07a8384d5362edfd6d44874eac7e34b48016af1cc76bfc9014f03e83999a174c91e41d5e783d944127b6937096252876eb00c609974
+Description: NeoFreeBird 推特增强插件。
+Name: NeoFreeBird(rootless)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
 Package: com.dao.noappthinning
 Architecture: iphoneos-arm64
@@ -15412,6 +15450,25 @@ Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwi
 Name: NeoFreeBird-BHT 中文版
 Author: BandarHelal & actuallyaridan
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm
+Version: 7.3.1+debug
+Section: 嗨-工具
+Maintainer: NeoFreeBird
+Installed-Size: 14172
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
+Filename: ./rootful/NeoFreeBird_7.3.1.deb
+Size: 4490196
+MD5sum: b66abe41f76c90ccbd9fe8d23ddc778d
+SHA1: 502bb4570286eaffd58c9fb99defea837576890b
+SHA256: fa01eb5ca07321709faf4b01fde7cdce51edb5c07650b9099d209e501292d9e3
+SHA512: 378e65dca55ec40e72f14aa9ef6b82bfdf49a291815d7dad8c6da68a36f1cc7f38fb3e07f0c099b27d101ffe6e53a336ede1872922b4194200a9b80b865ee343
+Description: NeoFreeBird 推特增强插件。
+Name: NeoFreeBird
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
 Package: com.hk.ball.neptune.cn
 Architecture: iphoneos-arm
