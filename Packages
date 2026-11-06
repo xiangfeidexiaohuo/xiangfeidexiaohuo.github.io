@@ -54,17 +54,17 @@ Author: 妖刀
 
 Package: com.dao.asjtiktok
 Architecture: iphoneos-arm64e
-Version: 1.4
+Version: 1.4.1
 Section: 嗨-工具
 Maintainer: Ahmad Rashed
 Depends: mobilesubstrate
 Conflicts: com.ahmad.asjtiktok
-Filename: ./roothide/ASJTok(RootHide)_1.4.deb
-Size: 929276
-MD5sum: 8004bb7ea35c3a72dad2ef1d17067102
-SHA1: 4fe741c3e5280b9c9659ba909affd28b0846dffe
-SHA256: da5029694e0c8fa88dc968aa469d94fe8288f4f1be1201d2d519e3c596d786d6
-SHA512: a21d1616de2babec4896d33d2a82e30a6dc7ffe4283cb8d976f6d10ca33101168780b987be6f074e153cbd2db63c687fc53c3937a01116d9d5eb5b99068ffbfa
+Filename: ./roothide/ASJTok(RootHide)_1.4.1.deb
+Size: 931556
+MD5sum: c57f8569599399f63fc2a1456556f197
+SHA1: 9a0cf8e58aa5efe1345eb0a55072a78163cd796a
+SHA256: 196e3c693eda79e80e1e913187b97b76d88573588b054dfd288498d056cf2352
+SHA512: 8a669d92b22fbcf27a3daa81ec1ba654ed417dc6700e98379f5bbafa5d2dcfc9f6e999bbad152033f478ae6e25f39fce51cc8ef2394dd091309bcb52813729f9
 Description: TikTok多功能插件，可下载等，多语言支持，自动识别机器语言；插件入口：主页—>右上角“三”—>底部ASJTikTok。
 Name: ASJTok(RootHide)
 Author: Ahmad Rashed
@@ -3229,17 +3229,17 @@ Author: saurik, Cannathea <csupport@cannathea.com>
 
 Package: com.dao.asjtiktok
 Architecture: iphoneos-arm64
-Version: 1.4
+Version: 1.4.1
 Section: 嗨-工具
 Maintainer: Ahmad Rashed
 Depends: mobilesubstrate
 Conflicts: com.ahmad.asjtiktok
-Filename: ./rootless/ASJTok(rootless)_1.4.deb
-Size: 928408
-MD5sum: ad1d02c4785ce596d7179e1175ce1d2d
-SHA1: 16040b09bc4d1932d7cd3ad1a120b94433667d08
-SHA256: 049d79ea86f39c9748cbced30d844cd7e52a10420cc0f539958617f2fb26e050
-SHA512: 1cb269947117d3ce0f486d9322f1eaf9189094cc96c8bedf10d3ca7fd08c4d3e5c8c5a7e31adce3b72eb4de524e5d7eabb23d7753068557979a5d1091db41c74
+Filename: ./rootless/ASJTok(rootless)_1.4.1.deb
+Size: 935100
+MD5sum: 7dc639321ba779c0e71c5a2fde234591
+SHA1: ecb0c5f14a1f28bb215579415cabf38dd90c476a
+SHA256: bc91355ad926d306ab626d64e2e9943b976aba1186f9f097756c96a14710ebbb
+SHA512: a07d10d087e7d1e26626def198339d361d0c80286cd45dd7fc8204bdf501ab5f8eebac4c5eed6e8eb9a00284489f1d309a9ce92c88ef33312da94cc6366f5d48
 Description: TikTok多功能插件，可下载等，多语言支持，自动识别机器语言；插件入口：主页—>右上角“三”—>底部ASJTikTok。
 Name: ASJTok(rootless)
 Author: Ahmad Rashed
