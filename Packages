@@ -2874,21 +2874,19 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
-Version: 1.1.5
+Version: 1.1.5.1
 Section: 嗨-工具
 Maintainer: daodao
-Installed-Size: 6288
+Installed-Size: 6312
 Depends: mobilesubstrate, firmware (>= 15.0)
 Conflicts: com.itzzace.ytkace
-Filename: ./roothide/YTKACE(RootHide)_1.1.5.deb
-Size: 2023468
-MD5sum: de08f83371191590116af4d0578b6cfb
-SHA1: c66450fa5f1a5714116ac06ef2533fe1daaf9fd1
-SHA256: bc1d03da0f29e77e61da64ad5a8840ed502e48e8d6261ea39b7aa70c71e9224f
-SHA512: 86f8068a685e05396c9b2ca98412ddb74084e1a718493411f460b21d2689d27772f0b47a616e0e5fc17991416d4ed11fac76075039380793aba6a066bce92500
-Homepage: https://github.com/itzzace/ytkace
+Filename: ./roothide/YTKACE(RootHide)_1.1.5.1.deb
+Size: 2030680
+MD5sum: f751f5881701818ce439d2de4ca05a98
+SHA1: fd9472bbc0a7aab6f745cafb0c27594708f85dd8
+SHA256: f33f40a7fcee42bf258ae9700166cab00c2a002ef6a4b2399ba3e3f262f9e8eb
+SHA512: 744961a80234babc7ae1cc784d4661c1dc0005b8d90c9d72f6e0360592522b690cf73f7d9874100f3e118e8a4176d212fd4d2bfbfd1a306a9ad324970b636bb8
 Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Tag: role::enduser
 Name: YTKACE(RootHide)
 Author: itzzace & daodao
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
@@ -7110,21 +7108,19 @@ Author: Alucard
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64
-Version: 1.1.5
+Version: 1.1.5.1
 Section: 嗨-工具
 Maintainer: daodao
-Installed-Size: 6288
+Installed-Size: 6312
 Depends: mobilesubstrate, firmware (>= 15.0)
 Conflicts: com.itzzace.ytkace
-Filename: ./rootless/YTKACE(rootless)_1.1.5.deb
-Size: 2023132
-MD5sum: a6b96895bbf7f043326b664693987604
-SHA1: d50866efec4ad037fb855fb3bc86a88de055ed21
-SHA256: 7444a9d9c5c1553323637591de3fde9d11d9bc080209247ac971978d1e09fbc9
-SHA512: 9b6b1bf25ced99219f6be9c7b67d8cb97997caccffc62f4f17a109191713ddf88973658687970938e2114e028af7f96db28d6d4c6d93cd97a003667c0daf5908
-Homepage: https://github.com/itzzace/ytkace
+Filename: ./rootless/YTKACE(rootless)_1.1.5.1.deb
+Size: 2030484
+MD5sum: 4cd6e669ab3b60e2f119d2877f03465b
+SHA1: 40f1a3a9e9cff938ec051bfedbef5e7b68b0c508
+SHA256: 286151e4dd1ae7733738e6c53c2ce8ed1cc7a73c4a3730cbc2ef963a72cf12e9
+SHA512: e0dd5239127435d2bb7077c338f61ea9107d6a9f7332e0e480cdfbd8987ec3837014da49bec5002446791aa1c3892d1db322a23ca183450dfa1c9b73e98b7708
 Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Tag: role::enduser
 Name: YTKACE(rootless)
 Author: itzzace & daodao
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
@@ -20185,21 +20181,19 @@ Author: HASHBANG Productions
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm
-Version: 1.1.5
+Version: 1.1.5.1
 Section: 嗨-工具
 Maintainer: daodao
-Installed-Size: 6288
+Installed-Size: 6312
 Depends: mobilesubstrate, firmware (>= 15.0)
 Conflicts: com.itzzace.ytkace
-Filename: ./rootful/YTKACE_1.1.5.deb
-Size: 2023062
-MD5sum: ce9ee834eae96940e577282eed563316
-SHA1: 58b3547ecddf21d2539a9e0d55fa034c0616a728
-SHA256: fad64ee01a5fb1e26860b12e260793f28f273162fe7a3287b3abe432e786109a
-SHA512: 7aa5edde08cefece743ccd12bc803f15ab01a50bd22d8fd6859415e1ae418d243e24750bc7c1511daf877c1170f22b3883c4a57e92b9229b6cce832dfffcbfcc
-Homepage: https://github.com/itzzace/ytkace
+Filename: ./rootful/YTKACE_1.1.5.1.deb
+Size: 2030252
+MD5sum: a98829e981620d5bc9ba3c59fe0b30dd
+SHA1: 4c6c8551dcf5321a360f5b70783a8bd7c9000d20
+SHA256: 8708cbcaeec6d6bbf4f3bfbcb8fc7cc17c10ddd393ec15e186dece1190f0c606
+SHA512: d653d938c8fd5d5961e33e0b9ed1bd4d06cd4e164c1fe98d05088af36cac1dee0d3d293acb79539415dc684c7ea3df4ea3b91acd7365a3242564e689ec4ebf81
 Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Tag: role::enduser
 Name: YTKACE
 Author: itzzace & daodao
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
