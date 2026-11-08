@@ -970,22 +970,6 @@ Description: Filza解锁全部功能，请在官方源安装Filza。Netskao新�
 Name: Filza Crack(RootHide)
 Author: Netskao
 
-Package: com.hk.filza.cn.rl
-Architecture: iphoneos-arm64e
-Version: 4.0-2
-Section: 嗨-汉化
-Maintainer: 妖刀
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./roothide/Filza 中文增补包(RootHide).deb
-Size: 13788
-MD5sum: 2619cd7878896a2f724fca24c26910f9
-SHA1: 042499ba946192718a3dcbcabad3cdd4490dd12d
-SHA256: f0f5871d71e14503618cdd631b2ed8666b7600736f92961d8eb9910f7a1e84bb
-SHA512: 7dcae06cd0ba78b99a2845ac6b7b82e3d601dd7e3a34ee04aa21c08174f1fc3d7dcb6b578d7b3af88ec7315c501104360545979ea1a8a115b028bc5af951a109
-Description: Filza 中文增补包(RootHide)。
-Name: Filza 中文增补包(RootHide)
-Author: Mo/妖刀/Alucard
-
 Package: com.hk.floatingdock16.cn.rl
 Architecture: iphoneos-arm64e
 Version: 1.8
@@ -1693,6 +1677,25 @@ SHA512: 4045a1e9cc3ecc05fcc545722e424a8cbf3220252732afe352f2e7fdd2c67b65297b7ada
 Description: 禁用iOS16+粘贴警告弹窗和粘贴提醒，并自动允许。
 Name: NPA16(RootHide)
 Author: SquidForce
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64e
+Version: 7.3.1.1+debug
+Section: 嗨-工具
+Maintainer: NeoFreeBird
+Installed-Size: 14216
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
+Filename: ./roothide/NeoFreeBird(RootHide)_7.3.1.1.deb
+Size: 4490964
+MD5sum: 42be65f9cc544b6baad6a038b3b9ad76
+SHA1: bd505f953b495ad3ca061489df6518a1a0391981
+SHA256: 106dec6eef8abda9f8565ef2f6a87f71744f9b8ec99e0cac74d79522b2a44a84
+SHA512: 716b1aa7c6e74fdcde3cb092b2841ddea807ef9cc91193d651e9c3f19e2b809aeb018a6a2822f292cbf31d7a36d7edb5b95e080b906910df790320df4d34a44d
+Description: NeoFreeBird 推特增强插件。
+Name: NeoFreeBird(RootHide)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64e
@@ -4507,22 +4510,6 @@ Description: Filza解锁全部功能，请在官方源安装Filza。Netskao新�
 Name: Filza Crack(rootless)
 Author: Netskao
 
-Package: com.hk.filza.cn.rl
-Architecture: iphoneos-arm64
-Version: 4.0-2
-Section: 嗨-汉化
-Maintainer: 妖刀
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./rootless/Filza 中文增补包(rootless).deb
-Size: 13820
-MD5sum: 0b670aed98a3e1170bcf29c0b7d72245
-SHA1: 5fe6d95d322cecb6388ce616eed6075421321447
-SHA256: 7e60a06f82cc5e2bceb42b3218aa65c91ea83b93cbbcafac0a88065912070a47
-SHA512: 683ef674ac7917398d3166a034bab2f0b37f15c609fa0446926af2f5c30d4c8d7b02611156486466d922fb7e0048d6ec767ccd71ef256c7213e90de9947bc396
-Description: Filza 中文增补包(rootless)。
-Name: Filza 中文增补包(rootless)
-Author: Mo/妖刀/Alucard
-
 Package: com.hk.floatingdock16.cn.rl
 Architecture: iphoneos-arm64
 Version: 2.3
@@ -5412,6 +5399,25 @@ SHA512: 3c7bde961a9bf1d2ab09b5a8ab9305d4028fa6c1f930093c06899c760667e878993064a6
 Description: 禁用iOS16+粘贴警告弹窗和粘贴提醒，并自动允许。
 Name: NPA16(rootless)
 Author: SquidForce
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64
+Version: 7.3.1.1+debug
+Section: 嗨-工具
+Maintainer: NeoFreeBird
+Installed-Size: 14216
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
+Filename: ./rootless/NeoFreeBird(rootless)_7.3.1.1.deb
+Size: 4490646
+MD5sum: 37c6d238558eadfc1d69e8f0b0a6287b
+SHA1: ab5529db5b8bab21f179613c8615a0e491d64339
+SHA256: 10bb6f99ad03da2b1475c685882e2e3a724791cf52c2143355d1a49049acbb74
+SHA512: 4584522649e07a05a4b20ee30bbd54c8f147142ebdd98ce4cd4107e7ea152deea14f097accf7ba267116b90a4d810a72032fef53963d39e012337f2fb2a06e0c
+Description: NeoFreeBird 推特增强插件。
+Name: NeoFreeBird(rootless)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64
@@ -12036,22 +12042,6 @@ Description: Filza破解补丁，搭配官方版使用。若发现Filza激活状
 Name: Filza Crack
 Author: xia0z
 
-Package: com.hk.filza.cn
-Architecture: iphoneos-arm
-Version: 4.0-2
-Section: 嗨-汉化
-Maintainer: 妖刀
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./rootful/Filza_CN.deb
-Size: 13772
-MD5sum: 06a568942a6fca072f969a16af882292
-SHA1: 4c2b06ded50cbde418772d12058912ab587bd444
-SHA256: ac9cabb7fe1b84f5f32457ea47afd8a9a2efdb211a1005c659389d6beaa37456
-SHA512: aa670ebfbf74382da1a88fb3f0098427906b2f895dc920bd7ee74c70b2418c4db4acc0cbb7c1c8aba258b89918dc52d8f5d174ea3bb6d955e24b8b8f2294c924
-Description: Filza 中文增补包。
-Name: Filza 中文增补包
-Author: Mo/妖刀/Alucard
-
 Package: com.hk.fingerlock.cn
 Architecture: iphoneos-arm
 Version: 1.1.7-1
@@ -15355,6 +15345,25 @@ Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwi
 Name: NeoFreeBird-BHT 中文版
 Author: BandarHelal & actuallyaridan
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
+
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm
+Version: 7.3.1.1+debug
+Section: 嗨-工具
+Maintainer: NeoFreeBird
+Installed-Size: 14216
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
+Filename: ./rootful/NeoFreeBird_7.3.1.1.deb
+Size: 4490980
+MD5sum: 3996a9e879486116dba59ef995d94c70
+SHA1: 5e1d08b810d8c341ce3c0843d717fc3ce1212996
+SHA256: 28877fed695906f2e1677bb71e4bdb9374f2de8f5cf3b6a489b7a2fa183a2602
+SHA512: 0df0d1ba8d4a0f66450d3a4138e2aeedcdd05a02d4097b79e9ea840e4af2445c3f177768edf6ca1bdc69fe69efb18934c6a34528d108fe927bf97f4ab0ea2257
+Description: NeoFreeBird 推特增强插件。
+Name: NeoFreeBird
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm

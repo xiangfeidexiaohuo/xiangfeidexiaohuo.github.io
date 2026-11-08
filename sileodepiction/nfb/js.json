@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "7.3.1",
+                    "text": "7.3.1.1",
                     "title": "最新版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 11 月 04 日",
+                    "text": "2026 年 11 月 08 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -99,13 +99,13 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "7.3.1",
+                    "title": "7.3.1.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                },
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "同步 NeoFreeBird 源码",
+                    "markdown": "同步 NeoFreeBird 源码</br> 其他优化",
                     "useRawFormat": true
                },
                {
