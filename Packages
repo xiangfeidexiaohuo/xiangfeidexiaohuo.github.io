@@ -135,6 +135,24 @@ Name: AppProtect 隐私保护(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
+Package: com.dao.appprotect
+Architecture: iphoneos-arm64e
+Version: 2.5.0
+Section: 嗨-付费
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
+Filename: ./roothide/AppProtect 隐私保护(RootHide)_2.5.0.deb
+Size: 667364
+MD5sum: c2580b32e4aa9d87cef7da60bc6c3f80
+SHA1: 525119567f9f0a6b41da3ae5ddeee935957db091
+SHA256: ae848a37468c6e7fc7f1e968ee54c9f81363230d684f1e51f8d8a19334e03c47
+SHA512: f66727aa94f0387cb1e1f800a8e497980dbb71838164202e039f927a9a186432cec1ac7ac070d48531717c5adfe9744951d2272c55e6c4228ddcb8f33dea829a
+Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
+Name: AppProtect 隐私保护(RootHide)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
+
 Package: com.dao.appstoretroller
 Architecture: iphoneos-arm64e
 Version: 0.1.2
@@ -201,6 +219,24 @@ MD5sum: 4b4daafd02f37b6202a6623a13826f83
 SHA1: ab41f9dc8b47547bf3000dfa2b7d0ef847bc8271
 SHA256: e3ea2fe7152138019ea7020075513058783a98bf683f917dd7efa84bd87b3444
 SHA512: 5bcd67ee33887615e134e9ed60381c46c1435af947489a5972b854bf17e68c0f047682a367700987e7a8fc3a9423d5e21d865dcb85f2cbab97d785bd49ae9866
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Name: AppTools15-17(RootHide)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
+Package: com.dao.apptools15
+Architecture: iphoneos-arm64e
+Version: 2.9.3
+Section: 嗨-付费
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Filename: ./roothide/AppTools15-17(RootHide)_2.9.3.deb
+Size: 2394520
+MD5sum: 49b4d8856010411f62ce3bfad4ccdd17
+SHA1: c6428661bf2d2a2008f0a429085f7cc94446e10f
+SHA256: f8d6f8f591aabf8cb782c95ddd683dbe7153a3ee696854105df4030e704413aa
+SHA512: 407702ab4fbd71fab7ad13887137f0a2a4a1a1fb10744b4a5f4910bb538ef176165143663e57fbc5cd308a39351764387d2b19a544214d1b6315d8331a73e5c4
 Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Name: AppTools15-17(RootHide)
 Author: aReo
@@ -1838,6 +1874,24 @@ Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好�
 Name: PodsGrant(RootHide)
 Author: Ruphane
 
+Package: com.dao.pogr
+Architecture: iphoneos-arm64e
+Version: 0.5.5
+Section: 嗨-工具
+Maintainer: Ruphane
+Installed-Size: 620
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./roothide/PodsGrant(RootHide)_0.5.5.deb
+Size: 79714
+MD5sum: 456ce6951fcc8a9bab38617bd147fc49
+SHA1: 1095894beec5dcbc2134933f47669e13f3a00cf8
+SHA256: c152573e89618d426a03ab746c8f5a3a6293e1861c2fd83b83f429c9bf363f66
+SHA512: 7de51eedc87443e178e2549f427e8d98925d23f9b25f5c983d01ea354d80b5d2f85a724a2e7ff05a1d1cca0cfa07e51d45c0272028a12cc49b871cbfe6e30094
+Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；支持AirPods4；自行实测！
+Name: PodsGrant(RootHide)
+Author: Ruphane
+
 Package: com.dao.powercuff
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -3345,6 +3399,24 @@ Name: AppProtect 隐私保护(rootless)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
 
+Package: com.dao.appprotect
+Architecture: iphoneos-arm64
+Version: 2.5.0
+Section: 嗨-付费
+Maintainer: aReo
+Depends: mobilesubstrate,preferenceloader
+Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
+Filename: ./rootless/AppProtect 隐私保护(rootless)_2.5.0.deb
+Size: 748364
+MD5sum: 5f9caa08aa00bb8423c3f3f029269a54
+SHA1: 0ecaee77dd4f27e727832e6ac2b8a603cbcbdec6
+SHA256: c7f609d02c365b9cf8b668e35e7478aef0a2cd057ce6118a74ca490264078b01
+SHA512: a4183ed3a8d970e60cd6db1fae6feac9205f1185bdefcde9043c9856aab3627e9a2b59d323a1bb5374f07fbb3de6d16685f77d511d73cf2e491cc406fb4ca5b5
+Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
+Name: AppProtect 隐私保护(rootless)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
+
 Package: com.dao.appstoretroller
 Architecture: iphoneos-arm64
 Version: 0.1.2
@@ -3410,6 +3482,24 @@ MD5sum: bab3d8ead2a57ac5b247e82d58be0955
 SHA1: c5467caaadb7c5c9c7e9f60a33af94f59e016d25
 SHA256: dbe8577b5215ed9666e33bb89350ac43a7cb2275d254f4c0639bd6beb533a383
 SHA512: c6d39a47338f8a28840d8566dc9f14916ecb19c5d6514f259b5cfdaa3cba4f001f249d22139ef5af37de4dab5553a2d1b1d6b75e3f35a0e15a5b4205f938d6e3
+Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
+Name: AppTools15-17(rootless)
+Author: aReo
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
+
+Package: com.dao.apptools15
+Architecture: iphoneos-arm64
+Version: 2.9.3
+Section: 嗨-付费
+Maintainer: aReo
+Depends: firmware (>=15.0), mobilesubstrate
+Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
+Filename: ./rootless/AppTools15-17(rootless)_2.9.3.deb
+Size: 2401404
+MD5sum: 297f33eeab0c34454b8d201c78cfe4ea
+SHA1: 18523f6f75200377cbaace19bbd74215890722e4
+SHA256: d24b133510f8a4c6fd04146566a8a8cb5c2c2a187a970c2b8b2373b0f3c31851
+SHA512: 74b8db569346e59327bd3d12c3f0c10a2b3f7f9d5d8cfeee3c154527c754d5304efe69f296731d3e4ae14d69bb4732e4c41e65df1ee0b9d71302daff1faeb951
 Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
 Name: AppTools15-17(rootless)
 Author: aReo
@@ -5711,6 +5801,24 @@ MD5sum: 8c91fcb40be0a9d152344610a752d334
 SHA1: cc65695fccb995b68b27a91469664f6407799ddc
 SHA256: ac2953b31a93f0b0ffdf514f049f2bab6f0ff6f1f69a6f0a2876b794c19ce826
 SHA512: b4411be46aad23bdf154c58262ba2cfd9def92826511cf282019ea8bb056a8ef8becd2a5d7b1415d96f636ebb9fea88df460bbe675ce41532a85815ad147a40e
+Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；支持AirPods4；自行实测！
+Name: PodsGrant(rootless)
+Author: Ruphane
+
+Package: com.dao.pogr
+Architecture: iphoneos-arm64
+Version: 0.5.5
+Section: 嗨-工具
+Maintainer: Ruphane
+Installed-Size: 452
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./rootless/PodsGrant(rootless)_0.5.5.deb
+Size: 76026
+MD5sum: 054ed98342d0f15b97a5ad44f8bfff38
+SHA1: b4797ce8e28125df8081a1f9056ee24f1063e15b
+SHA256: c83a528c76b0e46ec31031079cbacea7a1e11d1bd8296696af99abba2e13a9e7
+SHA512: 6c51f54f9b706497ff79d04bea55b13f993f4841b76c1d42e6249dd59e18b14cd1589580307295fd6b9b2133000cba58794fd9ca5167e78e5c39613a756c1c3f
 Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；支持AirPods4；自行实测！
 Name: PodsGrant(rootless)
 Author: Ruphane
@@ -16179,6 +16287,24 @@ MD5sum: 5a0b219bc729f3cf439e15ecb140ff58
 SHA1: 824a875a4bb1a8499dee3891540bb7b00e042afd
 SHA256: 4df8228a5cc088577d96155a93fe3f300310a6d3939c6cedc58256593e999f30
 SHA512: 308e6a2d634ea5f3bf574fbc29218c57f6d2ab966cb3ae9f4bd6bfeb9d1d3ea103313c84c4c602248acd8339e7d132ab308ec57821a359163b016d381e3e47e4
+Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；支持AirPods4；自行实测！
+Name: PodsGrant
+Author: Ruphane
+
+Package: com.dao.pogr
+Architecture: iphoneos-arm
+Version: 0.5.5
+Section: 嗨-工具
+Maintainer: Ruphane
+Installed-Size: 624
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./rootful/PodsGrant_0.5.5.deb
+Size: 82360
+MD5sum: d1a0b0521a38ecf423b951271af52a24
+SHA1: 2110c2f3a33783eadbd0bb0759d9a4991ab38068
+SHA256: 8507bd77f71746e53750d4de537aa8a4323402ddc15c2b6349ed0901a20c4e5a
+SHA512: fbb85ce84e55c5e76ce17708758a4443892df810cb687743d858f4a4649083ba11e58be67116f3469e50f2e26a570e491de9f2b3c753c0dca0108c5d74a0c4be
 Description: 将AirPodsPro2伪装成AirPodsPro，让其在旧iOS系统上更好地运行；支持 iOS16和USB-C版AirPodsPro2；支持AirPods4；自行实测！
 Name: PodsGrant
 Author: Ruphane
