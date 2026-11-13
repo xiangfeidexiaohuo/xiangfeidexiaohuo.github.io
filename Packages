@@ -954,17 +954,17 @@ Author: 妖刀
 
 Package: com.dao.spotify
 Architecture: iphoneos-arm64e
-Version: 7.0.0
+Version: 7.0.1
 Section: 嗨-工具
 Maintainer: jaydenjcpy
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
 Conflicts: com.eevee.spotify
-Filename: ./roothide/Eevee(RootHide)_7.0.0.deb
-Size: 2646332
-MD5sum: 3826dbe59cdc256687018f983c3654ea
-SHA1: 380c1e4035048f9522f5c9b2861a414888a8d6a9
-SHA256: 0db6cdb5787a13337ee230d4e0d256908790037bac1549ddfab6e272418ef5a9
-SHA512: 6076ace697e41a983c7c652bd5198daa2c664e78a5ed41f1040000604914d9f5f24a79ddf8049e2f8ae119608a9f4468adda537fcc088714d26df8ff9c6df851
+Filename: ./roothide/Eevee(RootHide)_7.0.1.deb
+Size: 2631356
+MD5sum: 600684837f63535ac89977a980d427e4
+SHA1: 58175d673b0a43f87ef3ee5189a62301f35593f4
+SHA256: 46d00f419d2200e48affa801a466a1f0ba5e5fd1e7f93b902576fa3edd3864a2
+SHA512: eefb5844ca3dd60336ebf7f07b295801cd313753bc0718ada590ab4e611a6c2d18e9dcf62a96d7815bcc8de9943b0a4d0622f675c5abdc4d92fd9519a48b36bd
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Name: Eevee(RootHide)
 Author: Eevee
@@ -2913,25 +2913,6 @@ Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
-Version: 1.1.5.1
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6312
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./roothide/YTKACE(RootHide)_1.1.5.1.deb
-Size: 2030680
-MD5sum: f751f5881701818ce439d2de4ca05a98
-SHA1: fd9472bbc0a7aab6f745cafb0c27594708f85dd8
-SHA256: f33f40a7fcee42bf258ae9700166cab00c2a002ef6a4b2399ba3e3f262f9e8eb
-SHA512: 744961a80234babc7ae1cc784d4661c1dc0005b8d90c9d72f6e0360592522b690cf73f7d9874100f3e118e8a4176d212fd4d2bfbfd1a306a9ad324970b636bb8
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(RootHide)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64e
 Version: 1.1.7
 Section: 嗨-工具
 Maintainer: daodao
@@ -4533,17 +4514,17 @@ Author: 妖刀
 
 Package: com.dao.spotify
 Architecture: iphoneos-arm64
-Version: 7.0.0
+Version: 7.0.1
 Section: 嗨-工具
 Maintainer: jaydenjcpy
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
 Conflicts: com.eevee.spotify
-Filename: ./rootless/Eevee(rootless)_7.0.0.deb
-Size: 2573112
-MD5sum: 7530ebfa1bc594a008ddba6ba6eb8433
-SHA1: abfbdd03c054c483837473f51e35fbecb2fb3b9e
-SHA256: e989a69621eabd9beb2eb0782db26f543766c68c908ea7f67799ebaec2c6a33c
-SHA512: 7603a368bbd027bc02271db94ce74e6e8351e4e2d71d727336de080586353ac88d726af78faa8a682ba7d23df9d99862b1d03671a580072010216074940c2e0f
+Filename: ./rootless/Eevee(rootless)_7.0.1.deb
+Size: 2555152
+MD5sum: df88de17c8d50ebb3f8bd6bd7d56687a
+SHA1: 648ea9b7a54b37dcd7daceba99cbc8e4e3f4a2b1
+SHA256: 0534f68a2dad2da62766ad148c7603ea1aef9a3893702da93d3e50f6c2f4c0d3
+SHA512: 18e5126f6147bf48e1570386ce7fad5d674d878fefbbe6bff1ee97804e373b3ca08a5651f8fd31913a70f545688557dd2ba86cad4ccb5233b57ef25f3c54d130
 Description: 免费获得 Spotify Premium，就像 Spotilife 一样；更多的歌词服务，更多的自定义。
 Name: Eevee(rootless)
 Author: Eevee
@@ -7202,25 +7183,6 @@ SHA512: 1472c1e2f127b6262883aade2a6536bb211a2253f3ade3ea5d80556358029a2901a6a3c7
 Description: WiFiQR和HotspotQR 共用简体中文包(rootless)。
 Name:  WiFiQR & HotspotQR 简体中文包(rootless)
 Author: Alucard
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64
-Version: 1.1.5.1
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6312
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootless/YTKACE(rootless)_1.1.5.1.deb
-Size: 2030484
-MD5sum: 4cd6e669ab3b60e2f119d2877f03465b
-SHA1: 40f1a3a9e9cff938ec051bfedbef5e7b68b0c508
-SHA256: 286151e4dd1ae7733738e6c53c2ce8ed1cc7a73c4a3730cbc2ef963a72cf12e9
-SHA512: e0dd5239127435d2bb7077c338f61ea9107d6a9f7332e0e480cdfbd8987ec3837014da49bec5002446791aa1c3892d1db322a23ca183450dfa1c9b73e98b7708
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(rootless)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64
@@ -20315,25 +20277,6 @@ SHA512: bd945f4260ea62ce48b47bc42f2304e2a1329a2d5e250bd296b0c94d2447aeb26849cbb9
 Description: Xina1专版NewTerm3，Xina1用户千万不要更新Procursus源提示的三十几个依赖更新，千万别更新！！！
 Name: NewTerm 3(Xina1)
 Author: HASHBANG Productions
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm
-Version: 1.1.5.1
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6312
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootful/YTKACE_1.1.5.1.deb
-Size: 2030252
-MD5sum: a98829e981620d5bc9ba3c59fe0b30dd
-SHA1: 4c6c8551dcf5321a360f5b70783a8bd7c9000d20
-SHA256: 8708cbcaeec6d6bbf4f3bfbcb8fc7cc17c10ddd393ec15e186dece1190f0c606
-SHA512: d653d938c8fd5d5961e33e0b9ed1bd4d06cd4e164c1fe98d05088af36cac1dee0d3d293acb79539415dc684c7ea3df4ea3b91acd7365a3242564e689ec4ebf81
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm
