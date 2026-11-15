@@ -119,24 +119,6 @@ Author: 妖刀
 
 Package: com.dao.appprotect
 Architecture: iphoneos-arm64e
-Version: 2.4.9
-Section: 嗨-付费
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
-Filename: ./roothide/AppProtect 隐私保护(RootHide)_2.4.9.deb
-Size: 708104
-MD5sum: df9ae3378a47732e0480a7d35b5f0b53
-SHA1: 5690570680ff727e8f74f492ba6787dbb5b14738
-SHA256: 12af3d2175363cf1d1d961475924e6ba6d7a5c1d6f54f6069b0a3bed246f446e
-SHA512: 0231db1c6acb4742aacf68ec98fd96dbfa9817574585cce4c68e76b7c531c5d9ba8e8268c110898f6cae4abecca5e4a5b92e3bc1ffcb91f02c21180db5089be2
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Name: AppProtect 隐私保护(RootHide)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
-Architecture: iphoneos-arm64e
 Version: 2.5.0
 Section: 嗨-付费
 Maintainer: aReo
@@ -205,42 +187,6 @@ SHA512: 49bd3545fdfe2b120be084b41f6fbc39478ab646b8be4f79f386cafef0b24dfea85f7cc7
 Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
 Name: AppTools Lite(RootHide)
 Author: aReo
-
-Package: com.dao.apptools15
-Architecture: iphoneos-arm64e
-Version: 2.9.4
-Section: 嗨-付费
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: ./roothide/AppTools15-17(RootHide)_2.9.4.deb
-Size: 2394988
-MD5sum: 4a7fc26841197c47f9d71ffda1fdd0ed
-SHA1: fafa66fd169ae62d54d68f96dcb60bb058c92e28
-SHA256: 02fd10f892ebc92521c6b53eb515d0261b5e436d1a634fbfa07e2eec57fbb71e
-SHA512: d9fa80b041b3d490aeb5ffa26e61292cbeb9383be22c18955000826e2dd55cf8b7ff9d53e6f58251a3156bb36bf49cc72c05d1439ba9a87ba76e0e571e677e13
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Name: AppTools15-17(RootHide)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
-
-Package: com.dao.apptools15
-Architecture: iphoneos-arm64e
-Version: 2.9.5
-Section: 嗨-付费
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: ./roothide/AppTools15-17(RootHide)_2.9.5.deb
-Size: 2415652
-MD5sum: 53ae9d09310285a84bbf2005e86a8aea
-SHA1: e43dfe8829a7f2f462a05851a8443c513dfdc5da
-SHA256: f8a7613fb3342a92b17338b83d056af35079d724ec128ccaba5b2f63dc785820
-SHA512: fa69e4da8c1857a7a7eb2c37d37661a17aaea37d1650a2dfe5cd445cb204a351af3b307e4261752fa905a3ebec08db3ee524070a73b8fe6d3d49e35b3f4185a7
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Name: AppTools15-17(RootHide)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
 Package: com.dao.apptools15
 Architecture: iphoneos-arm64e
@@ -1746,25 +1692,6 @@ MD5sum: 42be65f9cc544b6baad6a038b3b9ad76
 SHA1: bd505f953b495ad3ca061489df6518a1a0391981
 SHA256: 106dec6eef8abda9f8565ef2f6a87f71744f9b8ec99e0cac74d79522b2a44a84
 SHA512: 716b1aa7c6e74fdcde3cb092b2841ddea807ef9cc91193d651e9c3f19e2b809aeb018a6a2822f292cbf31d7a36d7edb5b95e080b906910df790320df4d34a44d
-Description: NeoFreeBird 推特增强插件。
-Name: NeoFreeBird(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
-Version: 7.3.1+debug
-Section: 嗨-工具
-Maintainer: NeoFreeBird
-Installed-Size: 14172
-Depends: mobilesubstrate
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
-Filename: ./roothide/NeoFreeBird(RootHide)_7.3.1.deb
-Size: 4488370
-MD5sum: e2773d046eeef6e24f6823d9be3bc810
-SHA1: 3bedf33d3da0f63c5df60e55ca9d66401007dc20
-SHA256: f941674894a0a356f7286d379a29c6a35a57acd59bf1d0547a24324655054eae
-SHA512: 618939e33b18ec7e416d4d82b6ffb9084f8591a8ac35b9058ec65398911d1a2e19eda75873bd866b37ececd2a0613c19754d84b30d553b21edc23d0a0603befe
 Description: NeoFreeBird 推特增强插件。
 Name: NeoFreeBird(RootHide)
 Author: NeoFreeBird
@@ -3401,24 +3328,6 @@ Author: Fouad Raheb
 
 Package: com.dao.appprotect
 Architecture: iphoneos-arm64
-Version: 2.4.9
-Section: 嗨-付费
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectroothide, com.flex2areo.appprotectrootless, com.dao.appprotectrootless, com.dao.appprotectroothide
-Filename: ./rootless/AppProtect 隐私保护(rootless)_2.4.9.deb
-Size: 746668
-MD5sum: 5e2a4492e0eb88507da9eb787b9925ba
-SHA1: 72d82047126ab5fbbeb53a9822203a4ff576d01f
-SHA256: 4dc65da886a84166b6f7023aaeef018585d6311ecc9a43102eb704410ba02c5b
-SHA512: 825ed878b28c91b6a16753871dd5e0bc8e983133f14f56396a0e5603fded095fd41902b72830e8e19334bb338cbac06de5052d9af22950880832f781c8713898
-Description: 一款强大的App隐私保护插件，系付费插件，自行购买。
-Name: AppProtect 隐私保护(rootless)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/appprotect/js.json
-
-Package: com.dao.appprotect
-Architecture: iphoneos-arm64
 Version: 2.5.0
 Section: 嗨-付费
 Maintainer: aReo
@@ -3486,42 +3395,6 @@ SHA512: fc38766bbe6b58a0167ba99b2911792027a6d678209316df011094b4708797b072f2cbed
 Description: 强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。Lite版：去除标准版里的图标阴影、开屏跳广、桌面布局功能，主打更流畅、更稳定。注：不可与标准版同时安装。
 Name: AppTools Lite(rootless)
 Author: aReo
-
-Package: com.dao.apptools15
-Architecture: iphoneos-arm64
-Version: 2.9.4
-Section: 嗨-付费
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: ./rootless/AppTools15-17(rootless)_2.9.4.deb
-Size: 2388504
-MD5sum: dd30ee6279c5d0fb8df936ba05d76b9e
-SHA1: 0498b5d1807c9bb9ec09bcf120a85e9bb5a6c3e0
-SHA256: 071ba719f6c0b92af2380ba4b1dfa0cc936852dd03547d4e390ffbfa5b56cdfc
-SHA512: f42eddd3a2ade4ddba4289369a90bd95f953cb90d3a043aaa11a3977a50ba0ef9da38e0b96edc40015ffa74ab4c694b43c4f1f576f398dfd5f2cfd21c306677f
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Name: AppTools15-17(rootless)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
-
-Package: com.dao.apptools15
-Architecture: iphoneos-arm64
-Version: 2.9.5
-Section: 嗨-付费
-Maintainer: aReo
-Depends: firmware (>=15.0), mobilesubstrate
-Conflicts: com.flex2areo.apptools15rootless, com.flex2areo.apptools15roothide, com.flex2areo.apptools15, com.dao.apptools15roothide, com.dao.apptools15rootless
-Filename: ./rootless/AppTools15-17(rootless)_2.9.5.deb
-Size: 2407660
-MD5sum: df2b025d2c232fbd2ca1195424b7a9fe
-SHA1: 6219ebc442ee04866ea8380d816316fff212bbae
-SHA256: dde6cbf177fb0d25cb87b535df4a94a7478e8fe0246843070f67a21e0c9458f4
-SHA512: 481105f2d9c12a4ed7fa3b408b3a47c6e2e95b5ee5543e35f223c6a60de16bbb44137c1e267e4df936fe9f4f790c6d79fd9ac71e4e413e22b8f9bf1295922397
-Description: AppTools for iOS15~17，强大的App类辅助插件，可以清理缓存、备份程序、清理角标、自定义分辨率、禁止插件插件注入等，系付费插件，自行购买。
-Name: AppTools15-17(rootless)
-Author: aReo
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
 Package: com.dao.apptools15
 Architecture: iphoneos-arm64
@@ -5540,25 +5413,6 @@ MD5sum: 37c6d238558eadfc1d69e8f0b0a6287b
 SHA1: ab5529db5b8bab21f179613c8615a0e491d64339
 SHA256: 10bb6f99ad03da2b1475c685882e2e3a724791cf52c2143355d1a49049acbb74
 SHA512: 4584522649e07a05a4b20ee30bbd54c8f147142ebdd98ce4cd4107e7ea152deea14f097accf7ba267116b90a4d810a72032fef53963d39e012337f2fb2a06e0c
-Description: NeoFreeBird 推特增强插件。
-Name: NeoFreeBird(rootless)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64
-Version: 7.3.1+debug
-Section: 嗨-工具
-Maintainer: NeoFreeBird
-Installed-Size: 14172
-Depends: mobilesubstrate
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
-Filename: ./rootless/NeoFreeBird(rootless)_7.3.1.deb
-Size: 4486854
-MD5sum: 49876a011ca6ead78f17ec40bb2de578
-SHA1: ec342b2eb6262e729df14a52b55ed90bf92e4dbe
-SHA256: 6c893727ff14c659ca1bf495c66daaead99c40dad3fa5685d68ce87621551695
-SHA512: c6ab57a43827c367c6c3a07a8384d5362edfd6d44874eac7e34b48016af1cc76bfc9014f03e83999a174c91e41d5e783d944127b6937096252876eb00c609974
 Description: NeoFreeBird 推特增强插件。
 Name: NeoFreeBird(rootless)
 Author: NeoFreeBird
@@ -15474,24 +15328,6 @@ Author: Ball <ball@hackcn.net>
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm
-Version: 5.0-3
-Section: 嗨-工具
-Maintainer: actuallyaridan & 刀刀
-Depends: mobilesubstrate, ws.hbang.common
-Conflicts: com.bandarhl.rootless.bhtwitter, com.bandarhl.bhtwitter, com.daodao.rootless.bhtwitter, com.hk.BHTwitter.cn, com.dao.bhtwitter
-Filename: ./rootful/NeoFreeBird-BH_5.0-3.deb
-Size: 7691712
-MD5sum: 37cc66f3f677313aeb1926c4b6018e03
-SHA1: 36b987c604e588e3d24ad4eaf3ece113b587bac4
-SHA256: 38a533f92476729f552dd66504d342fc26bf90bfd8ebfa914fcb8d2bfc97ebc7
-SHA512: aa31e4bb69dedc3385c9237ce135ed53bdade5e71d566e0aa67c4a21fb50747fb785c0cbee5a4ea775bd17e0545c8e27cff7baa2ffee2735165dea5f143f4dc6
-Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Name: NeoFreeBird-BHT 中文版
-Author: BandarHelal & actuallyaridan
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb-bht/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
 Version: 7.3.1.1+debug
 Section: 嗨-工具
 Maintainer: NeoFreeBird
@@ -15504,25 +15340,6 @@ MD5sum: 3996a9e879486116dba59ef995d94c70
 SHA1: 5e1d08b810d8c341ce3c0843d717fc3ce1212996
 SHA256: 28877fed695906f2e1677bb71e4bdb9374f2de8f5cf3b6a489b7a2fa183a2602
 SHA512: 0df0d1ba8d4a0f66450d3a4138e2aeedcdd05a02d4097b79e9ea840e4af2445c3f177768edf6ca1bdc69fe69efb18934c6a34528d108fe927bf97f4ab0ea2257
-Description: NeoFreeBird 推特增强插件。
-Name: NeoFreeBird
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 7.3.1+debug
-Section: 嗨-工具
-Maintainer: NeoFreeBird
-Installed-Size: 14172
-Depends: mobilesubstrate
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
-Filename: ./rootful/NeoFreeBird_7.3.1.deb
-Size: 4490196
-MD5sum: b66abe41f76c90ccbd9fe8d23ddc778d
-SHA1: 502bb4570286eaffd58c9fb99defea837576890b
-SHA256: fa01eb5ca07321709faf4b01fde7cdce51edb5c07650b9099d209e501292d9e3
-SHA512: 378e65dca55ec40e72f14aa9ef6b82bfdf49a291815d7dad8c6da68a36f1cc7f38fb3e07f0c099b27d101ffe6e53a336ede1872922b4194200a9b80b865ee343
 Description: NeoFreeBird 推特增强插件。
 Name: NeoFreeBird
 Author: NeoFreeBird
