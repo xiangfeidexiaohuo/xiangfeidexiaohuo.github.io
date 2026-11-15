@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.9.5",
+                    "text": "2.9.6",
                     "title": "最新版本"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.9.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、新增弹出菜单烟花特效（菜单右上角显示样式设置里打开）</br> 2、优化跳转文件逻辑</br> 3、修复无根备份文档可能崩溃的问题</br> 4、优化打开功能菜单时横屏切换的问题",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.9.5",
