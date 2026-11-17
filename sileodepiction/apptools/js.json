@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.9.6",
+                    "text": "2.9.7",
                     "title": "最新版本"
                 },
                 {
@@ -71,7 +71,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 11 月 15 日",
+                    "text": "2026 年 11 月 17 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,6 +84,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.9.7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、全新半透明质感主题（菜单右上角显示样式设置里切换功能图标主题）</br> 2、安装/文档/群组目录、更多功能/新前增加图标</br> 2、优化打开“功能开启状态颜色”文件夹菜单不生效问题",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.9.6",
