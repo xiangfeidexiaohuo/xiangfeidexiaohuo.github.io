@@ -1181,23 +1181,6 @@ Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Name: Infuse Plus(RootHide)
 Author: dvntm
 
-Package: com.dao.infuseplus
-Architecture: iphoneos-arm64e
-Version: 2.6
-Section: 嗨-工具
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.infuseplus
-Filename: ./roothide/Infuse Plus(RootHide)_2.6.deb
-Size: 497128
-MD5sum: 324568ab56e8fc976e3c3c784fa93608
-SHA1: 3372b893f7f4258affa8b9f339534bcd96ea2411
-SHA256: 551b9c75958914f5fbc0e885acd3ca57a0217cec1bab24951dcb790f6057fd8e
-SHA512: b582b2362e3cabaf8d71289483eb975445f8e335710683213379f876b1ebbed9623b31ca9137df7478c2c8730fa0fd3ef2d0d90c3ec353c0ffb949d1024589e5
-Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
-Name: Infuse Plus(RootHide)
-Author: dvntm
-
 Package: com.dao.injectipa
 Architecture: iphoneos-arm64e
 Version: 1.5-7
@@ -1698,37 +1681,18 @@ Author: SquidForce
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64e
-Version: 7.3.1.1+debug
+Version: 7.3.1.3
 Section: 嗨-工具
 Maintainer: NeoFreeBird
-Installed-Size: 14216
+Installed-Size: 11408
 Depends: mobilesubstrate
 Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
-Filename: ./roothide/NeoFreeBird(RootHide)_7.3.1.1.deb
-Size: 4490964
-MD5sum: 42be65f9cc544b6baad6a038b3b9ad76
-SHA1: bd505f953b495ad3ca061489df6518a1a0391981
-SHA256: 106dec6eef8abda9f8565ef2f6a87f71744f9b8ec99e0cac74d79522b2a44a84
-SHA512: 716b1aa7c6e74fdcde3cb092b2841ddea807ef9cc91193d651e9c3f19e2b809aeb018a6a2822f292cbf31d7a36d7edb5b95e080b906910df790320df4d34a44d
-Description: NeoFreeBird 推特增强插件。
-Name: NeoFreeBird(RootHide)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64e
-Version: 7.3.1.2+debug
-Section: 嗨-工具
-Maintainer: NeoFreeBird
-Installed-Size: 14236
-Depends: mobilesubstrate
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
-Filename: ./roothide/NeoFreeBird(RootHide)_7.3.1.2.deb
-Size: 4497556
-MD5sum: 2534e154f2b29975f3e42d98bd72dd1c
-SHA1: f6717f8464a653c007246afe559ba2b768eca919
-SHA256: 572dc8ad31e49efc9c9343d56d5dfbfe616160b502e693c8e33ab97118ae677a
-SHA512: 91e5554554c069b6a6857e4a0acb8deec150936cf3731e1b121c87c3c0719669074fc8be3ca7ef0727c05beaa03f66c67a9d12a7ffccdba3c01ebf5dbadcb871
+Filename: ./roothide/NeoFreeBird(RootHide)_7.3.1.3.deb
+Size: 4096300
+MD5sum: c5cabc86362513cc8209b3b7fcf8895c
+SHA1: 506037628f13da36c63e5ada9e325a6c7dda8cf0
+SHA256: 58aeccb2f41521d0e7eb1669855d27891a5b660364b4bf23b7ac1b742fe0e160
+SHA512: 4520125c1b6b7249f3659411179239c606c70bb6f6e08e75744f76b7271eec2a080ad54a260b3d1f9a3b5e8b5548aa2dc87eaf4d6b5405f4283ed97932303d2c
 Description: NeoFreeBird 推特增强插件。
 Name: NeoFreeBird(RootHide)
 Author: NeoFreeBird
@@ -2910,25 +2874,6 @@ Description: vivo OriginOS 风格的陀螺仪「翻转卡片」锁屏壁纸 —�
 Name: VivoStyle(RootHide)
 Author: 34306
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64e
-Version: 1.1.7
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6676
-Depends: mobilesubstrate | ellekit, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./roothide/YTKACE(RootHide)_1.1.7.deb
-Size: 2138478
-MD5sum: 29fa1769ba5a1d1065cb1425626f2d9c
-SHA1: d37eef8736e0ac74e46fec53ac258672451765cb
-SHA256: 7b7a63582ab1df3876dff959ab9d131f12f23023db6b0e8d7967064e037e2ad1
-SHA512: de6c46afd67fee84c51391a7f880d84992204dc52aac797cfa0a07505e6a53380c3a9a7e0429710387c03397784e44282393dc8b06bf18038a0afedacdd7a1b4
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(RootHide)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
@@ -4811,23 +4756,6 @@ Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Name: Infuse Plus(rootless)
 Author: dvntm
 
-Package: com.dao.infuseplus
-Architecture: iphoneos-arm64
-Version: 2.6
-Section: 嗨-工具
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.infuseplus
-Filename: ./rootless/Infuse Plus(rootless)_2.6.deb
-Size: 497832
-MD5sum: a6fb1a68e2a8e47399dcb2a43efc86dd
-SHA1: addad185ed760b91981e1a084eaa9e41d0ab30dd
-SHA256: 37f7a3f0a68288fc304a95cf7ad7fdcfbba45d0303a1f856c7879dfd89de8b26
-SHA512: c6d46a15e562d36f267b7219fa6480aab7c7721a7c4b35845a1847a2b1b4f06db6223b467b2be851512ea2b7804cfde3ca43cb23c2171e4e2e8e40508cc4329f
-Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
-Name: Infuse Plus(rootless)
-Author: dvntm
-
 Package: com.dao.injectipa
 Architecture: iphoneos-arm64
 Version: 1.5-7
@@ -5475,37 +5403,18 @@ Author: SquidForce
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm64
-Version: 7.3.1.1+debug
+Version: 7.3.1.3
 Section: 嗨-工具
 Maintainer: NeoFreeBird
-Installed-Size: 14216
+Installed-Size: 11408
 Depends: mobilesubstrate
 Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
-Filename: ./rootless/NeoFreeBird(rootless)_7.3.1.1.deb
-Size: 4490646
-MD5sum: 37c6d238558eadfc1d69e8f0b0a6287b
-SHA1: ab5529db5b8bab21f179613c8615a0e491d64339
-SHA256: 10bb6f99ad03da2b1475c685882e2e3a724791cf52c2143355d1a49049acbb74
-SHA512: 4584522649e07a05a4b20ee30bbd54c8f147142ebdd98ce4cd4107e7ea152deea14f097accf7ba267116b90a4d810a72032fef53963d39e012337f2fb2a06e0c
-Description: NeoFreeBird 推特增强插件。
-Name: NeoFreeBird(rootless)
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm64
-Version: 7.3.1.2+debug
-Section: 嗨-工具
-Maintainer: NeoFreeBird
-Installed-Size: 14236
-Depends: mobilesubstrate
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
-Filename: ./rootless/NeoFreeBird(rootless)_7.3.1.2.deb
-Size: 4499522
-MD5sum: bfb804f1e1745761b562468007371da0
-SHA1: 341eb87cd866c5f481602d96a3d2d2b956b4319e
-SHA256: ae61c1142e1096f619cea0802ded40c72a7d4ff20300165eec86f1a8bc0c2ff4
-SHA512: c9f5c52433fb7316bf92524b6a024c1f78385642c2f722a83ff35d38a2be0ceb895bf53631940bc68e9e99d7e9dca30a734b41b33fd379ae3908c75a96d8f017
+Filename: ./rootless/NeoFreeBird(rootless)_7.3.1.3.deb
+Size: 4097052
+MD5sum: 6f71116586fdbdfbac6a4bb866c403ee
+SHA1: c931c24f37bf34101932ecd78a57020d5bc29365
+SHA256: 90c176bf8b12da9885465c8d9489529f20931dccebfa7333862060b571e290ec
+SHA512: d95d59059b26d50f9bb7a03ed9f94aab7e629afb8c54937b26eba91af20639d56dadfeb90b430baf6b019e5777f1129ecbbc115f6666470984736dc1b359ec6d
 Description: NeoFreeBird 推特增强插件。
 Name: NeoFreeBird(rootless)
 Author: NeoFreeBird
@@ -7202,25 +7111,6 @@ SHA512: 1472c1e2f127b6262883aade2a6536bb211a2253f3ade3ea5d80556358029a2901a6a3c7
 Description: WiFiQR和HotspotQR 共用简体中文包(rootless)。
 Name:  WiFiQR & HotspotQR 简体中文包(rootless)
 Author: Alucard
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64
-Version: 1.1.7
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6676
-Depends: mobilesubstrate | ellekit, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootless/YTKACE(rootless)_1.1.7.deb
-Size: 2139604
-MD5sum: f3293a0a52e8a78cd88f75aab53616a7
-SHA1: 2aca818d69ecee0afe72238f9c1c5920cc70c5b5
-SHA256: 6bb4450f2ab0623006192ec4d7b707fdf3bbd62f3953df18988c94ca57993f81
-SHA512: 110d1818d930b43f9bd767d9970cfdd3603c03f34761b6226f7d2c616f18f1d3ff5ae90e30e33a01c48a8f85812373ff693cf20d3c6037e28b75e48d2f70b2e8
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(rootless)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64
@@ -13635,23 +13525,6 @@ Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
 Name: Infuse Plus
 Author: dvntm
 
-Package: com.dao.infuseplus
-Architecture: iphoneos-arm
-Version: 2.6
-Section: 嗨-工具
-Maintainer: dvntm
-Depends: mobilesubstrate
-Conflicts: com.dvntm.infuseplus
-Filename: ./rootful/InfusePlus_2.6.deb
-Size: 497980
-MD5sum: 7fe5b7765f4772c37167de2b345dfabc
-SHA1: 7ea7726038e2b5b6bc1654e55c293017a4f2084b
-SHA256: 4fc0a6e0917a757e97eb518d36a686798644f068c75388036edd952765bb2f5b
-SHA512: b51891c8bf116589ea3144f582e14794c00b774cbf76dbdb4d1932cb82965f7866b6fcf30fb793c8b48dfa3df691f35a2f60f9220e8990ec2a0a246c895a90d8
-Description: Infuse增强插件，开启Plus功能，新增更多实用功能。
-Name: Infuse Plus
-Author: dvntm
-
 Package: com.hk.instalauncher2.cn
 Architecture: iphoneos-arm
 Version: 1.8.2
@@ -15423,37 +15296,18 @@ Author: Ball <ball@hackcn.net>
 
 Package: com.dao.neofreebird.bht
 Architecture: iphoneos-arm
-Version: 7.3.1.1+debug
+Version: 7.3.1.3
 Section: 嗨-工具
 Maintainer: NeoFreeBird
-Installed-Size: 14216
+Installed-Size: 11408
 Depends: mobilesubstrate
 Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
-Filename: ./rootful/NeoFreeBird_7.3.1.1.deb
-Size: 4490980
-MD5sum: 3996a9e879486116dba59ef995d94c70
-SHA1: 5e1d08b810d8c341ce3c0843d717fc3ce1212996
-SHA256: 28877fed695906f2e1677bb71e4bdb9374f2de8f5cf3b6a489b7a2fa183a2602
-SHA512: 0df0d1ba8d4a0f66450d3a4138e2aeedcdd05a02d4097b79e9ea840e4af2445c3f177768edf6ca1bdc69fe69efb18934c6a34528d108fe927bf97f4ab0ea2257
-Description: NeoFreeBird 推特增强插件。
-Name: NeoFreeBird
-Author: NeoFreeBird
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
-
-Package: com.dao.neofreebird.bht
-Architecture: iphoneos-arm
-Version: 7.3.1.2+debug
-Section: 嗨-工具
-Maintainer: NeoFreeBird
-Installed-Size: 14236
-Depends: mobilesubstrate
-Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
-Filename: ./rootful/NeoFreeBird_7.3.1.2.deb
-Size: 4500486
-MD5sum: b60e34d2a149847c26cc7ba1bc8e8aa3
-SHA1: c19cd76d0945c1a76c2583bcdac953011aaeb300
-SHA256: 25e3bfaf02b8038120d8371424dd18b3d5e02fe1c5b08c006897fc9dbcc7b5da
-SHA512: 0d12a3f4a4d7d952614c96d44b6e3dae5836a32c900e44c24b9a72b674372e30d02acf205990616692fd5e927c7c7edbb0060a1d19916d09f47cf76fd7d85de9
+Filename: ./rootful/NeoFreeBird_7.3.1.3.deb
+Size: 4097436
+MD5sum: 5eee07f19462370e0d4f43e0f881f02b
+SHA1: 43501e043b54c405431e7ce79c29cafb6c217129
+SHA256: 449e4dd31ff330e0042b6852057522449deb3d257ab9e3d245ec1428e839cd68
+SHA512: 433f3e82817058b56273eb32aa98c087acb68b13773a11707511dfed902d05619127efcc126dd822d07955a5ce060e6d9f5fd71262b0f490f265051908384c80
 Description: NeoFreeBird 推特增强插件。
 Name: NeoFreeBird
 Author: NeoFreeBird
@@ -20280,25 +20134,6 @@ SHA512: bd945f4260ea62ce48b47bc42f2304e2a1329a2d5e250bd296b0c94d2447aeb26849cbb9
 Description: Xina1专版NewTerm3，Xina1用户千万不要更新Procursus源提示的三十几个依赖更新，千万别更新！！！
 Name: NewTerm 3(Xina1)
 Author: HASHBANG Productions
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm
-Version: 1.1.7
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6676
-Depends: mobilesubstrate | ellekit, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootful/YTKACE_1.1.7.deb
-Size: 2139910
-MD5sum: d5c791c8bf5f5f0c0cc8846d3b20a526
-SHA1: d914958de9727b7d84d5939f05dbfb689c7ee40e
-SHA256: c89e4c9044299d336859ee4da3e787e9851da8b5e54a2a84fa696cfef142edde
-SHA512: 9393f0e0d6361a31aa2ef10f65a3192e385b356c61f9798eefc99ee65e110d4c916c900c1ebb3c32d775dcd35f55f68005a88d01be50f368d896b0d473d540a5
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm

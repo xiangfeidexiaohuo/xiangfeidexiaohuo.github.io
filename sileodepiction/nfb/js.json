@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "7.3.1.2",
+                    "text": "7.3.1.3",
                     "title": "最新版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 11 月 19 日",
+                    "text": "2026 年 11 月 21 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,6 +97,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "7.3.1.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+               },
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "修复启用Lquid Glass无法长按X图标的问题、推文右下角下载按钮回归",
+                    "useRawFormat": true
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "7.3.1.2",
