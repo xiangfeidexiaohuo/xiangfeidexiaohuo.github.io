@@ -2085,6 +2085,23 @@ Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；�
 Name: RyukGram(RootHide)
 Author: Ryuk
 
+Package: com.dao.ryukgram
+Architecture: iphoneos-arm64e
+Version: 1.6.0
+Section: 嗨-工具
+Maintainer: Ryuk
+Depends: mobilesubstrate
+Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
+Filename: ./roothide/RyukGram(RootHide)_1.6.0.deb
+Size: 19264692
+MD5sum: 1bb2914ddda9364a4ff2595e1866cedc
+SHA1: 108cc7427cbecaf4b11ebf1ae7043f7bcd816395
+SHA256: 7a87b849961cfc94953ae8ee5ad946190a8c02d7b23ffcd3ec583fd35fe2d04a
+SHA512: 829f311aa2861aed7e836eddd2a2d06013860ea223b54ea685572532395105fb8a69b149490f8d1ce43ec7916d94daa50430040625ae10902668656f76f8085e
+Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"。
+Name: RyukGram(RootHide)
+Author: Ryuk
+
 Package: cn.dao.sbtweaker
 Architecture: iphoneos-arm64e
 Version: 1.3.7
@@ -2889,6 +2906,25 @@ MD5sum: 31ba4997b07fd2f6a599a3f80482dccc
 SHA1: d3e0610f06d837b0a7062d9c402c4ceac660762b
 SHA256: 2fdf8ab71f0b4d2a2502593e373afe28c6a63a769511c1487127f3169c01bd14
 SHA512: 92d7ad3e2e4bd048b6bb4767f40a0038c49dfd207c0e6ca86d5209db30a730540dcdbade409f0d3ee01abaa079b00635b8a99bf2e4cd4df4151f84db554c4f66
+Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
+Name: YTKACE(RootHide)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64e
+Version: 1.1.9
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 6912
+Depends: mobilesubstrate | ellekit, firmware (>= 15.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./roothide/YTKACE(RootHide)_1.1.9.deb
+Size: 2204296
+MD5sum: 4f2388e18f9d467719e6dff9490b78be
+SHA1: 14576a18b0e70b6223ee29f1de1cb9f499fc3263
+SHA256: eb4d3684c7238ef9bc9de331291e33b22b1756959a3849583ce9bb81983d62de
+SHA512: b3499babe233595f86b2679b2e12ebbb494316687d297b4d0e8b2b43e9f693097a60985d7b4d7a583a8e38ee89fa70ab12c15506c43891434dd52e4f487e8163
 Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
 Name: YTKACE(RootHide)
 Author: itzzace & daodao
@@ -5994,6 +6030,23 @@ Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；�
 Name: RyukGram(rootless)
 Author: Ryuk
 
+Package: com.dao.ryukgram
+Architecture: iphoneos-arm64
+Version: 1.6.0
+Section: 嗨-工具
+Maintainer: Ryuk
+Depends: mobilesubstrate
+Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
+Filename: ./rootless/RyukGram(rootless)_1.6.0.deb
+Size: 19266516
+MD5sum: dc6f0d68aca81b0a3f7f69cf81cfdd8a
+SHA1: 5150176ba6c00e91bf762160ed8527ba3eb63bab
+SHA256: e621d81609e14a75afe3ebe4b3c4944b69e988aa902f41a0b8b27cea69c40fbe
+SHA512: 50521aa6d2aac78b4b7b23def0e6f23f091d4c10555f7b89dbd418b47fa8cc50514bdd80e009a948070f72a2e0c9a3a20e7af5f28baef2ac52380b5651925f04
+Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"。
+Name: RyukGram(rootless)
+Author: Ryuk
+
 Package: cn.dao.sbtweaker
 Architecture: iphoneos-arm64
 Version: 1.3.7
@@ -7126,6 +7179,25 @@ MD5sum: 9fc09b5dc8a898cb3f43a3c42ca815ae
 SHA1: 0d56676531baf1fa5a425d53961279d88ccfdf31
 SHA256: 4e3f94f28db57f86732ed5d4c4cc6a0b9673c85506ff152d9c7a86e11cc1b1f5
 SHA512: a5105eb1b0ed7160b3702e0a31cb654aa6dc2985977b387d6bf862ce869d0e59b6fa56bc5e317a5e40565f6b34b934d90a20f8eca7ccdb96cd661d15cceb4f93
+Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
+Name: YTKACE(rootless)
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm64
+Version: 1.1.9
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 6912
+Depends: mobilesubstrate | ellekit, firmware (>= 15.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./rootless/YTKACE(rootless)_1.1.9.deb
+Size: 2203730
+MD5sum: a5735ce23f460c912c14fe47b8252ca8
+SHA1: d07ae798792fd05083481f8c9181b881f40ee99f
+SHA256: a60f119402609a25ecd10f7974f9800d860ffa0f1ebc429291e90fbaef9fa359
+SHA512: a1db85da075c3e3f277e402a2ecd0748ecb608fc8248a57c3214fb8244302fb58be8b4c4415d55b6523e473bbe04058617e0832f03821712f7d5545cd82593de
 Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
 Name: YTKACE(rootless)
 Author: itzzace & daodao
@@ -16791,6 +16863,23 @@ Description: Rune 简体中文包。
 Name: Rune 简体中文包
 Author: 妖刀
 
+Package: com.dao.ryukgram
+Architecture: iphoneos-arm
+Version: 1.6.0
+Section: 嗨-工具
+Maintainer: Ryuk
+Depends: mobilesubstrate
+Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
+Filename: ./rootful/RyukGram_1.6.0.deb
+Size: 19263068
+MD5sum: 93956770d3db18e10cec189f1694f4c5
+SHA1: 11d33744f090be275ced88cb05a03a108d3e50ac
+SHA256: b7a3c0e43110b8c5a7d0bf3c37d4db6f2dd892eb3976d0bcd6a258a9e33142c8
+SHA512: 0302344c84818f7369bd5678e644bffc7155ab42577b3c461ce198909bc0956269b7189e69cbb1c7dc87834744372ed0d9689e2516a05b1ea32936fbdef4ffe3
+Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"。
+Name: RyukGram
+Author: Ryuk
+
 Package: com.hk.s8edge.cn
 Architecture: iphoneos-arm
 Version: 1.2
@@ -20149,6 +20238,25 @@ MD5sum: 99421811c6c5e51c8a490a85949bd3d9
 SHA1: a486d0a8254a605f8bab55b03932f57f080a7c98
 SHA256: 2a3c174fa9795ba6d6d07bea976690155275eae53558eceb4be01e28e7466faf
 SHA512: dc1d420b2005fbaa7edc370081080bc1c58b8ae36195bd11184e9dace4f3b30d744adb6936431c6bdc9ce899c48104134c2f73a7b14a9c65897ea251bf5357c1
+Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
+Name: YTKACE
+Author: itzzace & daodao
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
+
+Package: com.dao.ytkace
+Architecture: iphoneos-arm
+Version: 1.1.9
+Section: 嗨-工具
+Maintainer: daodao
+Installed-Size: 6912
+Depends: mobilesubstrate | ellekit, firmware (>= 15.0)
+Conflicts: com.itzzace.ytkace
+Filename: ./rootful/YTKACE_1.1.9.deb
+Size: 2204196
+MD5sum: 9328519dbd6d36c5b37b36d37b5197a9
+SHA1: 62049fbae893a442f257309dca09f91934ba7dc7
+SHA256: 7a2c4b4426672a6502c3e24ede3fc74a86ddb6f78df05f459d2bc9f8de630287
+SHA512: dadac437eaf876eb38a2f4e495d6038966295a0b0dbe35bbd5dabcdce1694764c44f2864383b64eedac57116f1c72286ef8d120df773cc75a55f82f41577468f
 Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
 Name: YTKACE
 Author: itzzace & daodao
