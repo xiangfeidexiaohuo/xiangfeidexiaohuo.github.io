@@ -1698,6 +1698,25 @@ Name: NeoFreeBird(RootHide)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64e
+Version: 7.3.2
+Section: 嗨-工具
+Maintainer: NeoFreeBird
+Installed-Size: 11504
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
+Filename: ./roothide/NeoFreeBird(RootHide)_7.3.2.deb
+Size: 4104504
+MD5sum: 0f9da866a8cc87957ec53a943e7f2958
+SHA1: 03306d08cf4f6477ca3abc8596918722ca86050f
+SHA256: 57eaeaa9b4ec3bd8fd7fc0eab1489e4c8619f3b979fbddabff94f2f6678dae66
+SHA512: 64cca1cb690b5cb76c6d980cb68587a4185327430d04aefe003f0771724dd72ac30dcaf66330ce4769a3bf98ef0c68bcddd986059a93d9a0abe57ab258631fe6
+Description: NeoFreeBird 推特增强插件。
+Name: NeoFreeBird(RootHide)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
+
 Package: com.daodao.nocshare
 Architecture: iphoneos-arm64e
 Version: 1.1.5
@@ -2067,23 +2086,6 @@ SHA512: f85fdb1f9124656f5e739ddd3c4489b44d0e10771dd2f5d9cbea5e1871fc0b27d0eb2629
 Description: Rune 简体中文包(RootHide)。
 Name: Rune 简体中文包(RootHide)
 Author: 妖刀
-
-Package: com.dao.ryukgram
-Architecture: iphoneos-arm64e
-Version: 1.5.1
-Section: 嗨-工具
-Maintainer: Ryuk
-Depends: mobilesubstrate
-Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
-Filename: ./roothide/RyukGram(RootHide)_1.5.1.deb
-Size: 18869748
-MD5sum: 95db4b3a8a69b7d27e1bff25bca90b70
-SHA1: 846a71a84ae07057d02b588dfc46761062776b89
-SHA256: 3d6a2b0ab6a449ff1be72e1e2a66586afa20361fe3d7b7ff2dde73c815a3ef14
-SHA512: 4cdaae956740aec3aa446a68c3ded7ab9dc769f04c65ea355c6c2f6743483703ac0432e3a586ca59511539ac884736ca07ba71eb4802c74db8207f499d147c18
-Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"。
-Name: RyukGram(RootHide)
-Author: Ryuk
 
 Package: com.dao.ryukgram
 Architecture: iphoneos-arm64e
@@ -2891,25 +2893,6 @@ Description: vivo OriginOS 风格的陀螺仪「翻转卡片」锁屏壁纸 —�
 Name: VivoStyle(RootHide)
 Author: 34306
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/vivo/js.json
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64e
-Version: 1.1.8
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6716
-Depends: mobilesubstrate | ellekit, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./roothide/YTKACE(RootHide)_1.1.8.deb
-Size: 2151150
-MD5sum: 31ba4997b07fd2f6a599a3f80482dccc
-SHA1: d3e0610f06d837b0a7062d9c402c4ceac660762b
-SHA256: 2fdf8ab71f0b4d2a2502593e373afe28c6a63a769511c1487127f3169c01bd14
-SHA512: 92d7ad3e2e4bd048b6bb4767f40a0038c49dfd207c0e6ca86d5209db30a730540dcdbade409f0d3ee01abaa079b00635b8a99bf2e4cd4df4151f84db554c4f66
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(RootHide)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64e
@@ -5456,6 +5439,25 @@ Name: NeoFreeBird(rootless)
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm64
+Version: 7.3.2
+Section: 嗨-工具
+Maintainer: NeoFreeBird
+Installed-Size: 11504
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
+Filename: ./rootless/NeoFreeBird(rootless)_7.3.2.deb
+Size: 4104572
+MD5sum: 07281f88786f642ae33085ddc62d2c24
+SHA1: ba7728ee2d9e584a1251b7ed1c7034e30c541a4d
+SHA256: 81334646c4eacfe1297155ef8c51049d14ddadfc281a1a597ccab86f9c3e2ab2
+SHA512: afcb43da11935341cc6228350f234f8415306cde724c239911b3400f938659c448fff8c3e9c8b0ac856e24c26ed403818a2ae80047c048c1656570647efa0b60
+Description: NeoFreeBird 推特增强插件。
+Name: NeoFreeBird(rootless)
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
+
 Package: com.dao.noappthinning
 Architecture: iphoneos-arm64
 Version: 1.4
@@ -6012,23 +6014,6 @@ SHA512: f409c57a61c75000a6071d3e99ddd14592ab86115664289106784655494e0a2a59bd701b
 Description: Rune 简体中文包(rootless)。
 Name: Rune 简体中文包(rootless)
 Author: 妖刀
-
-Package: com.dao.ryukgram
-Architecture: iphoneos-arm64
-Version: 1.5.1
-Section: 嗨-工具
-Maintainer: Ryuk
-Depends: mobilesubstrate
-Conflicts: com.faroukbmiled.ryukgram.legacy, com.faroukbmiled.ryukgram
-Filename: ./rootless/RyukGram(rootless)_1.5.1.deb
-Size: 18869552
-MD5sum: 812ce9361ac91897e466ecf257a01051
-SHA1: 85d448991e4bd35570caf3485c6af4588385ef37
-SHA256: b353fb0a403de94ce1bb56ac093bc41c3273cf0dcc68a1aff77fe14313168f8b
-SHA512: fde95d0105d87a6314fc8dbe90f4c8e6a7c076c589b0be027f3a71ade773a3cab86e9ae0c5e6c7738091b7f42e1e9111c116a727c6a699cf76af4da89ed727ba
-Description: 功能丰富的 Instagram 增强插件，可以下载 1080p 等；插件入口：长按首页（🏠）按钮、或者长按个人页右上角"三"。
-Name: RyukGram(rootless)
-Author: Ryuk
 
 Package: com.dao.ryukgram
 Architecture: iphoneos-arm64
@@ -7164,25 +7149,6 @@ SHA512: 1472c1e2f127b6262883aade2a6536bb211a2253f3ade3ea5d80556358029a2901a6a3c7
 Description: WiFiQR和HotspotQR 共用简体中文包(rootless)。
 Name:  WiFiQR & HotspotQR 简体中文包(rootless)
 Author: Alucard
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm64
-Version: 1.1.8
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6716
-Depends: mobilesubstrate | ellekit, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootless/YTKACE(rootless)_1.1.8.deb
-Size: 2151982
-MD5sum: 9fc09b5dc8a898cb3f43a3c42ca815ae
-SHA1: 0d56676531baf1fa5a425d53961279d88ccfdf31
-SHA256: 4e3f94f28db57f86732ed5d4c4cc6a0b9673c85506ff152d9c7a86e11cc1b1f5
-SHA512: a5105eb1b0ed7160b3702e0a31cb654aa6dc2985977b387d6bf862ce869d0e59b6fa56bc5e317a5e40565f6b34b934d90a20f8eca7ccdb96cd661d15cceb4f93
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE(rootless)
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm64
@@ -15385,6 +15351,25 @@ Name: NeoFreeBird
 Author: NeoFreeBird
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
 
+Package: com.dao.neofreebird.bht
+Architecture: iphoneos-arm
+Version: 7.3.2
+Section: 嗨-工具
+Maintainer: NeoFreeBird
+Installed-Size: 11504
+Depends: mobilesubstrate
+Conflicts: com.den.twigalaxy, xyz.cypwn.twigalaxy, xyz.cypwn.bhtwitter, com.netskao.twitternoads, xyz.cypwn.bringbacktwitter, com.nfb.tweak
+Filename: ./rootful/NeoFreeBird_7.3.2.deb
+Size: 4104676
+MD5sum: a7f10a22598d77e93493d04177878582
+SHA1: e17a78ec75ae46305cacd031b84a65e68373c35c
+SHA256: af05a03a7394efd64e5123acc54d4ee10d748efc7931c1edf03176581fc3e56c
+SHA512: 885dbab10ecef6d5cd609ccc2cfbea7f4c600a043f3d85391aa102b4831b29fc41c5ba965d3488e17f37effb426c121987345cabb25f2ad19374c2308defd697
+Description: NeoFreeBird 推特增强插件。
+Name: NeoFreeBird
+Author: NeoFreeBird
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/nfb/js.json
+
 Package: com.hk.ball.neptune.cn
 Architecture: iphoneos-arm
 Version: 1.0
@@ -20223,25 +20208,6 @@ SHA512: bd945f4260ea62ce48b47bc42f2304e2a1329a2d5e250bd296b0c94d2447aeb26849cbb9
 Description: Xina1专版NewTerm3，Xina1用户千万不要更新Procursus源提示的三十几个依赖更新，千万别更新！！！
 Name: NewTerm 3(Xina1)
 Author: HASHBANG Productions
-
-Package: com.dao.ytkace
-Architecture: iphoneos-arm
-Version: 1.1.8
-Section: 嗨-工具
-Maintainer: daodao
-Installed-Size: 6716
-Depends: mobilesubstrate | ellekit, firmware (>= 15.0)
-Conflicts: com.itzzace.ytkace
-Filename: ./rootful/YTKACE_1.1.8.deb
-Size: 2151172
-MD5sum: 99421811c6c5e51c8a490a85949bd3d9
-SHA1: a486d0a8254a605f8bab55b03932f57f080a7c98
-SHA256: 2a3c174fa9795ba6d6d07bea976690155275eae53558eceb4be01e28e7466faf
-SHA512: dc1d420b2005fbaa7edc370081080bc1c58b8ae36195bd11184e9dace4f3b30d744adb6936431c6bdc9ce899c48104134c2f73a7b14a9c65897ea251bf5357c1
-Description: YouTube 多功能插件，根据开源编译，刀刀补全翻译，并优化部分功能。
-Name: YTKACE
-Author: itzzace & daodao
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ytkace/js.json
 
 Package: com.dao.ytkace
 Architecture: iphoneos-arm
