@@ -74,7 +74,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "7.3.2",
+                    "text": "7.3.2.1",
                     "title": "最新版本"
                 },
                 {
@@ -84,7 +84,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 11 月 24 日",
+                    "text": "2026 年 11 月 28 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -97,6 +97,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "7.3.2.1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+               },
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "同步 NeoFreeBird 源码</br> 新增：隐藏历史中的视频/文章标签页、优化 X 12.46 WEB 登录",
+                    "useRawFormat": true
+               },
                {
                     "class": "DepictionSubheaderView",
                     "title": "7.3.2",
