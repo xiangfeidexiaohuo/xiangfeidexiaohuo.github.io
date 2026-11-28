@@ -23,7 +23,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "NeoFreeBird 推特增强插件，更多实用功能；长按首页顶部 X 图标进入插件菜单。",
+                    "markdown": "NeoFreeBird 推特增强插件，更多实用功能；长按首页顶部 X 图标进入插件菜单。</br> 微定制版本：自主刷时间线、推文下方下载按钮、其他优化等。",
                     "useRawFormat": true,
                 },
                 {
